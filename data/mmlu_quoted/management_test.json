@@ -1,0 +1,1135 @@
+[
+  {
+    "prompt": "What is the term for a sub-optimal but acceptable outcome of negotiations between parties?<|start_2d|>\"Bargaining\" <|split_2d|>\"Satisficing\" <|split_2d|>\"Accepting\" <|split_2d|>\"Compromising\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Satisficing",
+      "incorrect_answers": [
+        "Bargaining",
+        "Accepting",
+        "Compromising"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the term for the 'rule of thumb' type of bias in decision making?<|start_2d|>\"Framing bias\" <|split_2d|>\"Hindsight bias\" <|split_2d|>\"Over-confidence bias\" <|split_2d|>\"Heuristics\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Heuristics",
+      "incorrect_answers": [
+        "Framing bias",
+        "Hindsight bias",
+        "Over-confidence bias"
+      ]
+    }
+  },
+  {
+    "prompt": "What is a normative perspective?<|start_2d|>\"The way things are.\" <|split_2d|>\"The way things are going to be.\" <|split_2d|>\"The way things should be.\" <|split_2d|>\"The way things were.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The way things should be.",
+      "incorrect_answers": [
+        "The way things are.",
+        "The way things are going to be.",
+        "The way things were."
+      ]
+    }
+  },
+  {
+    "prompt": "In the 'five forces model', what is the type of competitive activity that exists between organisations?<|start_2d|>\"The potential for entry into the industry\" <|split_2d|>\"The threat of substitute products\" <|split_2d|>\"The power of customers\" <|split_2d|>\"The level of rivalry\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The level of rivalry",
+      "incorrect_answers": [
+        "The potential for entry into the industry",
+        "The threat of substitute products",
+        "The power of customers"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following political leaders could not be termed a 'transformational' leader?<|start_2d|>\"Margaret Thatcher\" <|split_2d|>\"Mikhail Gorbachov\" <|split_2d|>\"Nelson Mandela\" <|split_2d|>\"Bill Clinton\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Bill Clinton",
+      "incorrect_answers": [
+        "Margaret Thatcher",
+        "Mikhail Gorbachov",
+        "Nelson Mandela"
+      ]
+    }
+  },
+  {
+    "prompt": "What is a Gantt chart a type of?<|start_2d|>\"Work flow design\" <|split_2d|>\"Work schedule design\" <|split_2d|>\"Work rate design\" <|split_2d|>\"Work output design\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Work schedule design",
+      "incorrect_answers": [
+        "Work flow design",
+        "Work rate design",
+        "Work output design"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following is a feature of McGregor's Theory X?<|start_2d|>\"Workers enjoy responsibility.\" <|split_2d|>\"Workers view physical and mental effort as a natural part of work.\" <|split_2d|>\"Workers like to show initiative.\" <|split_2d|>\"Workers like to be directed.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Workers like to be directed.",
+      "incorrect_answers": [
+        "Workers enjoy responsibility.",
+        "Workers view physical and mental effort as a natural part of work.",
+        "Workers like to show initiative."
+      ]
+    }
+  },
+  {
+    "prompt": "What is the term for power derived from status or position in an organisation?<|start_2d|>\"Referent\" <|split_2d|>\"Expert\" <|split_2d|>\"Reward\" <|split_2d|>\"Legitimate\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Legitimate",
+      "incorrect_answers": [
+        "Referent",
+        "Expert",
+        "Reward"
+      ]
+    }
+  },
+  {
+    "prompt": "Which writer is most associated with bureaucratic structures?<|start_2d|>\"Henry Fayol\" <|split_2d|>\"Max Weber\" <|split_2d|>\"Adam Smith\" <|split_2d|>\"Mary Parker Follett\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Max Weber",
+      "incorrect_answers": [
+        "Henry Fayol",
+        "Adam Smith",
+        "Mary Parker Follett"
+      ]
+    }
+  },
+  {
+    "prompt": "Who of the following is the industrial philanthropist?<|start_2d|>\"Frederick Taylor\" <|split_2d|>\"Seebohm Rowntree\" <|split_2d|>\"Henry Ford\" <|split_2d|>\"Max Weber\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Seebohm Rowntree",
+      "incorrect_answers": [
+        "Frederick Taylor",
+        "Henry Ford",
+        "Max Weber"
+      ]
+    }
+  },
+  {
+    "prompt": "Individualism as a guiding moral philosophy was advocated by which economist?<|start_2d|>\"John Kenneth Galbraith\" <|split_2d|>\"John Maynard Keynes\" <|split_2d|>\"Milton Friedman\" <|split_2d|>\"Alfred Marshall\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Milton Friedman",
+      "incorrect_answers": [
+        "John Kenneth Galbraith",
+        "John Maynard Keynes",
+        "Alfred Marshall"
+      ]
+    }
+  },
+  {
+    "prompt": "The Hawthorn Studies are most associated with which writer?<|start_2d|>\"Mary Parker Follett\" <|split_2d|>\"Elton Mayo\" <|split_2d|>\"Lillian Gilbreth\" <|split_2d|>\"Frederick Taylor\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Elton Mayo",
+      "incorrect_answers": [
+        "Mary Parker Follett",
+        "Lillian Gilbreth",
+        "Frederick Taylor"
+      ]
+    }
+  },
+  {
+    "prompt": "How can you describe the thinking and outlook of transformational leaders?<|start_2d|>\"Strategic\" <|split_2d|>\"Operational\" <|split_2d|>\"Functional\" <|split_2d|>\"Developmental\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Strategic",
+      "incorrect_answers": [
+        "Operational",
+        "Functional",
+        "Developmental"
+      ]
+    }
+  },
+  {
+    "prompt": "What are the key characteristics of transactional leaders?<|start_2d|>\"Guiding, mentoring and motivating\" <|split_2d|>\"Guiding, commanding and motivating\" <|split_2d|>\"Guiding, demonstrating and motivating\" <|split_2d|>\"Guiding, mentoring and demonstrating\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Guiding, mentoring and motivating",
+      "incorrect_answers": [
+        "Guiding, commanding and motivating",
+        "Guiding, demonstrating and motivating",
+        "Guiding, mentoring and demonstrating"
+      ]
+    }
+  },
+  {
+    "prompt": "What is not an assumption underpinning the rational decision making model?<|start_2d|>\"Incomplete information\" <|split_2d|>\"An agreed goal\" <|split_2d|>\"A structured problem\" <|split_2d|>\"High level of certainty regarding the environment\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Incomplete information",
+      "incorrect_answers": [
+        "An agreed goal",
+        "A structured problem",
+        "High level of certainty regarding the environment"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following is not one of Drucker's five guiding principles of management?<|start_2d|>\"Making people's strengths effective and their weaknesses irrelevant.\" <|split_2d|>\"Enhancing the ability of people to contribute.\" <|split_2d|>\"To operate the organisation's status system.\" <|split_2d|>\"Integrating people in a common venture by thinking through, setting and exemplifying the organisational objectives, values and goals.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "To operate the organisation's status system.",
+      "incorrect_answers": [
+        "Making people's strengths effective and their weaknesses irrelevant.",
+        "Enhancing the ability of people to contribute.",
+        "Integrating people in a common venture by thinking through, setting and exemplifying the organisational objectives, values and goals."
+      ]
+    }
+  },
+  {
+    "prompt": "What is a paradigm?<|start_2d|>\"A theoretical assumption\" <|split_2d|>\"An illustration\" <|split_2d|>\"A theoretical model\" <|split_2d|>\"An example serving as a model\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "An example serving as a model",
+      "incorrect_answers": [
+        "A theoretical assumption",
+        "An illustration",
+        "A theoretical model"
+      ]
+    }
+  },
+  {
+    "prompt": "What one of the following is not a key management skill in planning?<|start_2d|>\"Conceptual skills\" <|split_2d|>\"Analytical skills\" <|split_2d|>\"IT and computing skills\" <|split_2d|>\"Communication skills\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "IT and computing skills",
+      "incorrect_answers": [
+        "Conceptual skills",
+        "Analytical skills",
+        "Communication skills"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Belbin (1981) an extroverted and enthusiastic person fits with what role?<|start_2d|>\"Co-ordinator\" <|split_2d|>\"Shaper\" <|split_2d|>\"Resource investigator\" <|split_2d|>\"Implementer\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Resource investigator",
+      "incorrect_answers": [
+        "Co-ordinator",
+        "Shaper",
+        "Implementer"
+      ]
+    }
+  },
+  {
+    "prompt": "Which is not a recognised form of business continuity planning?<|start_2d|>\"Contingency planning\" <|split_2d|>\"Scenario planning\" <|split_2d|>\"Financial planning\" <|split_2d|>\"Building planning\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Building planning",
+      "incorrect_answers": [
+        "Contingency planning",
+        "Scenario planning",
+        "Financial planning"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the term for an organisation that adapts to changes in the environment by quickly responding to shifts in supply and demand conditions?<|start_2d|>\"Opportunistic organisation\" <|split_2d|>\"Enterprising organisation\" <|split_2d|>\"International organisation\" <|split_2d|>\"Agile organisation\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Agile organisation",
+      "incorrect_answers": [
+        "Opportunistic organisation",
+        "Enterprising organisation",
+        "International organisation"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of these is not part of the recognised challenges for modern managers?<|start_2d|>\"Micro-managing the workforce\" <|split_2d|>\"Managing communications\" <|split_2d|>\"Managing change\" <|split_2d|>\"Managing the learning organisation\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Micro-managing the workforce",
+      "incorrect_answers": [
+        "Managing communications",
+        "Managing change",
+        "Managing the learning organisation"
+      ]
+    }
+  },
+  {
+    "prompt": "To what does emotional intelligence refer?<|start_2d|>\"How people view and understand the world.\" <|split_2d|>\"How people view and understand themselves.\" <|split_2d|>\"How people view and understand others.\" <|split_2d|>\"How people view and understand themselves and others.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "How people view and understand themselves and others.",
+      "incorrect_answers": [
+        "How people view and understand the world.",
+        "How people view and understand themselves.",
+        "How people view and understand others."
+      ]
+    }
+  },
+  {
+    "prompt": "Of what is individual freedom to schedule work an example?<|start_2d|>\"Job design\" <|split_2d|>\"Job enrichment\" <|split_2d|>\"Job rate\" <|split_2d|>\"Job planning\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Job enrichment",
+      "incorrect_answers": [
+        "Job design",
+        "Job rate",
+        "Job planning"
+      ]
+    }
+  },
+  {
+    "prompt": "What are workers primarily motivated by according to the instrumental approach?<|start_2d|>\"Peer recognition\" <|split_2d|>\"Promotion\" <|split_2d|>\"Greater freedom\" <|split_2d|>\"Economic reward\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Economic reward",
+      "incorrect_answers": [
+        "Peer recognition",
+        "Promotion",
+        "Greater freedom"
+      ]
+    }
+  },
+  {
+    "prompt": "Which is not a characteristic of corporate social responsibility?<|start_2d|>\"Product safety\" <|split_2d|>\"Consumer rights\" <|split_2d|>\"Environmental policies\" <|split_2d|>\"Price-fixing\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Price-fixing",
+      "incorrect_answers": [
+        "Product safety",
+        "Consumer rights",
+        "Environmental policies"
+      ]
+    }
+  },
+  {
+    "prompt": "Who was a major protagonist of utilitarianism?<|start_2d|>\"John Stuart Mill\" <|split_2d|>\"Thomas Hobbes\" <|split_2d|>\"Karl Marx\" <|split_2d|>\"Adam Smith\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "John Stuart Mill",
+      "incorrect_answers": [
+        "Thomas Hobbes",
+        "Karl Marx",
+        "Adam Smith"
+      ]
+    }
+  },
+  {
+    "prompt": "As what is ensuring that one individual does not carry the burden of a whole work task referred to?<|start_2d|>\"Work specialisation\" <|split_2d|>\"Work design\" <|split_2d|>\"Work schedule\" <|split_2d|>\"Work shift\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Work specialisation",
+      "incorrect_answers": [
+        "Work design",
+        "Work schedule",
+        "Work shift"
+      ]
+    }
+  },
+  {
+    "prompt": "How do you describe a work group that comprises workers with demarcated tasks and distant line managers?<|start_2d|>\"Dependent\" <|split_2d|>\"Independent\" <|split_2d|>\"Interdependent\" <|split_2d|>\"Collaborative\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Independent",
+      "incorrect_answers": [
+        "Dependent",
+        "Interdependent",
+        "Collaborative"
+      ]
+    }
+  },
+  {
+    "prompt": "Specialisation is a feature of which organisational structure?<|start_2d|>\"Matrix\" <|split_2d|>\"Divisional\" <|split_2d|>\"Multi-divisional\" <|split_2d|>\"Functional\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Functional",
+      "incorrect_answers": [
+        "Matrix",
+        "Divisional",
+        "Multi-divisional"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one is not an element in the primary activities of a value chain?<|start_2d|>\"Procurement\" <|split_2d|>\"Inbound logistics\" <|split_2d|>\"Outbound logistics\" <|split_2d|>\"Service\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Procurement",
+      "incorrect_answers": [
+        "Inbound logistics",
+        "Outbound logistics",
+        "Service"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the term for the act of getting individuals to behave in ways that are acceptable to a group?<|start_2d|>\"Indoctrination\" <|split_2d|>\"Brainwashing\" <|split_2d|>\"Propaganda\" <|split_2d|>\"Socialisation\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Socialisation",
+      "incorrect_answers": [
+        "Indoctrination",
+        "Brainwashing",
+        "Propaganda"
+      ]
+    }
+  },
+  {
+    "prompt": "When does an acquisition take place?<|start_2d|>\"Two equal partners decide to work together.\" <|split_2d|>\"Two equal partners share resources.\" <|split_2d|>\"Two unequal partners join together.\" <|split_2d|>\"Two unequal partners become one after a buyout.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Two unequal partners become one after a buyout.",
+      "incorrect_answers": [
+        "Two equal partners decide to work together.",
+        "Two equal partners share resources.",
+        "Two unequal partners join together."
+      ]
+    }
+  },
+  {
+    "prompt": "Who of these is the entrepreneur?<|start_2d|>\"Barack Obama\" <|split_2d|>\"James Dyson\" <|split_2d|>\"Damien Hirst\" <|split_2d|>\"Mo Farah\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "James Dyson",
+      "incorrect_answers": [
+        "Barack Obama",
+        "Damien Hirst",
+        "Mo Farah"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of these is not an advantage of a virtual team?<|start_2d|>\"Team members can be recruited for their specific skills or experience.\" <|split_2d|>\"No overhead costs associated with physical buildings.\" <|split_2d|>\"Conflict can be resolved easily using face-to-face meetings.\" <|split_2d|>\"Low transport or commuting costs.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Conflict can be resolved easily using face-to-face meetings.",
+      "incorrect_answers": [
+        "Team members can be recruited for their specific skills or experience.",
+        "No overhead costs associated with physical buildings.",
+        "Low transport or commuting costs."
+      ]
+    }
+  },
+  {
+    "prompt": "What is the richest form of information?<|start_2d|>\"Telephone\" <|split_2d|>\"Face-to-face\" <|split_2d|>\"E-mail\" <|split_2d|>\"Video conference\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Face-to-face",
+      "incorrect_answers": [
+        "Telephone",
+        "E-mail",
+        "Video conference"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the purpose of a 'quality circle'?<|start_2d|>\"Bring together managers and workers to find improvements.\" <|split_2d|>\"Bring together managers and workers to discuss output.\" <|split_2d|>\"Bring together managers and workers to review quality of work.\" <|split_2d|>\"Bring together managers and workers to review targets.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Bring together managers and workers to find improvements.",
+      "incorrect_answers": [
+        "Bring together managers and workers to discuss output.",
+        "Bring together managers and workers to review quality of work.",
+        "Bring together managers and workers to review targets."
+      ]
+    }
+  },
+  {
+    "prompt": "What is the guiding principle behind New Public Management?<|start_2d|>\"Profit maximisation\" <|split_2d|>\"Introducing private sector business principles into the public sector\" <|split_2d|>\"Replacing public management with private sector management\" <|split_2d|>\"Restructuring public organisations\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Introducing private sector business principles into the public sector",
+      "incorrect_answers": [
+        "Profit maximisation",
+        "Replacing public management with private sector management",
+        "Restructuring public organisations"
+      ]
+    }
+  },
+  {
+    "prompt": "Profitability stemming from how well a firm positions itself in the market is a key feature of which writer's view on strategy?<|start_2d|>\"Peter Drucker\" <|split_2d|>\"Jay Barney\" <|split_2d|>\"Michael Porter\" <|split_2d|>\"Henry Mintzberg\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Michael Porter",
+      "incorrect_answers": [
+        "Peter Drucker",
+        "Jay Barney",
+        "Henry Mintzberg"
+      ]
+    }
+  },
+  {
+    "prompt": "Functional structures help to create\u0085...<|start_2d|>\"teamwork\" <|split_2d|>\"specialisation\" <|split_2d|>\"project work groups\" <|split_2d|>\"multi-skilled employees\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "specialisation",
+      "incorrect_answers": [
+        "teamwork",
+        "project work groups",
+        "multi-skilled employees"
+      ]
+    }
+  },
+  {
+    "prompt": "What is a succession plan?<|start_2d|>\"Dismissing an employee for a more favourable employee\" <|split_2d|>\"A formal process of planning to fill a role that will become vacant\" <|split_2d|>\"A vote of no confidence in a board member\" <|split_2d|>\"The formal process of acquiring a new staff member\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A formal process of planning to fill a role that will become vacant",
+      "incorrect_answers": [
+        "Dismissing an employee for a more favourable employee",
+        "A vote of no confidence in a board member",
+        "The formal process of acquiring a new staff member"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the definition of a scenario in scenario planning?<|start_2d|>\"An imagined sequence of future events\" <|split_2d|>\"An unpredictable event\" <|split_2d|>\"A planned for event\" <|split_2d|>\"An unplanned for event\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "An imagined sequence of future events",
+      "incorrect_answers": [
+        "An unpredictable event",
+        "A planned for event",
+        "An unplanned for event"
+      ]
+    }
+  },
+  {
+    "prompt": "What assumption is the garbage can model of decision making based on?<|start_2d|>\"Limited knowledge and great insight\" <|split_2d|>\"Limited knowledge but high level of experience\" <|split_2d|>\"Limited knowledge and uncertainty\" <|split_2d|>\"Limited knowledge and high risk\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Limited knowledge and uncertainty",
+      "incorrect_answers": [
+        "Limited knowledge and great insight",
+        "Limited knowledge but high level of experience",
+        "Limited knowledge and high risk"
+      ]
+    }
+  },
+  {
+    "prompt": "By which principle is utilitarianism defined?<|start_2d|>\"Equality for everyone\" <|split_2d|>\"Maximisation of outcomes for individuals\" <|split_2d|>\"The best outcome for the majority of people\" <|split_2d|>\"The least worst outcome for everybody\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The best outcome for the majority of people",
+      "incorrect_answers": [
+        "Equality for everyone",
+        "Maximisation of outcomes for individuals",
+        "The least worst outcome for everybody"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the term for the set of behaviours and tasks that a member of the group is expected to perform because he or she is a member of the group?<|start_2d|>\"Group roles\" <|split_2d|>\"Virtual teamwork\" <|split_2d|>\"Synergy\" <|split_2d|>\"Role making\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Group roles",
+      "incorrect_answers": [
+        "Virtual teamwork",
+        "Synergy",
+        "Role making"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the term for a process that enables an organisation to assess and demonstrate its social, economic, and environmental benefits and limitation?<|start_2d|>\"Social plan\" <|split_2d|>\"Social strategy\" <|split_2d|>\"Social audit\" <|split_2d|>\"Social account\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Social audit",
+      "incorrect_answers": [
+        "Social plan",
+        "Social strategy",
+        "Social account"
+      ]
+    }
+  },
+  {
+    "prompt": "What type of organisational culture is most likely to deliver stability and efficiency?<|start_2d|>\"Task culture\" <|split_2d|>\"Role culture\" <|split_2d|>\"Power culture\" <|split_2d|>\"People culture\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Role culture",
+      "incorrect_answers": [
+        "Task culture",
+        "Power culture",
+        "People culture"
+      ]
+    }
+  },
+  {
+    "prompt": "Who of the following is a leading writer on contingency theory of leadership?<|start_2d|>\"Rosabeth Kanter\" <|split_2d|>\"Joan Woodward\" <|split_2d|>\"Rensis Likert\" <|split_2d|>\"Fred Fiedler\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Fred Fiedler",
+      "incorrect_answers": [
+        "Rosabeth Kanter",
+        "Joan Woodward",
+        "Rensis Likert"
+      ]
+    }
+  },
+  {
+    "prompt": "What are characteristics of a programmed decision?<|start_2d|>\"Complex and risky\" <|split_2d|>\"Uncertain and non-routine\" <|split_2d|>\"Low risk and certain\" <|split_2d|>\"Routine and non-complex\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Routine and non-complex",
+      "incorrect_answers": [
+        "Complex and risky",
+        "Uncertain and non-routine",
+        "Low risk and certain"
+      ]
+    }
+  },
+  {
+    "prompt": "What is not an advantage of a hierarchical structure?<|start_2d|>\"Clear chain of command\" <|split_2d|>\"Quick response to change\" <|split_2d|>\"Discipline and stability\" <|split_2d|>\"Small span of control\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Quick response to change",
+      "incorrect_answers": [
+        "Clear chain of command",
+        "Discipline and stability",
+        "Small span of control"
+      ]
+    }
+  },
+  {
+    "prompt": "What is a strategic alliance?<|start_2d|>\"Any form of partnership between one firm and another\" <|split_2d|>\"Formal agreement committing two or more firms to exchange resources to produce products or services\" <|split_2d|>\"Formal agreement to share profits from a shared investment\" <|split_2d|>\"Formal agreement to share knowledge\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Formal agreement committing two or more firms to exchange resources to produce products or services",
+      "incorrect_answers": [
+        "Any form of partnership between one firm and another",
+        "Formal agreement to share profits from a shared investment",
+        "Formal agreement to share knowledge"
+      ]
+    }
+  },
+  {
+    "prompt": "What are group norms?<|start_2d|>\"Modes of behaviour that are acceptable to and shared by group members\" <|split_2d|>\"Modes of behaviour that are shared by some members of the group\" <|split_2d|>\"Modes of behaviour that challenge group values and beliefs\" <|split_2d|>\"Modes of behaviour that are different of those of the other group members\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Modes of behaviour that are acceptable to and shared by group members",
+      "incorrect_answers": [
+        "Modes of behaviour that are shared by some members of the group",
+        "Modes of behaviour that challenge group values and beliefs",
+        "Modes of behaviour that are different of those of the other group members"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is not a recognised type of plan?<|start_2d|>\"Business\" <|split_2d|>\"Succession\" <|split_2d|>\"Ad hoc\" <|split_2d|>\"Financial\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Ad hoc",
+      "incorrect_answers": [
+        "Business",
+        "Succession",
+        "Financial"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the term for the extent to which competition in one country is influenced by competition in other countries?<|start_2d|>\"International trade\" <|split_2d|>\"Global economics\" <|split_2d|>\"Global competition\" <|split_2d|>\"Globalisation\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Globalisation",
+      "incorrect_answers": [
+        "International trade",
+        "Global economics",
+        "Global competition"
+      ]
+    }
+  },
+  {
+    "prompt": "As what are key factors that reflect the situation of an organisation referred to?<|start_2d|>\"Administrations\" <|split_2d|>\"Processes\" <|split_2d|>\"Activities\" <|split_2d|>\"Contingencies\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Contingencies",
+      "incorrect_answers": [
+        "Administrations",
+        "Processes",
+        "Activities"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of these does not form part of the key streams identified by March (1988) in decision making in highly ambiguous environments?<|start_2d|>\"Expectations\" <|split_2d|>\"Choice opportunities\" <|split_2d|>\"Problems\" <|split_2d|>\"Solutions\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Expectations",
+      "incorrect_answers": [
+        "Choice opportunities",
+        "Problems",
+        "Solutions"
+      ]
+    }
+  },
+  {
+    "prompt": "What does PEST stand for?<|start_2d|>\"Political, environmental, strategic, testing\" <|split_2d|>\"Political, environmental, strategic, technological\" <|split_2d|>\"Political, economic, strategic, technological\" <|split_2d|>\"Political, economic, social, technological\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Political, economic, social, technological",
+      "incorrect_answers": [
+        "Political, environmental, strategic, testing",
+        "Political, environmental, strategic, technological",
+        "Political, economic, strategic, technological"
+      ]
+    }
+  },
+  {
+    "prompt": "What does the acronym SMART stand for?<|start_2d|>\"Suitable, measurable, actionable, rewarded and timely\" <|split_2d|>\"Specific, measurable, actionable, resourced and timely\" <|split_2d|>\"Standardised, measurable, achievable, rewarded, and timely\" <|split_2d|>\"Specific, measurable, achievable, rewarded and timely\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Specific, measurable, achievable, rewarded and timely",
+      "incorrect_answers": [
+        "Suitable, measurable, actionable, rewarded and timely",
+        "Specific, measurable, actionable, resourced and timely",
+        "Standardised, measurable, achievable, rewarded, and timely"
+      ]
+    }
+  },
+  {
+    "prompt": "Which writer was concerned with the reaction of workers to key characteristics of bureaucracies?<|start_2d|>\"Merton\" <|split_2d|>\"Weber\" <|split_2d|>\"Gouldner\" <|split_2d|>\"Mayo\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Gouldner",
+      "incorrect_answers": [
+        "Merton",
+        "Weber",
+        "Mayo"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the optimal span of control?<|start_2d|>\"2\" <|split_2d|>\"5\" <|split_2d|>\"7\" <|split_2d|>\"None of the above\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "None of the above",
+      "incorrect_answers": [
+        "2",
+        "5",
+        "7"
+      ]
+    }
+  },
+  {
+    "prompt": "What one of these is not a recognised type of authority?<|start_2d|>\"Executive\" <|split_2d|>\"Functional\" <|split_2d|>\"Line management\" <|split_2d|>\"Supplier\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Supplier",
+      "incorrect_answers": [
+        "Executive",
+        "Functional",
+        "Line management"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following is not a characteristic of a team?<|start_2d|>\"Minimal and formal knowledge sharing\" <|split_2d|>\"Collective output\" <|split_2d|>\"Individual and collective responsibility\" <|split_2d|>\"Fluid dimension to roles and tasks\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Minimal and formal knowledge sharing",
+      "incorrect_answers": [
+        "Collective output",
+        "Individual and collective responsibility",
+        "Fluid dimension to roles and tasks"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of these factors is not one of the competing responsibilities that influence corporate social responsibility?<|start_2d|>\"Ethical\" <|split_2d|>\"Economic\" <|split_2d|>\"Discretionary\" <|split_2d|>\"Technical\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Technical",
+      "incorrect_answers": [
+        "Ethical",
+        "Economic",
+        "Discretionary"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the term used in Ansoff's matrix for increasing market share with existing products in existing markets?<|start_2d|>\"Product development\" <|split_2d|>\"Market penetration\" <|split_2d|>\"Diversification\" <|split_2d|>\"Market development\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Market penetration",
+      "incorrect_answers": [
+        "Product development",
+        "Diversification",
+        "Market development"
+      ]
+    }
+  },
+  {
+    "prompt": "What is characteristic for the location of a virtual team?<|start_2d|>\"In the same building\" <|split_2d|>\"In the same industry\" <|split_2d|>\"In the same country\" <|split_2d|>\"remotely\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "remotely",
+      "incorrect_answers": [
+        "In the same building",
+        "In the same industry",
+        "In the same country"
+      ]
+    }
+  },
+  {
+    "prompt": "According to the Five Factor model, 'extraversion' as a personality type is characterised by what type of people?<|start_2d|>\"Good natured\" <|split_2d|>\"Calm and self-confident\" <|split_2d|>\"Sensitive and curious\" <|split_2d|>\"Assertive and sociable\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Assertive and sociable",
+      "incorrect_answers": [
+        "Good natured",
+        "Calm and self-confident",
+        "Sensitive and curious"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the overriding philosophy underpinning the strategic direction of an organisation?<|start_2d|>\"Vision statement\" <|split_2d|>\"Mission statement\" <|split_2d|>\"Strategy statement\" <|split_2d|>\"Business statement\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Mission statement",
+      "incorrect_answers": [
+        "Vision statement",
+        "Strategy statement",
+        "Business statement"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the term for the action in which managers at an organisation analyse the current situation of their organisation and then develop plans to accomplish its mission and achieve its goals?<|start_2d|>\"Synergy planning\" <|split_2d|>\"Strategy formulation\" <|split_2d|>\"Functional planning\" <|split_2d|>\"SWOT analysis\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Strategy formulation",
+      "incorrect_answers": [
+        "Synergy planning",
+        "Functional planning",
+        "SWOT analysis"
+      ]
+    }
+  },
+  {
+    "prompt": "What is Frank Gilbreth`s work most noted for?<|start_2d|>\"Working conditions\" <|split_2d|>\"Time and motion studies\" <|split_2d|>\"Work psychology\" <|split_2d|>\"Work as a social setting\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Time and motion studies",
+      "incorrect_answers": [
+        "Working conditions",
+        "Work psychology",
+        "Work as a social setting"
+      ]
+    }
+  },
+  {
+    "prompt": "What is another name for contingency planning?<|start_2d|>\"Synergy planning\" <|split_2d|>\"Ad hoc planning\" <|split_2d|>\"Business level planning\" <|split_2d|>\"Scenario planning\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Scenario planning",
+      "incorrect_answers": [
+        "Synergy planning",
+        "Ad hoc planning",
+        "Business level planning"
+      ]
+    }
+  },
+  {
+    "prompt": "Which feature does not form one of Fayol's 14 principles of management?<|start_2d|>\"Esprit de corps\" <|split_2d|>\"Initiative\" <|split_2d|>\"Order\" <|split_2d|>\"Individualism\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Individualism",
+      "incorrect_answers": [
+        "Esprit de corps",
+        "Initiative",
+        "Order"
+      ]
+    }
+  },
+  {
+    "prompt": "What one of the following is not a characteristic of the job characteristics model?<|start_2d|>\"Task identity\" <|split_2d|>\"Autonomy\" <|split_2d|>\"Reward\" <|split_2d|>\"Feedback\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Reward",
+      "incorrect_answers": [
+        "Task identity",
+        "Autonomy",
+        "Feedback"
+      ]
+    }
+  },
+  {
+    "prompt": "Workers' acceptance of change is characteristic of what type of culture?<|start_2d|>\"Team culture\" <|split_2d|>\"Collaborative culture\" <|split_2d|>\"Group culture\" <|split_2d|>\"Collective culture\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Collaborative culture",
+      "incorrect_answers": [
+        "Team culture",
+        "Group culture",
+        "Collective culture"
+      ]
+    }
+  },
+  {
+    "prompt": "What is a virtual organisation?<|start_2d|>\"An organisation that uses information and communications technologies (ICT's) to coordinate activities without physical boundaries between different functions\" <|split_2d|>\"An organisation that uses internet technologies to sell products to customers\" <|split_2d|>\"An organisation that manages the supply chain using digital technologies\" <|split_2d|>\"An organisation that coordinates the workforce via video conferencing\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "An organisation that uses information and communications technologies (ICT's) to coordinate activities without physical boundaries between different functions",
+      "incorrect_answers": [
+        "An organisation that uses internet technologies to sell products to customers",
+        "An organisation that manages the supply chain using digital technologies",
+        "An organisation that coordinates the workforce via video conferencing"
+      ]
+    }
+  },
+  {
+    "prompt": "From what does a chain of command extend?<|start_2d|>\"Bottom to top\" <|split_2d|>\"Top to bottom\" <|split_2d|>\"Diagonally\" <|split_2d|>\"Laterally\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Top to bottom",
+      "incorrect_answers": [
+        "Bottom to top",
+        "Diagonally",
+        "Laterally"
+      ]
+    }
+  },
+  {
+    "prompt": "What do you call a style of leadership that takes account of others' views, opinions and ideas?<|start_2d|>\"Laissez-faire\" <|split_2d|>\"People-oriented\" <|split_2d|>\"Democratic\" <|split_2d|>\"Autocratic\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Democratic",
+      "incorrect_answers": [
+        "Laissez-faire",
+        "People-oriented",
+        "Autocratic"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the guiding principle of scientific management?<|start_2d|>\"Experimentation\" <|split_2d|>\"Fluid working relationships\" <|split_2d|>\"Freedom of association\" <|split_2d|>\"One best way to do a job\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "One best way to do a job",
+      "incorrect_answers": [
+        "Experimentation",
+        "Fluid working relationships",
+        "Freedom of association"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the term Tuckman uses for reaching consensus as a group?<|start_2d|>\"Storming\" <|split_2d|>\"Performing\" <|split_2d|>\"Forming\" <|split_2d|>\"Norming\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Norming",
+      "incorrect_answers": [
+        "Storming",
+        "Performing",
+        "Forming"
+      ]
+    }
+  },
+  {
+    "prompt": "What theory is built around the principle that 'people make choices regarding how to behave based on values and beliefs'?<|start_2d|>\"Expectancy\" <|split_2d|>\"Instrumental\" <|split_2d|>\"Classical\" <|split_2d|>\"Contingency\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Expectancy",
+      "incorrect_answers": [
+        "Instrumental",
+        "Classical",
+        "Contingency"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the term for decisions limited by human capacity to absorb and analyse information?<|start_2d|>\"Cognitive rationality\" <|split_2d|>\"Conscious rationality\" <|split_2d|>\"Bounded rationality\" <|split_2d|>\"Restricted rationality\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Bounded rationality",
+      "incorrect_answers": [
+        "Cognitive rationality",
+        "Conscious rationality",
+        "Restricted rationality"
+      ]
+    }
+  },
+  {
+    "prompt": "What is a definition of an objective?<|start_2d|>\"A defined specified outcome to be achieved in the long-term\" <|split_2d|>\"A clear set of goals to be attained given a set number of resources\" <|split_2d|>\"A clearly defined and measurable outcome to be achieved over a specified timeframe\" <|split_2d|>\"A set standard of performance agreed by workers and managers\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A clearly defined and measurable outcome to be achieved over a specified timeframe",
+      "incorrect_answers": [
+        "A defined specified outcome to be achieved in the long-term",
+        "A clear set of goals to be attained given a set number of resources",
+        "A set standard of performance agreed by workers and managers"
+      ]
+    }
+  },
+  {
+    "prompt": "What is not a purpose of an organisational structure?<|start_2d|>\"To coordinate people and resources\" <|split_2d|>\"To organise lines of communication\" <|split_2d|>\"To formalise authority\" <|split_2d|>\"To limit workers' rights\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "To limit workers' rights",
+      "incorrect_answers": [
+        "To coordinate people and resources",
+        "To organise lines of communication",
+        "To formalise authority"
+      ]
+    }
+  },
+  {
+    "prompt": "To what time-frame do strategic plans relate?<|start_2d|>\"Long-term\" <|split_2d|>\"Medium-term\" <|split_2d|>\"Short-term\" <|split_2d|>\"Unspecified time it takes to achieve an aim\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Long-term",
+      "incorrect_answers": [
+        "Medium-term",
+        "Short-term",
+        "Unspecified time it takes to achieve an aim"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the term for organisational development through a formally designed organisational structure?<|start_2d|>\"Organic\" <|split_2d|>\"Mechanistic\" <|split_2d|>\"Formal\" <|split_2d|>\"Structured\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Mechanistic",
+      "incorrect_answers": [
+        "Organic",
+        "Formal",
+        "Structured"
+      ]
+    }
+  },
+  {
+    "prompt": "'There is no discernible link between planning and performance'. Who is this position held by?<|start_2d|>\"Michael Porter\" <|split_2d|>\"Milton Friedman\" <|split_2d|>\"Gary Hamel\" <|split_2d|>\"Henry Mintzberg\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Henry Mintzberg",
+      "incorrect_answers": [
+        "Michael Porter",
+        "Milton Friedman",
+        "Gary Hamel"
+      ]
+    }
+  },
+  {
+    "prompt": "What does situational theory of leadership emphasise?<|start_2d|>\"Personality traits\" <|split_2d|>\"Events\" <|split_2d|>\"Environment\" <|split_2d|>\"Political situation\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Events",
+      "incorrect_answers": [
+        "Personality traits",
+        "Environment",
+        "Political situation"
+      ]
+    }
+  },
+  {
+    "prompt": "What is intuitive decision making based on?<|start_2d|>\"Guesswork\" <|split_2d|>\"Gambling\" <|split_2d|>\"Instinct\" <|split_2d|>\"Rationality\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Instinct",
+      "incorrect_answers": [
+        "Guesswork",
+        "Gambling",
+        "Rationality"
+      ]
+    }
+  },
+  {
+    "prompt": "Enhancement of job satisfaction and productivity are key characteristics of which theoretical perspective of work design?<|start_2d|>\"Process improvement\" <|split_2d|>\"Techno-structural change model\" <|split_2d|>\"Job characteristics model\" <|split_2d|>\"Socio-technical systems\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Socio-technical systems",
+      "incorrect_answers": [
+        "Process improvement",
+        "Techno-structural change model",
+        "Job characteristics model"
+      ]
+    }
+  },
+  {
+    "prompt": "Which 18th century writer produced a famous book called 'The Wealth of Nations'?<|start_2d|>\"Frederick Taylor\" <|split_2d|>\"Henry Mintzberg\" <|split_2d|>\"Adam Smith\" <|split_2d|>\"Dr Samuel Johnson\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Adam Smith",
+      "incorrect_answers": [
+        "Frederick Taylor",
+        "Henry Mintzberg",
+        "Dr Samuel Johnson"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of these characteristics is most commonly associated with the 'rational goal' model of management?<|start_2d|>\"Worker welfare\" <|split_2d|>\"Health and safety\" <|split_2d|>\"Interpersonal relationships\" <|split_2d|>\"Productivity\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Productivity",
+      "incorrect_answers": [
+        "Worker welfare",
+        "Health and safety",
+        "Interpersonal relationships"
+      ]
+    }
+  },
+  {
+    "prompt": "In what order do managers typically perform the managerial functions?<|start_2d|>\"organising, planning, controlling, leading\" <|split_2d|>\"organising, leading, planning, controlling\" <|split_2d|>\"planning, organising, leading, controlling\" <|split_2d|>\"planning, organising, controlling, leading\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "planning, organising, leading, controlling",
+      "incorrect_answers": [
+        "organising, planning, controlling, leading",
+        "organising, leading, planning, controlling",
+        "planning, organising, controlling, leading"
+      ]
+    }
+  },
+  {
+    "prompt": "How does lateral communication in an organisation occur?<|start_2d|>\"Information passes upwards.\" <|split_2d|>\"Information passes downwards.\" <|split_2d|>\"Information is a two-way process.\" <|split_2d|>\"Information passes between different departments and functions.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Information passes between different departments and functions.",
+      "incorrect_answers": [
+        "Information passes upwards.",
+        "Information passes downwards.",
+        "Information is a two-way process."
+      ]
+    }
+  },
+  {
+    "prompt": "Of what is advertising a form?<|start_2d|>\"Focusing strategy\" <|split_2d|>\"Differentiation\" <|split_2d|>\"Cost leadership\" <|split_2d|>\"Growth\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Differentiation",
+      "incorrect_answers": [
+        "Focusing strategy",
+        "Cost leadership",
+        "Growth"
+      ]
+    }
+  },
+  {
+    "prompt": "What is not a component of an agile organisation?<|start_2d|>\"Market focus and position\" <|split_2d|>\"Human resources: multi-skilling\" <|split_2d|>\"Organisational structure\" <|split_2d|>\"Project-based culture\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Project-based culture",
+      "incorrect_answers": [
+        "Market focus and position",
+        "Human resources: multi-skilling",
+        "Organisational structure"
+      ]
+    }
+  },
+  {
+    "prompt": "Of what is worker autonomy in decision making an example?<|start_2d|>\"Worker freedom\" <|split_2d|>\"Greater worker negotiation\" <|split_2d|>\"Worker empowerment\" <|split_2d|>\"Increased worker power\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Worker empowerment",
+      "incorrect_answers": [
+        "Worker freedom",
+        "Greater worker negotiation",
+        "Increased worker power"
+      ]
+    }
+  },
+  {
+    "prompt": "Vertical integration forwards is when a firm mergers or acquires another<|start_2d|>\"Towards the source of supply\" <|split_2d|>\"Towards the consumer\" <|split_2d|>\"At the same stage of the supply chain\" <|split_2d|>\"In another industry\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Towards the consumer",
+      "incorrect_answers": [
+        "Towards the source of supply",
+        "At the same stage of the supply chain",
+        "In another industry"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the term for an autonomous business entity within an overall corporate enterprise which is set apart from other areas of the business?<|start_2d|>\"Subsidiary\" <|split_2d|>\"Strategic partnership\" <|split_2d|>\"Strategic alliance\" <|split_2d|>\"Strategic business unit\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Strategic business unit",
+      "incorrect_answers": [
+        "Subsidiary",
+        "Strategic partnership",
+        "Strategic alliance"
+      ]
+    }
+  },
+  {
+    "prompt": "What is not a characteristic of a corporate social responsibility framework?<|start_2d|>\"Retaining the status quo\" <|split_2d|>\"Understanding society\" <|split_2d|>\"Harnessing diversity\" <|split_2d|>\"Building capacity\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Retaining the status quo",
+      "incorrect_answers": [
+        "Understanding society",
+        "Harnessing diversity",
+        "Building capacity"
+      ]
+    }
+  },
+  {
+    "prompt": "What is a whistleblower?<|start_2d|>\"Someone who reports illegal or unethical acts\" <|split_2d|>\"Someone who commits illegal or unethical acts\" <|split_2d|>\"Someone who benefits from illegal or unethical acts\" <|split_2d|>\"Someone who devises illegal or unethical acts\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Someone who reports illegal or unethical acts",
+      "incorrect_answers": [
+        "Someone who commits illegal or unethical acts",
+        "Someone who benefits from illegal or unethical acts",
+        "Someone who devises illegal or unethical acts"
+      ]
+    }
+  },
+  {
+    "prompt": "What is T-group training?<|start_2d|>\"A group whose aim is transformational change\" <|split_2d|>\"A group brought together to deliver training programmes\" <|split_2d|>\"Team training for the purposes of advancing technology\" <|split_2d|>\"Team building activities involving learning\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Team building activities involving learning",
+      "incorrect_answers": [
+        "A group whose aim is transformational change",
+        "A group brought together to deliver training programmes",
+        "Team training for the purposes of advancing technology"
+      ]
+    }
+  },
+  {
+    "prompt": "What is a social enterprise concerned with?<|start_2d|>\"Profit maximisation\" <|split_2d|>\"Maximising market share\" <|split_2d|>\"Providing public service\" <|split_2d|>\"Running a business to create social benefits\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Running a business to create social benefits",
+      "incorrect_answers": [
+        "Profit maximisation",
+        "Maximising market share",
+        "Providing public service"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is not part of Schein's model of the formation of culture?<|start_2d|>\"Shared values\" <|split_2d|>\"Pre-conceptions\" <|split_2d|>\"Shared beliefs\" <|split_2d|>\"Norms\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Pre-conceptions",
+      "incorrect_answers": [
+        "Shared values",
+        "Shared beliefs",
+        "Norms"
+      ]
+    }
+  },
+  {
+    "prompt": "What is not one of the layers of cultural influence?<|start_2d|>\"Social\" <|split_2d|>\"Business\" <|split_2d|>\"Organisational\" <|split_2d|>\"Company\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Company",
+      "incorrect_answers": [
+        "Social",
+        "Business",
+        "Organisational"
+      ]
+    }
+  }
+]

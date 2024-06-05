@@ -1,0 +1,1256 @@
+[
+  {
+    "prompt": "Which one of the following is the most appropriate definition of a 99% confidence interval?<|start_2d|>\"99% of the time in repeated samples, the interval would contain the true value of the parameter\" <|split_2d|>\"99% of the time in repeated samples, the interval would contain the estimated value of the parameter\" <|split_2d|>\"99% of the time in repeated samples, the null hypothesis will be rejected\" <|split_2d|>\"99% of the time in repeated samples, the null hypothesis will not be rejected when it was false\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "99% of the time in repeated samples, the interval would contain the true value of the parameter",
+      "incorrect_answers": [
+        "99% of the time in repeated samples, the interval would contain the estimated value of the parameter",
+        "99% of the time in repeated samples, the null hypothesis will be rejected",
+        "99% of the time in repeated samples, the null hypothesis will not be rejected when it was false"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the main difference between the Dickey Fuller (DF) and Phillips-Perron (PP) approaches to unit root testing?<|start_2d|>\"ADF is a single equation approach to unit root testing while PP is a systems approach\" <|split_2d|>\"PP tests reverse the DF null and alternative hypotheses so that there is stationarity under the null hypothesis of the PP test\" <|split_2d|>\"The PP test incorporates an automatic correction for autocorrelated residuals in the test regression\" <|split_2d|>\"PP tests have good power in small samples whereas DF tests do not.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The PP test incorporates an automatic correction for autocorrelated residuals in the test regression",
+      "incorrect_answers": [
+        "ADF is a single equation approach to unit root testing while PP is a systems approach",
+        "PP tests reverse the DF null and alternative hypotheses so that there is stationarity under the null hypothesis of the PP test",
+        "PP tests have good power in small samples whereas DF tests do not."
+      ]
+    }
+  },
+  {
+    "prompt": "If there were a leverage effect in practice, what would be the shape of the news impact curve for as model that accounted for that leverage?<|start_2d|>\"It would rise more quickly for negative disturbances than for positive ones of the same magnitude\" <|split_2d|>\"It would be symmetrical about zero\" <|split_2d|>\"It would rise less quickly for negative disturbances than for positive ones of the same magnitude\" <|split_2d|>\"It would be zero for all positive disturbances\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "It would rise more quickly for negative disturbances than for positive ones of the same magnitude",
+      "incorrect_answers": [
+        "It would be symmetrical about zero",
+        "It would rise less quickly for negative disturbances than for positive ones of the same magnitude",
+        "It would be zero for all positive disturbances"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements is false concerning the linear probability model?<|start_2d|>\"There is nothing in the model to ensure that the estimated probabilities lie between zero and one\" <|split_2d|>\"Even if the probabilities are truncated at zero and one, there will probably be many observations for which the probability is either exactly zero or exactly one\" <|split_2d|>\"The error terms will be heteroscedastic and not normally distributed\" <|split_2d|>\"The model is much harder to estimate than a standard regression model with a continuous dependent variable\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The model is much harder to estimate than a standard regression model with a continuous dependent variable",
+      "incorrect_answers": [
+        "There is nothing in the model to ensure that the estimated probabilities lie between zero and one",
+        "Even if the probabilities are truncated at zero and one, there will probably be many observations for which the probability is either exactly zero or exactly one",
+        "The error terms will be heteroscedastic and not normally distributed"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements concerning the regression population and sample is FALSE?<|start_2d|>\"The population is the total collection of all items of interest\" <|split_2d|>\"The population can be infinite\" <|split_2d|>\"In theory, the sample could be larger than the population\" <|split_2d|>\"A random sample is one where each individual item from the population is equally likely to be drawn.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "In theory, the sample could be larger than the population",
+      "incorrect_answers": [
+        "The population is the total collection of all items of interest",
+        "The population can be infinite",
+        "A random sample is one where each individual item from the population is equally likely to be drawn."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements is INCORRECT concerning a comparison of the Box-Pierce Q and the Ljung-Box Q* statistics for linear dependence in time series?<|start_2d|>\"Asymptotically, the values of the two test statistics will be equal\" <|split_2d|>\"The Q test has better small-sample properties than the Q*\" <|split_2d|>\"The Q test is sometimes over-sized for small samples\" <|split_2d|>\"As the sample size tends towards infinity, both tests will show a tendency to always reject the null hypothesis of zero autocorrelation coefficients.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The Q test has better small-sample properties than the Q*",
+      "incorrect_answers": [
+        "Asymptotically, the values of the two test statistics will be equal",
+        "The Q test is sometimes over-sized for small samples",
+        "As the sample size tends towards infinity, both tests will show a tendency to always reject the null hypothesis of zero autocorrelation coefficients."
+      ]
+    }
+  },
+  {
+    "prompt": "A parsimonious model is one that<|start_2d|>\"Includes too many variables\" <|split_2d|>\"Includes as few variables as possible to explain the data\" <|split_2d|>\"Is a well-specified model\" <|split_2d|>\"Is a mis-specified model\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Includes too many variables",
+      "incorrect_answers": [
+        "Includes as few variables as possible to explain the data",
+        "Is a well-specified model",
+        "Is a mis-specified model"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is NOT a feature of continuously compounded returns (i.e. log-returns)?<|start_2d|>\"They can be interpreted as continuously compounded changes in the prices\" <|split_2d|>\"They can be added over time to give returns for longer time periods\" <|split_2d|>\"They can be added across a portfolio of assets to give portfolio returns\" <|split_2d|>\"They are usually fat-tailed\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "They can be added across a portfolio of assets to give portfolio returns",
+      "incorrect_answers": [
+        "They can be interpreted as continuously compounded changes in the prices",
+        "They can be added over time to give returns for longer time periods",
+        "They are usually fat-tailed"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following features of financial asset return time-series could be captured using a standard GARCH(1,1) model?\n\ni) Fat tails in the return distribution\n\n\nii) Leverage effects\n\n\niii) Volatility clustering\n\n\niv) Volatility affecting returns<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i) and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i), (ii), and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Consider the estimation of a GARCH-M model. If the data employed were a time-series of daily corporate bond percentage returns, which of the following would you expect the value of the GARCH-in-mean parameter estimate to be?<|start_2d|>\"Less than -1\" <|split_2d|>\"Between -1 and 0\" <|split_2d|>\"Between 0 and 1\" <|split_2d|>\"Bigger than 1\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Between 0 and 1",
+      "incorrect_answers": [
+        "Less than -1",
+        "Between -1 and 0",
+        "Bigger than 1"
+      ]
+    }
+  },
+  {
+    "prompt": "Under which of the following situations would bootstrapping be preferred to pure simulation?\n\ni) If it is desired that the distributional properties of the data in the experiment\n\nare the same as those of some actual data\n\n\nii) If it is desired that the distributional properties of the data in the experiment\n\nare known exactly\n\n\niii) If the distributional properties of the actual data are unknown\n\n\niv) If the sample of actual data available is very small<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iv) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i) and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i), (ii), and (iv) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following may be consequences of one or more of the CLRM assumptions being violated?\n\ni) The coefficient estimates are not optimal\n\n\nii) The standard error estimates are not optimal\n\n\niii) The distributions assumed for the test statistics are inappropriate\n\n\niv) Conclusions regarding the strength of relationships between the dependent\n\nand independent variables may be invalid.<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i), (ii), (iii), and (iv)",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii), and (iii) only"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements is true concerning forecasting in econometrics?<|start_2d|>\"Forecasts can only be made for time-series data\" <|split_2d|>\"Mis-specified models are certain to produce inaccurate forecasts\" <|split_2d|>\"Structural forecasts are simpler to produce than those from time series models\" <|split_2d|>\"In-sample forecasting ability is a poor test of model adequacy\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "In-sample forecasting ability is a poor test of model adequacy",
+      "incorrect_answers": [
+        "Forecasts can only be made for time-series data",
+        "Mis-specified models are certain to produce inaccurate forecasts",
+        "Structural forecasts are simpler to produce than those from time series models"
+      ]
+    }
+  },
+  {
+    "prompt": "The pacf is necessary for distinguishing between<|start_2d|>\"An AR and an MA model\" <|split_2d|>\"An AR and an ARMA model\" <|split_2d|>\"An MA and an ARMA model\" <|split_2d|>\"Different models from within the ARMA family\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "An AR and an ARMA model",
+      "incorrect_answers": [
+        "An AR and an MA model",
+        "An MA and an ARMA model",
+        "Different models from within the ARMA family"
+      ]
+    }
+  },
+  {
+    "prompt": "Negative residual autocorrelation is indicated by which one of the following?<|start_2d|>\"A cyclical pattern in the residuals\" <|split_2d|>\"An alternating pattern in the residuals\" <|split_2d|>\"A complete randomness in the residuals\" <|split_2d|>\"Residuals that are all close to zero\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "An alternating pattern in the residuals",
+      "incorrect_answers": [
+        "A cyclical pattern in the residuals",
+        "A complete randomness in the residuals",
+        "Residuals that are all close to zero"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements are true concerning a comparison between ARCH(q) and GARCH(1,1) models?\n\ni) The ARCH(q) model is likely to be the more parsimonious\n\n\nii) The ARCH(q) model is the more likely to violate non-negativity constraints\n\n\niii) The ARCH(q) model can allow for an infinite number of previous lags of squared\n\nreturns to affect the current conditional variance\n\n\niv) The GARCH(1,1) model will usually be sufficient to capture all of the dependence\n\nin the conditional variance<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(ii) and (iv) only",
+      "incorrect_answers": [
+        "(i) and (iii) only",
+        "(i), (ii), and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements are true concerning a triangular or recursive system?\n\ni) The parameters can be validly estimated using separate applications of OLS to\n\neach equation\n\n\nii) The independent variables may be correlated with the error terms in other\n\nequations\n\n\niii) An application of 2SLS would lead to unbiased but inefficient parameter estimates\n\n\niv) The independent variables may be correlated with the error terms in the equations\n\nin which they appear as independent variables<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i), (ii), and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following statements best describes the algebraic representation of the fitted regression line?<|start_2d|>\"\\hat{y}_t = \\hat{\\alpha} + \\hat{\\beta}x_t + \\hat{u}_t\" <|split_2d|>\"\\hat{y}_t = \\hat{\\alpha} + \\hat{\\beta}x_t\" <|split_2d|>\"\\hat{y}_t = \\hat{\\alpha} + \\hat{\\beta}x_t + u_t\" <|split_2d|>\"y_t = \\hat{\\alpha} + \\hat{\\beta}x_t + \\hat{u}_t\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "\\hat{y}_t = \\hat{\\alpha} + \\hat{\\beta}x_t",
+      "incorrect_answers": [
+        "\\hat{y}_t = \\hat{\\alpha} + \\hat{\\beta}x_t + \\hat{u}_t",
+        "\\hat{y}_t = \\hat{\\alpha} + \\hat{\\beta}x_t + u_t",
+        "y_t = \\hat{\\alpha} + \\hat{\\beta}x_t + \\hat{u}_t"
+      ]
+    }
+  },
+  {
+    "prompt": "What are the dimensions of $\\hat{u}^t \\hat{u}?<|start_2d|>\"T x k\" <|split_2d|>\"T x 1\" <|split_2d|>\"k x 1\" <|split_2d|>\"1 x 1\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "1 x 1",
+      "incorrect_answers": [
+        "T x k",
+        "T x 1",
+        "k x 1"
+      ]
+    }
+  },
+  {
+    "prompt": "The characteristic roots of the MA process\n\n$y_t = -3u_{t-1} + u_{t-2} + u_t$\n\nare<|start_2d|>\"1 and 2\" <|split_2d|>\"1 and 0.5\" <|split_2d|>\"2 and -0.5\" <|split_2d|>\"1 and -3\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "1 and 0.5",
+      "incorrect_answers": [
+        "1 and 2",
+        "2 and -0.5",
+        "1 and -3"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is an equivalent expression for saying that the explanatory variable is \"non-stochastic\"?<|start_2d|>\"The explanatory variable is partly random\" <|split_2d|>\"The explanatory variable is fixed in repeated samples\" <|split_2d|>\"The explanatory variable is correlated with the errors\" <|split_2d|>\"The explanatory variable always has a value of one\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The explanatory variable is fixed in repeated samples",
+      "incorrect_answers": [
+        "The explanatory variable is partly random",
+        "The explanatory variable is correlated with the errors",
+        "The explanatory variable always has a value of one"
+      ]
+    }
+  },
+  {
+    "prompt": "Suppose that the Durbin Watson test is applied to a regression containing two explanatory variables plus a constant with 50 data points. The test statistic takes a value of 1.53. What is the appropriate conclusion?<|start_2d|>\"Residuals appear to be positively autocorrelated\" <|split_2d|>\"Residuals appear to be negatively autocorrelated\" <|split_2d|>\"Residuals appear not to be autocorrelated\" <|split_2d|>\"The test result is inconclusive\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The test result is inconclusive",
+      "incorrect_answers": [
+        "Residuals appear to be positively autocorrelated",
+        "Residuals appear to be negatively autocorrelated",
+        "Residuals appear not to be autocorrelated"
+      ]
+    }
+  },
+  {
+    "prompt": "If OLS is used in the presence of autocorrelation, which of the following will be likely consequences?\n\ni) Coefficient estimates may be misleading\n\n\nii) Hypothesis tests could reach the wrong conclusions\n\n\niii) Forecasts made from the model could be biased\n\n\niv) Standard errors may inappropriate<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(ii) and (iv) only",
+      "incorrect_answers": [
+        "(i) and (iii) only",
+        "(i), (ii), and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "What will be the properties of the OLS estimator in the presence of multicollinearity?<|start_2d|>\"It will be consistent, unbiased and efficient\" <|split_2d|>\"It will be consistent and unbiased but not efficient\" <|split_2d|>\"It will be consistent but not unbiased\" <|split_2d|>\"It will not be consistent\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "It will be consistent, unbiased and efficient",
+      "incorrect_answers": [
+        "It will be consistent and unbiased but not efficient",
+        "It will be consistent but not unbiased",
+        "It will not be consistent"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following would NOT be a consequence of using non-stationary data in levels form?<|start_2d|>\"The regression $R^2$ may be spuriously high\" <|split_2d|>\"Test statistics may not follow standard distributions\" <|split_2d|>\"Statistical inferences may be invalid\" <|split_2d|>\"Parameter estimates may be biased\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Parameter estimates may be biased",
+      "incorrect_answers": [
+        "The regression $R^2$ may be spuriously high",
+        "Test statistics may not follow standard distributions",
+        "Statistical inferences may be invalid"
+      ]
+    }
+  },
+  {
+    "prompt": "If a series, y, follows a random walk, what is the optimal one-step ahead forecast of y?<|start_2d|>\"The current value of y\" <|split_2d|>\"Zero\" <|split_2d|>\"One\" <|split_2d|>\"The average value of y over the in-sample period\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The current value of y",
+      "incorrect_answers": [
+        "Zero",
+        "One",
+        "The average value of y over the in-sample period"
+      ]
+    }
+  },
+  {
+    "prompt": "The order condition is<|start_2d|>\"A necessary and sufficient condition for identification\" <|split_2d|>\"A necessary but not sufficient condition for identification\" <|split_2d|>\"A sufficient but not necessary condition for identification\" <|split_2d|>\"A condition that is nether necessary nor sufficient for identification\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A necessary but not sufficient condition for identification",
+      "incorrect_answers": [
+        "A necessary and sufficient condition for identification",
+        "A sufficient but not necessary condition for identification",
+        "A condition that is nether necessary nor sufficient for identification"
+      ]
+    }
+  },
+  {
+    "prompt": "If an estimator is said to have minimum variance, which of the following statements is NOT implied?<|start_2d|>\"The probability that the estimate is a long way away from its true value is minimised\" <|split_2d|>\"The estimator is efficient\" <|split_2d|>\"Such an estimator would be termed 'best'\" <|split_2d|>\"Such an estimator will always be unbiased\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Such an estimator will always be unbiased",
+      "incorrect_answers": [
+        "The probability that the estimate is a long way away from its true value is minimised",
+        "The estimator is efficient",
+        "Such an estimator would be termed \"best\""
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following are disadvantages of the Dickey-Fuller / Engle-Granger approach to testing for cointegration and modelling cointegrating relationships?\n\ni) Only one cointegrating relationship can be estimated\n\nii) Particularly for small samples. There is a high chance of the tests suggestingthat variables are not cointegrated when they are\n\niii) It is not possible to make inferences on the cointegrating regression\n\niv) The procedure forces the researcher to specify which is the dependent variable and which are the independent variables.<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i), (ii), (iii), and (iv)",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii), and (iii) only"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements is true concerning the population regression function (PRF) and sample regression function (SRF)?<|start_2d|>\"The PRF is the estimated model\" <|split_2d|>\"The PRF is used to infer likely values of the SRF\" <|split_2d|>\"Whether the model is good can be determined by comparing the SRF and the PRF\" <|split_2d|>\"The PRF is a description of the process thought to be generating the data.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The PRF is a description of the process thought to be generating the data.",
+      "incorrect_answers": [
+        "The PRF is the estimated model",
+        "The PRF is used to infer likely values of the SRF",
+        "Whether the model is good can be determined by comparing the SRF and the PRF"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following is a disadvantage of the general to specific or \"LSE\" (\"Hendry\") approach to building econometric models, relative to the specific to general approach?<|start_2d|>\"Some variables may be excluded at the first stage leading to coefficient biases\" <|split_2d|>\"The final model may lack theoretical interpretation\" <|split_2d|>\"The final model may be statistically inadequate\" <|split_2d|>\"If the initial model is mis-specified, all subsequent steps will be invalid.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The final model may lack theoretical interpretation",
+      "incorrect_answers": [
+        "Some variables may be excluded at the first stage leading to coefficient biases",
+        "The final model may be statistically inadequate",
+        "If the initial model is mis-specified, all subsequent steps will be invalid."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements are true concerning maximum likelihood (ML) estimation in the context of GARCH models?\n\ni) Maximum likelihood estimation selects the parameter values that maximise the\n\nprobability that we would have actually observed the values of the series y that we\n\nactually did.\n\n\nii) GARCH models can only be estimated by ML and not by OLS\n\n\niii) For estimation of a standard linear model (with no GARCH), the OLS and ML\n\nestimates for the slope and intercept parameters will be identical but the estimator\n\nfor the variance of the disturbances is slightly different\n\n\niv) Most computer packages use numerical procedures to estimate GARCH models\n\nrather than a set of analytical formulae<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i), (ii), (iii), and (iv)",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii), and (iii) only"
+      ]
+    }
+  },
+  {
+    "prompt": "Including relevant lagged values of the dependent variable on the right hand side of a regression equation could lead to which one of the following?<|start_2d|>\"Biased but consistent coefficient estimates\" <|split_2d|>\"Biased and inconsistent coefficient estimates\" <|split_2d|>\"Unbiased but inconsistent coefficient estimates\" <|split_2d|>\"Unbiased and consistent but inefficient coefficient estimates.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Biased but consistent coefficient estimates",
+      "incorrect_answers": [
+        "Biased and inconsistent coefficient estimates",
+        "Unbiased but inconsistent coefficient estimates",
+        "Unbiased and consistent but inefficient coefficient estimates."
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following factors is likely to lead to a relatively high degree of out-of-sample forecast accuracy?<|start_2d|>\"A model that is based on financial theory\" <|split_2d|>\"A model that contains many variables\" <|split_2d|>\"A model whose dependent variable has recently exhibited a structural change\" <|split_2d|>\"A model that is entirely statistical in nature with no room for judgmental modification of forecasts\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A model that is based on financial theory",
+      "incorrect_answers": [
+        "A model that contains many variables",
+        "A model whose dependent variable has recently exhibited a structural change",
+        "A model that is entirely statistical in nature with no room for judgmental modification of forecasts"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following are plausible approaches to dealing with residual autocorrelation?\n\ni) Take logarithms of each of the variables\n\nii) Add lagged values of the variables to the regression equation\n\niii) Use dummy variables to remove outlying observations\n\niv) Try a model in first differenced form rather than in levels.<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(ii) and (iv) only",
+      "incorrect_answers": [
+        "(i) and (iii) only",
+        "(i), (ii), and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "For an autoregressive process to be considered stationary<|start_2d|>\"The roots of the characteristic equation must all lie inside the unit circle\" <|split_2d|>\"The roots of the characteristic equation must all lie on the unit circle\" <|split_2d|>\"The roots of the characteristic equation must all lie outside the unit circle\" <|split_2d|>\"The roots of the characteristic equation must all be less than one in absolute value\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The roots of the characteristic equation must all lie outside the unit circle",
+      "incorrect_answers": [
+        "The roots of the characteristic equation must all lie inside the unit circle",
+        "The roots of the characteristic equation must all lie on the unit circle",
+        "The roots of the characteristic equation must all be less than one in absolute value"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements are true concerning information criteria?\n\n(i) Adjusted R-squared is an information criterion\n\n(ii) If the residual sum of squares falls when an additional term is added, the value of the information criterion will fall\n\n(iii) Akaike's information criterion always leads to model orders that are at least as large as those of Schwarz's information criterion\n\n(iv) Akaike's information criterion is consistent<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i) and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i), (ii), and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "The \"within transform\" involves<|start_2d|>\"Taking the average values of the variables\" <|split_2d|>\"Subtracting the mean of each entity away from each observation on that entity\" <|split_2d|>\"Estimating a panel data model using least squares dummy variables\" <|split_2d|>\"Using both time dummies and cross-sectional dummies in a fixed effects panel model\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Subtracting the mean of each entity away from each observation on that entity",
+      "incorrect_answers": [
+        "Taking the average values of the variables",
+        "Estimating a panel data model using least squares dummy variables",
+        "Using both time dummies and cross-sectional dummies in a fixed effects panel model"
+      ]
+    }
+  },
+  {
+    "prompt": "The purpose of \"augmenting\" the Dickey-Fuller test regression is to<|start_2d|>\"Ensure that there is no heteroscedasticity in the test regression residuals.\" <|split_2d|>\"Ensure that the test regression residuals are normally distributed\" <|split_2d|>\"Ensure that there is no autocorrelation in the test regression residuals\" <|split_2d|>\"Ensure that all of the non-stationarity is taken into account.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Ensure that there is no autocorrelation in the test regression residuals",
+      "incorrect_answers": [
+        "Ensure that there is no heteroscedasticity in the test regression residuals.",
+        "Ensure that the test regression residuals are normally distributed",
+        "Ensure that all of the non-stationarity is taken into account."
+      ]
+    }
+  },
+  {
+    "prompt": "If a series, y, follows a random walk with drift b, what is the optimal one-step ahead forecast of the change in y?<|start_2d|>\"The current value of y\" <|split_2d|>\"Zero\" <|split_2d|>\"One\" <|split_2d|>\"The average value of the change in y over the in-sample period\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The average value of the change in y over the in-sample period",
+      "incorrect_answers": [
+        "The current value of y",
+        "Zero",
+        "One"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following are plausible approaches to dealing with a model that exhibits heteroscedasticity?\n\ni) Take logarithms of each of the variables\n\nii) Use suitably modified standard errors\n\niii) Use a generalised least squares procedure\n\niv) Add lagged values of the variables to the regression equation.<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i), (ii), and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements are true concerning the standardised residuals (residuals divided by their respective conditional standard deviations) from an estimated GARCH model?\n\ni) They are assumed to be normally distributed\n\n\nii) Their squares will be related to their lagged squared values if the GARCH model is\n\nappropriate\n\n\niii) In practice, they are likely to have fat tails\n\n\niv) If the GARCH model is adequate, the standardised residuals and the raw residuals\n\nwill be identical<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i) and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i), (ii), and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following statements is true concerning VARs?<|start_2d|>\"The coefficient estimates have intuitive theoretical interpretations\" <|split_2d|>\"The coefficient estimates usually have the same sign for all of the lags of a given variable in a given equation\" <|split_2d|>\"VARs often produce better forecasts than simultaneous equation structural models\" <|split_2d|>\"All of the components of a VAR must be stationary before it can be used for forecasting\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "VARs often produce better forecasts than simultaneous equation structural models",
+      "incorrect_answers": [
+        "The coefficient estimates have intuitive theoretical interpretations",
+        "The coefficient estimates usually have the same sign for all of the lags of a given variable in a given equation",
+        "All of the components of a VAR must be stationary before it can be used for forecasting"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements is INCORRECT concerning the classical hypothesis testing framework?<|start_2d|>\"If the null hypothesis is rejected, the alternative is accepted\" <|split_2d|>\"The null hypothesis is the statement being tested while the alternative encompasses the remaining outcomes of interest\" <|split_2d|>\"The test of significance and confidence interval approaches will always give the same conclusions\" <|split_2d|>\"Hypothesis tests are used to make inferences about the population parameters.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "If the null hypothesis is rejected, the alternative is accepted",
+      "incorrect_answers": [
+        "The null hypothesis is the statement being tested while the alternative encompasses the remaining outcomes of interest",
+        "The test of significance and confidence interval approaches will always give the same conclusions",
+        "Hypothesis tests are used to make inferences about the population parameters."
+      ]
+    }
+  },
+  {
+    "prompt": "An ARMA(p,q) (p, q are integers bigger than zero) model will have<|start_2d|>\"An acf and pacf that both decline geometrically\" <|split_2d|>\"An acf that declines geometrically and a pacf that is zero after p lags\" <|split_2d|>\"An acf that declines geometrically and a pacf that is zero after q lags\" <|split_2d|>\"An acf that is zero after p lags and a pacf that is zero after q lags\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "An acf and pacf that both decline geometrically",
+      "incorrect_answers": [
+        "An acf that declines geometrically and a pacf that is zero after p lags",
+        "An acf that declines geometrically and a pacf that is zero after q lags",
+        "An acf that is zero after p lags and a pacf that is zero after q lags"
+      ]
+    }
+  },
+  {
+    "prompt": "Suppose that the following regression is estimated using 27 quarterly observations:\n\n$y_t = \\beta_1 + \\beta_2 x_2 + \\beta_3 x_{3t} + u_t$\n\nWhat is the appropriate critical value for a 2-sided 5% size of test of $H_0: \\beta_3 = 1$?<|start_2d|>\"1.64\" <|split_2d|>\"1.71\" <|split_2d|>\"2.06\" <|split_2d|>\"1.96\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "2.06",
+      "incorrect_answers": [
+        "1.64",
+        "1.71",
+        "1.96"
+      ]
+    }
+  },
+  {
+    "prompt": "Suppose that two researchers, using the same 3 variables and the same 250 observations on each variable, estimate a VAR. One estimates a VAR(6), while the other estimates a VAR(4). The determinants of the variance-covariance matrices of the residuals for each VAR are 0.0036 and 0.0049 respectively. What is the values of the test statistic for performing a test of whether the VAR(6) can be restricted to a VAR(4)?<|start_2d|>\"77.07\" <|split_2d|>\"0.31\" <|split_2d|>\"0.33\" <|split_2d|>\"4.87\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "77.07",
+      "incorrect_answers": [
+        "0.31",
+        "0.33",
+        "4.87"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a DISADVANTAGE of using pure time-series models (relative to structural models)?<|start_2d|>\"They are not theoretically motivated\" <|split_2d|>\"They cannot produce forecasts easily\" <|split_2d|>\"They cannot be used for very high frequency data\" <|split_2d|>\"It is difficult to determine the appropriate explanatory variables for use in pure time-series models\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "They are not theoretically motivated",
+      "incorrect_answers": [
+        "They cannot produce forecasts easily",
+        "They cannot be used for very high frequency data",
+        "It is difficult to determine the appropriate explanatory variables for use in pure time-series models"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following are alternative names for the dependent variable (usually denoted by y) in linear regression analysis?\n\n(i) The regressand\n\n(ii) The regressor\n\n(iii) The explained variable\n\n(iv) The explanatory variable<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i) and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i), (ii), and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following are advantages of the VAR approach to modelling the relationship between variables relative to the estimation of full structural models?\n\ni) VARs receive strong motivation from financial and economic theory\n\n\nii) VARs in their reduced forms can be used easily to produce time-series forecasts\n\n\niii) VAR models are typically highly parsimonious\n\n\niv) OLS can be applied separately to each equation in a reduced form VAR<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(ii) and (iv) only",
+      "incorrect_answers": [
+        "(i) and (iii) only",
+        "(i), (ii), and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements is TRUE concerning the standard regression model?<|start_2d|>\"y has a probability distribution\" <|split_2d|>\"x has a probability distribution\" <|split_2d|>\"The disturbance term is assumed to be correlated with x\" <|split_2d|>\"For an adequate model, the residual (u-hat) will be zero for all sample data points\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "y has a probability distribution",
+      "incorrect_answers": [
+        "x has a probability distribution",
+        "The disturbance term is assumed to be correlated with x",
+        "For an adequate model, the residual (u-hat) will be zero for all sample data points"
+      ]
+    }
+  },
+  {
+    "prompt": "Consider the following model for $y_t$:\n\n$y_t = \\mu + \\lambda t + u_t$\n\nWhich one of the following most accurately describes the process for $y_t$?<|start_2d|>\"A unit root process\" <|split_2d|>\"A stationary process\" <|split_2d|>\"A deterministic trend process\" <|split_2d|>\"A random walk with drift\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A deterministic trend process",
+      "incorrect_answers": [
+        "A unit root process",
+        "A stationary process",
+        "A random walk with drift"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is correct concerning logit and probit models?<|start_2d|>\"They use a different method of transforming the model so that the probabilities lie between zero and one\" <|split_2d|>\"The logit model can result in too many observations falling at exactly zero or exactly one\" <|split_2d|>\"For the logit model, the marginal effect of a change in one of the explanatory variables is simply the estimate of the parameter attached to that variable, whereas this is not the case for the probit model\" <|split_2d|>\"The probit model is based on a cumulative logistic function\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "They use a different method of transforming the model so that the probabilities lie between zero and one",
+      "incorrect_answers": [
+        "The logit model can result in too many observations falling at exactly zero or exactly one",
+        "For the logit model, the marginal effect of a change in one of the explanatory variables is simply the estimate of the parameter attached to that variable, whereas this is not the case for the probit model",
+        "The probit model is based on a cumulative logistic function"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the most important disadvantage of the diagonal VECH approach to building multivariate GARCH models that is overcome by the BEKK formulation?<|start_2d|>\"The diagonal VECH model is hard to interpret intuitively\" <|split_2d|>\"The diagonal VECH model contains too many parameters\" <|split_2d|>\"The diagonal VECH model does not ensure a positive-definite variance-covariance matrix\" <|split_2d|>\"The BEKK model reduces the dimensionality problem that arises when a number of series are modelled together.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The diagonal VECH model does not ensure a positive-definite variance-covariance matrix",
+      "incorrect_answers": [
+        "The diagonal VECH model is hard to interpret intuitively",
+        "The diagonal VECH model contains too many parameters",
+        "The BEKK model reduces the dimensionality problem that arises when a number of series are modelled together."
+      ]
+    }
+  },
+  {
+    "prompt": "If a relevant variable is omitted from a regression equation, the consequences would be that:\n\ni) The standard errors would be biased\n\n\nii) If the excluded variable is uncorrelated with all of the included variables, all of\n\nthe slope coefficients will be inconsistent.\n\n\niii) If the excluded variable is uncorrelated with all of the included variables, the\n\nintercept coefficient will be inconsistent.\n\n\niv) If the excluded variable is uncorrelated with all of the included variables, all of\n\nthe slope and intercept coefficients will be consistent and unbiased but inefficient.<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i), (ii), and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following are alternative names for the independent variable (usually denoted by x) in linear regression analysis?\n\n(i) The regressor\n\n(ii) The regressand\n\n(iii) The causal variable\n\n(iv) The effect variable<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i) and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i), (ii), and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Consider the OLS estimator for the standard error of the slope coefficient. Which of the following statement(s) is (are) true?\n\n(i) The standard error will be positively related to the residual variance\n\n(ii) The standard error will be negatively related to the dispersion of the observations on the explanatory variable about their mean value\n\n(iii) The standard error will be negatively related to the sample size\n\n(iv) The standard error gives a measure of the precision of the coefficient estimate.<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i), (ii), (iii), and (iv)",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii), and (iii) only"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the meaning of the term \"heteroscedasticity\"?<|start_2d|>\"The variance of the errors is not constant\" <|split_2d|>\"The variance of the dependent variable is not constant\" <|split_2d|>\"The errors are not linearly independent of one another\" <|split_2d|>\"The errors have non-zero mean\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The variance of the errors is not constant",
+      "incorrect_answers": [
+        "The variance of the dependent variable is not constant",
+        "The errors are not linearly independent of one another",
+        "The errors have non-zero mean"
+      ]
+    }
+  },
+  {
+    "prompt": "If a Durbin Watson statistic takes a value close to zero, what will be the value of the first order autocorrelation coefficient?<|start_2d|>\"Close to zero\" <|split_2d|>\"Close to plus one\" <|split_2d|>\"Close to minus one\" <|split_2d|>\"Close to either minus one or plus one\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Close to minus one",
+      "incorrect_answers": [
+        "Close to zero",
+        "Close to plus one",
+        "Close to either minus one or plus one"
+      ]
+    }
+  },
+  {
+    "prompt": "Under the null hypothesis of a Bera-Jarque test, the distribution has<|start_2d|>\"Zero skewness and zero kurtosis\" <|split_2d|>\"Zero skewness and a kurtosis of three\" <|split_2d|>\"Skewness of one and zero kurtosis\" <|split_2d|>\"Skewness of one and kurtosis of three.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Zero skewness and a kurtosis of three",
+      "incorrect_answers": [
+        "Zero skewness and zero kurtosis",
+        "Skewness of one and zero kurtosis",
+        "Skewness of one and kurtosis of three."
+      ]
+    }
+  },
+  {
+    "prompt": "If an estimator is said to be consistent, it is implied that<|start_2d|>\"On average, the estimated coefficient values will equal the true values\" <|split_2d|>\"The OLS estimator is unbiased and no other unbiased estimator has a smaller variance\" <|split_2d|>\"The estimates will converge upon the true values as the sample size increases\" <|split_2d|>\"The coefficient estimates will be as close to their true values as possible for small and large samples.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The estimates will converge upon the true values as the sample size increases",
+      "incorrect_answers": [
+        "On average, the estimated coefficient values will equal the true values",
+        "The OLS estimator is unbiased and no other unbiased estimator has a smaller variance",
+        "The coefficient estimates will be as close to their true values as possible for small and large samples."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a typical characteristic of financial asset return time-series?<|start_2d|>\"Their distributions are thin-tailed\" <|split_2d|>\"They are not weakly stationary\" <|split_2d|>\"They are highly autocorrelated\" <|split_2d|>\"They have no trend\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "They have no trend",
+      "incorrect_answers": [
+        "Their distributions are thin-tailed",
+        "They are not weakly stationary",
+        "They are highly autocorrelated"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following assumptions are required to show the consistency, unbiasedness and efficiency of the OLS estimator?\n\ni) $E(u_t) = 0$\n\n\nii) $\\text{Var}(u_t) = \\sigma^2$\n\n\niii) $\\text{Cov}(u_t, u_{t-j}) = 0 \\forall j$\n\n\niv) $u_t \\sim N(0, \\sigma^2)$<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i), (ii), and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a disadvantage of the fixed effects approach to estimating a panel model?<|start_2d|>\"The model is likely to be technical to estimate\" <|split_2d|>\"The approach may not be valid if the composite error term is correlated with one or more of the explanatory variables\" <|split_2d|>\"The number of parameters to estimate may be large, resulting in a loss of degrees of freedom\" <|split_2d|>\"The fixed effects approach can only capture cross-sectional heterogeneity and not temporal variation in the dependent variable.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The number of parameters to estimate may be large, resulting in a loss of degrees of freedom",
+      "incorrect_answers": [
+        "The model is likely to be technical to estimate",
+        "The approach may not be valid if the composite error term is correlated with one or more of the explanatory variables",
+        "The fixed effects approach can only capture cross-sectional heterogeneity and not temporal variation in the dependent variable."
+      ]
+    }
+  },
+  {
+    "prompt": "Consider an identical situation to that of question 21, except that now a 2-sided alternative is used. What would now be the appropriate conclusion?<|start_2d|>\"H0 is rejected\" <|split_2d|>\"H0 is not rejected\" <|split_2d|>\"H1 is rejected\" <|split_2d|>\"There is insufficient information given in the question to reach a conclusion\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "H0 is rejected",
+      "incorrect_answers": [
+        "H0 is not rejected",
+        "H1 is rejected",
+        "There is insufficient information given in the question to reach a conclusion"
+      ]
+    }
+  },
+  {
+    "prompt": "The price of a house is best described as what type of number?<|start_2d|>\"Discrete\" <|split_2d|>\"Cardinal\" <|split_2d|>\"Ordinal\" <|split_2d|>\"Nominal\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Cardinal",
+      "incorrect_answers": [
+        "Discrete",
+        "Ordinal",
+        "Nominal"
+      ]
+    }
+  },
+  {
+    "prompt": "If a Johansen \"trace\" test for a null hypothesis of 2 cointegrating vectors is applied to a system containing 4 variables is conducted, which eigenvalues would be used in the test?<|start_2d|>\"All of them\" <|split_2d|>\"The largest 2\" <|split_2d|>\"The smallest 2\" <|split_2d|>\"The second largest\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The smallest 2",
+      "incorrect_answers": [
+        "All of them",
+        "The largest 2",
+        "The second largest"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements is true concerning variance decomposition analysis of VARs?\n\ni) Variance decompositions measure the impact of a unit shock to each of the variables on the VAR\n\nii) Variance decompositions can be thought of as measuring the proportion of the forecast error variance that is attributable to each variable\n\niii) The ordering of the variables is important for calculating impulse responses but not variance decompositions\n\niv) It is usual that most of the forecast error variance for a given variable is attributable to shocks to that variable<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(ii) and (iv) only",
+      "incorrect_answers": [
+        "(i) and (iii) only",
+        "(i), (ii), and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Suppose that we have estimated a GARCH model for daily equity returns, and we are interested in producing a 10-day forecast of the volatility (measured by the standard deviation of returns) for use in a value at risk model. How could such a forecast most validly be calculated?<|start_2d|>\"Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts and add them up\" <|split_2d|>\"Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts and add them up and take the square root\" <|split_2d|>\"Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts, take the square roots of each one and add them up\" <|split_2d|>\"Produce a 1-step ahead conditional variance forecast, take its square root and multiply it by the square root of 10\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts and add them up and take the square root",
+      "incorrect_answers": [
+        "Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts and add them up",
+        "Produce 1, 2, 3, ..., 10 step ahead conditional variance forecasts, take the square roots of each one and add them up",
+        "Produce a 1-step ahead conditional variance forecast, take its square root and multiply it by the square root of 10"
+      ]
+    }
+  },
+  {
+    "prompt": "Suppose that the value of $R^2$ for an estimated regression model is exactly zero. Which of the following are true?\n\ni) All coefficient estimates on the slopes will be zero\n\nii) The fitted line will be horizontal with respect to all of the explanatory variables\n\niii) The regression line has not explained any of the variability of y about its mean value\n\niv) The intercept coefficient estimate must be zero.<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i), (ii), and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "A white noise process will have\n\n(i) A zero mean\n\n(ii) A constant variance\n\n(iii) Autocovariances that are constant\n\n(iv) Autocovariances that are zero except at lag zero<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(ii) and (iv) only",
+      "incorrect_answers": [
+        "(i) and (iii) only",
+        "(i), (ii), and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements are true concerning the Box-Jenkins approach to diagnostic testing for ARMA models?\n\n(i) The tests will show whether the identified model is either too large or too small\n\n(ii) The tests involve checking the model residuals for autocorrelation, heteroscedasticity, and non-normality\n\n(iii) If the model suggested at the identification stage is appropriate, the acf and pacf for the residuals should show no additional structure\n\n(iv) If the model suggested at the identification stage is appropriate, the coefficients on the additional variables under the overfitting approach will be statistically insignificant<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(ii) and (iv) only",
+      "incorrect_answers": [
+        "(i) and (iii) only",
+        "(i), (ii), and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following would be a plausible response to a finding of residual non-normality?<|start_2d|>\"Use a logarithmic functional form instead of a linear one\" <|split_2d|>\"Add lags of the variables on the right hand side of the regression model\" <|split_2d|>\"Estimate the model in first differenced form\" <|split_2d|>\"Remove any large outliers from the data.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Remove any large outliers from the data.",
+      "incorrect_answers": [
+        "Use a logarithmic functional form instead of a linear one",
+        "Add lags of the variables on the right hand side of the regression model",
+        "Estimate the model in first differenced form"
+      ]
+    }
+  },
+  {
+    "prompt": "The fixed effects panel model is also sometimes known as<|start_2d|>\"A seemingly unrelated regression model\" <|split_2d|>\"The least squares dummy variables approach\" <|split_2d|>\"The random effects model\" <|split_2d|>\"Heteroscedasticity and autocorrelation consistent\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The least squares dummy variables approach",
+      "incorrect_answers": [
+        "A seemingly unrelated regression model",
+        "The random effects model",
+        "Heteroscedasticity and autocorrelation consistent"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements is TRUE concerning OLS estimation?<|start_2d|>\"OLS minimises the sum of the vertical distances from the points to the line\" <|split_2d|>\"OLS minimises the sum of the squares of the vertical distances from the points to the line\" <|split_2d|>\"OLS minimises the sum of the horizontal distances from the points to the line\" <|split_2d|>\"OLS minimises the sum of the squares of the horizontal distances from the points to the line.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "OLS minimises the sum of the squares of the vertical distances from the points to the line",
+      "incorrect_answers": [
+        "OLS minimises the sum of the vertical distances from the points to the line",
+        "OLS minimises the sum of the horizontal distances from the points to the line",
+        "OLS minimises the sum of the squares of the horizontal distances from the points to the line."
+      ]
+    }
+  },
+  {
+    "prompt": "If the standard tools for time-series analysis, such as estimation of the acf, pacf and spectral analysis, find no evidence of structure in the data, this implies that the data are which of the following?<|start_2d|>\"Normally distributed\" <|split_2d|>\"Uncorrelated\" <|split_2d|>\"Independent\" <|split_2d|>\"Fat-tailed\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Uncorrelated",
+      "incorrect_answers": [
+        "Normally distributed",
+        "Independent",
+        "Fat-tailed"
+      ]
+    }
+  },
+  {
+    "prompt": "If two variables, $x_t$ and $y_t$ are said to be cointegrated, which of the following statements are true?\n\ni) $x_t$ and $y_t$ must both be stationary\n\n\nii) Only one linear combination of $x_t$ and $y_t$ will be stationary\n\n\niii) The cointegrating equation for $x_t$ and $y_t$ describes the short-run relationship\n\nbetween the two series\n\n\niv) The residuals of a regression of $y_t$ on $x_t$ must be stationary<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(ii) and (iv) only",
+      "incorrect_answers": [
+        "(i) and (iii) only",
+        "(i), (ii), and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "A dependent variable whose values are not observable outside a certain range but where the corresponding values of the independent variables are still available would be most accurately described as what kind of variable?<|start_2d|>\"Censored\" <|split_2d|>\"Truncated\" <|split_2d|>\"Multinomial variable\" <|split_2d|>\"Discrete choice\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Censored",
+      "incorrect_answers": [
+        "Truncated",
+        "Multinomial variable",
+        "Discrete choice"
+      ]
+    }
+  },
+  {
+    "prompt": "A Hausman test would be used for<|start_2d|>\"Determining whether an equation that is part of a simultaneous system is identified\" <|split_2d|>\"Determining whether a simultaneous framework is needed for a particular variable\" <|split_2d|>\"Determining whether 2SLS or ILS is optimal\" <|split_2d|>\"Determining whether the structural form equations can be obtained via substitution from the reduced forms\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Determining whether a simultaneous framework is needed for a particular variable",
+      "incorrect_answers": [
+        "Determining whether an equation that is part of a simultaneous system is identified",
+        "Determining whether 2SLS or ILS is optimal",
+        "Determining whether the structural form equations can be obtained via substitution from the reduced forms"
+      ]
+    }
+  },
+  {
+    "prompt": "Under the matrix notation for the classical linear regression model, $y = X \\beta + u$, what are the dimensions of $u$?<|start_2d|>\"T x k\" <|split_2d|>\"T x 1\" <|split_2d|>\"k x 1\" <|split_2d|>\"1 x 1\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "T x 1",
+      "incorrect_answers": [
+        "T x k",
+        "k x 1",
+        "1 x 1"
+      ]
+    }
+  },
+  {
+    "prompt": "How many parameters will be required to be estimated in total for all equations of a standard form, unrestricted, tri-variate VAR(4), ignoring the intercepts?<|start_2d|>\"12\" <|split_2d|>\"4\" <|split_2d|>\"3\" <|split_2d|>\"36\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "36",
+      "incorrect_answers": [
+        "12",
+        "4",
+        "3"
+      ]
+    }
+  },
+  {
+    "prompt": "A researcher tests for structural stability in the following regression model:\n\n$y_t = \\beta_1 + \\beta_2 x_{2t} + \\beta_3 x_{3t} + u_t$\n\nThe total sample of 200 observations is split exactly in half for the sub-sample regressions. Which would be the unrestricted residual sum of squares?<|start_2d|>\"The RSS for the whole sample\" <|split_2d|>\"The RSS for the first sub-sample\" <|split_2d|>\"The RSS for the second sub-sample\" <|split_2d|>\"The sum of the RSS for the first and second sub-samples\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The sum of the RSS for the first and second sub-samples",
+      "incorrect_answers": [
+        "The RSS for the whole sample",
+        "The RSS for the first sub-sample",
+        "The RSS for the second sub-sample"
+      ]
+    }
+  },
+  {
+    "prompt": "Suppose that we are interested in testing the null hypothesis that a GARCH(2,2) model can be restricted to a process with a constant conditional variance using the likelihood ratio test approach. Which of the following statements are true?<|start_2d|>\"The test statistic will follow a chi-squared distribution with 2 degrees of freedom under the null hypothesis\" <|split_2d|>\"The value of the log-likelihood function will almost always be bigger for the restricted model than for the unrestricted model\" <|split_2d|>\"If the relevant values of the log-likelihood functions are -112.3 and -118.4, the value of the test statistic is 12.2\" <|split_2d|>\"The likelihood ratio test compares the slopes of the log-likelihood function at the maximum and at the restricted parameter value.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "If the relevant values of the log-likelihood functions are -112.3 and -118.4, the value of the test statistic is 12.2",
+      "incorrect_answers": [
+        "The test statistic will follow a chi-squared distribution with 2 degrees of freedom under the null hypothesis",
+        "The value of the log-likelihood function will almost always be bigger for the restricted model than for the unrestricted model",
+        "The likelihood ratio test compares the slopes of the log-likelihood function at the maximum and at the restricted parameter value."
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following is NOT a plausible remedy for near multicollinearity?<|start_2d|>\"Use principal components analysis\" <|split_2d|>\"Drop one of the collinear variables\" <|split_2d|>\"Use a longer run of data\" <|split_2d|>\"Take logarithms of each of the variables\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Take logarithms of each of the variables",
+      "incorrect_answers": [
+        "Use principal components analysis",
+        "Drop one of the collinear variables",
+        "Use a longer run of data"
+      ]
+    }
+  },
+  {
+    "prompt": "Consider the following AR(2) process:\n\nyt = 1.5 yt-1 - 0.5 yt-2 + ut\n\nThis is a<|start_2d|>\"Stationary process\" <|split_2d|>\"Unit root process\" <|split_2d|>\"Explosive process\" <|split_2d|>\"Stationary and unit root process\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Unit root process",
+      "incorrect_answers": [
+        "Stationary process",
+        "Explosive process",
+        "Stationary and unit root process"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following could be used as a test for autocorrelation up to third order?<|start_2d|>\"The Durbin Watson test\" <|split_2d|>\"White's test\" <|split_2d|>\"The RESET test\" <|split_2d|>\"The Breusch-Godfrey test\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The Breusch-Godfrey test",
+      "incorrect_answers": [
+        "The Durbin Watson test",
+        "White's test",
+        "The RESET test"
+      ]
+    }
+  },
+  {
+    "prompt": "The residual from a standard regression model is defined as<|start_2d|>\"The difference between the actual value, y, and the mean, y-bar\" <|split_2d|>\"The difference between the fitted value, y-hat, and the mean, y-bar\" <|split_2d|>\"The difference between the actual value, y, and the fitted value, y-hat\" <|split_2d|>\"The square of the difference between the fitted value, y-hat, and the mean, y-bar\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The difference between the actual value, y, and the fitted value, y-hat",
+      "incorrect_answers": [
+        "The difference between the actual value, y, and the mean, y-bar",
+        "The difference between the fitted value, y-hat, and the mean, y-bar",
+        "The square of the difference between the fitted value, y-hat, and the mean, y-bar"
+      ]
+    }
+  },
+  {
+    "prompt": "If OLS is applied separately to each equation that is part of a simultaneous system, the resulting estimates will be<|start_2d|>\"Unbiased and consistent\" <|split_2d|>\"Biased but consistent\" <|split_2d|>\"Biased and inconsistent\" <|split_2d|>\"It is impossible to apply OLS to equations that are part of a simultaneous system\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Biased and inconsistent",
+      "incorrect_answers": [
+        "Unbiased and consistent",
+        "Biased but consistent",
+        "It is impossible to apply OLS to equations that are part of a simultaneous system"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following is NOT an example of mis-specification of functional form?<|start_2d|>\"Using a linear specification when y scales as a function of the squares of x\" <|split_2d|>\"Using a linear specification when a double-logarithmic model would be more appropriate\" <|split_2d|>\"Modelling y as a function of x when in fact it scales as a function of 1/x\" <|split_2d|>\"Excluding a relevant variable from a linear regression model\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Excluding a relevant variable from a linear regression model",
+      "incorrect_answers": [
+        "Using a linear specification when y scales as a function of the squares of x",
+        "Using a linear specification when a double-logarithmic model would be more appropriate",
+        "Modelling y as a function of x when in fact it scales as a function of 1/x"
+      ]
+    }
+  },
+  {
+    "prompt": "Suppose that we wished to evaluate the factors that affected the probability that an investor would choose an equity fund rather than a bond fund or a cash investment. Which class of model would be most appropriate?<|start_2d|>\"A logit model\" <|split_2d|>\"A multinomial logit\" <|split_2d|>\"A tobit model\" <|split_2d|>\"An ordered logit model\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A multinomial logit",
+      "incorrect_answers": [
+        "A logit model",
+        "A tobit model",
+        "An ordered logit model"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements will be true if the number of replications used in a Monte Carlo study is small?\n\ni) The statistic of interest may be estimated imprecisely\n\n\nii) The results may be affected by unrepresentative combinations of random draws\n\n\niii) The standard errors on the estimated quantities may be unacceptably large\n\n\niv) Variance reduction techniques can be used to reduce the standard errors<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iv) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i), (ii), (iii), and (iv)",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii), and (iv) only"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a disadvantage of the random effects approach to estimating a panel model?<|start_2d|>\"The approach may not be valid if the composite error term is correlated with one or more of the explanatory variables\" <|split_2d|>\"The number of parameters to estimate may be large, resulting in a loss of degrees of freedom\" <|split_2d|>\"The random effects approach can only capture cross-sectional heterogeneity and not temporal variation in the dependent variable.\" <|split_2d|>\"All of (a) to (c) are potential disadvantages of the random effects approach.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The approach may not be valid if the composite error term is correlated with one or more of the explanatory variables",
+      "incorrect_answers": [
+        "The number of parameters to estimate may be large, resulting in a loss of degrees of freedom",
+        "The random effects approach can only capture cross-sectional heterogeneity and not temporal variation in the dependent variable.",
+        "All of (a) to (c) are potential disadvantages of the random effects approach."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following could result in autocorrelated residuals?\n\ni) Slowness of response of the dependent variable to changes in the values of the independent variables\n\nii) Over-reactions of the dependent variable to changes in the independent variables\n\niii) Omission of relevant explanatory variables that are autocorrelated\n\niv) Outliers in the data<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i), (ii), and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements are true concerning the acf and pacf?\n\n(i) The acf and pacf are often hard to interpret in practice\n\n(ii) The acf and pacf can be difficult to calculate for some data sets\n\n(iii) Information criteria represent an alternative approach to model order determination\n\n(iv) If applied correctly, the acf and pacf will always deliver unique model selections<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i), (ii), and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following conditions are necessary for a series to be classifiable as a weakly stationary process?\n\n(i) It must have a constant mean\n\n(ii) It must have a constant variance\n\n(iii) It must have constant autocovariances for given lags\n\n(iv) It must have a constant probability distribution<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i), (ii), and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Consider the following equation and determine the class of model that it best represents\n\n$y_{it} = \\alpha + \\beta_{it} + \\mu_i + \\nu_{it}$<|start_2d|>\"An entity fixed effects model\" <|split_2d|>\"A time fixed effects model\" <|split_2d|>\"A random effects model\" <|split_2d|>\"A pure time series model\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "An entity fixed effects model",
+      "incorrect_answers": [
+        "A time fixed effects model",
+        "A random effects model",
+        "A pure time series model"
+      ]
+    }
+  },
+  {
+    "prompt": "Note that statistical tables are not necessary to answer this question. For a sample of 1000 observations, the Dickey-Fuller test statistic values are<|start_2d|>\"More negative than (i.e. bigger in absolute value than) those in the left hand tail of a normal distribution\" <|split_2d|>\"Less negative than (i.e. smaller in absolute value than) those in the left hand tail of a normal distribution\" <|split_2d|>\"Obtained from an analytical formula for the density of the Dickey-Fuller distribution\" <|split_2d|>\"More negative (i.e. bigger in absolute value) for a 10% size of test than a 5% test.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "More negative than (i.e. bigger in absolute value than) those in the left hand tail of a normal distribution",
+      "incorrect_answers": [
+        "Less negative than (i.e. smaller in absolute value than) those in the left hand tail of a normal distribution",
+        "Obtained from an analytical formula for the density of the Dickey-Fuller distribution",
+        "More negative (i.e. bigger in absolute value) for a 10% size of test than a 5% test."
+      ]
+    }
+  },
+  {
+    "prompt": "Suppose that a hypothesis test is conducted using a 5% significance level. Which of the following statements are correct?\n\n(i) The significance level is equal to the size of the test\n\n(ii) The significance level is equal to the power of the test\n\n(iii) 2.5% of the total distribution will be in each tail rejection region for a 2-sided test\n\n(iv) 5% of the total distribution will be in each tail rejection region for a 2-sided test.<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i) and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i), (ii), and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following criticisms of the Dickey-Fuller/Engle-Granger approach to dealing with cointegrated variables is overcome by the Engle-Yoo (EY) procedure?<|start_2d|>\"In the context of small samples, Dickey Fuller tests are prone to conclude that there is a unit root in a series when there is not\" <|split_2d|>\"The Engle-Granger (EG) approach can only detect up to one cointegrating relationship even though there could be more than one\" <|split_2d|>\"The variables are treated asymmetrically in the cointegrating tests\" <|split_2d|>\"It is not possible to perform tests about the cointegrating relationship\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "It is not possible to perform tests about the cointegrating relationship",
+      "incorrect_answers": [
+        "In the context of small samples, Dickey Fuller tests are prone to conclude that there is a unit root in a series when there is not",
+        "The Engle-Granger (EG) approach can only detect up to one cointegrating relationship even though there could be more than one",
+        "The variables are treated asymmetrically in the cointegrating tests"
+      ]
+    }
+  },
+  {
+    "prompt": "Consider a series that follows an MA(1) with zero mean and a moving average coefficient of 0.4. What is the value of the autocovariance at lag 1?<|start_2d|>\"0.4\" <|split_2d|>\"1\" <|split_2d|>\"0.34\" <|split_2d|>\"It is not possible to determine the value of the autocovariances without knowing the disturbance variance.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "It is not possible to determine the value of the autocovariances without knowing the disturbance variance.",
+      "incorrect_answers": [
+        "0.4",
+        "1",
+        "0.34"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following estimation techniques are available for the estimation of over-identified systems of simultaneous equations?\n\ni) OLS\n\nii) ILS\n\niii) 2SLS\n\niv) IV<|start_2d|>\"(iii) only\" <|split_2d|>\"(iii) and (iv) only\" <|split_2d|>\"(ii), (iii), and (iv) only\" <|split_2d|>\"(i), (ii), (iii) and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(iii) and (iv) only",
+      "incorrect_answers": [
+        "(iii) only",
+        "(ii), (iii), and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following statements best describes a Type II error?<|start_2d|>\"It is the probability of incorrectly rejecting the null hypothesis\" <|split_2d|>\"It is equivalent to the power of the test\" <|split_2d|>\"It is equivalent to the size of the test\" <|split_2d|>\"It is the probability of failing to reject a null hypothesis that was wrong\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "It is the probability of failing to reject a null hypothesis that was wrong",
+      "incorrect_answers": [
+        "It is the probability of incorrectly rejecting the null hypothesis",
+        "It is equivalent to the power of the test",
+        "It is equivalent to the size of the test"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following would be the most appropriate as a 95% (two-sided) confidence interval for the intercept term of the model given in question 21?<|start_2d|>\"(-4.79,2.19)\" <|split_2d|>\"(-4.16,4.16)\" <|split_2d|>\"(-1.98,1.98)\" <|split_2d|>\"(-5.46,2.86)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(-5.46,2.86)",
+      "incorrect_answers": [
+        "(-4.79,2.19)",
+        "(-4.16,4.16)",
+        "(-1.98,1.98)"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following are characteristics of a stationary process?\n\ni) It crosses its mean value frequently\n\n\nii) It has constant mean and variance\n\n\niii) It contains no trend component\n\n\niv) It will be stationary in first difference form<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i), (ii), (iii), and (iv)",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii), and (iii) only"
+      ]
+    }
+  },
+  {
+    "prompt": "Consider again the VAR model of equation 16. Which of the following conditions must hold for it to be said that there is bi-directional feedback?<|start_2d|>\"The b and d coefficients significant and the a and c coefficients insignificant\" <|split_2d|>\"The a and c coefficients significant and the b and d coefficients insignificant\" <|split_2d|>\"The a and c coefficients significant\" <|split_2d|>\"The b and d coefficients significant\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The b and d coefficients significant",
+      "incorrect_answers": [
+        "The b and d coefficients significant and the a and c coefficients insignificant",
+        "The a and c coefficients significant and the b and d coefficients insignificant",
+        "The a and c coefficients significant"
+      ]
+    }
+  },
+  {
+    "prompt": "Consider the following sample autocorrelation estimates obtained using 250 data points:\n\n1) Lag 1 2 3\n\n2) Coefficient 0.2 -0.15 -0.1\n\n3) Assuming that the coefficients are approximately normally distributed, which of the coefficients are statistically significant at the 5% level?<|start_2d|>\"1 only\" <|split_2d|>\"1 and 2 only\" <|split_2d|>\"1, 2 and 3 only\" <|split_2d|>\"It is not possible to determine the statistical significance since no standard errors have been given\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "1 and 2 only",
+      "incorrect_answers": [
+        "1 only",
+        "1, 2 and 3 only",
+        "It is not possible to determine the statistical significance since no standard errors have been given"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following is examined by looking at a goodness of fit statistic?<|start_2d|>\"How well the population regression function fits the data\" <|split_2d|>\"How well the sample regression function fits the population regression function\" <|split_2d|>\"How well the sample regression function fits the data\" <|split_2d|>\"How well the population regression function fits the sample regression function.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "How well the sample regression function fits the data",
+      "incorrect_answers": [
+        "How well the population regression function fits the data",
+        "How well the sample regression function fits the population regression function",
+        "How well the population regression function fits the sample regression function."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements are correct concerning the use of antithetic variates as part of a Monte Carlo experiment?\n\ni) Antithetic variates work by reducing the number of replications required to cover the whole probability space\n\nii) Antithetic variates involve employing a similar variable to that used in the simulation, but whose properties are known analytically\n\niii) Antithetic variates involve using the negative of each of the random draws and repeating the experiment using those values as the draws\n\niv) Antithetic variates involve taking one over each of the random draws and repeating the experiment using those values as the draws<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iv) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i) and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i), (ii), and (iv) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following statements is true concerning alternative forecast accuracy measures?<|start_2d|>\"Mean squared error is usually highly correlated with trading rule profitability\" <|split_2d|>\"Mean absolute error provides a quadratic loss function\" <|split_2d|>\"Mean absolute percentage error is a useful measure for evaluating asset return forecasts\" <|split_2d|>\"Mean squared error penalises large forecast errors disproportionately more than small forecast errors\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Mean squared error penalises large forecast errors disproportionately more than small forecast errors",
+      "incorrect_answers": [
+        "Mean squared error is usually highly correlated with trading rule profitability",
+        "Mean absolute error provides a quadratic loss function",
+        "Mean absolute percentage error is a useful measure for evaluating asset return forecasts"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following criticisms of standard (\"plain vanilla\") GARCH models can be overcome by EGARCH models?\n\ni) Estimated coefficient values from GARCH models may be negative\n\nii) GARCH models cannot account for leverage effects\n\niii) The responsiveness of future volatility to positive and negative shocks is symmetric under a GARCH formulation\n\niv) GARCH models cannot allow for a feedback from the volatility to the returns<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i), (ii), and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  },
+  {
+    "prompt": "Suppose that 100 separate firms were tested to determine how many of them \"beat the market\" using a Jensen-type regression, and it is found that 3 fund managers significantly do so. Does this suggest prima facie evidence for stock market inefficiency?<|start_2d|>\"Yes\" <|split_2d|>\"No\" <|split_2d|>\"In order to answer this question, you would need to test every fund manager trading in that market\" <|split_2d|>\"There is insufficient information given in the question to draw a conclusion about market efficiency.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "No",
+      "incorrect_answers": [
+        "Yes",
+        "In order to answer this question, you would need to test every fund manager trading in that market",
+        "There is insufficient information given in the question to draw a conclusion about market efficiency."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following are advantages of the use of panel data over pure cross-sectional or pure time-series modelling?\n\n(i) The use of panel data can increase the number of degrees of freedom and therefore the power of tests\n\n(ii) The use of panel data allows the average value of the dependent variable to vary either cross-sectionally or over time or both\n\n(iii) The use of panel data enables the researcher allows the estimated relationship between the independent and dependent variables to vary either cross-sectionally or over time or both<|start_2d|>\"(i) only\" <|split_2d|>\"(i) and (ii) only\" <|split_2d|>\"(ii) only\" <|split_2d|>\"(i), (ii), and (iii)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i) and (ii) only",
+      "incorrect_answers": [
+        "(i) only",
+        "(ii) only",
+        "(i), (ii), and (iii)"
+      ]
+    }
+  },
+  {
+    "prompt": "If the Engle-Granger test is applied to the residuals of a potentially cointegrating regression, what would be the interpretation of the null hypothesis?<|start_2d|>\"The variables are cointegrated\" <|split_2d|>\"The variables are not cointegrated\" <|split_2d|>\"Both variables are stationary\" <|split_2d|>\"Both variables are non-stationary\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The variables are not cointegrated",
+      "incorrect_answers": [
+        "The variables are cointegrated",
+        "Both variables are stationary",
+        "Both variables are non-stationary"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements are true concerning the autocorrelation function (acf) and partial autocorrelation function (pacf)?\n\ni) The acf and pacf will always be identical at lag one whatever the model\n\nii) The pacf for an MA(q) model will in general be non-zero beyond lag q\n\niii) The pacf for an AR(p) model will be zero beyond lag p\n\niv) The acf and pacf will be the same at lag two for an MA(1) model<|start_2d|>\"(ii) and (iv) only\" <|split_2d|>\"(i) and (iii) only\" <|split_2d|>\"(i), (ii), and (iii) only\" <|split_2d|>\"(i), (ii), (iii), and (iv)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(i), (ii), and (iii) only",
+      "incorrect_answers": [
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (ii), (iii), and (iv)"
+      ]
+    }
+  }
+]

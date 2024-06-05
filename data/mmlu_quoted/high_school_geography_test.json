@@ -1,0 +1,2180 @@
+[
+  {
+    "prompt": "The main factor preventing subsistence economies from advancing economically is the lack of<|start_2d|>\"a currency.\" <|split_2d|>\"a well-connected transportation infrastructure.\" <|split_2d|>\"government activity.\" <|split_2d|>\"a banking service.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a well-connected transportation infrastructure.",
+      "incorrect_answers": [
+        "a currency.",
+        "government activity.",
+        "a banking service."
+      ]
+    }
+  },
+  {
+    "prompt": "The tendency for a population to continue to grow long after replacement fertility has been achieved is called<|start_2d|>\"zero population growth.\" <|split_2d|>\"rapid growth rate.\" <|split_2d|>\"homeostatic plateau.\" <|split_2d|>\"demographic momentum.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "demographic momentum.",
+      "incorrect_answers": [
+        "zero population growth.",
+        "rapid growth rate.",
+        "homeostatic plateau."
+      ]
+    }
+  },
+  {
+    "prompt": "The tendency for migration to decrease with distance is called<|start_2d|>\"push factors.\" <|split_2d|>\"pull factors.\" <|split_2d|>\"distance decay.\" <|split_2d|>\"migration selectivity.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "distance decay.",
+      "incorrect_answers": [
+        "push factors.",
+        "pull factors.",
+        "migration selectivity."
+      ]
+    }
+  },
+  {
+    "prompt": "Which zone contains low-income slums, ethnic ghettos, and general deterioration in Burgess's concentric zone model of urban form?<|start_2d|>\"First\" <|split_2d|>\"Second\" <|split_2d|>\"Third\" <|split_2d|>\"Fourth\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "First",
+      "incorrect_answers": [
+        "Second",
+        "Third",
+        "Fourth"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements is TRUE concerning women in the labor force?<|start_2d|>\"Most women work in agriculture\" <|split_2d|>\"The percentage of women economically active in the labor force declined worldwide\" <|split_2d|>\"The percentage of women in the total labor force declined\" <|split_2d|>\"Women spend more hours per day working than men in all regions except Anglo America and Australia\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Women spend more hours per day working than men in all regions except Anglo America and Australia",
+      "incorrect_answers": [
+        "Most women work in agriculture",
+        "The percentage of women economically active in the labor force declined worldwide",
+        "The percentage of women in the total labor force declined"
+      ]
+    }
+  },
+  {
+    "prompt": "All the following factors can be considered pull factors of migration EXCEPT<|start_2d|>\"safety.\" <|split_2d|>\"better climate.\" <|split_2d|>\"better schools.\" <|split_2d|>\"overcrowding.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "overcrowding.",
+      "incorrect_answers": [
+        "safety.",
+        "better climate.",
+        "better schools."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following countries does NOT have a well-known example of a relict boundary?<|start_2d|>\"Vietnam\" <|split_2d|>\"United Kingdom\" <|split_2d|>\"Germany\" <|split_2d|>\"Bolivia\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Bolivia",
+      "incorrect_answers": [
+        "Vietnam",
+        "United Kingdom",
+        "Germany"
+      ]
+    }
+  },
+  {
+    "prompt": "Which form of migration below are farm workers from another country most likely to be practicing during the year?<|start_2d|>\"Chain migration\" <|split_2d|>\"Cluster migration\" <|split_2d|>\"Circular migration\" <|split_2d|>\"International migration\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Circular migration",
+      "incorrect_answers": [
+        "Chain migration",
+        "Cluster migration",
+        "International migration"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a centrifugal force in a country?<|start_2d|>\"Religious differences\" <|split_2d|>\"A national holiday\" <|split_2d|>\"An attack by another country\" <|split_2d|>\"A charismatic national leader\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Religious differences",
+      "incorrect_answers": [
+        "A national holiday",
+        "An attack by another country",
+        "A charismatic national leader"
+      ]
+    }
+  },
+  {
+    "prompt": "Early settlements and high population density along coastlines and rivers are best attributed to which of the following?<|start_2d|>\"Mediterranean climate\" <|split_2d|>\"Limited forest cover\" <|split_2d|>\"Growth of manufacturing\" <|split_2d|>\"Access to trade routes\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Access to trade routes",
+      "incorrect_answers": [
+        "Mediterranean climate",
+        "Limited forest cover",
+        "Growth of manufacturing"
+      ]
+    }
+  },
+  {
+    "prompt": "The first stage of the demographic transition exhibits<|start_2d|>\"high birth rates with high but fluctuating death rates.\" <|split_2d|>\"declining birth rates with continuing high death rates.\" <|split_2d|>\"low birth rates with continuing high death rates.\" <|split_2d|>\"high birth rates with declining death rates.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "high birth rates with high but fluctuating death rates.",
+      "incorrect_answers": [
+        "declining birth rates with continuing high death rates.",
+        "low birth rates with continuing high death rates.",
+        "high birth rates with declining death rates."
+      ]
+    }
+  },
+  {
+    "prompt": "What is the population statistic that tells us the level of fertility at which a population will have just enough births to replace parents and compensate for early deaths?<|start_2d|>\"Crude birth rate\" <|split_2d|>\"Replacement level\" <|split_2d|>\"Mortality rate\" <|split_2d|>\"Total fertility rate\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Replacement level",
+      "incorrect_answers": [
+        "Crude birth rate",
+        "Mortality rate",
+        "Total fertility rate"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the most rapidly growing religion in the United States today?<|start_2d|>\"Islam\" <|split_2d|>\"Christianity\" <|split_2d|>\"Hinduism\" <|split_2d|>\"Buddhism\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Islam",
+      "incorrect_answers": [
+        "Christianity",
+        "Hinduism",
+        "Buddhism"
+      ]
+    }
+  },
+  {
+    "prompt": "The outlying area serviced by a urban center is referred to as a<|start_2d|>\"redline area.\" <|split_2d|>\"threshold.\" <|split_2d|>\"range.\" <|split_2d|>\"hinterland.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "hinterland.",
+      "incorrect_answers": [
+        "redline area.",
+        "threshold.",
+        "range."
+      ]
+    }
+  },
+  {
+    "prompt": "The best definition of an urban area is<|start_2d|>\"the central city and its developed areas.\" <|split_2d|>\"the central city and its surrounding suburbs.\" <|split_2d|>\"the central city and its hinterlands.\" <|split_2d|>\"the central city and the adjacent counties.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the central city and its surrounding suburbs.",
+      "incorrect_answers": [
+        "the central city and its developed areas.",
+        "the central city and its hinterlands.",
+        "the central city and the adjacent counties."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following religions developed first?<|start_2d|>\"Buddhism\" <|split_2d|>\"Christianity\" <|split_2d|>\"Islam\" <|split_2d|>\"Hinduism\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Hinduism",
+      "incorrect_answers": [
+        "Buddhism",
+        "Christianity",
+        "Islam"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following is NOT a characteristic of world cities?<|start_2d|>\"World cities contain the headquarters of many transnational corporations.\" <|split_2d|>\"World cities are well connected to secondary-level world cities.\" <|split_2d|>\"World cities contain many offices of multinational organizations.\" <|split_2d|>\"World cities are found only in the northern and western hemispheres.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "World cities are found only in the northern and western hemispheres.",
+      "incorrect_answers": [
+        "World cities contain the headquarters of many transnational corporations.",
+        "World cities are well connected to secondary-level world cities.",
+        "World cities contain many offices of multinational organizations."
+      ]
+    }
+  },
+  {
+    "prompt": "Which type of transportation system created the star-shaped city pattern?<|start_2d|>\"Highways to airports that link cities\" <|split_2d|>\"Interstate highways that link cities\" <|split_2d|>\"Beltways around cities\" <|split_2d|>\"Streetcar and trolley lines extending from the CBD\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Streetcar and trolley lines extending from the CBD",
+      "incorrect_answers": [
+        "Highways to airports that link cities",
+        "Interstate highways that link cities",
+        "Beltways around cities"
+      ]
+    }
+  },
+  {
+    "prompt": "In which urban US setting below would you expect to find planned communities?<|start_2d|>\"Ghettos\" <|split_2d|>\"Suburbs\" <|split_2d|>\"CBDs\" <|split_2d|>\"Transition zones\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Suburbs",
+      "incorrect_answers": [
+        "Ghettos",
+        "CBDs",
+        "Transition zones"
+      ]
+    }
+  },
+  {
+    "prompt": "The latitude and longitude coordinates of a place are an example of<|start_2d|>\"a formal region.\" <|split_2d|>\"a functional region.\" <|split_2d|>\"an absolute location.\" <|split_2d|>\"a relative location.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "an absolute location.",
+      "incorrect_answers": [
+        "a formal region.",
+        "a functional region.",
+        "a relative location."
+      ]
+    }
+  },
+  {
+    "prompt": "The voluntary association of three or more countries willing to give up some measure of sovereignty is called<|start_2d|>\"nationalism.\" <|split_2d|>\"devolution.\" <|split_2d|>\"supranationalism.\" <|split_2d|>\"complementarity.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "supranationalism.",
+      "incorrect_answers": [
+        "nationalism.",
+        "devolution.",
+        "complementarity."
+      ]
+    }
+  },
+  {
+    "prompt": "The key factor Thomas Malthus failed to recognize in his population theory was<|start_2d|>\"population is limited by their means of subsistence.\" <|split_2d|>\"all populations have the potential to increase more than the actual rate of increase.\" <|split_2d|>\"wars and famine inhibit population's reproductive capacity.\" <|split_2d|>\"technology's ability to raise the Earth's carrying capacity.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "technology's ability to raise the Earth's carrying capacity.",
+      "incorrect_answers": [
+        "population is limited by their means of subsistence.",
+        "all populations have the potential to increase more than the actual rate of increase.",
+        "wars and famine inhibit population's reproductive capacity."
+      ]
+    }
+  },
+  {
+    "prompt": "Which pair of religions are both universalizing religions?<|start_2d|>\"Islam and Judaism\" <|split_2d|>\"Judaism and Buddhism\" <|split_2d|>\"Hinduism and Buddhism\" <|split_2d|>\"Christianity and Buddhism\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Christianity and Buddhism",
+      "incorrect_answers": [
+        "Islam and Judaism",
+        "Judaism and Buddhism",
+        "Hinduism and Buddhism"
+      ]
+    }
+  },
+  {
+    "prompt": "Which urban model theorizes that high-rent residential areas grow outward from the center of the city along major highways with lower-rent inhabitants taking over sequentially?<|start_2d|>\"Concentric zone model\" <|split_2d|>\"Central place model\" <|split_2d|>\"Urban realms model\" <|split_2d|>\"Sector model\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Sector model",
+      "incorrect_answers": [
+        "Concentric zone model",
+        "Central place model",
+        "Urban realms model"
+      ]
+    }
+  },
+  {
+    "prompt": "When a country combines its religion with its government, it is called a<|start_2d|>\"dictatorship.\" <|split_2d|>\"theocracy.\" <|split_2d|>\"democracy.\" <|split_2d|>\"autocracy.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "theocracy.",
+      "incorrect_answers": [
+        "dictatorship.",
+        "democracy.",
+        "autocracy."
+      ]
+    }
+  },
+  {
+    "prompt": "What is the chief religion practiced in Europe?<|start_2d|>\"Christianity\" <|split_2d|>\"Islam\" <|split_2d|>\"Hinduism\" <|split_2d|>\"Animism\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Christianity",
+      "incorrect_answers": [
+        "Islam",
+        "Hinduism",
+        "Animism"
+      ]
+    }
+  },
+  {
+    "prompt": "Which group enacted the first effective settlement in the eastern United States?<|start_2d|>\"French\" <|split_2d|>\"British (English, Scotch-Irish, Welsh, Scottish)\" <|split_2d|>\"Russian\" <|split_2d|>\"Chinese\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "British (English, Scotch-Irish, Welsh, Scottish)",
+      "incorrect_answers": [
+        "French",
+        "Russian",
+        "Chinese"
+      ]
+    }
+  },
+  {
+    "prompt": "A population pyramid, or age-sex structure, displays all the following information about a country's population EXCEPT<|start_2d|>\"future social spending needs of the population.\" <|split_2d|>\"the impact of 'baby booms' on the population.\" <|split_2d|>\"the impact of wars on the population.\" <|split_2d|>\"a quick visual depiction of the country's demographics.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the impact of \"baby booms\" on the population.",
+      "incorrect_answers": [
+        "future social spending needs of the population.",
+        "the impact of wars on the population.",
+        "a quick visual depiction of the country's demographics."
+      ]
+    }
+  },
+  {
+    "prompt": "The Rhine River is an example of which type of boundary?<|start_2d|>\"Geometric\" <|split_2d|>\"Artificial\" <|split_2d|>\"Natural\" <|split_2d|>\"Relict\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Natural",
+      "incorrect_answers": [
+        "Geometric",
+        "Artificial",
+        "Relict"
+      ]
+    }
+  },
+  {
+    "prompt": "Which type of economic activity is most closely tied to the physical environment?<|start_2d|>\"Primary\" <|split_2d|>\"Secondary\" <|split_2d|>\"Tertiary\" <|split_2d|>\"Quaternary\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Primary",
+      "incorrect_answers": [
+        "Secondary",
+        "Tertiary",
+        "Quaternary"
+      ]
+    }
+  },
+  {
+    "prompt": "The majority of workers in periphery countries are probably employed in which type of activities?<|start_2d|>\"Primary\" <|split_2d|>\"Secondary\" <|split_2d|>\"Tertiary\" <|split_2d|>\"Quaternary\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Primary",
+      "incorrect_answers": [
+        "Secondary",
+        "Tertiary",
+        "Quaternary"
+      ]
+    }
+  },
+  {
+    "prompt": "All of the following are non-basic jobs in the city EXCEPT<|start_2d|>\"city firefighter.\" <|split_2d|>\"social worker.\" <|split_2d|>\"dry cleaner.\" <|split_2d|>\"garment factory worker.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "garment factory worker.",
+      "incorrect_answers": [
+        "city firefighter.",
+        "social worker.",
+        "dry cleaner."
+      ]
+    }
+  },
+  {
+    "prompt": "Transnational corporations distribute their operations<|start_2d|>\"manufacturing goods where production costs are the highest.\" <|split_2d|>\"conducting accounting and research services where economical.\" <|split_2d|>\"based on comparative advantage.\" <|split_2d|>\"with headquarters located in LDCs.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "based on comparative advantage.",
+      "incorrect_answers": [
+        "manufacturing goods where production costs are the highest.",
+        "conducting accounting and research services where economical.",
+        "with headquarters located in LDCs."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is LEAST associated with the development of alluvial landscapes?<|start_2d|>\"A deep cover of loose materials\" <|split_2d|>\"A predominance of gentle slopes\" <|split_2d|>\"Frequent flooding\" <|split_2d|>\"Deep dissection and erosion\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Deep dissection and erosion",
+      "incorrect_answers": [
+        "A deep cover of loose materials",
+        "A predominance of gentle slopes",
+        "Frequent flooding"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is LEAST self-sufficient in the natural resources needed for modern industry?<|start_2d|>\"United States\" <|split_2d|>\"Japan\" <|split_2d|>\"France\" <|split_2d|>\"United Kingdom\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Japan",
+      "incorrect_answers": [
+        "United States",
+        "France",
+        "United Kingdom"
+      ]
+    }
+  },
+  {
+    "prompt": "One of the effects of the east\u2013west orientation of the Alpine mountain system and the northern plains of western and central Europe is that it<|start_2d|>\"limits the marine climate of Europe to coastal areas\" <|split_2d|>\"provides a corridor for communication between southern and northern Europe\" <|split_2d|>\"enables marine-like climatic conditions to extend eastward into Germany and Poland\" <|split_2d|>\"effectively prevents population movement between parts of the Mediterranean region\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "enables marine-like climatic conditions to extend eastward into Germany and Poland",
+      "incorrect_answers": [
+        "limits the marine climate of Europe to coastal areas",
+        "provides a corridor for communication between southern and northern Europe",
+        "effectively prevents population movement between parts of the Mediterranean region"
+      ]
+    }
+  },
+  {
+    "prompt": "The largest Hindu temple complex ever constructed is found in<|start_2d|>\"Calcutta.\" <|split_2d|>\"Bombay.\" <|split_2d|>\"Cambodia.\" <|split_2d|>\"Bali.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Cambodia.",
+      "incorrect_answers": [
+        "Calcutta.",
+        "Bombay.",
+        "Bali."
+      ]
+    }
+  },
+  {
+    "prompt": "Which term describes the forces that unify and strengthen a country?<|start_2d|>\"Diffusion\" <|split_2d|>\"Centrifugal\" <|split_2d|>\"Centripetal\" <|split_2d|>\"Ethnocentric\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Centripetal",
+      "incorrect_answers": [
+        "Diffusion",
+        "Centrifugal",
+        "Ethnocentric"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following statements best describes an application of the S-curve?<|start_2d|>\"Graph of the Bantu migration\" <|split_2d|>\"Graph of the growth of human populations since their first appearance on Earth\" <|split_2d|>\"The chart showing how cities associate with one another based on their population sizes\" <|split_2d|>\"A model showing the decrease in population growth for several countries after they industrialize\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A model showing the decrease in population growth for several countries after they industrialize",
+      "incorrect_answers": [
+        "Graph of the Bantu migration",
+        "Graph of the growth of human populations since their first appearance on Earth",
+        "The chart showing how cities associate with one another based on their population sizes"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following items is NOT a challenge to the state?<|start_2d|>\"Transnational corporations\" <|split_2d|>\"EU\" <|split_2d|>\"World Trade Organization\" <|split_2d|>\"Good transportation network\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Good transportation network",
+      "incorrect_answers": [
+        "Transnational corporations",
+        "EU",
+        "World Trade Organization"
+      ]
+    }
+  },
+  {
+    "prompt": "National sports teams, flags, national anthems, and national holidays all promote<|start_2d|>\"nationalism.\" <|split_2d|>\"sectarianism.\" <|split_2d|>\"political unrest.\" <|split_2d|>\"functional disputes.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "nationalism.",
+      "incorrect_answers": [
+        "sectarianism.",
+        "political unrest.",
+        "functional disputes."
+      ]
+    }
+  },
+  {
+    "prompt": "The process whereby immigrants learn the values, language, and customs of their new country is called<|start_2d|>\"assimilation.\" <|split_2d|>\"acculturation.\" <|split_2d|>\"adaptation.\" <|split_2d|>\"amalgamation.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "acculturation.",
+      "incorrect_answers": [
+        "assimilation.",
+        "adaptation.",
+        "amalgamation."
+      ]
+    }
+  },
+  {
+    "prompt": "On which of the following can one most accurately depict true geographical distance, true direction, true size, and true shape?<|start_2d|>\"A Mercator projection\" <|split_2d|>\"A globe\" <|split_2d|>\"A conic projection\" <|split_2d|>\"A gnomonic projection\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A globe",
+      "incorrect_answers": [
+        "A Mercator projection",
+        "A conic projection",
+        "A gnomonic projection"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following could be considered a higher-order central place function?<|start_2d|>\"Winn-Dixie grocery store\" <|split_2d|>\"Mercedes-Benz dealership\" <|split_2d|>\"Shoe store\" <|split_2d|>\"Family doctor\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Mercedes-Benz dealership",
+      "incorrect_answers": [
+        "Winn-Dixie grocery store",
+        "Shoe store",
+        "Family doctor"
+      ]
+    }
+  },
+  {
+    "prompt": "Which geographer viewed the US urban community of the 1920s as a set of concentric rings radiating outward from a central core?<|start_2d|>\"Rostow\" <|split_2d|>\"Ravenstein\" <|split_2d|>\"Von Th\u00fcnen\" <|split_2d|>\"Burgess\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Burgess",
+      "incorrect_answers": [
+        "Rostow",
+        "Ravenstein",
+        "Von Th\u00fcnen"
+      ]
+    }
+  },
+  {
+    "prompt": "To get to school in the morning, we ALL use this as our guide:<|start_2d|>\"Rand-McNally Road Atlas.\" <|split_2d|>\"world globe.\" <|split_2d|>\"road map.\" <|split_2d|>\"mental map.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "mental map.",
+      "incorrect_answers": [
+        "Rand-McNally Road Atlas.",
+        "world globe.",
+        "road map."
+      ]
+    }
+  },
+  {
+    "prompt": "Of these, the map using the smallest map scale would be the map of<|start_2d|>\"the world.\" <|split_2d|>\"Atlanta, Georgia.\" <|split_2d|>\"Main Street, Small Town, Ohio.\" <|split_2d|>\"Pennsylvania.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the world.",
+      "incorrect_answers": [
+        "Atlanta, Georgia.",
+        "Main Street, Small Town, Ohio.",
+        "Pennsylvania."
+      ]
+    }
+  },
+  {
+    "prompt": "An earlier boundary formed before meticulous geographic knowledge and mapping was available is known as<|start_2d|>\"an antecedent boundary.\" <|split_2d|>\"a geometric boundary.\" <|split_2d|>\"a relict boundary.\" <|split_2d|>\"a subsequent boundary.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "an antecedent boundary.",
+      "incorrect_answers": [
+        "a geometric boundary.",
+        "a relict boundary.",
+        "a subsequent boundary."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following jobs is in the non-basic employment sector?<|start_2d|>\"Software engineer\" <|split_2d|>\"F-10 pickup truck assembly-line worker\" <|split_2d|>\"Oil refinery worker\" <|split_2d|>\"Parking lot attendant\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Parking lot attendant",
+      "incorrect_answers": [
+        "Software engineer",
+        "F-10 pickup truck assembly-line worker",
+        "Oil refinery worker"
+      ]
+    }
+  },
+  {
+    "prompt": "In which of the following regions is subsistence agriculture being replaced by large-scale commercial development?<|start_2d|>\"The Swiss Alps\" <|split_2d|>\"The Amazon Basin\" <|split_2d|>\"North Africa\" <|split_2d|>\"The Alaskan tundra\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The Amazon Basin",
+      "incorrect_answers": [
+        "The Swiss Alps",
+        "North Africa",
+        "The Alaskan tundra"
+      ]
+    }
+  },
+  {
+    "prompt": "A strong movement away from all religions is called<|start_2d|>\"secularism.\" <|split_2d|>\"heathenism.\" <|split_2d|>\"sacrilege.\" <|split_2d|>\"nationalism.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "secularism.",
+      "incorrect_answers": [
+        "heathenism.",
+        "sacrilege.",
+        "nationalism."
+      ]
+    }
+  },
+  {
+    "prompt": "Regions share all of these characteristics EXCEPT<|start_2d|>\"boundaries.\" <|split_2d|>\"common features.\" <|split_2d|>\"relative location.\" <|split_2d|>\"easily defined.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "easily defined.",
+      "incorrect_answers": [
+        "boundaries.",
+        "common features.",
+        "relative location."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following U.S. main immigration flow associations is NOT correct?<|start_2d|>\"Pioneer settlement to 1870\u2014Germans, British, Scotch-Irish, Africans\" <|split_2d|>\"1870\u20131914\u2014Asians\" <|split_2d|>\"1870\u20131914\u2014Eastern and southern Europeans\" <|split_2d|>\"1965\u2013present\u2014Hispanics\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "1870\u20131914\u2014Asians",
+      "incorrect_answers": [
+        "Pioneer settlement to 1870\u2014Germans, British, Scotch-Irish, Africans",
+        "1870\u20131914\u2014Eastern and southern Europeans",
+        "1965\u2013present\u2014Hispanics"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the statements below is characteristic of most African cities?<|start_2d|>\"They have thriving, clean residential areas.\" <|split_2d|>\"There are jobs for most rural-to-urban migrants.\" <|split_2d|>\"They have three separate business districts.\" <|split_2d|>\"They have a well-developed infrastructure.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "They have three separate business districts.",
+      "incorrect_answers": [
+        "They have thriving, clean residential areas.",
+        "There are jobs for most rural-to-urban migrants.",
+        "They have a well-developed infrastructure."
+      ]
+    }
+  },
+  {
+    "prompt": "Which country faces a serious trade disadvantage due to its location?<|start_2d|>\"Singapore\" <|split_2d|>\"Italy\" <|split_2d|>\"Spain\" <|split_2d|>\"Mongolia\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Mongolia",
+      "incorrect_answers": [
+        "Singapore",
+        "Italy",
+        "Spain"
+      ]
+    }
+  },
+  {
+    "prompt": "In which zone of Burgess's concentric zone model would one find better houses, single-family homes, and higher-rent apartments?<|start_2d|>\"First\" <|split_2d|>\"Second\" <|split_2d|>\"Third\" <|split_2d|>\"Fourth\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Third",
+      "incorrect_answers": [
+        "First",
+        "Second",
+        "Fourth"
+      ]
+    }
+  },
+  {
+    "prompt": "The theory that every society develops economically according to a five-stage pattern of growth is attributed to<|start_2d|>\"Rostow.\" <|split_2d|>\"Ravenstein.\" <|split_2d|>\"von Th\u00fcnen.\" <|split_2d|>\"Burgess.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Rostow.",
+      "incorrect_answers": [
+        "Ravenstein.",
+        "von Th\u00fcnen.",
+        "Burgess."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following would NOT be considered a barrier to diffusion of a cultural trait?<|start_2d|>\"Language\" <|split_2d|>\"Religion\" <|split_2d|>\"Oceans\" <|split_2d|>\"Tolerant complaisant citizens\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Tolerant complaisant citizens",
+      "incorrect_answers": [
+        "Language",
+        "Religion",
+        "Oceans"
+      ]
+    }
+  },
+  {
+    "prompt": "The process of invasion and succession is a process involving migration and is best described as when<|start_2d|>\"new residents tear down and rebuild housing units.\" <|split_2d|>\"new residents live peacefully with old residents.\" <|split_2d|>\"new residents assimilate with old residents completely.\" <|split_2d|>\"new residents move into areas occupied by older resident groups.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "new residents move into areas occupied by older resident groups.",
+      "incorrect_answers": [
+        "new residents tear down and rebuild housing units.",
+        "new residents live peacefully with old residents.",
+        "new residents assimilate with old residents completely."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following best illustrates the definition of a functional region?<|start_2d|>\"A map showing Atlanta as a hub for Delta Airlines\" <|split_2d|>\"An article describing the region referred to as the South\" <|split_2d|>\"A map showing North Carolina's one hundred counties\" <|split_2d|>\"An essay explaining the region known as the Bible Belt\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A map showing Atlanta as a hub for Delta Airlines",
+      "incorrect_answers": [
+        "An article describing the region referred to as the South",
+        "A map showing North Carolina's one hundred counties",
+        "An essay explaining the region known as the Bible Belt"
+      ]
+    }
+  },
+  {
+    "prompt": "New stores opening around a large shopping mall reflect which concept?<|start_2d|>\"Gravity concept\" <|split_2d|>\"Distance decay\" <|split_2d|>\"Complementarity\" <|split_2d|>\"Movement bias\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Movement bias",
+      "incorrect_answers": [
+        "Gravity concept",
+        "Distance decay",
+        "Complementarity"
+      ]
+    }
+  },
+  {
+    "prompt": "The birth of an urban industrial workforce in Europe contributed to the start of the<|start_2d|>\"First Agricultural Revolution.\" <|split_2d|>\"Second Agricultural Revolution.\" <|split_2d|>\"Third Agricultural Revolution.\" <|split_2d|>\"Fourth Agricultural Revolution.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Second Agricultural Revolution.",
+      "incorrect_answers": [
+        "First Agricultural Revolution.",
+        "Third Agricultural Revolution.",
+        "Fourth Agricultural Revolution."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements about East Asia's industrial regions is true?<|start_2d|>\"Japan has a rich natural resource base.\" <|split_2d|>\"China lacks natural resources but has a massive labor force.\" <|split_2d|>\"China is industrializing rapidly.\" <|split_2d|>\"Taiwan lacks industrial enterprise and an educated workforce.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "China is industrializing rapidly.",
+      "incorrect_answers": [
+        "Japan has a rich natural resource base.",
+        "China lacks natural resources but has a massive labor force.",
+        "Taiwan lacks industrial enterprise and an educated workforce."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements best describes the United Nations?<|start_2d|>\"The UN operates a worldwide police force.\" <|split_2d|>\"Member states surrender sovereignty to the UN.\" <|split_2d|>\"World laws are enforced by the UN.\" <|split_2d|>\"The UN often practices interventionism in world conflicts.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The UN often practices interventionism in world conflicts.",
+      "incorrect_answers": [
+        "The UN operates a worldwide police force.",
+        "Member states surrender sovereignty to the UN.",
+        "World laws are enforced by the UN."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a formal region?<|start_2d|>\"Dixie\" <|split_2d|>\"Pennsylvania\" <|split_2d|>\"The market area of Winn-Dixie\" <|split_2d|>\"The Pacific Northwest\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Pennsylvania",
+      "incorrect_answers": [
+        "Dixie",
+        "The market area of Winn-Dixie",
+        "The Pacific Northwest"
+      ]
+    }
+  },
+  {
+    "prompt": "The concentration of production activities and people spatially to benefit everyone is called<|start_2d|>\"the substitution principle.\" <|split_2d|>\"deglomeration.\" <|split_2d|>\"agglomeration.\" <|split_2d|>\"infrastructure.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "agglomeration.",
+      "incorrect_answers": [
+        "the substitution principle.",
+        "deglomeration.",
+        "infrastructure."
+      ]
+    }
+  },
+  {
+    "prompt": "Which language family contains Italian, Spanish, Portuguese, and Romanian?<|start_2d|>\"European\" <|split_2d|>\"Slavic\" <|split_2d|>\"Germanic\" <|split_2d|>\"Romance\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Romance",
+      "incorrect_answers": [
+        "European",
+        "Slavic",
+        "Germanic"
+      ]
+    }
+  },
+  {
+    "prompt": "Ankara, Turkey and Islamabad, Pakistan are both examples of<|start_2d|>\"desert cities.\" <|split_2d|>\"forward-thrust capitals.\" <|split_2d|>\"old colonial capitals.\" <|split_2d|>\"rival cities.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "forward-thrust capitals.",
+      "incorrect_answers": [
+        "desert cities.",
+        "old colonial capitals.",
+        "rival cities."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is NOT an example of syncretism?<|start_2d|>\"Halloween\" <|split_2d|>\"Foreign cuisine changed to suit American tastes\" <|split_2d|>\"Hasidic Judaism\" <|split_2d|>\"Catholicism in Louisiana\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Hasidic Judaism",
+      "incorrect_answers": [
+        "Halloween",
+        "Foreign cuisine changed to suit American tastes",
+        "Catholicism in Louisiana"
+      ]
+    }
+  },
+  {
+    "prompt": "The theory that whoever controlled the landmass of Europe would rule the world is called the<|start_2d|>\"devolution theory.\" <|split_2d|>\"domino theory.\" <|split_2d|>\"heartland theory.\" <|split_2d|>\"rimland theory.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "heartland theory.",
+      "incorrect_answers": [
+        "devolution theory.",
+        "domino theory.",
+        "rimland theory."
+      ]
+    }
+  },
+  {
+    "prompt": "Which group represents the Persian (Iranian) variation of Islam and believes in the infallibility and divine right to authority of the Imams descended from Ali?<|start_2d|>\"Sunni\" <|split_2d|>\"Shiite\" <|split_2d|>\"Imam\" <|split_2d|>\"Untouchables\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Shiite",
+      "incorrect_answers": [
+        "Sunni",
+        "Imam",
+        "Untouchables"
+      ]
+    }
+  },
+  {
+    "prompt": "The multiplier effect is<|start_2d|>\"the addition of non-basic workers to an urban economy that has added more basic workers.\" <|split_2d|>\"a ratio of urban to rural workers in an economy.\" <|split_2d|>\"the ratio of city workers to farm workers in an economy.\" <|split_2d|>\"the addition of rural jobs created by the urban economy.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the addition of non-basic workers to an urban economy that has added more basic workers.",
+      "incorrect_answers": [
+        "a ratio of urban to rural workers in an economy.",
+        "the ratio of city workers to farm workers in an economy.",
+        "the addition of rural jobs created by the urban economy."
+      ]
+    }
+  },
+  {
+    "prompt": "The sacred book of the Hindu is called the<|start_2d|>\"Talmud.\" <|split_2d|>\"Bible.\" <|split_2d|>\"Torah.\" <|split_2d|>\"Veda.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Veda.",
+      "incorrect_answers": [
+        "Talmud.",
+        "Bible.",
+        "Torah."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a distinct characteristic of an East European city?<|start_2d|>\"A central park\" <|split_2d|>\"Prominent religious buildings\" <|split_2d|>\"A large central square surrounded by government and administrative buildings\" <|split_2d|>\"Luxury apartment buildings\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A large central square surrounded by government and administrative buildings",
+      "incorrect_answers": [
+        "A central park",
+        "Prominent religious buildings",
+        "Luxury apartment buildings"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following countries is actively trying to preserve the purity of their native language from contamination by English or other languages?<|start_2d|>\"Italy\" <|split_2d|>\"Russia\" <|split_2d|>\"Japan\" <|split_2d|>\"Brazil\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Japan",
+      "incorrect_answers": [
+        "Italy",
+        "Russia",
+        "Brazil"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is an example of a bulk-gaining industry?<|start_2d|>\"Steel\" <|split_2d|>\"Bottled orange juice\" <|split_2d|>\"Paper\" <|split_2d|>\"Copper\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Bottled orange juice",
+      "incorrect_answers": [
+        "Steel",
+        "Paper",
+        "Copper"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is NOT a feature of an export processing zone (EPZ)?<|start_2d|>\"Tariff reductions on exports\" <|split_2d|>\"Raw materials imported duty-free\" <|split_2d|>\"Exemption from customs duties\" <|split_2d|>\"Strict pollution regulations\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Strict pollution regulations",
+      "incorrect_answers": [
+        "Tariff reductions on exports",
+        "Raw materials imported duty-free",
+        "Exemption from customs duties"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following characteristics is NOT true of a state?<|start_2d|>\"Independent territory\" <|split_2d|>\"Internationally recognized\" <|split_2d|>\"Boundaries\" <|split_2d|>\"A national language\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A national language",
+      "incorrect_answers": [
+        "Independent territory",
+        "Internationally recognized",
+        "Boundaries"
+      ]
+    }
+  },
+  {
+    "prompt": "You are planning to move from your hometown to Pittsburgh. Along the way, you stop in Columbus, Ohio to visit a relative and fall in love with the city! You decide to stay and make Columbus your new home. This is an example of<|start_2d|>\"intervening opportunity.\" <|split_2d|>\"distance decay.\" <|split_2d|>\"involuntary migration.\" <|split_2d|>\"push-pull factors.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "intervening opportunity.",
+      "incorrect_answers": [
+        "distance decay.",
+        "involuntary migration.",
+        "push-pull factors."
+      ]
+    }
+  },
+  {
+    "prompt": "A large node of office and commercial land use outside the central city with more jobs than residents is a(n)<|start_2d|>\"suburb.\" <|split_2d|>\"primate city.\" <|split_2d|>\"town.\" <|split_2d|>\"edge city.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "edge city.",
+      "incorrect_answers": [
+        "suburb.",
+        "primate city.",
+        "town."
+      ]
+    }
+  },
+  {
+    "prompt": "Which crop began the Third Agricultural Revolution?<|start_2d|>\"Rice\" <|split_2d|>\"Wheat\" <|split_2d|>\"Barley\" <|split_2d|>\"Millet\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Rice",
+      "incorrect_answers": [
+        "Wheat",
+        "Barley",
+        "Millet"
+      ]
+    }
+  },
+  {
+    "prompt": "Which factor in the last quarter century greatly destabilized Eastern Europe and led to ethnic conflict?<|start_2d|>\"The introduction of new languages\" <|split_2d|>\"The end of the Cold War\" <|split_2d|>\"The invasion by the Soviets\" <|split_2d|>\"The acceptance of many Eastern European countries into the EU\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The end of the Cold War",
+      "incorrect_answers": [
+        "The introduction of new languages",
+        "The invasion by the Soviets",
+        "The acceptance of many Eastern European countries into the EU"
+      ]
+    }
+  },
+  {
+    "prompt": "If I wanted to ship a small piece of very valuable jewelry to my aunt who lives in Poughkeepsie, which mode of transportation makes the most sense?<|start_2d|>\"Truck\" <|split_2d|>\"Air\" <|split_2d|>\"Ship\" <|split_2d|>\"Railroad\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Air",
+      "incorrect_answers": [
+        "Truck",
+        "Ship",
+        "Railroad"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a functional region?<|start_2d|>\"Dixie\" <|split_2d|>\"Pennsylvania\" <|split_2d|>\"The market area of Winn-Dixie\" <|split_2d|>\"The Pacific Northwest\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The market area of Winn-Dixie",
+      "incorrect_answers": [
+        "Dixie",
+        "Pennsylvania",
+        "The Pacific Northwest"
+      ]
+    }
+  },
+  {
+    "prompt": "Which type of city model contains a distinct residential spine proceeding outward from center city along the main boulevard?<|start_2d|>\"European\" <|split_2d|>\"Muslim\" <|split_2d|>\"Sub-Saharan African\" <|split_2d|>\"Latin American\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Latin American",
+      "incorrect_answers": [
+        "European",
+        "Muslim",
+        "Sub-Saharan African"
+      ]
+    }
+  },
+  {
+    "prompt": "What family do most European languages belong to?<|start_2d|>\"Ural-Altaic\" <|split_2d|>\"Basque\" <|split_2d|>\"Indo-European\" <|split_2d|>\"Phoenician\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Indo-European",
+      "incorrect_answers": [
+        "Ural-Altaic",
+        "Basque",
+        "Phoenician"
+      ]
+    }
+  },
+  {
+    "prompt": "What do the terms apartheid, ethnic cleansing, and integration all have in common?<|start_2d|>\"They all occurred in Nazi Germany during World War I.\" <|split_2d|>\"They are all forms of residential segregation.\" <|split_2d|>\"They are all ways to integrate different ethnic populations in neighborhoods.\" <|split_2d|>\"They are different expressions for the same concept.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "They are all forms of residential segregation.",
+      "incorrect_answers": [
+        "They all occurred in Nazi Germany during World War I.",
+        "They are all ways to integrate different ethnic populations in neighborhoods.",
+        "They are different expressions for the same concept."
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the statements below correctly describes immigrants living in Europe?<|start_2d|>\"Most find citizenship easy to get in host countries.\" <|split_2d|>\"Muslims immigrants from North Africa are well integrated in France.\" <|split_2d|>\"Immigrants to European cities rarely bring their families.\" <|split_2d|>\"They are usually restricted to certain neighborhoods.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "They are usually restricted to certain neighborhoods.",
+      "incorrect_answers": [
+        "Most find citizenship easy to get in host countries.",
+        "Muslims immigrants from North Africa are well integrated in France.",
+        "Immigrants to European cities rarely bring their families."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following activities are NOT secondary economic activities?<|start_2d|>\"Assembling automotive parts\" <|split_2d|>\"Sewing shirts\" <|split_2d|>\"Mining copper\" <|split_2d|>\"Binding books\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Mining copper",
+      "incorrect_answers": [
+        "Assembling automotive parts",
+        "Sewing shirts",
+        "Binding books"
+      ]
+    }
+  },
+  {
+    "prompt": "Johnny and Susie are moving to Scotland to renovate and live in the family castle. What makes their move a migration?<|start_2d|>\"They are crossing another country's borders.\" <|split_2d|>\"They are not taking anything with them.\" <|split_2d|>\"They are moving permanently.\" <|split_2d|>\"They will be gone more than one year.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "They are moving permanently.",
+      "incorrect_answers": [
+        "They are crossing another country's borders.",
+        "They are not taking anything with them.",
+        "They will be gone more than one year."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following entities is a state?<|start_2d|>\"Antarctica\" <|split_2d|>\"American Samoa\" <|split_2d|>\"Egypt\" <|split_2d|>\"Marshall Islands\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Egypt",
+      "incorrect_answers": [
+        "Antarctica",
+        "American Samoa",
+        "Marshall Islands"
+      ]
+    }
+  },
+  {
+    "prompt": "What is the most abundant fossil fuel?<|start_2d|>\"Phosphate\" <|split_2d|>\"Oil\" <|split_2d|>\"Petroleum\" <|split_2d|>\"Coal\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Coal",
+      "incorrect_answers": [
+        "Phosphate",
+        "Oil",
+        "Petroleum"
+      ]
+    }
+  },
+  {
+    "prompt": "A rejection of or indifference to religion in a country is called<|start_2d|>\"polytheism.\" <|split_2d|>\"animism.\" <|split_2d|>\"secularism.\" <|split_2d|>\"monotheism.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "secularism.",
+      "incorrect_answers": [
+        "polytheism.",
+        "animism.",
+        "monotheism."
+      ]
+    }
+  },
+  {
+    "prompt": "In a postindustrial economy, which of the following resources is considered most important to increase productivity?<|start_2d|>\"Energy\" <|split_2d|>\"Labor\" <|split_2d|>\"Information\" <|split_2d|>\"Specialization\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Information",
+      "incorrect_answers": [
+        "Energy",
+        "Labor",
+        "Specialization"
+      ]
+    }
+  },
+  {
+    "prompt": "A city that is more than twice as large as the next largest city in a country is called a<|start_2d|>\"global city.\" <|split_2d|>\"world leader city.\" <|split_2d|>\"megalopolis.\" <|split_2d|>\"primate city.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "primate city.",
+      "incorrect_answers": [
+        "global city.",
+        "world leader city.",
+        "megalopolis."
+      ]
+    }
+  },
+  {
+    "prompt": "Every country with a seacoast has an exclusive economic zone (EEZ) under the UN Convention on the Law of the Sea. Which one of the following statements regarding the Law of the Sea and the EEZ is NOT correct?<|start_2d|>\"The EEZ extends up to 200 nautical miles (370 km) from the coastline.\" <|split_2d|>\"Countries have the right to exploit natural resources in their EEZ.\" <|split_2d|>\"Countries can exploit resources on the continental shelf extending up to 350 nautical miles (560 km) beyond their EEZ.\" <|split_2d|>\"A country does not have the right to exploit living resources in its EEZ.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A country does not have the right to exploit living resources in its EEZ.",
+      "incorrect_answers": [
+        "The EEZ extends up to 200 nautical miles (370 km) from the coastline.",
+        "Countries have the right to exploit natural resources in their EEZ.",
+        "Countries can exploit resources on the continental shelf extending up to 350 nautical miles (560 km) beyond their EEZ."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is MOST likely to experience population pressure?<|start_2d|>\"An industrial society with abundant natural resources and large imports of food\" <|split_2d|>\"A society with a highly mechanized agricultural sector\" <|split_2d|>\"A non-ecumene\" <|split_2d|>\"A slash-and-burn agricultural society\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A slash-and-burn agricultural society",
+      "incorrect_answers": [
+        "An industrial society with abundant natural resources and large imports of food",
+        "A society with a highly mechanized agricultural sector",
+        "A non-ecumene"
+      ]
+    }
+  },
+  {
+    "prompt": "Part of the boundary between the United States and Mexico is the Rio Grande, an example of<|start_2d|>\"a water divider.\" <|split_2d|>\"a watercourse.\" <|split_2d|>\"an artificial boundary.\" <|split_2d|>\"a natural boundary.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a natural boundary.",
+      "incorrect_answers": [
+        "a water divider.",
+        "a watercourse.",
+        "an artificial boundary."
+      ]
+    }
+  },
+  {
+    "prompt": "When we talk about diffusion of a cultural trait, what do we mean by \"hearth\"?<|start_2d|>\"Destination\" <|split_2d|>\"Origin point\" <|split_2d|>\"All locations along the diffusion path\" <|split_2d|>\"Axis point\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Origin point",
+      "incorrect_answers": [
+        "Destination",
+        "All locations along the diffusion path",
+        "Axis point"
+      ]
+    }
+  },
+  {
+    "prompt": "The distance north and south of the equator is the<|start_2d|>\"global grid system.\" <|split_2d|>\"Prime Meridian\" <|split_2d|>\"latitude.\" <|split_2d|>\"longitude.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "latitude.",
+      "incorrect_answers": [
+        "global grid system.",
+        "Prime Meridian",
+        "longitude."
+      ]
+    }
+  },
+  {
+    "prompt": "Why are perceptual or vernacular regions so difficult to identify?<|start_2d|>\"Boundaries are constantly being redrawn.\" <|split_2d|>\"Physical features, such as rivers, are constantly shifting.\" <|split_2d|>\"Defining criteria are subjective and differ among researchers.\" <|split_2d|>\"Antecedent boundaries were drawn before humans were located in the regions.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Defining criteria are subjective and differ among researchers.",
+      "incorrect_answers": [
+        "Boundaries are constantly being redrawn.",
+        "Physical features, such as rivers, are constantly shifting.",
+        "Antecedent boundaries were drawn before humans were located in the regions."
+      ]
+    }
+  },
+  {
+    "prompt": "Which structure(s) traditionally occupies the center of a historic Asian city?<|start_2d|>\"A central market\" <|split_2d|>\"High-density housing\" <|split_2d|>\"A religious building\" <|split_2d|>\"Government office buildings\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A religious building",
+      "incorrect_answers": [
+        "A central market",
+        "High-density housing",
+        "Government office buildings"
+      ]
+    }
+  },
+  {
+    "prompt": "Which description best describes the urban hierarchy model in which the population of a city is inversely proportional to its rank in the hierarchy?<|start_2d|>\"Multiplier effect\" <|split_2d|>\"Rank-size rule\" <|split_2d|>\"Central place theory\" <|split_2d|>\"Burgess's sector model\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Rank-size rule",
+      "incorrect_answers": [
+        "Multiplier effect",
+        "Central place theory",
+        "Burgess's sector model"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a major concern in countries with a large and rapidly aging population?<|start_2d|>\"Immunization\" <|split_2d|>\"Adequate schools\" <|split_2d|>\"Daycare facilities\" <|split_2d|>\"Health care\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Health care",
+      "incorrect_answers": [
+        "Immunization",
+        "Adequate schools",
+        "Daycare facilities"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following capital cities is located OUTSIDE the central core area of the country?<|start_2d|>\"Abuja, Nigeria\" <|split_2d|>\"Paris, France\" <|split_2d|>\"London, United Kingdom\" <|split_2d|>\"Cairo, Egypt\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Abuja, Nigeria",
+      "incorrect_answers": [
+        "Paris, France",
+        "London, United Kingdom",
+        "Cairo, Egypt"
+      ]
+    }
+  },
+  {
+    "prompt": "Spanish colonial architecture, uneven economic development, and rural-to-urban migration flows are most commonly found in which of the following?<|start_2d|>\"Southeast Asia\" <|split_2d|>\"Sub-Saharan Africa\" <|split_2d|>\"North America\" <|split_2d|>\"Latin America\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Latin America",
+      "incorrect_answers": [
+        "Southeast Asia",
+        "Sub-Saharan Africa",
+        "North America"
+      ]
+    }
+  },
+  {
+    "prompt": "The purpose for the creation of NATO was to<|start_2d|>\"defend North America and Western Europe against the threat of communism.\" <|split_2d|>\"form an economic alliance for trade between Europe and North America.\" <|split_2d|>\"defend Europe against a second Nazi invasion.\" <|split_2d|>\"defend northern Europe against Chinese missiles.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "defend North America and Western Europe against the threat of communism.",
+      "incorrect_answers": [
+        "form an economic alliance for trade between Europe and North America.",
+        "defend Europe against a second Nazi invasion.",
+        "defend northern Europe against Chinese missiles."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is NOT a key milestone reached by the EU?<|start_2d|>\"The introduction of a common currency used by many EU countries\" <|split_2d|>\"A customs union\" <|split_2d|>\"A single market\" <|split_2d|>\"A common European language\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A common European language",
+      "incorrect_answers": [
+        "The introduction of a common currency used by many EU countries",
+        "A customs union",
+        "A single market"
+      ]
+    }
+  },
+  {
+    "prompt": "The use and spread of English in nineteenth-century India is an example of what type of diffusion?<|start_2d|>\"Stimulus\" <|split_2d|>\"Contagious\" <|split_2d|>\"Hierarchal\" <|split_2d|>\"Relocation\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Hierarchal",
+      "incorrect_answers": [
+        "Stimulus",
+        "Contagious",
+        "Relocation"
+      ]
+    }
+  },
+  {
+    "prompt": "The theory that most migration occurs over a short distance and in steps is attributed to<|start_2d|>\"Rostow.\" <|split_2d|>\"Ravenstein.\" <|split_2d|>\"von Th\u00fcnen.\" <|split_2d|>\"Burgess.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Ravenstein.",
+      "incorrect_answers": [
+        "Rostow.",
+        "von Th\u00fcnen.",
+        "Burgess."
+      ]
+    }
+  },
+  {
+    "prompt": "The way of life based on breeding and herding of animals that are used as a source of food, shelter, and clothing is called<|start_2d|>\"swidden.\" <|split_2d|>\"subsistence farming.\" <|split_2d|>\"pastorialism.\" <|split_2d|>\"hunting and gathering.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "pastorialism.",
+      "incorrect_answers": [
+        "swidden.",
+        "subsistence farming.",
+        "hunting and gathering."
+      ]
+    }
+  },
+  {
+    "prompt": "The European Union (EU) replaced which of the following organizations?<|start_2d|>\"NATO\" <|split_2d|>\"EEC\" <|split_2d|>\"UN\" <|split_2d|>\"ASEAN\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "EEC",
+      "incorrect_answers": [
+        "NATO",
+        "UN",
+        "ASEAN"
+      ]
+    }
+  },
+  {
+    "prompt": "The attempt by core countries to stimulate increased agricultural production in the periphery through use of technology, hybrid seed, and fertilizers is called the<|start_2d|>\"First Agricultural Revolution.\" <|split_2d|>\"Second Agricultural Revolution.\" <|split_2d|>\"Third Agricultural Revolution.\" <|split_2d|>\"Green Revolution.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Green Revolution.",
+      "incorrect_answers": [
+        "First Agricultural Revolution.",
+        "Second Agricultural Revolution.",
+        "Third Agricultural Revolution."
+      ]
+    }
+  },
+  {
+    "prompt": "Shifting cultivation is most often practiced in<|start_2d|>\"alpine tundra.\" <|split_2d|>\"tropical forests.\" <|split_2d|>\"flood plains.\" <|split_2d|>\"deserts.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "tropical forests.",
+      "incorrect_answers": [
+        "alpine tundra.",
+        "flood plains.",
+        "deserts."
+      ]
+    }
+  },
+  {
+    "prompt": "The migration streams into the United States between 1980 and the present have been primarily composed of emigrants from which of the following regions?<|start_2d|>\"Europe and North Africa\" <|split_2d|>\"Asia and Latin America\" <|split_2d|>\"Sub-Saharan Africa and Oceania\" <|split_2d|>\"Central Europe and Australia\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Asia and Latin America",
+      "incorrect_answers": [
+        "Europe and North Africa",
+        "Sub-Saharan Africa and Oceania",
+        "Central Europe and Australia"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following North American associations is NOT correct?<|start_2d|>\"Southeast\u2014African Americans\" <|split_2d|>\"Oklahoma and the Southwest\u2014Native Americans\" <|split_2d|>\"Quebec and northern Maine\u2014French Americans and French Canadians\" <|split_2d|>\"Southern prairie provinces\u2014African Americans\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Southern prairie provinces\u2014African Americans",
+      "incorrect_answers": [
+        "Southeast\u2014African Americans",
+        "Oklahoma and the Southwest\u2014Native Americans",
+        "Quebec and northern Maine\u2014French Americans and French Canadians"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following countries is NOT a federal state?<|start_2d|>\"Canada\" <|split_2d|>\"United States\" <|split_2d|>\"France\" <|split_2d|>\"People's Republic of China\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "France",
+      "incorrect_answers": [
+        "Canada",
+        "United States",
+        "People's Republic of China"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following world regions is NOT considered one of the world's most densely populated regions?<|start_2d|>\"South Asia\" <|split_2d|>\"Europe\" <|split_2d|>\"South America\" <|split_2d|>\"Northeast United States\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "South America",
+      "incorrect_answers": [
+        "South Asia",
+        "Europe",
+        "Northeast United States"
+      ]
+    }
+  },
+  {
+    "prompt": "Olives, grapes, and chickpeas are staple crops of which type of farming?<|start_2d|>\"Pastoral nomadism\" <|split_2d|>\"Subsistence\" <|split_2d|>\"Plantation\" <|split_2d|>\"Mediterranean\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Mediterranean",
+      "incorrect_answers": [
+        "Pastoral nomadism",
+        "Subsistence",
+        "Plantation"
+      ]
+    }
+  },
+  {
+    "prompt": "A person who practices the Hindu religion would be most likely to<|start_2d|>\"visit a shrine built on the shore of a lake.\" <|split_2d|>\"pray five times a day.\" <|split_2d|>\"bathe in the Ganges River.\" <|split_2d|>\"make a pilgrimage to Jerusalem.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "bathe in the Ganges River.",
+      "incorrect_answers": [
+        "visit a shrine built on the shore of a lake.",
+        "pray five times a day.",
+        "make a pilgrimage to Jerusalem."
+      ]
+    }
+  },
+  {
+    "prompt": "The language with the largest number of \"speakers\" is<|start_2d|>\"English.\" <|split_2d|>\"Russian.\" <|split_2d|>\"Spanish.\" <|split_2d|>\"Mandarin Chinese.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Mandarin Chinese.",
+      "incorrect_answers": [
+        "English.",
+        "Russian.",
+        "Spanish."
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following statements does NOT correctly describe the Green Revolution?<|start_2d|>\"It changed centuries-old methods of farming.\" <|split_2d|>\"It was an attempt to feed a growing world population.\" <|split_2d|>\"It centered on increased rice, wheat, and maize yields.\" <|split_2d|>\"It greatly improved crop yields in sub-Saharan Africa.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "It greatly improved crop yields in sub-Saharan Africa.",
+      "incorrect_answers": [
+        "It changed centuries-old methods of farming.",
+        "It was an attempt to feed a growing world population.",
+        "It centered on increased rice, wheat, and maize yields."
+      ]
+    }
+  },
+  {
+    "prompt": "Historically, the world's major languages have spread by all of the following methods EXCEPT<|start_2d|>\"Sanskrit records.\" <|split_2d|>\"migration.\" <|split_2d|>\"trade.\" <|split_2d|>\"conquest.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Sanskrit records.",
+      "incorrect_answers": [
+        "migration.",
+        "trade.",
+        "conquest."
+      ]
+    }
+  },
+  {
+    "prompt": "A primate city is<|start_2d|>\"a large city located on the periphery of the country.\" <|split_2d|>\"the most important city in a country.\" <|split_2d|>\"when the largest city in a country is more than twice the size of the next largest city.\" <|split_2d|>\"the largest city in a country.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "when the largest city in a country is more than twice the size of the next largest city.",
+      "incorrect_answers": [
+        "a large city located on the periphery of the country.",
+        "the most important city in a country.",
+        "the largest city in a country."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following factors would be considered a \"pull\" factor for Riva when considering a move from India to the United States?<|start_2d|>\"Abject poverty\" <|split_2d|>\"Better job and higher wages\" <|split_2d|>\"India's caste system\" <|split_2d|>\"Violence in her neighborhood\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Better job and higher wages",
+      "incorrect_answers": [
+        "Abject poverty",
+        "India's caste system",
+        "Violence in her neighborhood"
+      ]
+    }
+  },
+  {
+    "prompt": "All of the following are reasons major cities attract young people in Latin America EXCEPT<|start_2d|>\"the availability of jobs.\" <|split_2d|>\"the potential for decent housing.\" <|split_2d|>\"educational opportunities.\" <|split_2d|>\"their families live there already.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "their families live there already.",
+      "incorrect_answers": [
+        "the availability of jobs.",
+        "the potential for decent housing.",
+        "educational opportunities."
+      ]
+    }
+  },
+  {
+    "prompt": "Which language family is most widely spoken in North America and Europe and includes Baltic, Celtic, Germanic, and Greek?<|start_2d|>\"Dravidian\" <|split_2d|>\"Uralic-Altaic\" <|split_2d|>\"Sino-Tibetan\" <|split_2d|>\"Indo-European\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Indo-European",
+      "incorrect_answers": [
+        "Dravidian",
+        "Uralic-Altaic",
+        "Sino-Tibetan"
+      ]
+    }
+  },
+  {
+    "prompt": "Which theorist(s) tried to explain the prices of farm products as they relate to patterns of land use?<|start_2d|>\"Rostow\" <|split_2d|>\"Ravenstein\" <|split_2d|>\"Von Th\u00fcnen\" <|split_2d|>\"Burgess\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Von Th\u00fcnen",
+      "incorrect_answers": [
+        "Rostow",
+        "Ravenstein",
+        "Burgess"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is NOT a spread effect in the core-periphery model of development?<|start_2d|>\"Congestion in the core\" <|split_2d|>\"High cost of labor in the core\" <|split_2d|>\"High density in the core\" <|split_2d|>\"More infrastructure in the core\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "More infrastructure in the core",
+      "incorrect_answers": [
+        "Congestion in the core",
+        "High cost of labor in the core",
+        "High density in the core"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is NOT an important environmental factor influencing a country's agriculture?<|start_2d|>\"Number of frost-free days per year\" <|split_2d|>\"Availability of sufficient rainfall\" <|split_2d|>\"Reliability of sufficient rainfall\" <|split_2d|>\"Amount of fertilizer produced in the country\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Amount of fertilizer produced in the country",
+      "incorrect_answers": [
+        "Number of frost-free days per year",
+        "Availability of sufficient rainfall",
+        "Reliability of sufficient rainfall"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following countries is situated in the region of tectonic activity known as the Pacific Ring of Fire?<|start_2d|>\"Brazil\" <|split_2d|>\"Australia\" <|split_2d|>\"Chile\" <|split_2d|>\"India\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Chile",
+      "incorrect_answers": [
+        "Brazil",
+        "Australia",
+        "India"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following statements is NOT true of the \"core\" countries?<|start_2d|>\"They are technologically advanced.\" <|split_2d|>\"They are wealthy.\" <|split_2d|>\"They are powerful.\" <|split_2d|>\"They are less developed.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "They are less developed.",
+      "incorrect_answers": [
+        "They are technologically advanced.",
+        "They are wealthy.",
+        "They are powerful."
+      ]
+    }
+  },
+  {
+    "prompt": "If you wanted to find the global distribution of coal, you would use a<|start_2d|>\"reference map.\" <|split_2d|>\"topographic map.\" <|split_2d|>\"thematic map.\" <|split_2d|>\"location map.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "thematic map.",
+      "incorrect_answers": [
+        "reference map.",
+        "topographic map.",
+        "location map."
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following is NOT a centripetal force in a state?<|start_2d|>\"A high level of confidence in central government\" <|split_2d|>\"The existence of strong separatist groups\" <|split_2d|>\"The existence of national transportation networks\" <|split_2d|>\"The national anthem\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The existence of strong separatist groups",
+      "incorrect_answers": [
+        "A high level of confidence in central government",
+        "The existence of national transportation networks",
+        "The national anthem"
+      ]
+    }
+  },
+  {
+    "prompt": "The cities of Varanasi (Benares) in India and Mecca in Saudi Arabia are alike because both are<|start_2d|>\"capitals of countries formerly colonized by the English\" <|split_2d|>\"destinations for vast numbers of pilgrims\" <|split_2d|>\"financial centers for a large fraction of the world's economy\" <|split_2d|>\"examples of modern urban planning\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "destinations for vast numbers of pilgrims",
+      "incorrect_answers": [
+        "capitals of countries formerly colonized by the English",
+        "financial centers for a large fraction of the world's economy",
+        "examples of modern urban planning"
+      ]
+    }
+  },
+  {
+    "prompt": "China and Vietnam's dispute over the Spratley Islands is<|start_2d|>\"a positional dispute.\" <|split_2d|>\"a territorial dispute.\" <|split_2d|>\"a resource dispute.\" <|split_2d|>\"a functional dispute.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a resource dispute.",
+      "incorrect_answers": [
+        "a positional dispute.",
+        "a territorial dispute.",
+        "a functional dispute."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is NOT used by geographers to determine absolute location?<|start_2d|>\"Longitude\" <|split_2d|>\"Latitude\" <|split_2d|>\"Equator\" <|split_2d|>\"Distance to the nearest city\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Distance to the nearest city",
+      "incorrect_answers": [
+        "Longitude",
+        "Latitude",
+        "Equator"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a characteristic of a developed country?<|start_2d|>\"Over 50% of workforce engaged in agriculture\" <|split_2d|>\"Women held in inferior place in society\" <|split_2d|>\"Main disease related to age and lifestyle\" <|split_2d|>\"High birth and death rates\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Main disease related to age and lifestyle",
+      "incorrect_answers": [
+        "Over 50% of workforce engaged in agriculture",
+        "Women held in inferior place in society",
+        "High birth and death rates"
+      ]
+    }
+  },
+  {
+    "prompt": "Mary lives in a neighborhood with stores, offices, and restaurants so close that she does not need to own a car; however, she feels she has very little privacy. This is an example of a(n)<|start_2d|>\"win-win.\" <|split_2d|>\"trade-off.\" <|split_2d|>\"infill.\" <|split_2d|>\"leapfrog development.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "trade-off.",
+      "incorrect_answers": [
+        "win-win.",
+        "infill.",
+        "leapfrog development."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following items below is an absolute location?<|start_2d|>\"10 miles east of Pittsburgh\" <|split_2d|>\"Washington\" <|split_2d|>\"3 degrees south\" <|split_2d|>\"479 Elm Street, Muncie, Indiana\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "479 Elm Street, Muncie, Indiana",
+      "incorrect_answers": [
+        "10 miles east of Pittsburgh",
+        "Washington",
+        "3 degrees south"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following groups is excluded from the caste system of Hinduism?<|start_2d|>\"Scholar-priests\" <|split_2d|>\"Warrior-landowners\" <|split_2d|>\"Businessmen and farmers\" <|split_2d|>\"Untouchables\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Untouchables",
+      "incorrect_answers": [
+        "Scholar-priests",
+        "Warrior-landowners",
+        "Businessmen and farmers"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a push factor?<|start_2d|>\"Dissatisfaction with current jobs\" <|split_2d|>\"Higher-paying jobs elsewhere\" <|split_2d|>\"An attractive retirement community elsewhere\" <|split_2d|>\"A pleasant climate\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Dissatisfaction with current jobs",
+      "incorrect_answers": [
+        "Higher-paying jobs elsewhere",
+        "An attractive retirement community elsewhere",
+        "A pleasant climate"
+      ]
+    }
+  },
+  {
+    "prompt": "The Basques, Bretons, Kashmiris, and Tamils are all examples of<|start_2d|>\"regionalist groups.\" <|split_2d|>\"separatist groups.\" <|split_2d|>\"terrorist groups.\" <|split_2d|>\"interventionist groups.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "separatist groups.",
+      "incorrect_answers": [
+        "regionalist groups.",
+        "terrorist groups.",
+        "interventionist groups."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following factors does NOT play a role in gender relationships in a culture or society?<|start_2d|>\"Biology\" <|split_2d|>\"Advancements in technological development\" <|split_2d|>\"Religion\" <|split_2d|>\"Custom\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Biology",
+      "incorrect_answers": [
+        "Advancements in technological development",
+        "Religion",
+        "Custom"
+      ]
+    }
+  },
+  {
+    "prompt": "The intensive agricultural practice of planting and harvesting the same crop more than once a year is called<|start_2d|>\"swidden.\" <|split_2d|>\"double cropping.\" <|split_2d|>\"pastorialism.\" <|split_2d|>\"intertillage.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "double cropping.",
+      "incorrect_answers": [
+        "swidden.",
+        "pastorialism.",
+        "intertillage."
+      ]
+    }
+  },
+  {
+    "prompt": "When a new fashion design is introduced globally, the information initially travels through a process known as<|start_2d|>\"contagious diffusion\" <|split_2d|>\"relocation diffusion\" <|split_2d|>\"innovative diffusion\" <|split_2d|>\"hierarchical diffusion\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "hierarchical diffusion",
+      "incorrect_answers": [
+        "contagious diffusion",
+        "relocation diffusion",
+        "innovative diffusion"
+      ]
+    }
+  },
+  {
+    "prompt": "Opponents of genetically modified organisms (GMOs) in food are afraid that the GMOs<|start_2d|>\"will hinder global trade.\" <|split_2d|>\"make plants more resistant to disease.\" <|split_2d|>\"may cause irreversible changes in humans.\" <|split_2d|>\"make plants more resistant to drought.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "may cause irreversible changes in humans.",
+      "incorrect_answers": [
+        "will hinder global trade.",
+        "make plants more resistant to disease.",
+        "make plants more resistant to drought."
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following is NOT an advantage of urban agriculture?<|start_2d|>\"Helping to solve the problem of solid waste disposal\" <|split_2d|>\"Fresh produce for sale to others\" <|split_2d|>\"Beautification of a dingy urban area\" <|split_2d|>\"Renewed or purified water supplies\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Renewed or purified water supplies",
+      "incorrect_answers": [
+        "Helping to solve the problem of solid waste disposal",
+        "Fresh produce for sale to others",
+        "Beautification of a dingy urban area"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is NOT a problem Europe currently faces today?<|start_2d|>\"Rising immigration\" <|split_2d|>\"Lack of population growth\" <|split_2d|>\"Environmental apathy\" <|split_2d|>\"Urban ethnic ghettos on the rise\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Environmental apathy",
+      "incorrect_answers": [
+        "Rising immigration",
+        "Lack of population growth",
+        "Urban ethnic ghettos on the rise"
+      ]
+    }
+  },
+  {
+    "prompt": "The world systems theory divides the world into<|start_2d|>\"core, periphery, and semi-periphery.\" <|split_2d|>\"rich and poor.\" <|split_2d|>\"developed and undeveloped.\" <|split_2d|>\"haves and have-nots.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "core, periphery, and semi-periphery.",
+      "incorrect_answers": [
+        "rich and poor.",
+        "developed and undeveloped.",
+        "haves and have-nots."
+      ]
+    }
+  },
+  {
+    "prompt": "The majority of Kurds are found in which country?<|start_2d|>\"Iran\" <|split_2d|>\"Iraq\" <|split_2d|>\"Turkey\" <|split_2d|>\"Egypt\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Turkey",
+      "incorrect_answers": [
+        "Iran",
+        "Iraq",
+        "Egypt"
+      ]
+    }
+  },
+  {
+    "prompt": "In what country are the most Basque speakers found?<|start_2d|>\"Denmark\" <|split_2d|>\"Finland\" <|split_2d|>\"Luxembourg\" <|split_2d|>\"Spain\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Spain",
+      "incorrect_answers": [
+        "Denmark",
+        "Finland",
+        "Luxembourg"
+      ]
+    }
+  },
+  {
+    "prompt": "The most rapidly urbanizing area of the world is:<|start_2d|>\"Europe\" <|split_2d|>\"East Asia\" <|split_2d|>\"Sub-Saharan Africa\" <|split_2d|>\"South Asia\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Sub-Saharan Africa",
+      "incorrect_answers": [
+        "Europe",
+        "East Asia",
+        "South Asia"
+      ]
+    }
+  },
+  {
+    "prompt": "The influence of neo-Malthusianism can be seen in<|start_2d|>\"government programs for birth control and planning.\" <|split_2d|>\"famine relief.\" <|split_2d|>\"increased spending in social welfare programs.\" <|split_2d|>\"increased total fertility rates.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "government programs for birth control and planning.",
+      "incorrect_answers": [
+        "famine relief.",
+        "increased spending in social welfare programs.",
+        "increased total fertility rates."
+      ]
+    }
+  },
+  {
+    "prompt": "The process of devolution involves<|start_2d|>\"the change of government from a democracy to a communist dictatorship.\" <|split_2d|>\"the movement of power from the central government to regional governments in the country.\" <|split_2d|>\"the movement of power from a monarchy to a military dictatorship.\" <|split_2d|>\"the movement of power from regional governments to central governments.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the movement of power from the central government to regional governments in the country.",
+      "incorrect_answers": [
+        "the change of government from a democracy to a communist dictatorship.",
+        "the movement of power from a monarchy to a military dictatorship.",
+        "the movement of power from regional governments to central governments."
+      ]
+    }
+  },
+  {
+    "prompt": "The theory that cities grow outward from a core utilizing several nodes of growth was proposed by<|start_2d|>\"Rostow.\" <|split_2d|>\"Ravenstein.\" <|split_2d|>\"von Th\u00fcnen.\" <|split_2d|>\"Harris and Ullmann.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Harris and Ullmann.",
+      "incorrect_answers": [
+        "Rostow.",
+        "Ravenstein.",
+        "von Th\u00fcnen."
+      ]
+    }
+  },
+  {
+    "prompt": "The theory that the main purpose of a settlement or market town is to furnish goods and services to the surrounding market area is called the<|start_2d|>\"urban hierarchy theory.\" <|split_2d|>\"central place theory.\" <|split_2d|>\"concentric zone model.\" <|split_2d|>\"multiplier effect.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "central place theory.",
+      "incorrect_answers": [
+        "urban hierarchy theory.",
+        "concentric zone model.",
+        "multiplier effect."
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following statements does NOT correctly describe transnational companies (TNCs)?<|start_2d|>\"Many TNCs operate in areas of electronics, chemicals, pharmaceuticals and petroleum.\" <|split_2d|>\"Most TNCs produce and sell manufactured goods.\" <|split_2d|>\"Most TNCs are headquartered in the United States, Japan, and the European Union.\" <|split_2d|>\"TNCs are generally controlled by foreign governments.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "TNCs are generally controlled by foreign governments.",
+      "incorrect_answers": [
+        "Many TNCs operate in areas of electronics, chemicals, pharmaceuticals and petroleum.",
+        "Most TNCs produce and sell manufactured goods.",
+        "Most TNCs are headquartered in the United States, Japan, and the European Union."
+      ]
+    }
+  },
+  {
+    "prompt": "The \"melting pot\" theory of combining several immigrant groups into one mainstream culture is called<|start_2d|>\"amalgamation theory.\" <|split_2d|>\"acculturation.\" <|split_2d|>\"ethnic islands.\" <|split_2d|>\"ethnic clustering.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "amalgamation theory.",
+      "incorrect_answers": [
+        "acculturation.",
+        "ethnic islands.",
+        "ethnic clustering."
+      ]
+    }
+  },
+  {
+    "prompt": "Which theory below was used as justification for US involvement in Vietnam in the 1960s and 1970s?<|start_2d|>\"Devolution\" <|split_2d|>\"Colonialism\" <|split_2d|>\"Heartland theory\" <|split_2d|>\"Containment theory\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Containment theory",
+      "incorrect_answers": [
+        "Devolution",
+        "Colonialism",
+        "Heartland theory"
+      ]
+    }
+  },
+  {
+    "prompt": "Urban agriculture can benefit urban society in all of the following ways EXCEPT<|start_2d|>\"create sustainable food systems in urban areas.\" <|split_2d|>\"provide jobs for women and children.\" <|split_2d|>\"turn urban waste into a resource when utilized in safe manner.\" <|split_2d|>\"replace agribusiness as the main focus of global food production.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "replace agribusiness as the main focus of global food production.",
+      "incorrect_answers": [
+        "create sustainable food systems in urban areas.",
+        "provide jobs for women and children.",
+        "turn urban waste into a resource when utilized in safe manner."
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following organizations is NOT a supranational organization?<|start_2d|>\"UN\" <|split_2d|>\"NATO\" <|split_2d|>\"ASEAN\" <|split_2d|>\"PLO\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "PLO",
+      "incorrect_answers": [
+        "UN",
+        "NATO",
+        "ASEAN"
+      ]
+    }
+  },
+  {
+    "prompt": "Which one of the following demographic factors characterizes stages 4 and 5 in the demographic transition model?<|start_2d|>\"Zero population growth\" <|split_2d|>\"High mortality rates\" <|split_2d|>\"High birth rates\" <|split_2d|>\"High sex ratios\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Zero population growth",
+      "incorrect_answers": [
+        "High mortality rates",
+        "High birth rates",
+        "High sex ratios"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements does NOT describe a factor that contributed to suburbanization in the United States?<|start_2d|>\"A shorter workweek made time for a commute possible.\" <|split_2d|>\"Changes in the housing mortgage regulations made home ownership easier.\" <|split_2d|>\"Fixed-route public transit routes increased in importance.\" <|split_2d|>\"Improved automobiles made transportation easier and less limited.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Fixed-route public transit routes increased in importance.",
+      "incorrect_answers": [
+        "A shorter workweek made time for a commute possible.",
+        "Changes in the housing mortgage regulations made home ownership easier.",
+        "Improved automobiles made transportation easier and less limited."
+      ]
+    }
+  },
+  {
+    "prompt": "An isobar map shows lines connecting all points of equal<|start_2d|>\"atmospheric pressure\" <|split_2d|>\"surface temperature\" <|split_2d|>\"elevation\" <|split_2d|>\"precipitation\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "atmospheric pressure",
+      "incorrect_answers": [
+        "surface temperature",
+        "elevation",
+        "precipitation"
+      ]
+    }
+  },
+  {
+    "prompt": "Ralph purchases garden fertilizer at the nearby garden shop rather than drive 50 miles to the neighboring town for the same product. This reflects which type of spatial interaction?<|start_2d|>\"Transferability\" <|split_2d|>\"Complementarity\" <|split_2d|>\"Intervening opportunity\" <|split_2d|>\"Territoriality\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Intervening opportunity",
+      "incorrect_answers": [
+        "Transferability",
+        "Complementarity",
+        "Territoriality"
+      ]
+    }
+  },
+  {
+    "prompt": "What type of countries generally possesses a greater variety of climates and resources than other countries?<|start_2d|>\"Perforated states\" <|split_2d|>\"Fragmented states\" <|split_2d|>\"Elongated states\" <|split_2d|>\"Prorupt states\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Elongated states",
+      "incorrect_answers": [
+        "Perforated states",
+        "Fragmented states",
+        "Prorupt states"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following factors has little or no impact on mortality rates in the developing countries?<|start_2d|>\"New medicines\" <|split_2d|>\"Improved birth control methods\" <|split_2d|>\"Pesticides\" <|split_2d|>\"Famine relief\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Improved birth control methods",
+      "incorrect_answers": [
+        "New medicines",
+        "Pesticides",
+        "Famine relief"
+      ]
+    }
+  },
+  {
+    "prompt": "The idea that you identify with, and give allegiance, to a nation-state is<|start_2d|>\"regionalism.\" <|split_2d|>\"diffusion.\" <|split_2d|>\"iconography.\" <|split_2d|>\"nationalism.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "nationalism.",
+      "incorrect_answers": [
+        "regionalism.",
+        "diffusion.",
+        "iconography."
+      ]
+    }
+  },
+  {
+    "prompt": "What condition occurs when the people of one state want to annex a territory whose population is ethnically related to that state's population but now under the rule of another state?<|start_2d|>\"Nationalism\" <|split_2d|>\"Resource dispute\" <|split_2d|>\"Irredentism\" <|split_2d|>\"Positional dispute\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Irredentism",
+      "incorrect_answers": [
+        "Nationalism",
+        "Resource dispute",
+        "Positional dispute"
+      ]
+    }
+  },
+  {
+    "prompt": "Variations in vocabulary, pronunciation, and rhythm in a spoken language are called<|start_2d|>\"syntax.\" <|split_2d|>\"isoglosses.\" <|split_2d|>\"lingua francas.\" <|split_2d|>\"dialects.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "dialects.",
+      "incorrect_answers": [
+        "syntax.",
+        "isoglosses.",
+        "lingua francas."
+      ]
+    }
+  },
+  {
+    "prompt": "Boundary problems along the United States\u2013Mexico border are caused by which type of issue below?<|start_2d|>\"Ownership of fertile ground\" <|split_2d|>\"Land use\" <|split_2d|>\"Irredentism\" <|split_2d|>\"Immigration\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Immigration",
+      "incorrect_answers": [
+        "Ownership of fertile ground",
+        "Land use",
+        "Irredentism"
+      ]
+    }
+  },
+  {
+    "prompt": "In which country does language pose a centrifugal force?<|start_2d|>\"Canada\" <|split_2d|>\"United States\" <|split_2d|>\"Brazil\" <|split_2d|>\"Norway\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Canada",
+      "incorrect_answers": [
+        "United States",
+        "Brazil",
+        "Norway"
+      ]
+    }
+  },
+  {
+    "prompt": "Quebec is a strong example of which of the following situations?<|start_2d|>\"Irredentism\" <|split_2d|>\"Secession\" <|split_2d|>\"Ethnonationalism\" <|split_2d|>\"A colony\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Ethnonationalism",
+      "incorrect_answers": [
+        "Irredentism",
+        "Secession",
+        "A colony"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following items below is NOT considered a barrier to the diffusion of an innovation?<|start_2d|>\"Internet\" <|split_2d|>\"Distance\" <|split_2d|>\"Cultural obstacles\" <|split_2d|>\"Government interference\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Internet",
+      "incorrect_answers": [
+        "Distance",
+        "Cultural obstacles",
+        "Government interference"
+      ]
+    }
+  },
+  {
+    "prompt": "Change in any culture is introduced through all the following processes EXCEPT<|start_2d|>\"innovation.\" <|split_2d|>\"diffusion.\" <|split_2d|>\"acculturation.\" <|split_2d|>\"gravity.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "gravity.",
+      "incorrect_answers": [
+        "innovation.",
+        "diffusion.",
+        "acculturation."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements regarding historical North American migration streams is NOT correct?<|start_2d|>\"Canada's first major migration came from France.\" <|split_2d|>\"Canada's second major migration stream originated in the British Isles.\" <|split_2d|>\"Canada's third major migration stream came from Latin America.\" <|split_2d|>\"The first major migration wave to the United States originated in Europe.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Canada's third major migration stream came from Latin America.",
+      "incorrect_answers": [
+        "Canada's first major migration came from France.",
+        "Canada's second major migration stream originated in the British Isles.",
+        "The first major migration wave to the United States originated in Europe."
+      ]
+    }
+  },
+  {
+    "prompt": "A chief factor that contributed to the Second Agricultural Revolution was<|start_2d|>\"the Industrial Revolution.\" <|split_2d|>\"World War I.\" <|split_2d|>\"World War II.\" <|split_2d|>\"the discovery of the plow.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the Industrial Revolution.",
+      "incorrect_answers": [
+        "World War I.",
+        "World War II.",
+        "the discovery of the plow."
+      ]
+    }
+  },
+  {
+    "prompt": "Zero population growth (ZPG) is achieved when<|start_2d|>\"CBR \u2013 CDR 5 2.\" <|split_2d|>\"Births 1 immigration 5 deaths 1 emigration.\" <|split_2d|>\"Total fertility 5 3.\" <|split_2d|>\"Replacement fertility is achieved.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Births 1 immigration 5 deaths 1 emigration.",
+      "incorrect_answers": [
+        "CBR \u2013 CDR 5 2.",
+        "Total fertility 5 3.",
+        "Replacement fertility is achieved."
+      ]
+    }
+  },
+  {
+    "prompt": "In which of the following Asian countries would one find special economic zones (SEZs)?<|start_2d|>\"Japan\" <|split_2d|>\"South Korea\" <|split_2d|>\"China\" <|split_2d|>\"Vietnam\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "China",
+      "incorrect_answers": [
+        "Japan",
+        "South Korea",
+        "Vietnam"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following industries does NOT need to be close to its markets?<|start_2d|>\"Dairy foods\" <|split_2d|>\"Bulk-gaining products\" <|split_2d|>\"Single-market products\" <|split_2d|>\"Bulk-reducing products\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Bulk-reducing products",
+      "incorrect_answers": [
+        "Dairy foods",
+        "Bulk-gaining products",
+        "Single-market products"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is NOT a characteristic of a city in the developing world?<|start_2d|>\"Contains modern centers of commerce\" <|split_2d|>\"Has a well-developed infrastructure\" <|split_2d|>\"Experiences large in-migrations of rural people into the city\" <|split_2d|>\"Produces a large share of its country's GDI\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Has a well-developed infrastructure",
+      "incorrect_answers": [
+        "Contains modern centers of commerce",
+        "Experiences large in-migrations of rural people into the city",
+        "Produces a large share of its country's GDI"
+      ]
+    }
+  },
+  {
+    "prompt": "A map that presents a single class of statistics is called a<|start_2d|>\"general purpose map.\" <|split_2d|>\"thematic map.\" <|split_2d|>\"reference map.\" <|split_2d|>\"mental map.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "thematic map.",
+      "incorrect_answers": [
+        "general purpose map.",
+        "reference map.",
+        "mental map."
+      ]
+    }
+  },
+  {
+    "prompt": "The construction of freeways leads to all but which of the following results?<|start_2d|>\"Urban sprawl\" <|split_2d|>\"Traffic increase\" <|split_2d|>\"Traffic congestion\" <|split_2d|>\"Decreased dependency on cars\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Decreased dependency on cars",
+      "incorrect_answers": [
+        "Urban sprawl",
+        "Traffic increase",
+        "Traffic congestion"
+      ]
+    }
+  },
+  {
+    "prompt": "Which continent has the highest total fertility rates?<|start_2d|>\"Africa\" <|split_2d|>\"Asia\" <|split_2d|>\"South America\" <|split_2d|>\"Europe\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Africa",
+      "incorrect_answers": [
+        "Asia",
+        "South America",
+        "Europe"
+      ]
+    }
+  },
+  {
+    "prompt": "What monotheistic religion is based on the life and teachings of Jesus Christ of Nazareth?<|start_2d|>\"Islam\" <|split_2d|>\"Christianity\" <|split_2d|>\"Hinduism\" <|split_2d|>\"Buddhism\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Christianity",
+      "incorrect_answers": [
+        "Islam",
+        "Hinduism",
+        "Buddhism"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements is true concerning folklore?<|start_2d|>\"It is the written tradition of a group.\" <|split_2d|>\"It encourages changing the old values and customs.\" <|split_2d|>\"It serves to blend all cultures into one.\" <|split_2d|>\"It expresses in words the shared values of a group by expressing their ideals.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "It expresses in words the shared values of a group by expressing their ideals.",
+      "incorrect_answers": [
+        "It is the written tradition of a group.",
+        "It encourages changing the old values and customs.",
+        "It serves to blend all cultures into one."
+      ]
+    }
+  },
+  {
+    "prompt": "The irregularity of the wet monsoon in South Asia in recent years may have a significant negative effect on which of the following?<|start_2d|>\"Food production\" <|split_2d|>\"Population patterns\" <|split_2d|>\"Wildlife conservation efforts\" <|split_2d|>\"Tourism\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Food production",
+      "incorrect_answers": [
+        "Population patterns",
+        "Wildlife conservation efforts",
+        "Tourism"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Alfred Weber's least-cost theory, which one of the following costs of production is the most important factor in locating an industry?<|start_2d|>\"Labor\" <|split_2d|>\"Transport\" <|split_2d|>\"Raw materials\" <|split_2d|>\"Agglomeration costs\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Transport",
+      "incorrect_answers": [
+        "Labor",
+        "Raw materials",
+        "Agglomeration costs"
+      ]
+    }
+  },
+  {
+    "prompt": "The climate of Great Britain is milder than most other places along the same latitude for which of the following reasons?<|start_2d|>\"The Gulf Stream brings warm waters to Great Britain, raising the temperature of winds that blow onto the island.\" <|split_2d|>\"Hot springs throughout the country raise the temperature of the surrounding land and air.\" <|split_2d|>\"Mountain ranges in the north of Great Britain act as a barrier to cold winds blowing from the Arctic.\" <|split_2d|>\"Small landmasses generate their own local climate and are largely unaffected by latitude.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The Gulf Stream brings warm waters to Great Britain, raising the temperature of winds that blow onto the island.",
+      "incorrect_answers": [
+        "Hot springs throughout the country raise the temperature of the surrounding land and air.",
+        "Mountain ranges in the north of Great Britain act as a barrier to cold winds blowing from the Arctic.",
+        "Small landmasses generate their own local climate and are largely unaffected by latitude."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following supranational organizations is not an economic union?<|start_2d|>\"EU\" <|split_2d|>\"CARICOM\" <|split_2d|>\"NAFTA\" <|split_2d|>\"NATO\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "NATO",
+      "incorrect_answers": [
+        "EU",
+        "CARICOM",
+        "NAFTA"
+      ]
+    }
+  },
+  {
+    "prompt": "The global lingua franca is<|start_2d|>\"Chinese.\" <|split_2d|>\"English.\" <|split_2d|>\"French.\" <|split_2d|>\"Arabic.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "English.",
+      "incorrect_answers": [
+        "Chinese.",
+        "French.",
+        "Arabic."
+      ]
+    }
+  },
+  {
+    "prompt": "What are the two major branches of Islam?<|start_2d|>\"Sunni and Shinto\" <|split_2d|>\"Shinto and Shiite\" <|split_2d|>\"Sunni and Shiite\" <|split_2d|>\"Shamanism and Shiite\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Sunni and Shiite",
+      "incorrect_answers": [
+        "Sunni and Shinto",
+        "Shinto and Shiite",
+        "Shamanism and Shiite"
+      ]
+    }
+  },
+  {
+    "prompt": "What was the primary reason the Green Revolution did NOT help Africa much?<|start_2d|>\"It targeted crops Africans don't grow and eat.\" <|split_2d|>\"It required sophisticated machinery.\" <|split_2d|>\"Population growth has fallen so drastically that Africans don't need the increased food production.\" <|split_2d|>\"African agricultural production went up without its help.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "It targeted crops Africans don't grow and eat.",
+      "incorrect_answers": [
+        "It required sophisticated machinery.",
+        "Population growth has fallen so drastically that Africans don't need the increased food production.",
+        "African agricultural production went up without its help."
+      ]
+    }
+  },
+  {
+    "prompt": "The largest exporter of agricultural goods in the world is<|start_2d|>\"China.\" <|split_2d|>\"Mexico.\" <|split_2d|>\"Chile.\" <|split_2d|>\"the United States.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the United States.",
+      "incorrect_answers": [
+        "China.",
+        "Mexico.",
+        "Chile."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements is NOT part of Gunnar Myrdal's theory of cumulative causation?<|start_2d|>\"Developing and developed regions share similarly in wealth through trade.\" <|split_2d|>\"The core will always dominate the periphery.\" <|split_2d|>\"Growth and prosperity of the core exists at the expense of the periphery.\" <|split_2d|>\"Regions with initial advantage keep and expand it as they attract labor, capital, and trade.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Developing and developed regions share similarly in wealth through trade.",
+      "incorrect_answers": [
+        "The core will always dominate the periphery.",
+        "Growth and prosperity of the core exists at the expense of the periphery.",
+        "Regions with initial advantage keep and expand it as they attract labor, capital, and trade."
+      ]
+    }
+  },
+  {
+    "prompt": "Which pair of religions below share a long-held tradition of cremating their dead?<|start_2d|>\"Hindu and Buddhist\" <|split_2d|>\"Hindu and Muslim\" <|split_2d|>\"Muslim and Jewish\" <|split_2d|>\"Christian and Buddhist\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Hindu and Buddhist",
+      "incorrect_answers": [
+        "Hindu and Muslim",
+        "Muslim and Jewish",
+        "Christian and Buddhist"
+      ]
+    }
+  },
+  {
+    "prompt": "The official languages of Guyana, Suriname, and French Guiana are English, Dutch, and French, respectively. On what continent are those countries located?<|start_2d|>\"North America\" <|split_2d|>\"South America\" <|split_2d|>\"Africa\" <|split_2d|>\"Asia\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "South America",
+      "incorrect_answers": [
+        "North America",
+        "Africa",
+        "Asia"
+      ]
+    }
+  }
+]

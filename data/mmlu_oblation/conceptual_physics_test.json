@@ -1,0 +1,2587 @@
+[
+  {
+    "prompt": "A 10-N force at an angle 45\u00b0 above the horizontal has a horizontal component of about<|start_2d|>\"7 N\" <|split_2d|>\"5 N\" <|split_2d|>\"10 N\" <|split_2d|>\"12 N\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "7 N",
+      "incorrect_answers": [
+        "5 N",
+        "10 N",
+        "12 N"
+      ]
+    }
+  },
+  {
+    "prompt": "A completely submerged object always displaces its own<|start_2d|>\"weight of fluid.\" <|split_2d|>\"volume of fluid.\" <|split_2d|>\"density of fluid.\" <|split_2d|>\"All of these.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "volume of fluid.",
+      "incorrect_answers": [
+        "weight of fluid.",
+        "density of fluid.",
+        "All of these."
+      ]
+    }
+  },
+  {
+    "prompt": "When a diver points a flashlight upward toward the surface of the water at an angle 20\u00b0 from the normal, the beam of light<|start_2d|>\"totally internally reflects\" <|split_2d|>\"passes into the air above\" <|split_2d|>\"is absorbed\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "passes into the air above",
+      "incorrect_answers": [
+        "totally internally reflects",
+        "is absorbed",
+        "None of these"
+      ]
+    }
+  },
+  {
+    "prompt": "According to four-dimensional geometry, the angles of a triangle add to 180\u00b0<|start_2d|>\"always.\" <|split_2d|>\"sometimes.\" <|split_2d|>\"never.\" <|split_2d|>\"on planet Earth only.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "sometimes.",
+      "incorrect_answers": [
+        "always.",
+        "never.",
+        "on planet Earth only."
+      ]
+    }
+  },
+  {
+    "prompt": "A voltage will be induced in a wire loop when the magnetic field within that loop<|start_2d|>\"changes\" <|split_2d|>\"aligns with the electric field\" <|split_2d|>\"is at right angles to the electric field\" <|split_2d|>\"converts to magnetic energy\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "changes",
+      "incorrect_answers": [
+        "aligns with the electric field",
+        "is at right angles to the electric field",
+        "converts to magnetic energy"
+      ]
+    }
+  },
+  {
+    "prompt": "Among these colors, the one that has the most energy per photon is<|start_2d|>\"red\" <|split_2d|>\"yellow-green\" <|split_2d|>\"blue\" <|split_2d|>\"violet\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "violet",
+      "incorrect_answers": [
+        "red",
+        "yellow-green",
+        "blue"
+      ]
+    }
+  },
+  {
+    "prompt": "According to general relativity,<|start_2d|>\"mass distorts spacetime.\" <|split_2d|>\"gravity affects clocks.\" <|split_2d|>\"light can\u2019t escape from a black hole.\" <|split_2d|>\"All of these.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "All of these.",
+      "incorrect_answers": [
+        "mass distorts spacetime.",
+        "gravity affects clocks.",
+        "light can\u2019t escape from a black hole."
+      ]
+    }
+  },
+  {
+    "prompt": "A step-up transformer in an electric circuit can step up<|start_2d|>\"voltage\" <|split_2d|>\"energy\" <|split_2d|>\"Both of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "voltage",
+      "incorrect_answers": [
+        "energy",
+        "Both of these",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "Spectral lines of the elements are<|start_2d|>\"chaotic\" <|split_2d|>\"ordered\" <|split_2d|>\"positioned by amplitude\" <|split_2d|>\"in phase\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "ordered",
+      "incorrect_answers": [
+        "chaotic",
+        "positioned by amplitude",
+        "in phase"
+      ]
+    }
+  },
+  {
+    "prompt": "A wave transfers<|start_2d|>\"amplitude\" <|split_2d|>\"wavelength\" <|split_2d|>\"frequency\" <|split_2d|>\"energy\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "energy",
+      "incorrect_answers": [
+        "amplitude",
+        "wavelength",
+        "frequency"
+      ]
+    }
+  },
+  {
+    "prompt": "Immediately after two separated charged particles are released from rest, both increase in acceleration. The sign of charge of the particles is therefore<|start_2d|>\"the same\" <|split_2d|>\"opposite\" <|split_2d|>\"Either of these\" <|split_2d|>\"Need more information\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "opposite",
+      "incorrect_answers": [
+        "the same",
+        "Either of these",
+        "Need more information"
+      ]
+    }
+  },
+  {
+    "prompt": "The surface of planet Earth loses energy to outer space due mostly to<|start_2d|>\"conduction\" <|split_2d|>\"convection\" <|split_2d|>\"radiation\" <|split_2d|>\"radioactivity\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "radiation",
+      "incorrect_answers": [
+        "conduction",
+        "convection",
+        "radioactivity"
+      ]
+    }
+  },
+  {
+    "prompt": "In a series circuit, if the current in one lamp is 2 A, the current in the lamp next to it is<|start_2d|>\"half, 1 A\" <|split_2d|>\"2 A\" <|split_2d|>\"Depends on which lamp is closer to the battery\" <|split_2d|>\"Not enough information to say\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "2 A",
+      "incorrect_answers": [
+        "half, 1 A",
+        "Depends on which lamp is closer to the battery",
+        "Not enough information to say"
+      ]
+    }
+  },
+  {
+    "prompt": "As a blinking light source approaching you gains speed, you see the frequency of flashes<|start_2d|>\"increase.\" <|split_2d|>\"decrease.\" <|split_2d|>\"remain unchanged.\" <|split_2d|>\"None of these.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "increase.",
+      "incorrect_answers": [
+        "decrease.",
+        "remain unchanged.",
+        "None of these."
+      ]
+    }
+  },
+  {
+    "prompt": "In the absence of air resistance a ball of mass m is tossed upward to reach a height of 20 m. At the 10-m position half way up the net force on the ball is<|start_2d|>\"2mg\" <|split_2d|>\"mg\" <|split_2d|>\"mg/2\" <|split_2d|>\"mg/4\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "mg",
+      "incorrect_answers": [
+        "2mg",
+        "mg/2",
+        "mg/4"
+      ]
+    }
+  },
+  {
+    "prompt": "Pumice is a volcanic rock that floats in water. The density of pumice compared with that of water is<|start_2d|>\"less.\" <|split_2d|>\"equal.\" <|split_2d|>\"greater.\" <|split_2d|>\"none because it sinks.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "less.",
+      "incorrect_answers": [
+        "equal.",
+        "greater.",
+        "none because it sinks."
+      ]
+    }
+  },
+  {
+    "prompt": "When you look at the red petals of a rose the color light you're seeing is<|start_2d|>\"red.\" <|split_2d|>\"green.\" <|split_2d|>\"white minus red.\" <|split_2d|>\"a mixture of green and yellow.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "red.",
+      "incorrect_answers": [
+        "green.",
+        "white minus red.",
+        "a mixture of green and yellow."
+      ]
+    }
+  },
+  {
+    "prompt": "Compared with the sound you hear from the siren of a stationary fire engine the sound you hear when it approaches you has an increased<|start_2d|>\"speed\" <|split_2d|>\"frequency\" <|split_2d|>\"wavelength\" <|split_2d|>\"All of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "frequency",
+      "incorrect_answers": [
+        "speed",
+        "wavelength",
+        "All of these"
+      ]
+    }
+  },
+  {
+    "prompt": "When you squeeze an air-filled party balloon, you increase its<|start_2d|>\"volume\" <|split_2d|>\"mass\" <|split_2d|>\"weight\" <|split_2d|>\"density\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "density",
+      "incorrect_answers": [
+        "volume",
+        "mass",
+        "weight"
+      ]
+    }
+  },
+  {
+    "prompt": "Polarization is a property of<|start_2d|>\"transverse waves\" <|split_2d|>\"longitudinal waves\" <|split_2d|>\"all waves\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "transverse waves",
+      "incorrect_answers": [
+        "longitudinal waves",
+        "all waves",
+        "None of these"
+      ]
+    }
+  },
+  {
+    "prompt": "In a vacuum, an object has no<|start_2d|>\"buoyant force\" <|split_2d|>\"mass\" <|split_2d|>\"weight\" <|split_2d|>\"All of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "buoyant force",
+      "incorrect_answers": [
+        "mass",
+        "weight",
+        "All of these"
+      ]
+    }
+  },
+  {
+    "prompt": "Temperature is generally proportional to a substance\u2019s<|start_2d|>\"thermal energy.\" <|split_2d|>\"vibrational kinetic energy.\" <|split_2d|>\"average translational kinetic energy.\" <|split_2d|>\"rotational kinetic energy.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "average translational kinetic energy.",
+      "incorrect_answers": [
+        "thermal energy.",
+        "vibrational kinetic energy.",
+        "rotational kinetic energy."
+      ]
+    }
+  },
+  {
+    "prompt": "In a hydraulic press operation, the output piston cannot<|start_2d|>\"move farther than the input piston\" <|split_2d|>\"exceed the force input\" <|split_2d|>\"exceed the input piston\u2019s speed\" <|split_2d|>\"produce increased energy\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "produce increased energy",
+      "incorrect_answers": [
+        "move farther than the input piston",
+        "exceed the force input",
+        "exceed the input piston\u2019s speed"
+      ]
+    }
+  },
+  {
+    "prompt": "When a spinning system contracts in the absence of an external torque its rotational speed increases and its angular momentum<|start_2d|>\"decreases\" <|split_2d|>\"increases\" <|split_2d|>\"remains unchanged\" <|split_2d|>\"may increase or decrease\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "remains unchanged",
+      "incorrect_answers": [
+        "decreases",
+        "increases",
+        "may increase or decrease"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Hooke\u2019s law, if you hang by a tree branch and note how much it bends, then hanging with twice the weight produces<|start_2d|>\"half the bend.\" <|split_2d|>\"the same bend if the branch doesn\u2019t break.\" <|split_2d|>\"twice the bend.\" <|split_2d|>\"4 times the bend.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "twice the bend.",
+      "incorrect_answers": [
+        "half the bend.",
+        "the same bend if the branch doesn\u2019t break.",
+        "4 times the bend."
+      ]
+    }
+  },
+  {
+    "prompt": "When an increase in speed doubles the kinetic energy of a moving body its momentum<|start_2d|>\"increases but less than doubles\" <|split_2d|>\"doubles\" <|split_2d|>\"more than doubles\" <|split_2d|>\"depends on factors not stated\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "increases but less than doubles",
+      "incorrect_answers": [
+        "doubles",
+        "more than doubles",
+        "depends on factors not stated"
+      ]
+    }
+  },
+  {
+    "prompt": "Suppose the number of neutrons in a reactor that is starting up doubles each minute reaching one billion neutrons in 10 minutes. When did the number of neutrons reach half a billion?<|start_2d|>\"1 minute.\" <|split_2d|>\"2 minutes.\" <|split_2d|>\"5 minutes.\" <|split_2d|>\"9 minutes.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "9 minutes.",
+      "incorrect_answers": [
+        "1 minute.",
+        "2 minutes.",
+        "5 minutes."
+      ]
+    }
+  },
+  {
+    "prompt": "If an object is already moving and the sum of all the vector forces on a mass is zero, then the object will<|start_2d|>\"move at a constant speed in a straight line\" <|split_2d|>\"accelerate at a constant rate in a straight line\" <|split_2d|>\"come to rest\" <|split_2d|>\"increase its amount of inertia\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "move at a constant speed in a straight line",
+      "incorrect_answers": [
+        "accelerate at a constant rate in a straight line",
+        "come to rest",
+        "increase its amount of inertia"
+      ]
+    }
+  },
+  {
+    "prompt": "Relativity equations for time, length, and momentum hold true for<|start_2d|>\"everyday low speeds.\" <|split_2d|>\"relativistic speeds.\" <|split_2d|>\"Both of these.\" <|split_2d|>\"Neither of these.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Both of these.",
+      "incorrect_answers": [
+        "everyday low speeds.",
+        "relativistic speeds.",
+        "Neither of these."
+      ]
+    }
+  },
+  {
+    "prompt": "Put a saucer of water on your table. A process that then occurs is<|start_2d|>\"evaporation\" <|split_2d|>\"condensation\" <|split_2d|>\"Both\" <|split_2d|>\"Neither\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Both",
+      "incorrect_answers": [
+        "evaporation",
+        "condensation",
+        "Neither"
+      ]
+    }
+  },
+  {
+    "prompt": "A barometer that uses water instead of mercury will be<|start_2d|>\"shorter\" <|split_2d|>\"taller\" <|split_2d|>\"equal in height\" <|split_2d|>\"inoperable\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "taller",
+      "incorrect_answers": [
+        "shorter",
+        "equal in height",
+        "inoperable"
+      ]
+    }
+  },
+  {
+    "prompt": "A heavy rock and a light rock in free fall (zero air resistance) have the same acceleration. The heavy rock doesn't have a greater acceleration because the<|start_2d|>\"force due to gravity is the same on each.\" <|split_2d|>\"air resistance is always zero in free fall.\" <|split_2d|>\"inertia of both rocks is the same.\" <|split_2d|>\"ratio of force to mass is the same.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "ratio of force to mass is the same.",
+      "incorrect_answers": [
+        "force due to gravity is the same on each.",
+        "air resistance is always zero in free fall.",
+        "inertia of both rocks is the same."
+      ]
+    }
+  },
+  {
+    "prompt": "When an increase in speed doubles the momentum of a moving body its kinetic energy<|start_2d|>\"increases but less than doubles\" <|split_2d|>\"doubles\" <|split_2d|>\"more than doubles\" <|split_2d|>\"depends on factors not stated\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "more than doubles",
+      "incorrect_answers": [
+        "increases but less than doubles",
+        "doubles",
+        "depends on factors not stated"
+      ]
+    }
+  },
+  {
+    "prompt": "The equation E = mc^2 indicates that energy<|start_2d|>\"equals mass moving at the speed of light squared.\" <|split_2d|>\"equals moving mass.\" <|split_2d|>\"is fundamentally different than mass.\" <|split_2d|>\"and mass are closely related.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "and mass are closely related.",
+      "incorrect_answers": [
+        "equals mass moving at the speed of light squared.",
+        "equals moving mass.",
+        "is fundamentally different than mass."
+      ]
+    }
+  },
+  {
+    "prompt": "General relativity predicts that<|start_2d|>\"light leaving the Sun is slowed by gravity.\" <|split_2d|>\"light passing the Sun is deflected.\" <|split_2d|>\"a clock on the Sun\u2019s surface runs faster than on Earth.\" <|split_2d|>\"All of these.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "All of these.",
+      "incorrect_answers": [
+        "light leaving the Sun is slowed by gravity.",
+        "light passing the Sun is deflected.",
+        "a clock on the Sun\u2019s surface runs faster than on Earth."
+      ]
+    }
+  },
+  {
+    "prompt": "When an element ejects an alpha particle, the atomic number of the resulting element<|start_2d|>\"reduces by 2\" <|split_2d|>\"reduces by 4\" <|split_2d|>\"increases by 2\" <|split_2d|>\"increases by 4\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "reduces by 2",
+      "incorrect_answers": [
+        "reduces by 4",
+        "increases by 2",
+        "increases by 4"
+      ]
+    }
+  },
+  {
+    "prompt": "As more lamps are connected in parallel in a circuit, the current in the power source<|start_2d|>\"increases\" <|split_2d|>\"decreases\" <|split_2d|>\"remains the same\" <|split_2d|>\"Not enough information to say\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "increases",
+      "incorrect_answers": [
+        "decreases",
+        "remains the same",
+        "Not enough information to say"
+      ]
+    }
+  },
+  {
+    "prompt": "An airplane with its nose pointing north with an airspeed of 40 km/h in a 30-km/h crosswind (at right angles) has a groundspeed of<|start_2d|>\"30 km/h\" <|split_2d|>\"40 km/h\" <|split_2d|>\"50 km/h\" <|split_2d|>\"60 km/h\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "50 km/h",
+      "incorrect_answers": [
+        "30 km/h",
+        "40 km/h",
+        "60 km/h"
+      ]
+    }
+  },
+  {
+    "prompt": "The energy of an emitted photon is related to its<|start_2d|>\"amplitude\" <|split_2d|>\"polarization\" <|split_2d|>\"momentum\" <|split_2d|>\"frequency\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "frequency",
+      "incorrect_answers": [
+        "amplitude",
+        "polarization",
+        "momentum"
+      ]
+    }
+  },
+  {
+    "prompt": "Thermal conduction involves mainly<|start_2d|>\"electrons\" <|split_2d|>\"protons\" <|split_2d|>\"neutrons\" <|split_2d|>\"ions\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "electrons",
+      "incorrect_answers": [
+        "protons",
+        "neutrons",
+        "ions"
+      ]
+    }
+  },
+  {
+    "prompt": "Compared with the current in an LED lamp the current in the connecting wire is<|start_2d|>\"less.\" <|split_2d|>\"more.\" <|split_2d|>\"the same.\" <|split_2d|>\"Need more information.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the same.",
+      "incorrect_answers": [
+        "less.",
+        "more.",
+        "Need more information."
+      ]
+    }
+  },
+  {
+    "prompt": "Bow waves are produced by waves of water<|start_2d|>\"overlapping one another\" <|split_2d|>\"constructively interfering\" <|split_2d|>\"moving slower than the source producing them\" <|split_2d|>\"All of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "All of these",
+      "incorrect_answers": [
+        "overlapping one another",
+        "constructively interfering",
+        "moving slower than the source producing them"
+      ]
+    }
+  },
+  {
+    "prompt": "The speed of sound is slightly greater on a<|start_2d|>\"cold day\" <|split_2d|>\"hot day\" <|split_2d|>\"day with steady temperature\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "hot day",
+      "incorrect_answers": [
+        "cold day",
+        "day with steady temperature",
+        "None of these"
+      ]
+    }
+  },
+  {
+    "prompt": "Consider two mercury barometers, one having a cross-sectional area of 1 cm2 and the other 2 cm2. The height of mercury in the narrower tube is<|start_2d|>\"half\" <|split_2d|>\"twice\" <|split_2d|>\"the same\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the same",
+      "incorrect_answers": [
+        "half",
+        "twice",
+        "None of these"
+      ]
+    }
+  },
+  {
+    "prompt": "The second law of thermodynamics tells us that heat doesn\u2019t flow from<|start_2d|>\"hot to cold ever\" <|split_2d|>\"cold to hot ever\" <|split_2d|>\"hot to cold without external energy\" <|split_2d|>\"cold to hot without external energy\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "cold to hot without external energy",
+      "incorrect_answers": [
+        "hot to cold ever",
+        "cold to hot ever",
+        "hot to cold without external energy"
+      ]
+    }
+  },
+  {
+    "prompt": "In a mixture of hydrogen oxygen and nitrogen gases at a given temperature the molecules having the greatest average speed are those of<|start_2d|>\"hydrogen.\" <|split_2d|>\"oxygen.\" <|split_2d|>\"nitrogen.\" <|split_2d|>\"But all have the same speed on average.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "hydrogen.",
+      "incorrect_answers": [
+        "oxygen.",
+        "nitrogen.",
+        "But all have the same speed on average."
+      ]
+    }
+  },
+  {
+    "prompt": "Compared with the power input, the power output of an ideal transformer is<|start_2d|>\"greater\" <|split_2d|>\"less\" <|split_2d|>\"the same\" <|split_2d|>\"Any of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the same",
+      "incorrect_answers": [
+        "greater",
+        "less",
+        "Any of these"
+      ]
+    }
+  },
+  {
+    "prompt": "The amount of air drag on an 0.8-N flying squirrel dropping vertically at terminal velocity is<|start_2d|>\"less than 0.8 N\" <|split_2d|>\"0.8 N\" <|split_2d|>\"greater than 0.8 N\" <|split_2d|>\"dependent on the orientation of its body\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "0.8 N",
+      "incorrect_answers": [
+        "less than 0.8 N",
+        "greater than 0.8 N",
+        "dependent on the orientation of its body"
+      ]
+    }
+  },
+  {
+    "prompt": "The vibrations in a longitudinal wave move in a direction<|start_2d|>\"along and parallel to the wave\" <|split_2d|>\"perpendicular to the wave\" <|split_2d|>\"Both of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "along and parallel to the wave",
+      "incorrect_answers": [
+        "perpendicular to the wave",
+        "Both of these",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "The potential energy of a compressed spring and the potential energy of a charged object both depend on<|start_2d|>\"the work done on them\" <|split_2d|>\"motion\" <|split_2d|>\"Both of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the work done on them",
+      "incorrect_answers": [
+        "motion",
+        "Both of these",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "A step-up transformer in an electrical circuit can step up<|start_2d|>\"voltage\" <|split_2d|>\"energy\" <|split_2d|>\"Both of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "voltage",
+      "incorrect_answers": [
+        "energy",
+        "Both of these",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "The neutrons in an atom are normally found<|start_2d|>\"inside the nucleus\" <|split_2d|>\"outside the nucleus\" <|split_2d|>\"Either of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "inside the nucleus",
+      "incorrect_answers": [
+        "outside the nucleus",
+        "Either of these",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "The greenish-blue color of ocean water is due mostly to light that hasn\u2019t been<|start_2d|>\"absorbed\" <|split_2d|>\"reflected\" <|split_2d|>\"scattered\" <|split_2d|>\"refracted\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "absorbed",
+      "incorrect_answers": [
+        "reflected",
+        "scattered",
+        "refracted"
+      ]
+    }
+  },
+  {
+    "prompt": "Noise-canceling devices make use of sound<|start_2d|>\"destruction\" <|split_2d|>\"interference\" <|split_2d|>\"resonance\" <|split_2d|>\"amplification\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "interference",
+      "incorrect_answers": [
+        "destruction",
+        "resonance",
+        "amplification"
+      ]
+    }
+  },
+  {
+    "prompt": "Black is the combination of<|start_2d|>\"all the colors together\" <|split_2d|>\"two or more appropriate colors\" <|split_2d|>\"light when a prism is held upside down\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "None of these",
+      "incorrect_answers": [
+        "all the colors together",
+        "two or more appropriate colors",
+        "light when a prism is held upside down"
+      ]
+    }
+  },
+  {
+    "prompt": "In a circuit of two lamps in parallel, if the current in one lamp is 2 A, the current in the other lamp is<|start_2d|>\"about 1 A\" <|split_2d|>\"2 A\" <|split_2d|>\"Depends on which lamp is closer to the battery\" <|split_2d|>\"Not enough information to say\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Not enough information to say",
+      "incorrect_answers": [
+        "about 1 A",
+        "2 A",
+        "Depends on which lamp is closer to the battery"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of these changes when light refracts in passing from one medium to another?<|start_2d|>\"Speed only\" <|split_2d|>\"Wavelength only\" <|split_2d|>\"Both speed and wavelength\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Both speed and wavelength",
+      "incorrect_answers": [
+        "Speed only",
+        "Wavelength only",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "If the frequency of one source of sound is 500 Hz and a second sound source is 504 Hz, then when the two waves interfere with each other, the beat frequency will be<|start_2d|>\"2 Hz\" <|split_2d|>\"4 Hz\" <|split_2d|>\"8 Hz\" <|split_2d|>\"16 Hz\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "4 Hz",
+      "incorrect_answers": [
+        "2 Hz",
+        "8 Hz",
+        "16 Hz"
+      ]
+    }
+  },
+  {
+    "prompt": "The loudness of a sound is most closely related to its<|start_2d|>\"frequency\" <|split_2d|>\"period\" <|split_2d|>\"wavelength\" <|split_2d|>\"amplitude\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "amplitude",
+      "incorrect_answers": [
+        "frequency",
+        "period",
+        "wavelength"
+      ]
+    }
+  },
+  {
+    "prompt": "The electric field inside the dome of a Van de Graaff generator is zero when the dome is<|start_2d|>\"charged\" <|split_2d|>\"uncharged\" <|split_2d|>\"Either of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Either of these",
+      "incorrect_answers": [
+        "charged",
+        "uncharged",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "The redness of a sunrise or sunset is due mostly to light that hasn\u2019t been<|start_2d|>\"absorbed\" <|split_2d|>\"transmitted\" <|split_2d|>\"scattered\" <|split_2d|>\"polarized\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "scattered",
+      "incorrect_answers": [
+        "absorbed",
+        "transmitted",
+        "polarized"
+      ]
+    }
+  },
+  {
+    "prompt": "When a nucleus of uranium-238 emits an alpha particle, left behind is<|start_2d|>\"thorium-242\" <|split_2d|>\"thorium-238\" <|split_2d|>\"thorium-234\" <|split_2d|>\"radium-214\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "thorium-234",
+      "incorrect_answers": [
+        "thorium-242",
+        "thorium-238",
+        "radium-214"
+      ]
+    }
+  },
+  {
+    "prompt": "The Doppler effect occurs when a source of sound moves<|start_2d|>\"toward you\" <|split_2d|>\"away from you\" <|split_2d|>\"Both of these\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Both of these",
+      "incorrect_answers": [
+        "toward you",
+        "away from you",
+        "None of these"
+      ]
+    }
+  },
+  {
+    "prompt": "When a proton is plucked from an atomic nucleus, the atom has a decrease in<|start_2d|>\"charge\" <|split_2d|>\"energy\" <|split_2d|>\"mass\" <|split_2d|>\"all of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "all of these",
+      "incorrect_answers": [
+        "charge",
+        "energy",
+        "mass"
+      ]
+    }
+  },
+  {
+    "prompt": "If the Sun were twice as massive, its pull on Mars would be<|start_2d|>\"unchanged\" <|split_2d|>\"twice as much\" <|split_2d|>\"half as much\" <|split_2d|>\"four times as much\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "twice as much",
+      "incorrect_answers": [
+        "unchanged",
+        "half as much",
+        "four times as much"
+      ]
+    }
+  },
+  {
+    "prompt": "During the time an aircraft produces a sonic boom the aircraft is<|start_2d|>\"breaking the sound barrier\" <|split_2d|>\"pulling out of a subsonic dive\" <|split_2d|>\"flying faster than sound\" <|split_2d|>\"Each of these produces a sonic boom\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "flying faster than sound",
+      "incorrect_answers": [
+        "breaking the sound barrier",
+        "pulling out of a subsonic dive",
+        "Each of these produces a sonic boom"
+      ]
+    }
+  },
+  {
+    "prompt": "When food is exposed to gamma radiation, the food<|start_2d|>\"becomes slightly radioactive\" <|split_2d|>\"doesn\u2019t become radioactive\" <|split_2d|>\"will spoil faster\" <|split_2d|>\"should be avoided\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "doesn\u2019t become radioactive",
+      "incorrect_answers": [
+        "becomes slightly radioactive",
+        "will spoil faster",
+        "should be avoided"
+      ]
+    }
+  },
+  {
+    "prompt": "The red glow in the neon tube of an advertising sign is a result of<|start_2d|>\"fluorescence.\" <|split_2d|>\"coherence.\" <|split_2d|>\"polarization.\" <|split_2d|>\"de-excitation.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "de-excitation.",
+      "incorrect_answers": [
+        "fluorescence.",
+        "coherence.",
+        "polarization."
+      ]
+    }
+  },
+  {
+    "prompt": "Light that is not transmitted by opaque materials is<|start_2d|>\"reflected or converted to internal energy in the material.\" <|split_2d|>\"mainly reflected.\" <|split_2d|>\"mainly refracted.\" <|split_2d|>\"transmitted at a lower frequency.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "reflected or converted to internal energy in the material.",
+      "incorrect_answers": [
+        "mainly reflected.",
+        "mainly refracted.",
+        "transmitted at a lower frequency."
+      ]
+    }
+  },
+  {
+    "prompt": "Imagine you're standing on the surface of a shrinking planet. If it shrinks to one-tenth its original diameter with no change in mass on the shrunken surface you'd weigh<|start_2d|>\"1/100 as much\" <|split_2d|>\"10 times as much\" <|split_2d|>\"100 times as much\" <|split_2d|>\"1000 times as much\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "100 times as much",
+      "incorrect_answers": [
+        "1/100 as much",
+        "10 times as much",
+        "1000 times as much"
+      ]
+    }
+  },
+  {
+    "prompt": "A magnetic force acting on a beam of electrons can change its<|start_2d|>\"direction\" <|split_2d|>\"energy\" <|split_2d|>\"Both of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "direction",
+      "incorrect_answers": [
+        "energy",
+        "Both of these",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "Microscopic slush in water tends to make the water<|start_2d|>\"more dense\" <|split_2d|>\"less dense\" <|split_2d|>\"more slippery\" <|split_2d|>\"warmer\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "more dense",
+      "incorrect_answers": [
+        "less dense",
+        "more slippery",
+        "warmer"
+      ]
+    }
+  },
+  {
+    "prompt": "The speed of sound in air depends on<|start_2d|>\"frequency.\" <|split_2d|>\"wavelength.\" <|split_2d|>\"air temperature.\" <|split_2d|>\"All of these.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "air temperature.",
+      "incorrect_answers": [
+        "frequency.",
+        "wavelength.",
+        "All of these."
+      ]
+    }
+  },
+  {
+    "prompt": "Heat comes from the Sun to Earth by the process of<|start_2d|>\"conduction\" <|split_2d|>\"convection\" <|split_2d|>\"radiation\" <|split_2d|>\"All of these, although radiation is greatest\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "radiation",
+      "incorrect_answers": [
+        "conduction",
+        "convection",
+        "All of these, although radiation is greatest"
+      ]
+    }
+  },
+  {
+    "prompt": "A torque is a force<|start_2d|>\"like any other force\" <|split_2d|>\"multiplied by a lever arm\" <|split_2d|>\"that is fictitious\" <|split_2d|>\"that accelerates things\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "multiplied by a lever arm",
+      "incorrect_answers": [
+        "like any other force",
+        "that is fictitious",
+        "that accelerates things"
+      ]
+    }
+  },
+  {
+    "prompt": "All of the following are electromagnetic waves EXCEPT<|start_2d|>\"microwaves\" <|split_2d|>\"light waves\" <|split_2d|>\"X-rays\" <|split_2d|>\"None is outside the family; all are electromagnetic waves\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "None is outside the family; all are electromagnetic waves",
+      "incorrect_answers": [
+        "microwaves",
+        "light waves",
+        "X-rays"
+      ]
+    }
+  },
+  {
+    "prompt": "Big brother and little sister can balance on a seesaw because of balanced<|start_2d|>\"forces\" <|split_2d|>\"torques\" <|split_2d|>\"energies\" <|split_2d|>\"All of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "torques",
+      "incorrect_answers": [
+        "forces",
+        "energies",
+        "All of these"
+      ]
+    }
+  },
+  {
+    "prompt": "Any atom that emits an alpha particle or beta particle<|start_2d|>\"becomes an atom of a different element always.\" <|split_2d|>\"may become an atom of a different element.\" <|split_2d|>\"becomes a different isotope of the same element.\" <|split_2d|>\"increases its mass.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "becomes an atom of a different element always.",
+      "incorrect_answers": [
+        "may become an atom of a different element.",
+        "becomes a different isotope of the same element.",
+        "increases its mass."
+      ]
+    }
+  },
+  {
+    "prompt": "Regelation occurs due to water\u2019s<|start_2d|>\"high specific heat\" <|split_2d|>\"open-structured ice crystals\" <|split_2d|>\"high rate of expansion\" <|split_2d|>\"slight tendency to freeze when its temperature is lowered\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "open-structured ice crystals",
+      "incorrect_answers": [
+        "high specific heat",
+        "high rate of expansion",
+        "slight tendency to freeze when its temperature is lowered"
+      ]
+    }
+  },
+  {
+    "prompt": "A big fish swims upon and swallows a small fish that is at rest. Right after lunch, the fattened big fish has a change in<|start_2d|>\"speed\" <|split_2d|>\"momentum\" <|split_2d|>\"Both\" <|split_2d|>\"Neither\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "speed",
+      "incorrect_answers": [
+        "momentum",
+        "Both",
+        "Neither"
+      ]
+    }
+  },
+  {
+    "prompt": "A capacitor can store<|start_2d|>\"charge\" <|split_2d|>\"energy\" <|split_2d|>\"Both of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Both of these",
+      "incorrect_answers": [
+        "charge",
+        "energy",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "For a tube closed at one end, the length of the tube at a frequency of 256 Hz will be<|start_2d|>\"one-quarter the value for a tube open at both ends\" <|split_2d|>\"one-half the value for a tube open at both ends\" <|split_2d|>\"twice the value for a tube open at both ends\" <|split_2d|>\"four times the value for a tube open at both ends\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "one-half the value for a tube open at both ends",
+      "incorrect_answers": [
+        "one-quarter the value for a tube open at both ends",
+        "twice the value for a tube open at both ends",
+        "four times the value for a tube open at both ends"
+      ]
+    }
+  },
+  {
+    "prompt": "The period of a 10-Hz wave is<|start_2d|>\"1/10 s\" <|split_2d|>\"1.0 s\" <|split_2d|>\"10 s\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "1/10 s",
+      "incorrect_answers": [
+        "1.0 s",
+        "10 s",
+        "None of these"
+      ]
+    }
+  },
+  {
+    "prompt": "If the Sun collapsed to become a black hole Planet Earth would<|start_2d|>\"continue in its present orbit.\" <|split_2d|>\"likely be sucked into the black hole.\" <|split_2d|>\"be pulled apart by tidal forces.\" <|split_2d|>\"Both C and D.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "continue in its present orbit.",
+      "incorrect_answers": [
+        "likely be sucked into the black hole.",
+        "be pulled apart by tidal forces.",
+        "Both C and D."
+      ]
+    }
+  },
+  {
+    "prompt": "The electric field between a pair of oppositely charged parallel plates<|start_2d|>\"gets weaker with distance inside the plates\" <|split_2d|>\"follows the inverse-square law\" <|split_2d|>\"Both of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Neither of these",
+      "incorrect_answers": [
+        "gets weaker with distance inside the plates",
+        "follows the inverse-square law",
+        "Both of these"
+      ]
+    }
+  },
+  {
+    "prompt": "The flight of a blimp best illustrates<|start_2d|>\"Archimedes\u2019 principle\" <|split_2d|>\"Pascal\u2019s principle\" <|split_2d|>\"Bernoulli\u2019s principle\" <|split_2d|>\"Boyle\u2019s law\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Archimedes\u2019 principle",
+      "incorrect_answers": [
+        "Pascal\u2019s principle",
+        "Bernoulli\u2019s principle",
+        "Boyle\u2019s law"
+      ]
+    }
+  },
+  {
+    "prompt": "The distance of your image behind a plane mirror is equal to<|start_2d|>\"half your height\" <|split_2d|>\"half your distance from the mirror\" <|split_2d|>\"your distance in front of the mirror\" <|split_2d|>\"more than your distance in front of the mirror\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "your distance in front of the mirror",
+      "incorrect_answers": [
+        "half your height",
+        "half your distance from the mirror",
+        "more than your distance in front of the mirror"
+      ]
+    }
+  },
+  {
+    "prompt": "The discrete orbits of electrons are best understood when modeled by<|start_2d|>\"high-speed particles\" <|split_2d|>\"particles on springs\" <|split_2d|>\"waves\" <|split_2d|>\"photons\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "waves",
+      "incorrect_answers": [
+        "high-speed particles",
+        "particles on springs",
+        "photons"
+      ]
+    }
+  },
+  {
+    "prompt": "Heat engines, such as a jet engine, are more efficient when run at<|start_2d|>\"high temperatures\" <|split_2d|>\"constant temperatures\" <|split_2d|>\"low temperatures\" <|split_2d|>\"a constant rate\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "high temperatures",
+      "incorrect_answers": [
+        "constant temperatures",
+        "low temperatures",
+        "a constant rate"
+      ]
+    }
+  },
+  {
+    "prompt": "The phenomenon of interference occurs for<|start_2d|>\"sound waves\" <|split_2d|>\"light waves\" <|split_2d|>\"Both of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Both of these",
+      "incorrect_answers": [
+        "sound waves",
+        "light waves",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "As more lamps are connected in a series circuit the current in the power source<|start_2d|>\"increases.\" <|split_2d|>\"decreases.\" <|split_2d|>\"remains much the same.\" <|split_2d|>\"Need more information.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "decreases.",
+      "incorrect_answers": [
+        "increases.",
+        "remains much the same.",
+        "Need more information."
+      ]
+    }
+  },
+  {
+    "prompt": "When you buy a pipe in a hardware store, the water isn\u2019t included. When you buy copper wire, electrons<|start_2d|>\"must be supplied by you\" <|split_2d|>\"are included in the wire\" <|split_2d|>\"may fall out\u2014hence insulation\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "are included in the wire",
+      "incorrect_answers": [
+        "must be supplied by you",
+        "may fall out\u2014hence insulation",
+        "None of these"
+      ]
+    }
+  },
+  {
+    "prompt": "When a uranium nucleus undergoes fission the energy released is primarily in the form of<|start_2d|>\"gamma radiation.\" <|split_2d|>\"kinetic energy of fission fragments.\" <|split_2d|>\"kinetic energy of ejected neutrons.\" <|split_2d|>\"All of these about equally.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "kinetic energy of fission fragments.",
+      "incorrect_answers": [
+        "gamma radiation.",
+        "kinetic energy of ejected neutrons.",
+        "All of these about equally."
+      ]
+    }
+  },
+  {
+    "prompt": "Most of the radiation in Earth\u2019s biosphere is<|start_2d|>\"natural background radiation\" <|split_2d|>\"the result of military activities\" <|split_2d|>\"from nuclear power plants\" <|split_2d|>\"in the form of cosmic rays\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "natural background radiation",
+      "incorrect_answers": [
+        "the result of military activities",
+        "from nuclear power plants",
+        "in the form of cosmic rays"
+      ]
+    }
+  },
+  {
+    "prompt": "When white light enters a prism green light is bent more than<|start_2d|>\"blue light.\" <|split_2d|>\"violet light.\" <|split_2d|>\"red light.\" <|split_2d|>\"None of these choices is correct.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "red light.",
+      "incorrect_answers": [
+        "blue light.",
+        "violet light.",
+        "None of these choices is correct."
+      ]
+    }
+  },
+  {
+    "prompt": "When a ball at rest hangs by a single vertical string tension in the string is mg. If the ball is made to move in amhorizontal circle so that the string describes a cone string tension<|start_2d|>\"is mg\" <|split_2d|>\"is greater than mg always\" <|split_2d|>\"is less than mg always\" <|split_2d|>\"may be greater or less than mg depending on the speed of the ball\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "is greater than mg always",
+      "incorrect_answers": [
+        "is mg",
+        "is less than mg always",
+        "may be greater or less than mg depending on the speed of the ball"
+      ]
+    }
+  },
+  {
+    "prompt": "When a tin can is whirled in a horizontal circle, the net force on the can acts<|start_2d|>\"inward\" <|split_2d|>\"outward\" <|split_2d|>\"upward\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "inward",
+      "incorrect_answers": [
+        "outward",
+        "upward",
+        "None of these"
+      ]
+    }
+  },
+  {
+    "prompt": "The highest ocean tides occur when Earth and the Moon are<|start_2d|>\"lined up with the Sun\" <|split_2d|>\"at right angles to the Sun\" <|split_2d|>\"at any angle to the Sun\" <|split_2d|>\"lined up during spring\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "lined up with the Sun",
+      "incorrect_answers": [
+        "at right angles to the Sun",
+        "at any angle to the Sun",
+        "lined up during spring"
+      ]
+    }
+  },
+  {
+    "prompt": "Lift a 100-N crate with an ideal pulley system by pulling a rope downward with 25 N of force. For every 1-m length of rope pulled down, the crate rises<|start_2d|>\"25 cm\" <|split_2d|>\"25 m\" <|split_2d|>\"50 cm\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "25 cm",
+      "incorrect_answers": [
+        "25 m",
+        "50 cm",
+        "None of these"
+      ]
+    }
+  },
+  {
+    "prompt": "Hot sand cools off faster at night than does vegetation. Compared with vegetation, sand\u2019s specific heat capacity is<|start_2d|>\"lower\" <|split_2d|>\"higher\" <|split_2d|>\"about the same\" <|split_2d|>\"Can\u2019t say\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "lower",
+      "incorrect_answers": [
+        "higher",
+        "about the same",
+        "Can\u2019t say"
+      ]
+    }
+  },
+  {
+    "prompt": "The color of light most intense in the solar radiation curve is<|start_2d|>\"infrared\" <|split_2d|>\"red\" <|split_2d|>\"yellow-green\" <|split_2d|>\"violet\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "yellow-green",
+      "incorrect_answers": [
+        "infrared",
+        "red",
+        "violet"
+      ]
+    }
+  },
+  {
+    "prompt": "If the current in the filament of a lamp is 3 A, the current in the connecting wire is<|start_2d|>\"less than 3 A\" <|split_2d|>\"3 A\" <|split_2d|>\"more than 3 A\" <|split_2d|>\"Not enough information to say\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "3 A",
+      "incorrect_answers": [
+        "less than 3 A",
+        "more than 3 A",
+        "Not enough information to say"
+      ]
+    }
+  },
+  {
+    "prompt": "If two protons and two neutrons are removed from the nucleus of neon-20, a nucleus of which element remains?<|start_2d|>\"Magnesium-22\" <|split_2d|>\"Magnesium-20\" <|split_2d|>\"Oxygen-18\" <|split_2d|>\"Oxygen-16\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Oxygen-16",
+      "incorrect_answers": [
+        "Magnesium-22",
+        "Magnesium-20",
+        "Oxygen-18"
+      ]
+    }
+  },
+  {
+    "prompt": "If a star that is 20 light-years from Earth explodes, gravitational waves from the explosion would reach Earth in<|start_2d|>\"less than 20 years.\" <|split_2d|>\"20 years.\" <|split_2d|>\"more than 20 years.\" <|split_2d|>\"None of these.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "20 years.",
+      "incorrect_answers": [
+        "less than 20 years.",
+        "more than 20 years.",
+        "None of these."
+      ]
+    }
+  },
+  {
+    "prompt": "In a mixture of hydrogen, oxygen, and nitrogen gases at a given temperature, the fastest molecules on average are those of<|start_2d|>\"hydrogen\" <|split_2d|>\"oxygen\" <|split_2d|>\"nitrogen\" <|split_2d|>\"All have same average speed\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "hydrogen",
+      "incorrect_answers": [
+        "oxygen",
+        "nitrogen",
+        "All have same average speed"
+      ]
+    }
+  },
+  {
+    "prompt": "The mutual induction of electric and magnetic fields can produce<|start_2d|>\"light\" <|split_2d|>\"energy\" <|split_2d|>\"Both of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "light",
+      "incorrect_answers": [
+        "energy",
+        "Both of these",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "When a model car speeds up to three times its original speed, its kinetic energy is<|start_2d|>\"the same\" <|split_2d|>\"twice as great\" <|split_2d|>\"three times greater\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "None of these",
+      "incorrect_answers": [
+        "the same",
+        "twice as great",
+        "three times greater"
+      ]
+    }
+  },
+  {
+    "prompt": "If an iron nucleus split in two, its fission fragments would have<|start_2d|>\"less mass per nucleon\" <|split_2d|>\"more mass per nucleon\" <|split_2d|>\"the same mass per nucleon\" <|split_2d|>\"either more or less mass per nucleon\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "more mass per nucleon",
+      "incorrect_answers": [
+        "less mass per nucleon",
+        "the same mass per nucleon",
+        "either more or less mass per nucleon"
+      ]
+    }
+  },
+  {
+    "prompt": "The surface of Planet Earth loses energy to outer space due mostly to<|start_2d|>\"conduction.\" <|split_2d|>\"convection.\" <|split_2d|>\"radiation.\" <|split_2d|>\"radioactivity.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "radiation.",
+      "incorrect_answers": [
+        "conduction.",
+        "convection.",
+        "radioactivity."
+      ]
+    }
+  },
+  {
+    "prompt": "The direction of natural processes is from states of<|start_2d|>\"higher order to lower order\" <|split_2d|>\"lower order to higher order\" <|split_2d|>\"disorganization to organization\" <|split_2d|>\"disorder to equilibrium\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "higher order to lower order",
+      "incorrect_answers": [
+        "lower order to higher order",
+        "disorganization to organization",
+        "disorder to equilibrium"
+      ]
+    }
+  },
+  {
+    "prompt": "A principal source of the Earth\u2019s internal energy is<|start_2d|>\"tidal friction.\" <|split_2d|>\"gravitational pressure.\" <|split_2d|>\"radioactivity.\" <|split_2d|>\"solar radiation.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "radioactivity.",
+      "incorrect_answers": [
+        "tidal friction.",
+        "gravitational pressure.",
+        "solar radiation."
+      ]
+    }
+  },
+  {
+    "prompt": "A diffraction grating relies on light<|start_2d|>\"interference\" <|split_2d|>\"amplitudes\" <|split_2d|>\"variations in brightness\" <|split_2d|>\"being composed of photons\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "interference",
+      "incorrect_answers": [
+        "amplitudes",
+        "variations in brightness",
+        "being composed of photons"
+      ]
+    }
+  },
+  {
+    "prompt": "A satellite in Earth orbit is above Earth\u2019s<|start_2d|>\"atmosphere\" <|split_2d|>\"gravitational field\" <|split_2d|>\"Both\" <|split_2d|>\"Neither\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "atmosphere",
+      "incorrect_answers": [
+        "gravitational field",
+        "Both",
+        "Neither"
+      ]
+    }
+  },
+  {
+    "prompt": "The time it takes for a pendulum swinging to and fro refers to its<|start_2d|>\"frequency\" <|split_2d|>\"period\" <|split_2d|>\"wavelength\" <|split_2d|>\"amplitude\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "period",
+      "incorrect_answers": [
+        "frequency",
+        "wavelength",
+        "amplitude"
+      ]
+    }
+  },
+  {
+    "prompt": "As entropy in a system increases, energy in the system<|start_2d|>\"becomes more ordered\" <|split_2d|>\"becomes less ordered\" <|split_2d|>\"reaches equilibrium\" <|split_2d|>\"moves toward destruction\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "becomes less ordered",
+      "incorrect_answers": [
+        "becomes more ordered",
+        "reaches equilibrium",
+        "moves toward destruction"
+      ]
+    }
+  },
+  {
+    "prompt": "When water changes to steam, energy is<|start_2d|>\"absorbed by the water\" <|split_2d|>\"released by the water\" <|split_2d|>\"conserved as the phase change occurs\" <|split_2d|>\"changed to a different form\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "absorbed by the water",
+      "incorrect_answers": [
+        "released by the water",
+        "conserved as the phase change occurs",
+        "changed to a different form"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Coulomb, a pair of charged particles placed twice as close to each other experience a force<|start_2d|>\"twice as strong\" <|split_2d|>\"four times as strong\" <|split_2d|>\"half as strong\" <|split_2d|>\"one-fourth as strong\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "four times as strong",
+      "incorrect_answers": [
+        "twice as strong",
+        "half as strong",
+        "one-fourth as strong"
+      ]
+    }
+  },
+  {
+    "prompt": "The factors, both of which will increase the magnetic field strength of an electromagnet, are<|start_2d|>\"increased electrical current and fewer coils of wire\" <|split_2d|>\"increased diameter of coil and an increase in the number of coils\" <|split_2d|>\"an increase in the electrical current and using a strong ferromagnetic material like iron\" <|split_2d|>\"using an air core instead of iron and increasing the diameter of the coil\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "an increase in the electrical current and using a strong ferromagnetic material like iron",
+      "incorrect_answers": [
+        "increased electrical current and fewer coils of wire",
+        "increased diameter of coil and an increase in the number of coils",
+        "using an air core instead of iron and increasing the diameter of the coil"
+      ]
+    }
+  },
+  {
+    "prompt": "The team that wins in a tug-of-war is the team that<|start_2d|>\"produces more tension in the rope than the opponent\" <|split_2d|>\"pushes hardest on the ground\" <|split_2d|>\"Both\" <|split_2d|>\"Neither\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "pushes hardest on the ground",
+      "incorrect_answers": [
+        "produces more tension in the rope than the opponent",
+        "Both",
+        "Neither"
+      ]
+    }
+  },
+  {
+    "prompt": "Which type of radiation from cosmic sources predominates on the inside of high-flying commercial airplanes?<|start_2d|>\"Alpha\" <|split_2d|>\"Beta\" <|split_2d|>\"Gamma\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Gamma",
+      "incorrect_answers": [
+        "Alpha",
+        "Beta",
+        "None of these"
+      ]
+    }
+  },
+  {
+    "prompt": "Thermal convection involves mainly<|start_2d|>\"radiant energy\" <|split_2d|>\"fluids\" <|split_2d|>\"insulators\" <|split_2d|>\"All of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "fluids",
+      "incorrect_answers": [
+        "radiant energy",
+        "insulators",
+        "All of these"
+      ]
+    }
+  },
+  {
+    "prompt": "A 10-\u03a9 resistor carries 10 A. The voltage across the resistor is<|start_2d|>\"0\" <|split_2d|>\"more than 0 but less than 10 V\" <|split_2d|>\"10 V\" <|split_2d|>\"more than 10 V\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "more than 10 V",
+      "incorrect_answers": [
+        "0",
+        "more than 0 but less than 10 V",
+        "10 V"
+      ]
+    }
+  },
+  {
+    "prompt": "A cannonball is fired horizontally at 10 m/s from a cliff. Its speed one second after being fired is about<|start_2d|>\"10 m/s\" <|split_2d|>\"14 m/s\" <|split_2d|>\"16 m/s\" <|split_2d|>\"20 m/s\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "14 m/s",
+      "incorrect_answers": [
+        "10 m/s",
+        "16 m/s",
+        "20 m/s"
+      ]
+    }
+  },
+  {
+    "prompt": "The average speed of a gazelle traveling a distance of 2 km in a time of one-half hour is<|start_2d|>\"1 km/h\" <|split_2d|>\"2 km/h\" <|split_2d|>\"4 km/h\" <|split_2d|>\"greater than 4 km/h\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "4 km/h",
+      "incorrect_answers": [
+        "1 km/h",
+        "2 km/h",
+        "greater than 4 km/h"
+      ]
+    }
+  },
+  {
+    "prompt": "The metal detectors people walk through at airports operate via<|start_2d|>\"Ohm\u2019s law\" <|split_2d|>\"Faraday\u2019s law\" <|split_2d|>\"Coulomb\u2019s law\" <|split_2d|>\"Newton\u2019s laws\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Faraday\u2019s law",
+      "incorrect_answers": [
+        "Ohm\u2019s law",
+        "Coulomb\u2019s law",
+        "Newton\u2019s laws"
+      ]
+    }
+  },
+  {
+    "prompt": "Sound travels in<|start_2d|>\"solids\" <|split_2d|>\"liquids\" <|split_2d|>\"gases\" <|split_2d|>\"All of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "All of these",
+      "incorrect_answers": [
+        "solids",
+        "liquids",
+        "gases"
+      ]
+    }
+  },
+  {
+    "prompt": "When a fusion reaction converts a pair of hydrogen isotopes to an alpha particle and a neutron most of the energy released is in the form of<|start_2d|>\"gamma radiation.\" <|split_2d|>\"kinetic energy of the alpha particle.\" <|split_2d|>\"kinetic energy of the neutron.\" <|split_2d|>\"All of these about equally.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "kinetic energy of the neutron.",
+      "incorrect_answers": [
+        "gamma radiation.",
+        "kinetic energy of the alpha particle.",
+        "All of these about equally."
+      ]
+    }
+  },
+  {
+    "prompt": "Polarization is a property of<|start_2d|>\"transverse waves.\" <|split_2d|>\"longitudinal waves.\" <|split_2d|>\"all waves.\" <|split_2d|>\"None of these.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "transverse waves.",
+      "incorrect_answers": [
+        "longitudinal waves.",
+        "all waves.",
+        "None of these."
+      ]
+    }
+  },
+  {
+    "prompt": "The phenomenon of beats results from sound<|start_2d|>\"reflection.\" <|split_2d|>\"refraction.\" <|split_2d|>\"interference.\" <|split_2d|>\"All of these.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "refraction.",
+      "incorrect_answers": [
+        "reflection.",
+        "interference.",
+        "All of these."
+      ]
+    }
+  },
+  {
+    "prompt": "The lowest possible temperature is absolute zero, at<|start_2d|>\"0 kelvin\" <|split_2d|>\"\u2212273\u00b0C\" <|split_2d|>\"Both are the same\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Both are the same",
+      "incorrect_answers": [
+        "0 kelvin",
+        "\u2212273\u00b0C",
+        "None of these"
+      ]
+    }
+  },
+  {
+    "prompt": "Refraction occurs when a wave crosses a boundary and changes<|start_2d|>\"speed and direction\" <|split_2d|>\"intensity\" <|split_2d|>\"frequency\" <|split_2d|>\"amplitude\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "speed and direction",
+      "incorrect_answers": [
+        "intensity",
+        "frequency",
+        "amplitude"
+      ]
+    }
+  },
+  {
+    "prompt": "When you tap a piece of wood, it will produce a characteristic sound related to its<|start_2d|>\"wavelength\" <|split_2d|>\"amplitude\" <|split_2d|>\"period\" <|split_2d|>\"natural frequency\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "natural frequency",
+      "incorrect_answers": [
+        "wavelength",
+        "amplitude",
+        "period"
+      ]
+    }
+  },
+  {
+    "prompt": "When wind speeds up as it blows over the top of a hill, atmospheric pressure there<|start_2d|>\"increases\" <|split_2d|>\"decreases\" <|split_2d|>\"isn\u2019t affected\" <|split_2d|>\"reduces to zero\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "decreases",
+      "incorrect_answers": [
+        "increases",
+        "isn\u2019t affected",
+        "reduces to zero"
+      ]
+    }
+  },
+  {
+    "prompt": "When white light passes through a prism, the light that bends more than green is<|start_2d|>\"red\" <|split_2d|>\"yellow\" <|split_2d|>\"blue\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "blue",
+      "incorrect_answers": [
+        "red",
+        "yellow",
+        "None of these"
+      ]
+    }
+  },
+  {
+    "prompt": "If you travel at high speed, then compared with your friends who \u201cstay at home,\u201d you are<|start_2d|>\"older.\" <|split_2d|>\"younger.\" <|split_2d|>\"neither younger nor older.\" <|split_2d|>\"longer.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "younger.",
+      "incorrect_answers": [
+        "older.",
+        "neither younger nor older.",
+        "longer."
+      ]
+    }
+  },
+  {
+    "prompt": "The component of velocity that can remain constant for a tossed baseball is<|start_2d|>\"horizontal\" <|split_2d|>\"vertical\" <|split_2d|>\"Either of these\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "horizontal",
+      "incorrect_answers": [
+        "vertical",
+        "Either of these",
+        "None of these"
+      ]
+    }
+  },
+  {
+    "prompt": "The crystals that make up minerals are composed of<|start_2d|>\"atoms with a definite geometrical arrangement.\" <|split_2d|>\"molecules that perpetually move.\" <|split_2d|>\"X-ray patterns.\" <|split_2d|>\"3-dimensional chessboards.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "atoms with a definite geometrical arrangement.",
+      "incorrect_answers": [
+        "molecules that perpetually move.",
+        "X-ray patterns.",
+        "3-dimensional chessboards."
+      ]
+    }
+  },
+  {
+    "prompt": "Two vectors, one 3 N and the other 4 N, can have a resultant of<|start_2d|>\"0 N\" <|split_2d|>\"5 N\" <|split_2d|>\"8 N\" <|split_2d|>\"Any of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "5 N",
+      "incorrect_answers": [
+        "0 N",
+        "8 N",
+        "Any of these"
+      ]
+    }
+  },
+  {
+    "prompt": "Radioactivity has been around on Earth since the<|start_2d|>\"middle of the 1900s\" <|split_2d|>\"Industrial Revolution\" <|split_2d|>\"advent of medical technology\" <|split_2d|>\"Earth formed\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Earth formed",
+      "incorrect_answers": [
+        "middle of the 1900s",
+        "Industrial Revolution",
+        "advent of medical technology"
+      ]
+    }
+  },
+  {
+    "prompt": "When the shadow of the Moon falls on Earth, we have a<|start_2d|>\"lunar eclipse.\" <|split_2d|>\"solar eclipse.\" <|split_2d|>\"solar eclipse if it\u2019s daytime and lunar eclipse if it\u2019s nighttime.\" <|split_2d|>\"very dangerous event.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "solar eclipse.",
+      "incorrect_answers": [
+        "lunar eclipse.",
+        "solar eclipse if it\u2019s daytime and lunar eclipse if it\u2019s nighttime.",
+        "very dangerous event."
+      ]
+    }
+  },
+  {
+    "prompt": "In both fission and fusion, energy is released while mass<|start_2d|>\"decreases\" <|split_2d|>\"remains unchanged; is conserved\" <|split_2d|>\"increases\" <|split_2d|>\"may decrease or increase\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "decreases",
+      "incorrect_answers": [
+        "remains unchanged; is conserved",
+        "increases",
+        "may decrease or increase"
+      ]
+    }
+  },
+  {
+    "prompt": "When relatively slow-moving molecules condense from the air, the temperature of the remaining air tends to<|start_2d|>\"remain unchanged\" <|split_2d|>\"decrease\" <|split_2d|>\"increase\" <|split_2d|>\"spread out uniformly\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "increase",
+      "incorrect_answers": [
+        "remain unchanged",
+        "decrease",
+        "spread out uniformly"
+      ]
+    }
+  },
+  {
+    "prompt": "If the volume of an object were to double, with no change in mass, its density would<|start_2d|>\"halve.\" <|split_2d|>\"double.\" <|split_2d|>\"be the same.\" <|split_2d|>\"None of these.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "halve.",
+      "incorrect_answers": [
+        "double.",
+        "be the same.",
+        "None of these."
+      ]
+    }
+  },
+  {
+    "prompt": "The pressure at the bottom of a pond does NOT depend on the<|start_2d|>\"acceleration due to gravity.\" <|split_2d|>\"water density.\" <|split_2d|>\"depth of the pond.\" <|split_2d|>\"surface area of the pond.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "surface area of the pond.",
+      "incorrect_answers": [
+        "acceleration due to gravity.",
+        "water density.",
+        "depth of the pond."
+      ]
+    }
+  },
+  {
+    "prompt": "The blueness of the daytime sky is due mostly to light<|start_2d|>\"absorption\" <|split_2d|>\"transmission\" <|split_2d|>\"reflection\" <|split_2d|>\"scattering\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "scattering",
+      "incorrect_answers": [
+        "absorption",
+        "transmission",
+        "reflection"
+      ]
+    }
+  },
+  {
+    "prompt": "A galvanometer can be calibrated to read electric<|start_2d|>\"current\" <|split_2d|>\"voltage\" <|split_2d|>\"Either of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Either of these",
+      "incorrect_answers": [
+        "current",
+        "voltage",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of these temperatures is likely when a container of water at 20\u00b0C is mixed with water at 28\u00b0C?<|start_2d|>\"19\u00b0C\" <|split_2d|>\"22\u00b0C\" <|split_2d|>\"30\u00b0C\" <|split_2d|>\"Higher than 30\u00b0C\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "22\u00b0C",
+      "incorrect_answers": [
+        "19\u00b0C",
+        "30\u00b0C",
+        "Higher than 30\u00b0C"
+      ]
+    }
+  },
+  {
+    "prompt": "To view your full-face image in a steamy mirror compared with the height of your face the minimum height of the patch to wipe away is<|start_2d|>\"one-quarter.\" <|split_2d|>\"one-half.\" <|split_2d|>\"the same.\" <|split_2d|>\"dependent on your distance from the mirror.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "one-half.",
+      "incorrect_answers": [
+        "one-quarter.",
+        "the same.",
+        "dependent on your distance from the mirror."
+      ]
+    }
+  },
+  {
+    "prompt": "The vibrations in a transverse wave move in a direction<|start_2d|>\"along the wave\" <|split_2d|>\"perpendicular to the wave\" <|split_2d|>\"Both of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "perpendicular to the wave",
+      "incorrect_answers": [
+        "along the wave",
+        "Both of these",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "A 1134-Hz tuning fork is sounded at the same time a piano note is struck. You hear three beats per second. The frequency of the piano string is<|start_2d|>\"1131 Hz\" <|split_2d|>\"1134 Hz\" <|split_2d|>\"1137 Hz\" <|split_2d|>\"More information is needed\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "More information is needed",
+      "incorrect_answers": [
+        "1131 Hz",
+        "1134 Hz",
+        "1137 Hz"
+      ]
+    }
+  },
+  {
+    "prompt": "Huygens\u2019 principle for light is primarily described by<|start_2d|>\"waves\" <|split_2d|>\"rays\" <|split_2d|>\"particles\" <|split_2d|>\"photons\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "waves",
+      "incorrect_answers": [
+        "rays",
+        "particles",
+        "photons"
+      ]
+    }
+  },
+  {
+    "prompt": "When the temperature of a strip of iron is increased, the length of the strip<|start_2d|>\"also increases.\" <|split_2d|>\"actually decreases.\" <|split_2d|>\"may increase and may decrease.\" <|split_2d|>\"decreases in width as it gets longer.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "also increases.",
+      "incorrect_answers": [
+        "actually decreases.",
+        "may increase and may decrease.",
+        "decreases in width as it gets longer."
+      ]
+    }
+  },
+  {
+    "prompt": "When light undergoes interference, it can sometimes<|start_2d|>\"build up to more than the sum of amplitudes\" <|split_2d|>\"cancel completely\" <|split_2d|>\"Both of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "cancel completely",
+      "incorrect_answers": [
+        "build up to more than the sum of amplitudes",
+        "Both of these",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "When the color yellow is seen on your TV screen the phosphors being activated on the screen are<|start_2d|>\"mainly yellow.\" <|split_2d|>\"blue and red.\" <|split_2d|>\"green and yellow.\" <|split_2d|>\"red and green.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "red and green.",
+      "incorrect_answers": [
+        "mainly yellow.",
+        "blue and red.",
+        "green and yellow."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of these does NOT belong in the family of electromagnetic waves?<|start_2d|>\"Light\" <|split_2d|>\"Sound\" <|split_2d|>\"Radio waves\" <|split_2d|>\"X-rays\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Sound",
+      "incorrect_answers": [
+        "Light",
+        "Radio waves",
+        "X-rays"
+      ]
+    }
+  },
+  {
+    "prompt": "A math book and a physics book sitting on a table are tied together with a length of string. With the string taut one book is pushed off the edge of the table. As it falls the other book is dragged horizontally across the table surface. With no friction acceleration of the books is<|start_2d|>\"zero\" <|split_2d|>\"g/2\" <|split_2d|>\"g\" <|split_2d|>\"a value between zero and g\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a value between zero and g",
+      "incorrect_answers": [
+        "zero",
+        "g/2",
+        "g"
+      ]
+    }
+  },
+  {
+    "prompt": "A motor and a generator are<|start_2d|>\"similar devices\" <|split_2d|>\"very different devices\" <|split_2d|>\"forms of transformers\" <|split_2d|>\"energy sources\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "similar devices",
+      "incorrect_answers": [
+        "very different devices",
+        "forms of transformers",
+        "energy sources"
+      ]
+    }
+  },
+  {
+    "prompt": "As more lamps are connected in parallel in a circuit the current in the power source<|start_2d|>\"increases.\" <|split_2d|>\"decreases.\" <|split_2d|>\"remains much the same.\" <|split_2d|>\"Need more information.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "increases.",
+      "incorrect_answers": [
+        "decreases.",
+        "remains much the same.",
+        "Need more information."
+      ]
+    }
+  },
+  {
+    "prompt": "Newton\u2019s law of cooling applies to objects that<|start_2d|>\"cool\" <|split_2d|>\"warm up\" <|split_2d|>\"Both\" <|split_2d|>\"Neither\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Both",
+      "incorrect_answers": [
+        "cool",
+        "warm up",
+        "Neither"
+      ]
+    }
+  },
+  {
+    "prompt": "The fact that the Moon always shows its same face to Earth is evidence that the Moon rotates about its axis about once per<|start_2d|>\"day\" <|split_2d|>\"month\" <|split_2d|>\"year\" <|split_2d|>\"None of these for the moon does not rotate about an axis\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "month",
+      "incorrect_answers": [
+        "day",
+        "year",
+        "None of these for the moon does not rotate about an axis"
+      ]
+    }
+  },
+  {
+    "prompt": "Consider a ball rolling in a horizontal circular path on the inside surface of a cone. The normal force on the ball<|start_2d|>\"is mg\" <|split_2d|>\"is greater than mg always\" <|split_2d|>\"may be greater or less than mg\" <|split_2d|>\"is less than mg always\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "is greater than mg always",
+      "incorrect_answers": [
+        "is mg",
+        "may be greater or less than mg",
+        "is less than mg always"
+      ]
+    }
+  },
+  {
+    "prompt": "The compressions and rarefactions in sound normally travel<|start_2d|>\"in the same direction\" <|split_2d|>\"in opposite directions\" <|split_2d|>\"at right angles to each other\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "in the same direction",
+      "incorrect_answers": [
+        "in opposite directions",
+        "at right angles to each other",
+        "None of these"
+      ]
+    }
+  },
+  {
+    "prompt": "The power required to raise a 100-kg crate a vertical distance of 2 m in a time of 4 s is<|start_2d|>\"200 W\" <|split_2d|>\"500 W\" <|split_2d|>\"800 W\" <|split_2d|>\"2000 W\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "500 W",
+      "incorrect_answers": [
+        "200 W",
+        "800 W",
+        "2000 W"
+      ]
+    }
+  },
+  {
+    "prompt": "The phenomenon of beats is the result of sound<|start_2d|>\"destruction\" <|split_2d|>\"interference\" <|split_2d|>\"resonance\" <|split_2d|>\"amplification\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "interference",
+      "incorrect_answers": [
+        "destruction",
+        "resonance",
+        "amplification"
+      ]
+    }
+  },
+  {
+    "prompt": "Interference is characteristic of<|start_2d|>\"sound waves\" <|split_2d|>\"light waves\" <|split_2d|>\"water waves\" <|split_2d|>\"All of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "All of these",
+      "incorrect_answers": [
+        "sound waves",
+        "light waves",
+        "water waves"
+      ]
+    }
+  },
+  {
+    "prompt": "In either a fission event or a fusion event, a quantity that remains unchanged is the<|start_2d|>\"kinetic energy\" <|split_2d|>\"mass\" <|split_2d|>\"number of nucleons\" <|split_2d|>\"binding of nucleons\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "number of nucleons",
+      "incorrect_answers": [
+        "kinetic energy",
+        "mass",
+        "binding of nucleons"
+      ]
+    }
+  },
+  {
+    "prompt": "The magnetic force on a moving charged particle can change the particle's<|start_2d|>\"speed\" <|split_2d|>\"direction\" <|split_2d|>\"Both of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "direction",
+      "incorrect_answers": [
+        "speed",
+        "Both of these",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "If you were to travel at a speed close to the speed of light, you could notice that your own<|start_2d|>\"mass changes.\" <|split_2d|>\"pulse decreases.\" <|split_2d|>\"Both of these.\" <|split_2d|>\"Neither of these.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Neither of these.",
+      "incorrect_answers": [
+        "mass changes.",
+        "pulse decreases.",
+        "Both of these."
+      ]
+    }
+  },
+  {
+    "prompt": "Electricity and magnetism connect to form<|start_2d|>\"mass\" <|split_2d|>\"energy\" <|split_2d|>\"ultrahigh-frequency sound\" <|split_2d|>\"light\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "light",
+      "incorrect_answers": [
+        "mass",
+        "energy",
+        "ultrahigh-frequency sound"
+      ]
+    }
+  },
+  {
+    "prompt": "Sound travels in air by a series of<|start_2d|>\"compressions\" <|split_2d|>\"rarefactions\" <|split_2d|>\"Both of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Both of these",
+      "incorrect_answers": [
+        "compressions",
+        "rarefactions",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "When a cannonball is fired from a cannon, both the cannonball and the cannon experience equal<|start_2d|>\"amounts of force\" <|split_2d|>\"accelerations\" <|split_2d|>\"Both\" <|split_2d|>\"Neither\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "amounts of force",
+      "incorrect_answers": [
+        "accelerations",
+        "Both",
+        "Neither"
+      ]
+    }
+  },
+  {
+    "prompt": "The nucleus of an electrically neutral iron atom contains 26 protons. The number of electrons this iron atom has is<|start_2d|>\"52\" <|split_2d|>\"26\" <|split_2d|>\"24\" <|split_2d|>\"None.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "26",
+      "incorrect_answers": [
+        "52",
+        "24",
+        "None."
+      ]
+    }
+  },
+  {
+    "prompt": "To say that a rose petal is red is to say that it<|start_2d|>\"absorbs red\" <|split_2d|>\"reflects red\" <|split_2d|>\"emits red\" <|split_2d|>\"transmits red\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "reflects red",
+      "incorrect_answers": [
+        "absorbs red",
+        "emits red",
+        "transmits red"
+      ]
+    }
+  },
+  {
+    "prompt": "Compared with a sound of 60 decibels, a sound of 80 decibels has an intensity<|start_2d|>\"10 times greater\" <|split_2d|>\"100 times greater\" <|split_2d|>\"1000 times greater\" <|split_2d|>\"more than 1000 times greater\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "100 times greater",
+      "incorrect_answers": [
+        "10 times greater",
+        "1000 times greater",
+        "more than 1000 times greater"
+      ]
+    }
+  },
+  {
+    "prompt": "When red and blue light are overlapped, the color produced is<|start_2d|>\"magenta\" <|split_2d|>\"yellow\" <|split_2d|>\"cyan\" <|split_2d|>\"white\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "magenta",
+      "incorrect_answers": [
+        "yellow",
+        "cyan",
+        "white"
+      ]
+    }
+  },
+  {
+    "prompt": "When 100 J are put into a device that puts out 40 J of useful work, the efficiency of the device is<|start_2d|>\"40%\" <|split_2d|>\"50%\" <|split_2d|>\"60%\" <|split_2d|>\"140%\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "40%",
+      "incorrect_answers": [
+        "50%",
+        "60%",
+        "140%"
+      ]
+    }
+  },
+  {
+    "prompt": "Shock waves are produced by waves of sound<|start_2d|>\"overlapping one another\" <|split_2d|>\"constructively interfering\" <|split_2d|>\"moving slower than the source producing them\" <|split_2d|>\"All of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "All of these",
+      "incorrect_answers": [
+        "overlapping one another",
+        "constructively interfering",
+        "moving slower than the source producing them"
+      ]
+    }
+  },
+  {
+    "prompt": "A rock suspended by a weighing scale weighs 5 N out of water and 3 N when submerged in water. What is the buoyant force on the rock?<|start_2d|>\"3 N\" <|split_2d|>\"5 N\" <|split_2d|>\"8 N\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "None of these",
+      "incorrect_answers": [
+        "3 N",
+        "5 N",
+        "8 N"
+      ]
+    }
+  },
+  {
+    "prompt": "The work done on a 100-kg crate that is hoisted 2 m in a time of 4 s is<|start_2d|>\"200 J\" <|split_2d|>\"500 J\" <|split_2d|>\"800 J\" <|split_2d|>\"2000 J\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "2000 J",
+      "incorrect_answers": [
+        "200 J",
+        "500 J",
+        "800 J"
+      ]
+    }
+  },
+  {
+    "prompt": "A capacitor loses half its remaining charge every second. If after five seconds its charge is q what was its initial charge?<|start_2d|>\"4q.\" <|split_2d|>\"8q.\" <|split_2d|>\"16q.\" <|split_2d|>\"32q.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "32q.",
+      "incorrect_answers": [
+        "4q.",
+        "8q.",
+        "16q."
+      ]
+    }
+  },
+  {
+    "prompt": "The mass of an atom comes mostly from its _ ; and its volume from its _.<|start_2d|>\"nucleons; nucleons.\" <|split_2d|>\"electrons; electrons.\" <|split_2d|>\"electrons; nucleons.\" <|split_2d|>\"nucleons; electrons.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "nucleons; electrons.",
+      "incorrect_answers": [
+        "nucleons; nucleons.",
+        "electrons; electrons.",
+        "electrons; nucleons."
+      ]
+    }
+  },
+  {
+    "prompt": "The definition of magnetic inclination is the angle between<|start_2d|>\"magnetic north and geographic north\" <|split_2d|>\"magnetic north and geographic south\" <|split_2d|>\"the earth\u2019s magnetic field at any point and the vertical\" <|split_2d|>\"the earth\u2019s magnetic field at any point and the horizontal\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the earth\u2019s magnetic field at any point and the horizontal",
+      "incorrect_answers": [
+        "magnetic north and geographic north",
+        "magnetic north and geographic south",
+        "the earth\u2019s magnetic field at any point and the vertical"
+      ]
+    }
+  },
+  {
+    "prompt": "The pitch of a sound is mostly related to its<|start_2d|>\"intensity\" <|split_2d|>\"frequency\" <|split_2d|>\"amplitude\" <|split_2d|>\"speed\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "frequency",
+      "incorrect_answers": [
+        "intensity",
+        "amplitude",
+        "speed"
+      ]
+    }
+  },
+  {
+    "prompt": "As more lamps are connected to a series circuit, the current in the power source<|start_2d|>\"increases\" <|split_2d|>\"decreases\" <|split_2d|>\"remains the same\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "decreases",
+      "incorrect_answers": [
+        "increases",
+        "remains the same",
+        "None of these"
+      ]
+    }
+  },
+  {
+    "prompt": "When an element ejects an alpha particle, the mass number of the resulting element<|start_2d|>\"reduces by 2\" <|split_2d|>\"reduces by 4\" <|split_2d|>\"increases by 2\" <|split_2d|>\"increases by 4\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "reduces by 4",
+      "incorrect_answers": [
+        "reduces by 2",
+        "increases by 2",
+        "increases by 4"
+      ]
+    }
+  },
+  {
+    "prompt": "An electron can be speeded up by<|start_2d|>\"an electric field\" <|split_2d|>\"a magnetic field\" <|split_2d|>\"Both of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "an electric field",
+      "incorrect_answers": [
+        "a magnetic field",
+        "Both of these",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "A certain element emits 1 alpha particle, and its products then emit 2 beta particles in succession. The atomic number of the resulting element is changed by<|start_2d|>\"zero\" <|split_2d|>\"minus 1\" <|split_2d|>\"minus 2\" <|split_2d|>\"plus 1\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "zero",
+      "incorrect_answers": [
+        "minus 1",
+        "minus 2",
+        "plus 1"
+      ]
+    }
+  },
+  {
+    "prompt": "When an object is set vibrating by a wave that has a matching frequency, what occurs is<|start_2d|>\"forced vibration\" <|split_2d|>\"resonance\" <|split_2d|>\"refraction\" <|split_2d|>\"amplitude reduction\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "resonance",
+      "incorrect_answers": [
+        "forced vibration",
+        "refraction",
+        "amplitude reduction"
+      ]
+    }
+  },
+  {
+    "prompt": "The red glow in the neon tube of an advertising sign is a result of<|start_2d|>\"fluorescence\" <|split_2d|>\"incandescence\" <|split_2d|>\"de-excitation\" <|split_2d|>\"polarization\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "de-excitation",
+      "incorrect_answers": [
+        "fluorescence",
+        "incandescence",
+        "polarization"
+      ]
+    }
+  },
+  {
+    "prompt": "At very high speeds, an object appears to an observer at rest to be<|start_2d|>\"shorter in the direction of travel.\" <|split_2d|>\"shrunken in all directions.\" <|split_2d|>\"shorter in the direction perpendicular to travel.\" <|split_2d|>\"longer in all directions.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "shorter in the direction of travel.",
+      "incorrect_answers": [
+        "shrunken in all directions.",
+        "shorter in the direction perpendicular to travel.",
+        "longer in all directions."
+      ]
+    }
+  },
+  {
+    "prompt": "When a wave moves from shallow water to deep water, the<|start_2d|>\"frequency decreases, the wavelength increases, and the speed increases\" <|split_2d|>\"frequency does not change, the wavelength increases, and the speed increases\" <|split_2d|>\"frequency does not change, the wavelength decreases, and the speed decreases\" <|split_2d|>\"frequency does not change, the wavelength increases, and the speed decreases\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "frequency does not change, the wavelength increases, and the speed increases",
+      "incorrect_answers": [
+        "frequency decreases, the wavelength increases, and the speed increases",
+        "frequency does not change, the wavelength decreases, and the speed decreases",
+        "frequency does not change, the wavelength increases, and the speed decreases"
+      ]
+    }
+  },
+  {
+    "prompt": "When you drop a ball from rest it accelerates downward at 9.8 m/s^2. If you instead throw it downward assuming no air resistance its acceleration immediately after leaving your hand is<|start_2d|>\"9.8 m/s2\" <|split_2d|>\"more than 9.8 m/s2\" <|split_2d|>\"less than 9.8 m/s2\" <|split_2d|>\"Cannot say unless the speed of throw is given.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "9.8 m/s2",
+      "incorrect_answers": [
+        "more than 9.8 m/s2",
+        "less than 9.8 m/s2",
+        "Cannot say unless the speed of throw is given."
+      ]
+    }
+  },
+  {
+    "prompt": "Carbon-14 is primarily produced by cosmic radiation in the<|start_2d|>\"atmosphere\" <|split_2d|>\"food we eat\" <|split_2d|>\"Earth\u2019s interior\" <|split_2d|>\"fallout of nuclear bomb tests\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "atmosphere",
+      "incorrect_answers": [
+        "food we eat",
+        "Earth\u2019s interior",
+        "fallout of nuclear bomb tests"
+      ]
+    }
+  },
+  {
+    "prompt": "Chain reactions in a fission reactor are caused by<|start_2d|>\"kinetic energy\" <|split_2d|>\"energy conversion\" <|split_2d|>\"mass conversion\" <|split_2d|>\"ejected neutrons\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "ejected neutrons",
+      "incorrect_answers": [
+        "kinetic energy",
+        "energy conversion",
+        "mass conversion"
+      ]
+    }
+  },
+  {
+    "prompt": "Satellites in circular Earth orbit maintain a constant speed because gravitational force on them is<|start_2d|>\"zero\" <|split_2d|>\"practically zero\" <|split_2d|>\"appreciably weaker than at Earth\u2019s surface\" <|split_2d|>\"without a component of force along their circular path\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "without a component of force along their circular path",
+      "incorrect_answers": [
+        "zero",
+        "practically zero",
+        "appreciably weaker than at Earth\u2019s surface"
+      ]
+    }
+  },
+  {
+    "prompt": "The complementary color of blue is<|start_2d|>\"magenta\" <|split_2d|>\"yellow\" <|split_2d|>\"cyan\" <|split_2d|>\"white\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "yellow",
+      "incorrect_answers": [
+        "magenta",
+        "cyan",
+        "white"
+      ]
+    }
+  },
+  {
+    "prompt": "The difference between dc and ac in electric circuits is that in dc, charges flow<|start_2d|>\"steadily in one direction\" <|split_2d|>\"in one direction\" <|split_2d|>\"to and fro\" <|split_2d|>\"All of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "in one direction",
+      "incorrect_answers": [
+        "steadily in one direction",
+        "to and fro",
+        "All of these"
+      ]
+    }
+  },
+  {
+    "prompt": "To receive an electric shock there must be a<|start_2d|>\"current in one direction.\" <|split_2d|>\"presence of moisture.\" <|split_2d|>\"high voltage and low body resistance.\" <|split_2d|>\"voltage difference across part or all of your body.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "voltage difference across part or all of your body.",
+      "incorrect_answers": [
+        "current in one direction.",
+        "presence of moisture.",
+        "high voltage and low body resistance."
+      ]
+    }
+  },
+  {
+    "prompt": "A karate chop delivers a force of 3000 N to a board that breaks. The force that the board exerts on the hand during this event is<|start_2d|>\"less than 3000 N\" <|split_2d|>\"3000 N\" <|split_2d|>\"greater than 3000 N\" <|split_2d|>\"Need more information\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "3000 N",
+      "incorrect_answers": [
+        "less than 3000 N",
+        "greater than 3000 N",
+        "Need more information"
+      ]
+    }
+  },
+  {
+    "prompt": "Find the speed of a wave by multiplying its frequency by its<|start_2d|>\"period\" <|split_2d|>\"wavelength\" <|split_2d|>\"amplitude\" <|split_2d|>\"None of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "wavelength",
+      "incorrect_answers": [
+        "period",
+        "amplitude",
+        "None of these"
+      ]
+    }
+  },
+  {
+    "prompt": "The magnitude of the gravitational force on a satellite is constant if the orbit is<|start_2d|>\"parabolic\" <|split_2d|>\"circular\" <|split_2d|>\"elliptical\" <|split_2d|>\"All of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "circular",
+      "incorrect_answers": [
+        "parabolic",
+        "elliptical",
+        "All of these"
+      ]
+    }
+  },
+  {
+    "prompt": "The impulse\u2013momentum relationship is a direct result of Newton\u2019s<|start_2d|>\"first law\" <|split_2d|>\"second law\" <|split_2d|>\"third law\" <|split_2d|>\"law of gravity\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "second law",
+      "incorrect_answers": [
+        "first law",
+        "third law",
+        "law of gravity"
+      ]
+    }
+  },
+  {
+    "prompt": "A common nuclear fission reactor<|start_2d|>\"heats water\" <|split_2d|>\"generates electricity directly\" <|split_2d|>\"gets energy from nothing\" <|split_2d|>\"is a major polluter of the atmosphere\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "heats water",
+      "incorrect_answers": [
+        "generates electricity directly",
+        "gets energy from nothing",
+        "is a major polluter of the atmosphere"
+      ]
+    }
+  },
+  {
+    "prompt": "The process of boiling water tends to<|start_2d|>\"warm the water\" <|split_2d|>\"cool the water\" <|split_2d|>\"Both\" <|split_2d|>\"Neither\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "cool the water",
+      "incorrect_answers": [
+        "warm the water",
+        "Both",
+        "Neither"
+      ]
+    }
+  },
+  {
+    "prompt": "When you scale up an object to 3 times its linear size, the surface area increases by<|start_2d|>\"3 and the volume by 9.\" <|split_2d|>\"3 and the volume by 27.\" <|split_2d|>\"9 and the volume by 27.\" <|split_2d|>\"4 and the volume by 8.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "9 and the volume by 27.",
+      "incorrect_answers": [
+        "3 and the volume by 9.",
+        "3 and the volume by 27.",
+        "4 and the volume by 8."
+      ]
+    }
+  },
+  {
+    "prompt": "If you change the magnetic field in a closed loop of wire, what is created in the loop is a(n)<|start_2d|>\"current\" <|split_2d|>\"voltage\" <|split_2d|>\"electric field\" <|split_2d|>\"All of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "All of these",
+      "incorrect_answers": [
+        "current",
+        "voltage",
+        "electric field"
+      ]
+    }
+  },
+  {
+    "prompt": "Clocks on a fast-moving spaceship whizzing past Earth appear to run slow when viewed from<|start_2d|>\"inside the spaceship.\" <|split_2d|>\"Earth.\" <|split_2d|>\"Both of these.\" <|split_2d|>\"Neither of these.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Earth.",
+      "incorrect_answers": [
+        "inside the spaceship.",
+        "Both of these.",
+        "Neither of these."
+      ]
+    }
+  },
+  {
+    "prompt": "The model of light most supported by the photoelectric effect is the<|start_2d|>\"wave model\" <|split_2d|>\"particle model\" <|split_2d|>\"Both of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "particle model",
+      "incorrect_answers": [
+        "wave model",
+        "Both of these",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "Compared with a fundamental tone, the frequency of its second harmonic is<|start_2d|>\"half as much\" <|split_2d|>\"twice as much\" <|split_2d|>\"the same\" <|split_2d|>\"four times as much\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "twice as much",
+      "incorrect_answers": [
+        "half as much",
+        "the same",
+        "four times as much"
+      ]
+    }
+  },
+  {
+    "prompt": "A string is plucked producing four loops (antinodes). The length of the string is 12.00 m. The wavelength of the wave must be<|start_2d|>\"48.0 m\" <|split_2d|>\"24.0 m\" <|split_2d|>\"6.00 m\" <|split_2d|>\"3.00 m\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "6.00 m",
+      "incorrect_answers": [
+        "48.0 m",
+        "24.0 m",
+        "3.00 m"
+      ]
+    }
+  },
+  {
+    "prompt": "During the time an aircraft produces a sonic boom, the aircraft is<|start_2d|>\"breaking the sound barrier\" <|split_2d|>\"pulling out of a subsonic dive\" <|split_2d|>\"flying faster than sound\" <|split_2d|>\"All of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "flying faster than sound",
+      "incorrect_answers": [
+        "breaking the sound barrier",
+        "pulling out of a subsonic dive",
+        "All of these"
+      ]
+    }
+  },
+  {
+    "prompt": "The principal source of Earth\u2019s internal energy is<|start_2d|>\"tidal friction\" <|split_2d|>\"gravitational pressure\" <|split_2d|>\"radioactivity\" <|split_2d|>\"geothermal heat\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "radioactivity",
+      "incorrect_answers": [
+        "tidal friction",
+        "gravitational pressure",
+        "geothermal heat"
+      ]
+    }
+  },
+  {
+    "prompt": "When you brush your hair and scrape electrons from your hair, the charge of your hair becomes<|start_2d|>\"positive\" <|split_2d|>\"negative\" <|split_2d|>\"Both of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "positive",
+      "incorrect_answers": [
+        "negative",
+        "Both of these",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "Astrophysicists are able to identify the elements in the outer layers of a star by studying its<|start_2d|>\"Doppler effect.\" <|split_2d|>\"molecular structure.\" <|split_2d|>\"temperature.\" <|split_2d|>\"spectrum.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "spectrum.",
+      "incorrect_answers": [
+        "Doppler effect.",
+        "molecular structure.",
+        "temperature."
+      ]
+    }
+  },
+  {
+    "prompt": "Relativistic equations for time dilation length contraction and relativistic momentum and energy hold true<|start_2d|>\"at speeds near that of light.\" <|split_2d|>\"at everyday low speeds.\" <|split_2d|>\"at all speeds.\" <|split_2d|>\"only approximately.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "at all speeds.",
+      "incorrect_answers": [
+        "at speeds near that of light.",
+        "at everyday low speeds.",
+        "only approximately."
+      ]
+    }
+  },
+  {
+    "prompt": "In his special theory of relativity, Einstein stated that the laws of physics are<|start_2d|>\"different in different situations.\" <|split_2d|>\"common sense applied to microscopic and macroscopic things.\" <|split_2d|>\"the same in all frames of reference.\" <|split_2d|>\"the same in all uniformly moving frames of reference.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the same in all uniformly moving frames of reference.",
+      "incorrect_answers": [
+        "different in different situations.",
+        "common sense applied to microscopic and macroscopic things.",
+        "the same in all frames of reference."
+      ]
+    }
+  },
+  {
+    "prompt": "When an element ejects a beta particle, the atomic number of that element<|start_2d|>\"reduces by 1\" <|split_2d|>\"increases by 1\" <|split_2d|>\"reduces by 2\" <|split_2d|>\"increases by 2\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "increases by 1",
+      "incorrect_answers": [
+        "reduces by 1",
+        "reduces by 2",
+        "increases by 2"
+      ]
+    }
+  },
+  {
+    "prompt": "The amount of heat transferred to a system can be measured in<|start_2d|>\"calories\" <|split_2d|>\"joules\" <|split_2d|>\"Either\" <|split_2d|>\"Neither\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Either",
+      "incorrect_answers": [
+        "calories",
+        "joules",
+        "Neither"
+      ]
+    }
+  },
+  {
+    "prompt": "Compared with the sound you hear from the siren of a stationary fire engine, its sound when it approaches you has an increased<|start_2d|>\"speed\" <|split_2d|>\"frequency\" <|split_2d|>\"Both of these\" <|split_2d|>\"Neither of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "frequency",
+      "incorrect_answers": [
+        "speed",
+        "Both of these",
+        "Neither of these"
+      ]
+    }
+  },
+  {
+    "prompt": "Light reflecting from a smooth surface undergoes a change in<|start_2d|>\"frequency.\" <|split_2d|>\"wavelength.\" <|split_2d|>\"All of these.\" <|split_2d|>\"None of these.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "None of these.",
+      "incorrect_answers": [
+        "frequency.",
+        "wavelength.",
+        "All of these."
+      ]
+    }
+  },
+  {
+    "prompt": "What Einstein discovered about space and time is that they<|start_2d|>\"are separate entities.\" <|split_2d|>\"are parts of one whole.\" <|split_2d|>\"follow an inverse-square law.\" <|split_2d|>\"are special to space travelers.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "are parts of one whole.",
+      "incorrect_answers": [
+        "are separate entities.",
+        "follow an inverse-square law.",
+        "are special to space travelers."
+      ]
+    }
+  },
+  {
+    "prompt": "All parts of a laser beam have the same<|start_2d|>\"frequency\" <|split_2d|>\"phase\" <|split_2d|>\"speed\" <|split_2d|>\"All of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "All of these",
+      "incorrect_answers": [
+        "frequency",
+        "phase",
+        "speed"
+      ]
+    }
+  },
+  {
+    "prompt": "The rotational inertia of an object is greater when most of the mass is located<|start_2d|>\"near the rotational axis\" <|split_2d|>\"away from the axis\" <|split_2d|>\"on the rotational axis\" <|split_2d|>\"off center\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "away from the axis",
+      "incorrect_answers": [
+        "near the rotational axis",
+        "on the rotational axis",
+        "off center"
+      ]
+    }
+  },
+  {
+    "prompt": "When small pieces of material are assembled into a larger piece, the combined surface area<|start_2d|>\"greatly increases\" <|split_2d|>\"slightly increases\" <|split_2d|>\"decreases\" <|split_2d|>\"is unchanged\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "decreases",
+      "incorrect_answers": [
+        "greatly increases",
+        "slightly increases",
+        "is unchanged"
+      ]
+    }
+  },
+  {
+    "prompt": "A rainbow is the result of light in raindrops that undergoes<|start_2d|>\"internal reflection\" <|split_2d|>\"dispersion\" <|split_2d|>\"refraction\" <|split_2d|>\"All of these\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "All of these",
+      "incorrect_answers": [
+        "internal reflection",
+        "dispersion",
+        "refraction"
+      ]
+    }
+  },
+  {
+    "prompt": "In the atomic nucleus, electrical forces tend to<|start_2d|>\"hold particles together\" <|split_2d|>\"push particles apart\" <|split_2d|>\"produce orbital motion\" <|split_2d|>\"charge particles\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "push particles apart",
+      "incorrect_answers": [
+        "hold particles together",
+        "produce orbital motion",
+        "charge particles"
+      ]
+    }
+  },
+  {
+    "prompt": "The fact that the acceleration of free fall is the same for all masses is explained by Newton\u2019s<|start_2d|>\"first law\" <|split_2d|>\"second law\" <|split_2d|>\"third law\" <|split_2d|>\"law of action\u2013reaction\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "second law",
+      "incorrect_answers": [
+        "first law",
+        "third law",
+        "law of action\u2013reaction"
+      ]
+    }
+  },
+  {
+    "prompt": "Compared with radiation from the Sun, terrestrial radiation has a lower<|start_2d|>\"wavelength\" <|split_2d|>\"frequency\" <|split_2d|>\"Both\" <|split_2d|>\"Neither\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "frequency",
+      "incorrect_answers": [
+        "wavelength",
+        "Both",
+        "Neither"
+      ]
+    }
+  },
+  {
+    "prompt": "When we speak of time dilation, we mean that time<|start_2d|>\"compresses with speed.\" <|split_2d|>\"stretches with speed.\" <|split_2d|>\"is a constant at all speeds.\" <|split_2d|>\"is related to space.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "stretches with speed.",
+      "incorrect_answers": [
+        "compresses with speed.",
+        "is a constant at all speeds.",
+        "is related to space."
+      ]
+    }
+  },
+  {
+    "prompt": "The magnetic field lines about a current-carrying wire form<|start_2d|>\"circles\" <|split_2d|>\"radial lines\" <|split_2d|>\"eddy currents\" <|split_2d|>\"energy loops\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "circles",
+      "incorrect_answers": [
+        "radial lines",
+        "eddy currents",
+        "energy loops"
+      ]
+    }
+  },
+  {
+    "prompt": "An inflated balloon with a heavy rock tied to it is dropped into a deep lake. As the balloon sinks deeper and deeper the buoyant force acting on it<|start_2d|>\"increases.\" <|split_2d|>\"decreases.\" <|split_2d|>\"remains largely unchanged.\" <|split_2d|>\"Need more information.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "decreases.",
+      "incorrect_answers": [
+        "increases.",
+        "remains largely unchanged.",
+        "Need more information."
+      ]
+    }
+  },
+  {
+    "prompt": "A radioactive sample has a half-life of 1 hour. If we start with 1.000 gram of it at noon, how much remains at 3:00 pm?<|start_2d|>\"0.50 g\" <|split_2d|>\"0.25 g\" <|split_2d|>\"0.125 g\" <|split_2d|>\"0.0625 g\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "0.125 g",
+      "incorrect_answers": [
+        "0.50 g",
+        "0.25 g",
+        "0.0625 g"
+      ]
+    }
+  },
+  {
+    "prompt": "Boiling and freezing occur when water is subjected to<|start_2d|>\"decreased temperatures\" <|split_2d|>\"decreased atmospheric pressure\" <|split_2d|>\"increased temperatures\" <|split_2d|>\"increased atmospheric pressure\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "decreased atmospheric pressure",
+      "incorrect_answers": [
+        "decreased temperatures",
+        "increased temperatures",
+        "increased atmospheric pressure"
+      ]
+    }
+  },
+  {
+    "prompt": "When you bend the branch of a tree by hanging on its end, the top side of the branch is under<|start_2d|>\"tension.\" <|split_2d|>\"compression.\" <|split_2d|>\"Both.\" <|split_2d|>\"Neither.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "tension.",
+      "incorrect_answers": [
+        "compression.",
+        "Both.",
+        "Neither."
+      ]
+    }
+  },
+  {
+    "prompt": "A simple and correct way to comprehend satellites orbiting Earth is to view them as<|start_2d|>\"balanced between gravitational and centripetal forces.\" <|split_2d|>\"beyond the main pull of Earth gravity.\" <|split_2d|>\"in mechanical equilibrium with a net force of zero.\" <|split_2d|>\"having sufficient tangential velocities to fall around rather than into Earth.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "having sufficient tangential velocities to fall around rather than into Earth.",
+      "incorrect_answers": [
+        "balanced between gravitational and centripetal forces.",
+        "beyond the main pull of Earth gravity.",
+        "in mechanical equilibrium with a net force of zero."
+      ]
+    }
+  }
+]

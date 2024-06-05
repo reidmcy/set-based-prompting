@@ -1,0 +1,2620 @@
+[
+  {
+    "prompt": "Marginal revenue equals marginal cost at the point where<|start_2d|>\"total revenue is greater than total cost at its greatest distance\" <|split_2d|>\"total revenue is equal to total cost\" <|split_2d|>\"marginal product is at its highest point\" <|split_2d|>\"total product is at its highest point\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "total revenue is greater than total cost at its greatest distance",
+      "incorrect_answers": [
+        "total revenue is equal to total cost",
+        "marginal product is at its highest point",
+        "total product is at its highest point"
+      ]
+    }
+  },
+  {
+    "prompt": "The price of labor is $2, and the price of capital is $1. The marginal product of labor is 200, and the marginal product of capital is 50. What should the firm do?<|start_2d|>\"Increase capital and decrease labor so that the marginal product of capital falls and the marginal product of labor rises.\" <|split_2d|>\"Increase capital and decrease labor so that the marginal product of capital rises and the marginal product of labor falls.\" <|split_2d|>\"Decrease capital and increase labor so that the marginal product of capital rises and the marginal product of labor falls.\" <|split_2d|>\"Decrease capital and increase labor so that the marginal product of capital falls and the marginal product of labor rises.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Decrease capital and increase labor so that the marginal product of capital rises and the marginal product of labor falls.",
+      "incorrect_answers": [
+        "Increase capital and decrease labor so that the marginal product of capital falls and the marginal product of labor rises.",
+        "Increase capital and decrease labor so that the marginal product of capital rises and the marginal product of labor falls.",
+        "Decrease capital and increase labor so that the marginal product of capital falls and the marginal product of labor rises."
+      ]
+    }
+  },
+  {
+    "prompt": "At a Nash equilibrium,<|start_2d|>\"the supply curve intersects the demand curve\" <|split_2d|>\"neither party has an incentive to deviate from his or her strategy\" <|split_2d|>\"the marginal revenue curve intersects the marginal cost curve\" <|split_2d|>\"the equilibrium is unstable and each party would like to switch strategies\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "neither party has an incentive to deviate from his or her strategy",
+      "incorrect_answers": [
+        "the supply curve intersects the demand curve",
+        "the marginal revenue curve intersects the marginal cost curve",
+        "the equilibrium is unstable and each party would like to switch strategies"
+      ]
+    }
+  },
+  {
+    "prompt": "You are told that the cross-price elasticity between goods X and Y is +2.0. This means that<|start_2d|>\"goods X and Y are normal goods.\" <|split_2d|>\"goods X and Y are inferior goods.\" <|split_2d|>\"goods X and Y are complementary goods.\" <|split_2d|>\"goods X and Y are substitute goods.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "goods X and Y are substitute goods.",
+      "incorrect_answers": [
+        "goods X and Y are normal goods.",
+        "goods X and Y are inferior goods.",
+        "goods X and Y are complementary goods."
+      ]
+    }
+  },
+  {
+    "prompt": "An externality<|start_2d|>\"causes the equilibrium price to be artificially high\" <|split_2d|>\"causes the equilibrium price to be artificially low\" <|split_2d|>\"exists when markets cannot reach equilibrium\" <|split_2d|>\"results in an equilibrium that does not maximize the total benefit to society\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "results in an equilibrium that does not maximize the total benefit to society",
+      "incorrect_answers": [
+        "causes the equilibrium price to be artificially high",
+        "causes the equilibrium price to be artificially low",
+        "exists when markets cannot reach equilibrium"
+      ]
+    }
+  },
+  {
+    "prompt": "What is one reason why the government discourages collusion between large firms in the same industry?<|start_2d|>\"Collusive output levels tend to increase, driving the price above competitive levels.\" <|split_2d|>\"Consumer surplus falls as the price is driven downward.\" <|split_2d|>\"Collusive output levels tend to decrease, driving the price down to competitive levels.\" <|split_2d|>\"Joint profit maximization costs society consumer surplus as the price rises above competitive levels.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Joint profit maximization costs society consumer surplus as the price rises above competitive levels.",
+      "incorrect_answers": [
+        "Collusive output levels tend to increase, driving the price above competitive levels.",
+        "Consumer surplus falls as the price is driven downward.",
+        "Collusive output levels tend to decrease, driving the price down to competitive levels."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following illustrates the demand curve facing an oligopolist when rival firms follow a price decrease but not a price increase?<|start_2d|>\"Perfectly horizontal demand curve.\" <|split_2d|>\"Highly inelastic demand curve.\" <|split_2d|>\"Highly elastic demand curve.\" <|split_2d|>\"A demand curve consisting of two discontinuous segments.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A demand curve consisting of two discontinuous segments.",
+      "incorrect_answers": [
+        "Perfectly horizontal demand curve.",
+        "Highly inelastic demand curve.",
+        "Highly elastic demand curve."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is not the basis for a wage differential?<|start_2d|>\"Higher risk job.\" <|split_2d|>\"Investment in human capital.\" <|split_2d|>\"Increase in production of SUVs.\" <|split_2d|>\"Racial discrimination.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Increase in production of SUVs.",
+      "incorrect_answers": [
+        "Higher risk job.",
+        "Investment in human capital.",
+        "Racial discrimination."
+      ]
+    }
+  },
+  {
+    "prompt": "Patents, control of resources, economies of scale, and exclusive licenses are<|start_2d|>\"all requirements for price discrimination\" <|split_2d|>\"required in order for a firm to earn short-run profits\" <|split_2d|>\"all sources of elastic demand\" <|split_2d|>\"all barriers to entry\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "all barriers to entry",
+      "incorrect_answers": [
+        "all requirements for price discrimination",
+        "required in order for a firm to earn short-run profits",
+        "all sources of elastic demand"
+      ]
+    }
+  },
+  {
+    "prompt": "The industry that makes plastic army figures uses a small fraction of the plastic demanded for all purposes. On this basis, we can conclude that the army-figures industry is most likely a(n)<|start_2d|>\"increasing-cost industry\" <|split_2d|>\"constant-cost industry\" <|split_2d|>\"decreasing-cost industry\" <|split_2d|>\"profit-making industry\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "constant-cost industry",
+      "incorrect_answers": [
+        "increasing-cost industry",
+        "decreasing-cost industry",
+        "profit-making industry"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is most likely an example of production inputs that can be adjusted in the long run, but not in the short run?<|start_2d|>\"Amount of wood used to make a desk.\" <|split_2d|>\"Number of pickles put on a sandwich.\" <|split_2d|>\"The size of a McDonald\u2019s kitchen.\" <|split_2d|>\"Number of teacher\u2019s assistants in local high schools.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The size of a McDonald\u2019s kitchen.",
+      "incorrect_answers": [
+        "Amount of wood used to make a desk.",
+        "Number of pickles put on a sandwich.",
+        "Number of teacher\u2019s assistants in local high schools."
+      ]
+    }
+  },
+  {
+    "prompt": "The apple market is in equilibrium. Suppose we observe that apple growers are using more pesticides to increase apple production. At the same time, we hear that the price of pears, a substitute for apples, is rising. Which of the following is a reasonable prediction for the new price and quantity of apples?<|start_2d|>\"Price rises, but quantity is ambiguous.\" <|split_2d|>\"Price falls, but quantity is ambiguous.\" <|split_2d|>\"Price is ambiguous, but quantity rises.\" <|split_2d|>\"Price is ambiguous, but quantity falls.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Price is ambiguous, but quantity rises.",
+      "incorrect_answers": [
+        "Price rises, but quantity is ambiguous.",
+        "Price falls, but quantity is ambiguous.",
+        "Price is ambiguous, but quantity falls."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is most likely to result in a shift to the right in the demand curve for orange juice?<|start_2d|>\"A bumper crop of oranges in Florida\" <|split_2d|>\"A decrease in the price of Tang\" <|split_2d|>\"Expectations of lower future prices for orange juice\" <|split_2d|>\"Expectations of higher future income among juice drinkers\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Expectations of higher future income among juice drinkers",
+      "incorrect_answers": [
+        "A bumper crop of oranges in Florida",
+        "A decrease in the price of Tang",
+        "Expectations of lower future prices for orange juice"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements is accurate in regard to a perfectly competitive firm?<|start_2d|>\"Demand is downward-sloping.\" <|split_2d|>\"The demand curve lies above the marginal revenue curve.\" <|split_2d|>\"Price is determined by the equilibrium in the entire market.\" <|split_2d|>\"Average revenue differs from price.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Price is determined by the equilibrium in the entire market.",
+      "incorrect_answers": [
+        "Demand is downward-sloping.",
+        "The demand curve lies above the marginal revenue curve.",
+        "Average revenue differs from price."
+      ]
+    }
+  },
+  {
+    "prompt": "Economists use the term \"capital\" to mean<|start_2d|>\"money.\" <|split_2d|>\"plant and equipment.\" <|split_2d|>\"where the central government is located.\" <|split_2d|>\"the center of the economy.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "plant and equipment.",
+      "incorrect_answers": [
+        "money.",
+        "where the central government is located.",
+        "the center of the economy."
+      ]
+    }
+  },
+  {
+    "prompt": "Ray and Dorothy can both cook and can both pull weeds in the garden on a Saturday afternoon. For every hour of cooking, Ray can pull 50 weeds and Dorothy can pull 100 weeds. Based on this information,<|start_2d|>\"Ray pulls weeds, since he has absolute advantage in cooking.\" <|split_2d|>\"Dorothy pulls weeds, since she has absolute advantage in cooking.\" <|split_2d|>\"Dorothy cooks, since she has comparative advantage in cooking.\" <|split_2d|>\"Ray cooks, since he has comparative advantage in cooking.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Ray cooks, since he has comparative advantage in cooking.",
+      "incorrect_answers": [
+        "Ray pulls weeds, since he has absolute advantage in cooking.",
+        "Dorothy pulls weeds, since she has absolute advantage in cooking.",
+        "Dorothy cooks, since she has comparative advantage in cooking."
+      ]
+    }
+  },
+  {
+    "prompt": "Your aunt runs a small firm from her home making apple pies. She hires some friends to help her. Which of the following situations would most likely increase her demand for labor?<|start_2d|>\"The price of apple peelers/corers rises.\" <|split_2d|>\"Your aunt\u2019s friends gossip all day, slowing their dough-making process.\" <|split_2d|>\"There is a sale on ovens.\" <|split_2d|>\"A new study reveals that apples increase your risk of cancer.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "There is a sale on ovens.",
+      "incorrect_answers": [
+        "The price of apple peelers/corers rises.",
+        "Your aunt\u2019s friends gossip all day, slowing their dough-making process.",
+        "A new study reveals that apples increase your risk of cancer."
+      ]
+    }
+  },
+  {
+    "prompt": "Mrs. Johnson spends her entire daily budget on potato chips, at a price of $1 each, and onion dip at a price of $2 each. At her current consumption bundle, the marginal utility of chips is 12 and the marginal utility of dip is 30. Mrs. Johnson should<|start_2d|>\"do nothing; she is consuming her utility maximizing combination of chips and dip.\" <|split_2d|>\"increase her consumption of chips until the marginal utility of chip consumption equals 30.\" <|split_2d|>\"decrease her consumption of chips until the marginal utility of chip consumption equals 30.\" <|split_2d|>\"decrease her consumption of chips and increase her consumption of dip until the marginal utility per dollar is equal for both goods.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "decrease her consumption of chips and increase her consumption of dip until the marginal utility per dollar is equal for both goods.",
+      "incorrect_answers": [
+        "do nothing; she is consuming her utility maximizing combination of chips and dip.",
+        "increase her consumption of chips until the marginal utility of chip consumption equals 30.",
+        "decrease her consumption of chips until the marginal utility of chip consumption equals 30."
+      ]
+    }
+  },
+  {
+    "prompt": "In the absence of intervention, imperfect competition, externalities, public goods, and imperfect information all result in which of the following?<|start_2d|>\"Demand curves that should be added vertically\" <|split_2d|>\"Market failure\" <|split_2d|>\"Prices that are too low\" <|split_2d|>\"Quantities of output that are too high\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Market failure",
+      "incorrect_answers": [
+        "Demand curves that should be added vertically",
+        "Prices that are too low",
+        "Quantities of output that are too high"
+      ]
+    }
+  },
+  {
+    "prompt": "Marginal cost (MC) is equal to average variable cost (AVC) and average total cost (ATC) when:<|start_2d|>\"marginal cost (MC) intersects AVC and ATC at their maximum points.\" <|split_2d|>\"AVC and ATC intersect MC at its maximum point.\" <|split_2d|>\"MC intersects AVC and ATC at their minimum points.\" <|split_2d|>\"AVC and ATC intersect MC at its minimum point.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "MC intersects AVC and ATC at their minimum points.",
+      "incorrect_answers": [
+        "marginal cost (MC) intersects AVC and ATC at their maximum points.",
+        "AVC and ATC intersect MC at its maximum point.",
+        "AVC and ATC intersect MC at its minimum point."
+      ]
+    }
+  },
+  {
+    "prompt": "After Julia received a raise in her income, she began purchasing more ice cream cones and fewer popsicles. For Julia, popsicles<|start_2d|>\"disobey the law of demand\" <|split_2d|>\"are a joint product\" <|split_2d|>\"are a complementary good with ice cream\" <|split_2d|>\"are an inferior good\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "are an inferior good",
+      "incorrect_answers": [
+        "disobey the law of demand",
+        "are a joint product",
+        "are a complementary good with ice cream"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following conditions is characteristic of oligopoly?<|start_2d|>\"A rival firm matches price decreases of rivals, but fails to match any price increases of rivals.\" <|split_2d|>\"A rival firm matches price increases of rivals, but fails to match any price decrease of rivals.\" <|split_2d|>\"A rival firm fails to match both price increases or price decreases of rivals.\" <|split_2d|>\"(I)) Rival firms act independently of each other.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A rival firm matches price decreases of rivals, but fails to match any price increases of rivals.",
+      "incorrect_answers": [
+        "A rival firm matches price increases of rivals, but fails to match any price decrease of rivals.",
+        "A rival firm fails to match both price increases or price decreases of rivals.",
+        "(I)) Rival firms act independently of each other."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is characteristic of oligopoly? I. Formidable barriers to entry. II. Price (P) = Marginal Revenue (MR). III. Relatively few sellers.<|start_2d|>\"I only.\" <|split_2d|>\"II only.\" <|split_2d|>\"III only.\" <|split_2d|>\"I and III only.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "I and III only.",
+      "incorrect_answers": [
+        "I only.",
+        "II only.",
+        "III only."
+      ]
+    }
+  },
+  {
+    "prompt": "A monopoly is less efficient than a perfect competitor because<|start_2d|>\"a monopoly produces more output and sells for a higher price\" <|split_2d|>\"a monopoly produces less output and sells for a higher price\" <|split_2d|>\"a monopoly can make profit in the short run but not in the long run\" <|split_2d|>\"a perfect competitor breaks even in the short run and the monopoly does not\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a monopoly produces less output and sells for a higher price",
+      "incorrect_answers": [
+        "a monopoly produces more output and sells for a higher price",
+        "a monopoly can make profit in the short run but not in the long run",
+        "a perfect competitor breaks even in the short run and the monopoly does not"
+      ]
+    }
+  },
+  {
+    "prompt": "In the design of a competitive market system, which of the following does NOT describe how resources are allocated?<|start_2d|>\"Price signals that guide producers on what, when, how, and for whom to produce goods and services.\" <|split_2d|>\"Active government ownership and direction of production.\" <|split_2d|>\"Voluntary market exchange between buyers and sellers.\" <|split_2d|>\"Distribution of income and goods on the basis of contribution or productivity.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Active government ownership and direction of production.",
+      "incorrect_answers": [
+        "Price signals that guide producers on what, when, how, and for whom to produce goods and services.",
+        "Voluntary market exchange between buyers and sellers.",
+        "Distribution of income and goods on the basis of contribution or productivity."
+      ]
+    }
+  },
+  {
+    "prompt": "A production possibility frontier will be a straight line when<|start_2d|>\"efficiency is achieved\" <|split_2d|>\"the goods on the axes are perfect substitutes in consumption\" <|split_2d|>\"utility is maximized\" <|split_2d|>\"resources are not specialized\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "resources are not specialized",
+      "incorrect_answers": [
+        "efficiency is achieved",
+        "the goods on the axes are perfect substitutes in consumption",
+        "utility is maximized"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements is correct?<|start_2d|>\"Economic Profits = Accounting Profits.\" <|split_2d|>\"Economic Costs = Explicit Costs plus Implicit Costs.\" <|split_2d|>\"Economic Costs = Explicit Costs minus Implicit Costs.\" <|split_2d|>\"Opportunity Costs = Economic Profits.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Economic Costs = Explicit Costs plus Implicit Costs.",
+      "incorrect_answers": [
+        "Economic Profits = Accounting Profits.",
+        "Economic Costs = Explicit Costs minus Implicit Costs.",
+        "Opportunity Costs = Economic Profits."
+      ]
+    }
+  },
+  {
+    "prompt": "If the per unit price of labor, a variable resource, increases, it causes which of the following?<|start_2d|>\"An upward shift in AFC.\" <|split_2d|>\"An upward shift in MPL.\" <|split_2d|>\"A downward shift in ATC.\" <|split_2d|>\"An upward shift in MC.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "An upward shift in MC.",
+      "incorrect_answers": [
+        "An upward shift in AFC.",
+        "An upward shift in MPL.",
+        "A downward shift in ATC."
+      ]
+    }
+  },
+  {
+    "prompt": "If the wage paid to all units of labor is $4.50, how many units of labor are hired?<|start_2d|>\"1\" <|split_2d|>\"2\" <|split_2d|>\"3\" <|split_2d|>\"4\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "2",
+      "incorrect_answers": [
+        "1",
+        "3",
+        "4"
+      ]
+    }
+  },
+  {
+    "prompt": "If consumers are advised that multigrained bread will substantially lessen the risk of cancer, which of the following will happen in the market for multigrained bread?<|start_2d|>\"The demand curve will shift to the left, decreasing the price of multigrained bread.\" <|split_2d|>\"The supply curve will shift to the left, increasing the price of multigrained bread.\" <|split_2d|>\"The demand curve will shift to the right, increasing the price of multigrained bread.\" <|split_2d|>\"The supply curve will shift to the right, decreasing the price of multigrained bread.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The demand curve will shift to the right, increasing the price of multigrained bread.",
+      "incorrect_answers": [
+        "The demand curve will shift to the left, decreasing the price of multigrained bread.",
+        "The supply curve will shift to the left, increasing the price of multigrained bread.",
+        "The supply curve will shift to the right, decreasing the price of multigrained bread."
+      ]
+    }
+  },
+  {
+    "prompt": "The market structures of perfect competition and monopolistic competition share which of the following characteristics?<|start_2d|>\"Ease of entry and exit in the long run\" <|split_2d|>\"Homogenous products\" <|split_2d|>\"Perfectly elastic demand for the firm's product\" <|split_2d|>\"Long-run positive profits\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Ease of entry and exit in the long run",
+      "incorrect_answers": [
+        "Homogenous products",
+        "Perfectly elastic demand for the firm's product",
+        "Long-run positive profits"
+      ]
+    }
+  },
+  {
+    "prompt": "When a negative externality exists as the result of the production of a good, the socially optimal quantity of output could be achieved by<|start_2d|>\"free market capitalism\" <|split_2d|>\"placing limits on the quantity that can be produced\" <|split_2d|>\"government purchases of the good\" <|split_2d|>\"setting a minimum on the quantity that can be produced\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "placing limits on the quantity that can be produced",
+      "incorrect_answers": [
+        "free market capitalism",
+        "government purchases of the good",
+        "setting a minimum on the quantity that can be produced"
+      ]
+    }
+  },
+  {
+    "prompt": "Jason cleans swimming pools in a perfectly competitive local market. A profit maximizer, he can charge $10 per pool to clean 9 pools per day, incurring total variable costs of $80 and total fixed costs of $20. Which of the following is true?<|start_2d|>\"Jason should shut down in the short run, with economic losses of $20.\" <|split_2d|>\"Jason should shut down in the short run, with economic losses of $10.\" <|split_2d|>\"Jason should clean 9 pools per day, with economic losses of $20.\" <|split_2d|>\"Jason should clean 9 pools per day, with economic losses of $10.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Jason should clean 9 pools per day, with economic losses of $10.",
+      "incorrect_answers": [
+        "Jason should shut down in the short run, with economic losses of $20.",
+        "Jason should shut down in the short run, with economic losses of $10.",
+        "Jason should clean 9 pools per day, with economic losses of $20."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is not a characteristic of oligopoly?<|start_2d|>\"P = MC.\" <|split_2d|>\"Price-maker.\" <|split_2d|>\"Strong barriers to entry.\" <|split_2d|>\"Few firms.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "P = MC.",
+      "incorrect_answers": [
+        "Price-maker.",
+        "Strong barriers to entry.",
+        "Few firms."
+      ]
+    }
+  },
+  {
+    "prompt": "The competitive market provides the best outcome for society because<|start_2d|>\"consumer surplus is minimized, while producer surplus is maximized.\" <|split_2d|>\"the total welfare is maximized.\" <|split_2d|>\"producer surplus is minimized, while consumer surplus is maximized.\" <|split_2d|>\"the difference between consumer and producer surplus is maximized.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the total welfare is maximized.",
+      "incorrect_answers": [
+        "consumer surplus is minimized, while producer surplus is maximized.",
+        "producer surplus is minimized, while consumer surplus is maximized.",
+        "the difference between consumer and producer surplus is maximized."
+      ]
+    }
+  },
+  {
+    "prompt": "You are told that the income elasticity for DVDs is + 1.5. This means that<|start_2d|>\"a 10 percent increase in income produces a 15 percent increase in consumption of DVDs. DVDs are a normal luxury good.\" <|split_2d|>\"a 10 percent increase in income produces a 15 percent increase in consumption of DVDs. DVDs are an inferior good.\" <|split_2d|>\"a 10 percent increase in income produces a 15 percent decrease in consumption of DVDs. DVDs are an inferior good.\" <|split_2d|>\"a 10 percent increase in the price of DVDs produces a 15 percent decrease in consumption of DVDs. DVDs are a price elastic good.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a 10 percent increase in income produces a 15 percent increase in consumption of DVDs. DVDs are a normal luxury good.",
+      "incorrect_answers": [
+        "a 10 percent increase in income produces a 15 percent increase in consumption of DVDs. DVDs are an inferior good.",
+        "a 10 percent increase in income produces a 15 percent decrease in consumption of DVDs. DVDs are an inferior good.",
+        "a 10 percent increase in the price of DVDs produces a 15 percent decrease in consumption of DVDs. DVDs are a price elastic good."
+      ]
+    }
+  },
+  {
+    "prompt": "If the price of a product decreases with the price of a substitute product remaining constant such that the consumer buys more of this product, this is called the<|start_2d|>\"income effect.\" <|split_2d|>\"substitution effect.\" <|split_2d|>\"marginal effect.\" <|split_2d|>\"supply effect.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "substitution effect.",
+      "incorrect_answers": [
+        "income effect.",
+        "marginal effect.",
+        "supply effect."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is an example of a transfer earning?<|start_2d|>\"A superstar basketball player's $40 million earnings.\" <|split_2d|>\"A social security retirement income.\" <|split_2d|>\"A welfare payment from social services.\" <|split_2d|>\"A cashier at a restaurant receiving the same $8 an hour that other cashiers receive.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A cashier at a restaurant receiving the same $8 an hour that other cashiers receive.",
+      "incorrect_answers": [
+        "A superstar basketball player's $40 million earnings.",
+        "A social security retirement income.",
+        "A welfare payment from social services."
+      ]
+    }
+  },
+  {
+    "prompt": "A small business estimates price elasticity of demand for the product to be 3. To raise total revenue, owners should<|start_2d|>\"decrease price as demand is elastic.\" <|split_2d|>\"decrease price as demand is inelastic.\" <|split_2d|>\"increase price as demand is elastic.\" <|split_2d|>\"increase price as demand is inelastic.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "decrease price as demand is elastic.",
+      "incorrect_answers": [
+        "decrease price as demand is inelastic.",
+        "increase price as demand is elastic.",
+        "increase price as demand is inelastic."
+      ]
+    }
+  },
+  {
+    "prompt": "A bilateral monopoly exists when<|start_2d|>\"a monopsony buys from a monopoly\" <|split_2d|>\"a monopoly sells to two different types of consumers\" <|split_2d|>\"a monopoly buys from a monopsony\" <|split_2d|>\"a monopolist sells two different types of goods\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a monopsony buys from a monopoly",
+      "incorrect_answers": [
+        "a monopoly sells to two different types of consumers",
+        "a monopoly buys from a monopsony",
+        "a monopolist sells two different types of goods"
+      ]
+    }
+  },
+  {
+    "prompt": "If firms are entering an industry that is monopolistically competitive, we would expect<|start_2d|>\"the demand for existing firms to shift rightward.\" <|split_2d|>\"the market price of the product to increase.\" <|split_2d|>\"the demand for existing firms to become more inelastic.\" <|split_2d|>\"the demand for existing firms to shift leftward.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the demand for existing firms to shift leftward.",
+      "incorrect_answers": [
+        "the demand for existing firms to shift rightward.",
+        "the market price of the product to increase.",
+        "the demand for existing firms to become more inelastic."
+      ]
+    }
+  },
+  {
+    "prompt": "The Law of Diminishing Marginal Returns is responsible for<|start_2d|>\"AVC that first rises, but eventually falls, as output increases.\" <|split_2d|>\"AFC that first rises, but eventually falls, as output increases.\" <|split_2d|>\"MP that first falls, but eventually rises, as output increases.\" <|split_2d|>\"MC that first falls, but eventually rises, as output increases.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "MC that first falls, but eventually rises, as output increases.",
+      "incorrect_answers": [
+        "AVC that first rises, but eventually falls, as output increases.",
+        "AFC that first rises, but eventually falls, as output increases.",
+        "MP that first falls, but eventually rises, as output increases."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following would best complete a short definition of economics? \"Economics is the study of . . .\"<|start_2d|>\"how unlimited resources are allocated between scarce wants.\" <|split_2d|>\"how money is circulated through the economy.\" <|split_2d|>\"how corporations maximize the share price of their stock.\" <|split_2d|>\"how scarce resources are allocated to satisfy unlimited wants.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "how scarce resources are allocated to satisfy unlimited wants.",
+      "incorrect_answers": [
+        "how unlimited resources are allocated between scarce wants.",
+        "how money is circulated through the economy.",
+        "how corporations maximize the share price of their stock."
+      ]
+    }
+  },
+  {
+    "prompt": "With capital fixed at one unit with 1, 2, 3 units of labor added in equal successive units, production of the output increases from 300 (1 unit of labor), to 350 (2 units of labor) to 375 (3 units of labor). Which of the following is a correct interpretation?<|start_2d|>\"This is long run increasing returns to scale.\" <|split_2d|>\"This is long run decreasing returns to scale.\" <|split_2d|>\"This is long run constant returns to scale.\" <|split_2d|>\"This is short run diminishing marginal productivity.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "This is short run diminishing marginal productivity.",
+      "incorrect_answers": [
+        "This is long run increasing returns to scale.",
+        "This is long run decreasing returns to scale.",
+        "This is long run constant returns to scale."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is the best example of a public good?<|start_2d|>\"Private violin lessons\" <|split_2d|>\"The volunteer fire department in your community\" <|split_2d|>\"A $1 ticket for admission to a museum\" <|split_2d|>\"A bag of potato chips\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The volunteer fire department in your community",
+      "incorrect_answers": [
+        "Private violin lessons",
+        "A $1 ticket for admission to a museum",
+        "A bag of potato chips"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is the best example of a public good?<|start_2d|>\"A visit to the orthodontist\" <|split_2d|>\"A session at the tanning salon\" <|split_2d|>\"A large pizza\" <|split_2d|>\"The International Space Station\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The International Space Station",
+      "incorrect_answers": [
+        "A visit to the orthodontist",
+        "A session at the tanning salon",
+        "A large pizza"
+      ]
+    }
+  },
+  {
+    "prompt": "When the cross-price elasticity of demand is negative, the goods in question are necessarily<|start_2d|>\"normal\" <|split_2d|>\"inferior\" <|split_2d|>\"complements\" <|split_2d|>\"substitutes\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "complements",
+      "incorrect_answers": [
+        "normal",
+        "inferior",
+        "substitutes"
+      ]
+    }
+  },
+  {
+    "prompt": "A competitive labor market is currently in equilibrium. Which of the following most likely increases the market wage?<|start_2d|>\"More students graduate with the necessary skills for this labor market.\" <|split_2d|>\"Demand for the good produced by this labor is stronger.\" <|split_2d|>\"The price of a complementary resource increases.\" <|split_2d|>\"The Department of Labor removes the need for workers to pass an exam before they can work in this field.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Demand for the good produced by this labor is stronger.",
+      "incorrect_answers": [
+        "More students graduate with the necessary skills for this labor market.",
+        "The price of a complementary resource increases.",
+        "The Department of Labor removes the need for workers to pass an exam before they can work in this field."
+      ]
+    }
+  },
+  {
+    "prompt": "One of the reasons that the government discourages and regulates monopolies is that<|start_2d|>\"producer surplus is lost and consumer surplus is gained.\" <|split_2d|>\"monopoly prices ensure productive efficiency but cost society allocative efficiency.\" <|split_2d|>\"monopoly firms do not engage in significant research and development.\" <|split_2d|>\"consumer surplus is lost with higher prices and lower levels of output.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "consumer surplus is lost with higher prices and lower levels of output.",
+      "incorrect_answers": [
+        "producer surplus is lost and consumer surplus is gained.",
+        "monopoly prices ensure productive efficiency but cost society allocative efficiency.",
+        "monopoly firms do not engage in significant research and development."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is true of equilibrium in a purely (or perfectly) competitive market for good X?<|start_2d|>\"A shortage of good X exists.\" <|split_2d|>\"The quantity demanded equals the quantity supplied of good X.\" <|split_2d|>\"A surplus of good X exists.\" <|split_2d|>\"The government regulates the quantity of good X produced at the market price.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The quantity demanded equals the quantity supplied of good X.",
+      "incorrect_answers": [
+        "A shortage of good X exists.",
+        "A surplus of good X exists.",
+        "The government regulates the quantity of good X produced at the market price."
+      ]
+    }
+  },
+  {
+    "prompt": "When the price of pears increases, we expect the following:<|start_2d|>\"Quantity demanded of pears rises.\" <|split_2d|>\"Quantity supplied of pears falls.\" <|split_2d|>\"Quantity demanded of pears falls.\" <|split_2d|>\"Demand for pears falls.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Quantity demanded of pears falls.",
+      "incorrect_answers": [
+        "Quantity demanded of pears rises.",
+        "Quantity supplied of pears falls.",
+        "Demand for pears falls."
+      ]
+    }
+  },
+  {
+    "prompt": "If the demand for grapes increases simultaneously with an increase in the supply of grapes, we can say that<|start_2d|>\"equilibrium quantity rises, but the price change is ambiguous.\" <|split_2d|>\"equilibrium quantity falls, but the price change is ambiguous.\" <|split_2d|>\"equilibrium quantity rises, and the price rises.\" <|split_2d|>\"equilibrium quantity falls, and the price falls.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "equilibrium quantity rises, but the price change is ambiguous.",
+      "incorrect_answers": [
+        "equilibrium quantity falls, but the price change is ambiguous.",
+        "equilibrium quantity rises, and the price rises.",
+        "equilibrium quantity falls, and the price falls."
+      ]
+    }
+  },
+  {
+    "prompt": "If the government wishes to regulate a natural monopoly so that it produces an allocatively efficient level of output, it would be at an output<|start_2d|>\"where price is equal to average total cost.\" <|split_2d|>\"where marginal revenue equals marginal cost.\" <|split_2d|>\"where normal profits are made.\" <|split_2d|>\"where price is equal to marginal cost.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "where price is equal to marginal cost.",
+      "incorrect_answers": [
+        "where price is equal to average total cost.",
+        "where marginal revenue equals marginal cost.",
+        "where normal profits are made."
+      ]
+    }
+  },
+  {
+    "prompt": "When price elasticity of demand is greater than 1, demand is<|start_2d|>\"perfectly inelastic.\" <|split_2d|>\"elastic.\" <|split_2d|>\"inelastic.\" <|split_2d|>\"unit elastic.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "elastic.",
+      "incorrect_answers": [
+        "perfectly inelastic.",
+        "inelastic.",
+        "unit elastic."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following tax systems is designed to redistribute income from the wealthy to the poor?<|start_2d|>\"A progressive tax system\" <|split_2d|>\"A regressive tax system\" <|split_2d|>\"A proportional tax system\" <|split_2d|>\"An excise tax system\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A progressive tax system",
+      "incorrect_answers": [
+        "A regressive tax system",
+        "A proportional tax system",
+        "An excise tax system"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of these situations is not an example of price discrimination?<|start_2d|>\"Brent works nights, so he chooses to buy bread at 7 a.m. rather than at 7 p.m.\" <|split_2d|>\"Bob and Nancy each receive a '$1 off' coupon in the mail, but Bob redeems it while Nancy does not.\" <|split_2d|>\"Katie buys 12 Cokes for $3, and Josh buys one Coke at a time for $1.\" <|split_2d|>\"Velma likes to go to the movies at the lower afternoon matinee price, and Rosemary would rather pay more for the evening show.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Brent works nights, so he chooses to buy bread at 7 a.m. rather than at 7 p.m.",
+      "incorrect_answers": [
+        "Bob and Nancy each receive a \"$1 off\" coupon in the mail, but Bob redeems it while Nancy does not.",
+        "Katie buys 12 Cokes for $3, and Josh buys one Coke at a time for $1.",
+        "Velma likes to go to the movies at the lower afternoon matinee price, and Rosemary would rather pay more for the evening show."
+      ]
+    }
+  },
+  {
+    "prompt": "With the presence of a positive externality, which of the following would correct the externality?<|start_2d|>\"A government subsidy.\" <|split_2d|>\"A government tax.\" <|split_2d|>\"A higher price.\" <|split_2d|>\"A lower level of output.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A government subsidy.",
+      "incorrect_answers": [
+        "A government tax.",
+        "A higher price.",
+        "A lower level of output."
+      ]
+    }
+  },
+  {
+    "prompt": "The market for denim jeans is in equilibrium, and the price of polyester pants, a substitute good, rises. In the jean market<|start_2d|>\"supply falls, increasing the price and decreasing the quantity.\" <|split_2d|>\"supply falls, increasing the price and increasing the quantity.\" <|split_2d|>\"demand falls, increasing the price and decreasing the quantity.\" <|split_2d|>\"demand rises, increasing the price and increasing the quantity.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "demand rises, increasing the price and increasing the quantity.",
+      "incorrect_answers": [
+        "supply falls, increasing the price and decreasing the quantity.",
+        "supply falls, increasing the price and increasing the quantity.",
+        "demand falls, increasing the price and decreasing the quantity."
+      ]
+    }
+  },
+  {
+    "prompt": "A rational consumer who is eating Girl Scout cookies stops eating when<|start_2d|>\"the total benefit equals the total cost of eating cookies.\" <|split_2d|>\"the marginal benefit equals the marginal cost of the next cookie.\" <|split_2d|>\"the marginal cost of eating cookies is maximized.\" <|split_2d|>\"the marginal benefit of eating cookies is minimized.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the marginal benefit equals the marginal cost of the next cookie.",
+      "incorrect_answers": [
+        "the total benefit equals the total cost of eating cookies.",
+        "the marginal cost of eating cookies is maximized.",
+        "the marginal benefit of eating cookies is minimized."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following correctly illustrates why price (P) equals marginal revenue (MR) under perfect competition, and why price (P) is greater than marginal revenue under monopoly or imperfect competition? I. MR = P = demand on horizontal function for perfect competition. II. P > MR as downward sloping functions for imperfect competition. III. Demand and Price are represented as a vertical function for imperfect competition.<|start_2d|>\"I, II, and III.\" <|split_2d|>\"I and II.\" <|split_2d|>\"I only.\" <|split_2d|>\"I and III.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "I and II.",
+      "incorrect_answers": [
+        "I, II, and III.",
+        "I only.",
+        "I and III."
+      ]
+    }
+  },
+  {
+    "prompt": "When a good is taxed, the tax burden falls mainly on the consumer if<|start_2d|>\"the demand is inelastic and the supply is inelastic\" <|split_2d|>\"the demand is inelastic and the supply is elastic\" <|split_2d|>\"the demand is elastic and the supply is inelastic\" <|split_2d|>\"the demand is elastic and the supply is elastic\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the demand is inelastic and the supply is elastic",
+      "incorrect_answers": [
+        "the demand is inelastic and the supply is inelastic",
+        "the demand is elastic and the supply is inelastic",
+        "the demand is elastic and the supply is elastic"
+      ]
+    }
+  },
+  {
+    "prompt": "The long-run average cost curve<|start_2d|>\"is always below the short-run average cost curve\" <|split_2d|>\"is always above the short-run average cost curve\" <|split_2d|>\"always intersects the short-run average cost curve at the minimum of short-run average cost\" <|split_2d|>\"is below the short-run average cost except at one point\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "is below the short-run average cost except at one point",
+      "incorrect_answers": [
+        "is always below the short-run average cost curve",
+        "is always above the short-run average cost curve",
+        "always intersects the short-run average cost curve at the minimum of short-run average cost"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is not a characteristic of a kinked demand curve?<|start_2d|>\"A range of marginal costs over which MR = MC.\" <|split_2d|>\"P < MC.\" <|split_2d|>\"Interdependence of rivals.\" <|split_2d|>\"Pricing at the kink.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "P < MC.",
+      "incorrect_answers": [
+        "A range of marginal costs over which MR = MC.",
+        "Interdependence of rivals.",
+        "Pricing at the kink."
+      ]
+    }
+  },
+  {
+    "prompt": "Economics is a social science that<|start_2d|>\"is primarily concerned with money.\" <|split_2d|>\"is primarily concerned with how resources are used.\" <|split_2d|>\"relies solely on the scientific method for analysis.\" <|split_2d|>\"is primarily concerned with maximizing spiritual well-being.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "is primarily concerned with how resources are used.",
+      "incorrect_answers": [
+        "is primarily concerned with money.",
+        "relies solely on the scientific method for analysis.",
+        "is primarily concerned with maximizing spiritual well-being."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is true?<|start_2d|>\"TC = (AVC + AFC)Q.\" <|split_2d|>\"TFC = TC at all levels of output.\" <|split_2d|>\"AVC + AFC = TC.\" <|split_2d|>\"MC = TC - TFC.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "TC = (AVC + AFC)Q.",
+      "incorrect_answers": [
+        "TFC = TC at all levels of output.",
+        "AVC + AFC = TC.",
+        "MC = TC - TFC."
+      ]
+    }
+  },
+  {
+    "prompt": "A monopsonist is identified by one of the following:<|start_2d|>\"A wage payment lower than the marginal revenue product of labor.\" <|split_2d|>\"Employment level greater than that of a competitive labor market.\" <|split_2d|>\"A wage payment higher than that of a competitive labor market.\" <|split_2d|>\"A single seller of labor services.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A wage payment lower than the marginal revenue product of labor.",
+      "incorrect_answers": [
+        "Employment level greater than that of a competitive labor market.",
+        "A wage payment higher than that of a competitive labor market.",
+        "A single seller of labor services."
+      ]
+    }
+  },
+  {
+    "prompt": "If the price of one good (A) increases and the quantity demanded of another good (B) increases, the two goods are<|start_2d|>\"substitute goods.\" <|split_2d|>\"complement goods.\" <|split_2d|>\"inferior goods.\" <|split_2d|>\"normal goods.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "substitute goods.",
+      "incorrect_answers": [
+        "complement goods.",
+        "inferior goods.",
+        "normal goods."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements is true for a firm in a perfectly competitive industry?<|start_2d|>\"Total revenue increases and then decreases.\" <|split_2d|>\"Marginal revenue is decreasing.\" <|split_2d|>\"Average revenue is initially negative and then becomes positive.\" <|split_2d|>\"Average revenue equals marginal revenue.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Average revenue equals marginal revenue.",
+      "incorrect_answers": [
+        "Total revenue increases and then decreases.",
+        "Marginal revenue is decreasing.",
+        "Average revenue is initially negative and then becomes positive."
+      ]
+    }
+  },
+  {
+    "prompt": "A perfectly competitive employer hires labor up to the point where<|start_2d|>\"Wage = Marginal factor cost.\" <|split_2d|>\"Wage = Marginal product of labor.\" <|split_2d|>\"Wage = Marginal revenue.\" <|split_2d|>\"Wage = Marginal revenue product of labor.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Wage = Marginal revenue product of labor.",
+      "incorrect_answers": [
+        "Wage = Marginal factor cost.",
+        "Wage = Marginal product of labor.",
+        "Wage = Marginal revenue."
+      ]
+    }
+  },
+  {
+    "prompt": "The necessity for a monopoly to lower its price in order to sell more units of its product explains why<|start_2d|>\"monopolies are common among public utilities\" <|split_2d|>\"the marginal revenue curve is below the demand curve for a monopoly\" <|split_2d|>\"the marginal cost curve for a monopoly slopes upward\" <|split_2d|>\"monopolies are able to maintain market power\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the marginal revenue curve is below the demand curve for a monopoly",
+      "incorrect_answers": [
+        "monopolies are common among public utilities",
+        "the marginal cost curve for a monopoly slopes upward",
+        "monopolies are able to maintain market power"
+      ]
+    }
+  },
+  {
+    "prompt": "Suppose a price floor is installed in the market for coffee. One result of this policy would be<|start_2d|>\"a decrease in the demand for coffee-brewing machines.\" <|split_2d|>\"a persistent shortage of coffee in the market.\" <|split_2d|>\"an increase in consumer surplus due to lower coffee prices.\" <|split_2d|>\"an increase in the demand for coffee.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a decrease in the demand for coffee-brewing machines.",
+      "incorrect_answers": [
+        "a persistent shortage of coffee in the market.",
+        "an increase in consumer surplus due to lower coffee prices.",
+        "an increase in the demand for coffee."
+      ]
+    }
+  },
+  {
+    "prompt": "A minimum wage in the market for fast-food workers is likely to produce<|start_2d|>\"an increase in the demand for fast-food workers.\" <|split_2d|>\"a decrease in the supply of fast-food workers.\" <|split_2d|>\"a shortage of fast-food workers.\" <|split_2d|>\"a surplus of fast-food workers.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a surplus of fast-food workers.",
+      "incorrect_answers": [
+        "an increase in the demand for fast-food workers.",
+        "a decrease in the supply of fast-food workers.",
+        "a shortage of fast-food workers."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is true of the perfectly competitive firm in the short run?<|start_2d|>\"The firm earns a normal profit.\" <|split_2d|>\"The firm shuts down if the price falls below average total cost.\" <|split_2d|>\"The firm earns positive economic profit.\" <|split_2d|>\"The firm may earn positive, negative, or normal profits.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The firm may earn positive, negative, or normal profits.",
+      "incorrect_answers": [
+        "The firm earns a normal profit.",
+        "The firm shuts down if the price falls below average total cost.",
+        "The firm earns positive economic profit."
+      ]
+    }
+  },
+  {
+    "prompt": "A competitive market for coffee, a normal good, is currently in equilibrium. Which of the following would most likely result in an increase in the demand for coffee?<|start_2d|>\"Consumer income falls.\" <|split_2d|>\"The price of tea rises.\" <|split_2d|>\"The wage of coffee plantation workers falls.\" <|split_2d|>\"Technology in the harvesting of coffee beans improves.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The price of tea rises.",
+      "incorrect_answers": [
+        "Consumer income falls.",
+        "The wage of coffee plantation workers falls.",
+        "Technology in the harvesting of coffee beans improves."
+      ]
+    }
+  },
+  {
+    "prompt": "When a firm is earning a normal profit from the production of a good, it is true that<|start_2d|>\"total revenues from production are equal to explicit costs.\" <|split_2d|>\"explicit costs are equal to implicit costs.\" <|split_2d|>\"total revenues from production are equal to implicit costs.\" <|split_2d|>\"total revenues from production are equal to the sum of explicit and implicit costs.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "total revenues from production are equal to the sum of explicit and implicit costs.",
+      "incorrect_answers": [
+        "total revenues from production are equal to explicit costs.",
+        "explicit costs are equal to implicit costs.",
+        "total revenues from production are equal to implicit costs."
+      ]
+    }
+  },
+  {
+    "prompt": "If a business wants to increase its revenue and it knows that the demand price elasticity of its product is equal to 0.78, it should<|start_2d|>\"decrease price because demand is elastic\" <|split_2d|>\"decrease price because demand is unit elastic\" <|split_2d|>\"decrease price because demand is inelastic\" <|split_2d|>\"increase price because demand is inelastic\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "increase price because demand is inelastic",
+      "incorrect_answers": [
+        "decrease price because demand is elastic",
+        "decrease price because demand is unit elastic",
+        "decrease price because demand is inelastic"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a characteristic of monopolistic competition?<|start_2d|>\"P > MC.\" <|split_2d|>\"Efficiency.\" <|split_2d|>\"Mostly price competition.\" <|split_2d|>\"P =MR.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "P > MC.",
+      "incorrect_answers": [
+        "Efficiency.",
+        "Mostly price competition.",
+        "P =MR."
+      ]
+    }
+  },
+  {
+    "prompt": "The backward bending supply curve is characterized by which of the following?<|start_2d|>\"As wage rates rise, the quantity of labor supplied continues to rise at every wage rate increase.\" <|split_2d|>\"The labor-leisure trade-off continues to favor the supply of more jobs, or the substitution effect.\" <|split_2d|>\"The labor-leisure trade-off favors the income effect or more leisure at higher wage rates.\" <|split_2d|>\"inexperienced, low-income, younger workers at the backward bending portion.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The labor-leisure trade-off favors the income effect or more leisure at higher wage rates.",
+      "incorrect_answers": [
+        "As wage rates rise, the quantity of labor supplied continues to rise at every wage rate increase.",
+        "The labor-leisure trade-off continues to favor the supply of more jobs, or the substitution effect.",
+        "inexperienced, low-income, younger workers at the backward bending portion."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following goods is likely to provide both the largest total utility and the smallest marginal utility?<|start_2d|>\"Plastic\" <|split_2d|>\"Automobiles\" <|split_2d|>\"Computers\" <|split_2d|>\"Air\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Air",
+      "incorrect_answers": [
+        "Plastic",
+        "Automobiles",
+        "Computers"
+      ]
+    }
+  },
+  {
+    "prompt": "The Lorenz Curve is used to measure which of the following:<|start_2d|>\"The ratio of income to wealth in different countries.\" <|split_2d|>\"The ratio of public goods to private goods in different countries.\" <|split_2d|>\"The ratio of income inequality to income equality in different countries.\" <|split_2d|>\"The ratio of the working poor to the non-working poor.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The ratio of income inequality to income equality in different countries.",
+      "incorrect_answers": [
+        "The ratio of income to wealth in different countries.",
+        "The ratio of public goods to private goods in different countries.",
+        "The ratio of the working poor to the non-working poor."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following examples would result in consumers paying for the largest burden of an excise tax placed on a producer?<|start_2d|>\"If the demand curve is price elastic and the supply curve is price inelastic\" <|split_2d|>\"If the demand curve is price elastic and the supply curve is perfectly elastic\" <|split_2d|>\"If the demand curve is price inelastic and the supply curve is price elastic\" <|split_2d|>\"If the demand curve is perfectly inelastic and the supply curve is price elastic\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "If the demand curve is perfectly inelastic and the supply curve is price elastic",
+      "incorrect_answers": [
+        "If the demand curve is price elastic and the supply curve is price inelastic",
+        "If the demand curve is price elastic and the supply curve is perfectly elastic",
+        "If the demand curve is price inelastic and the supply curve is price elastic"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following could have caused an increase in the demand for ice cream cones?<|start_2d|>\"A decrease in the price of ice cream cones\" <|split_2d|>\"A decrease in the price of ice cream, a complimentary good to ice cream cones\" <|split_2d|>\"An increase in the price of ice cream, a complimentary good to ice cream cones\" <|split_2d|>\"A decrease in the price of lollipops, a close substitute for ice cream\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A decrease in the price of ice cream, a complimentary good to ice cream cones",
+      "incorrect_answers": [
+        "A decrease in the price of ice cream cones",
+        "An increase in the price of ice cream, a complimentary good to ice cream cones",
+        "A decrease in the price of lollipops, a close substitute for ice cream"
+      ]
+    }
+  },
+  {
+    "prompt": "The primary focus of microeconomics is<|start_2d|>\"families and how they make money.\" <|split_2d|>\"firms and how they make profits.\" <|split_2d|>\"individual units within the overall economy.\" <|split_2d|>\"government.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "individual units within the overall economy.",
+      "incorrect_answers": [
+        "families and how they make money.",
+        "firms and how they make profits.",
+        "government."
+      ]
+    }
+  },
+  {
+    "prompt": "In order for a firm to successfully carry out price discrimination, which of the following conditions must hold? I. The firm cannot face a downward sloping demand curve. II. The firm must have market power. III. Buyers with differing demand elasticities must be separable. IV. The firm must have motives beyond profit maximization. V. The firm must be able to prevent the re-sale of its products.<|start_2d|>\"I, III, and V only\" <|split_2d|>\"III and IV only\" <|split_2d|>\"I and IV only\" <|split_2d|>\"II, III, and V only\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "II, III, and V only",
+      "incorrect_answers": [
+        "I, III, and V only",
+        "III and IV only",
+        "I and IV only"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is an example of an economic rent?<|start_2d|>\"A superstar basketball player's $50 million earnings.\" <|split_2d|>\"A social security retirement income.\" <|split_2d|>\"A welfare payment from social services.\" <|split_2d|>\"A check to a college student from a parent or guardian.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A superstar basketball player's $50 million earnings.",
+      "incorrect_answers": [
+        "A social security retirement income.",
+        "A welfare payment from social services.",
+        "A check to a college student from a parent or guardian."
+      ]
+    }
+  },
+  {
+    "prompt": "With the presence of a negative externality, which of the following would internalize (or correct) the externality?<|start_2d|>\"A government subsidy.\" <|split_2d|>\"A government tax.\" <|split_2d|>\"A lower price.\" <|split_2d|>\"A higher level of output.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A government tax.",
+      "incorrect_answers": [
+        "A government subsidy.",
+        "A lower price.",
+        "A higher level of output."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a characteristic of monopoly?<|start_2d|>\"A single firm in the industry.\" <|split_2d|>\"Price equal to marginal revenue.\" <|split_2d|>\"Perfectly elastic demand curve.\" <|split_2d|>\"Weak barriers to entry.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A single firm in the industry.",
+      "incorrect_answers": [
+        "Price equal to marginal revenue.",
+        "Perfectly elastic demand curve.",
+        "Weak barriers to entry."
+      ]
+    }
+  },
+  {
+    "prompt": "A monopoly with a straight, downward-sloping demand curve has a marginal revenue curve that is<|start_2d|>\"upward sloping\" <|split_2d|>\"halfway between the demand curve and the vertical axis\" <|split_2d|>\"initially downward sloping and then upward sloping\" <|split_2d|>\"parallel to the demand curve\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "halfway between the demand curve and the vertical axis",
+      "incorrect_answers": [
+        "upward sloping",
+        "initially downward sloping and then upward sloping",
+        "parallel to the demand curve"
+      ]
+    }
+  },
+  {
+    "prompt": "A consequence of a price floor is<|start_2d|>\"a persistent shortage of the good.\" <|split_2d|>\"an increase in total welfare.\" <|split_2d|>\"a persistent surplus of the good.\" <|split_2d|>\"elimination of deadweight loss.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a persistent surplus of the good.",
+      "incorrect_answers": [
+        "a persistent shortage of the good.",
+        "an increase in total welfare.",
+        "elimination of deadweight loss."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is not among the methods unions use to increase wages?<|start_2d|>\"Negotiations to obtain a wage floor\" <|split_2d|>\"Restrictive membership policies\" <|split_2d|>\"Efforts to decrease the prices of substitute resources\" <|split_2d|>\"Featherbedding or make-work rules\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Efforts to decrease the prices of substitute resources",
+      "incorrect_answers": [
+        "Negotiations to obtain a wage floor",
+        "Restrictive membership policies",
+        "Featherbedding or make-work rules"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a characteristic of perfect competition?<|start_2d|>\"Firms produce a homogeneous product.\" <|split_2d|>\"Barriers to entry exist.\" <|split_2d|>\"Firms are price-setting profit maximizers.\" <|split_2d|>\"The government regulates the price so that deadweight loss is eliminated.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Firms produce a homogeneous product.",
+      "incorrect_answers": [
+        "Barriers to entry exist.",
+        "Firms are price-setting profit maximizers.",
+        "The government regulates the price so that deadweight loss is eliminated."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is correct?<|start_2d|>\"In the long run, all inputs are variable.\" <|split_2d|>\"In the short run, all inputs are variable.\" <|split_2d|>\"In the long run, supply is not able to adjust fully to changes in demand.\" <|split_2d|>\"In the short run, supply is able to adjust fully to changes in demand.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "In the long run, all inputs are variable.",
+      "incorrect_answers": [
+        "In the short run, all inputs are variable.",
+        "In the long run, supply is not able to adjust fully to changes in demand.",
+        "In the short run, supply is able to adjust fully to changes in demand."
+      ]
+    }
+  },
+  {
+    "prompt": "Monopolistic competition is said to be productively inefficient because<|start_2d|>\"the long-run price is above minimum average total cost.\" <|split_2d|>\"long-run profits are positive.\" <|split_2d|>\"firms engage in collusive behavior.\" <|split_2d|>\"there exist no barriers to entry.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the long-run price is above minimum average total cost.",
+      "incorrect_answers": [
+        "long-run profits are positive.",
+        "firms engage in collusive behavior.",
+        "there exist no barriers to entry."
+      ]
+    }
+  },
+  {
+    "prompt": "Compared to perfect competition in the long run, monopoly has<|start_2d|>\"more choices of products for consumers.\" <|split_2d|>\"more efficiency.\" <|split_2d|>\"lower prices.\" <|split_2d|>\"price greater than marginal revenue.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "price greater than marginal revenue.",
+      "incorrect_answers": [
+        "more choices of products for consumers.",
+        "more efficiency.",
+        "lower prices."
+      ]
+    }
+  },
+  {
+    "prompt": "If the price of firm A's cell phone service rises by 5 percent and the quantity demanded for firm B's cell phone service increases by 10 percent, we can say that<|start_2d|>\"demand for firm B is price elastic.\" <|split_2d|>\"supply for firm B is price elastic.\" <|split_2d|>\"firms A and B are substitutes because the cross-price elasticity is greater than zero.\" <|split_2d|>\"firms A and B are complements because the cross-price elasticity is less than zero.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "firms A and B are substitutes because the cross-price elasticity is greater than zero.",
+      "incorrect_answers": [
+        "demand for firm B is price elastic.",
+        "supply for firm B is price elastic.",
+        "firms A and B are complements because the cross-price elasticity is less than zero."
+      ]
+    }
+  },
+  {
+    "prompt": "The relationship between the marginal revenue curve and the demand curve for a monopoly is most similar to the relationship between the marginal factor cost curve and what curve for a monopsony?<|start_2d|>\"Labor demand\" <|split_2d|>\"Labor supply\" <|split_2d|>\"Marginal external cost\" <|split_2d|>\"Total cost\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Labor supply",
+      "incorrect_answers": [
+        "Labor demand",
+        "Marginal external cost",
+        "Total cost"
+      ]
+    }
+  },
+  {
+    "prompt": "Suppose the market for roses is currently in equilibrium. If the supply of roses falls, while at the same time the demand for roses rises, what can you say about the price and quantity of roses in the market?<|start_2d|>\"Price and quantity both rise.\" <|split_2d|>\"Price rises, but the change in quantity is ambiguous.\" <|split_2d|>\"Price and quantity both fall.\" <|split_2d|>\"Quantity rises, but the change in price is ambiguous.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Price rises, but the change in quantity is ambiguous.",
+      "incorrect_answers": [
+        "Price and quantity both rise.",
+        "Price and quantity both fall.",
+        "Quantity rises, but the change in price is ambiguous."
+      ]
+    }
+  },
+  {
+    "prompt": "The competitive market for gasoline, a normal good, is currently in a state of equilibrium. Which of the following would most likely increase the price of gasoline?<|start_2d|>\"Household income falls.\" <|split_2d|>\"Technology used to produce gasoline improves.\" <|split_2d|>\"The price of subway tickets and other public transportation falls.\" <|split_2d|>\"The price of crude oil, a raw material for gasoline, rises.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The price of crude oil, a raw material for gasoline, rises.",
+      "incorrect_answers": [
+        "Household income falls.",
+        "Technology used to produce gasoline improves.",
+        "The price of subway tickets and other public transportation falls."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following will increase wages for tuba makers?<|start_2d|>\"An increase in the number of graduates at tuba maker training school\" <|split_2d|>\"An increase in the price of tubas\" <|split_2d|>\"An increase in the price of tuba lessons\" <|split_2d|>\"An increase in the tax on tubas\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "An increase in the price of tubas",
+      "incorrect_answers": [
+        "An increase in the number of graduates at tuba maker training school",
+        "An increase in the price of tuba lessons",
+        "An increase in the tax on tubas"
+      ]
+    }
+  },
+  {
+    "prompt": "Diminishing marginal returns to short-run production begin when<|start_2d|>\"the average product of labor begins to fall.\" <|split_2d|>\"the total product of labor begins to fall.\" <|split_2d|>\"marginal product of labor becomes negative.\" <|split_2d|>\"marginal product of labor begins to fall.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "marginal product of labor begins to fall.",
+      "incorrect_answers": [
+        "the average product of labor begins to fall.",
+        "the total product of labor begins to fall.",
+        "marginal product of labor becomes negative."
+      ]
+    }
+  },
+  {
+    "prompt": "What you give up to pursue another alternative is known as<|start_2d|>\"capital.\" <|split_2d|>\"land.\" <|split_2d|>\"money cost.\" <|split_2d|>\"opportunity cost.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "opportunity cost.",
+      "incorrect_answers": [
+        "capital.",
+        "land.",
+        "money cost."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is NOT a characteristic of perfectly competitive industry?<|start_2d|>\"Free entry into the industry.\" <|split_2d|>\"Product differentiation.\" <|split_2d|>\"Perfectly elastic demand curve.\" <|split_2d|>\"Homogeneous products.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Product differentiation.",
+      "incorrect_answers": [
+        "Free entry into the industry.",
+        "Perfectly elastic demand curve.",
+        "Homogeneous products."
+      ]
+    }
+  },
+  {
+    "prompt": "Relative to a competitive input market, a monopsony<|start_2d|>\"pays less and hires more\" <|split_2d|>\"pays less and hires the same amount\" <|split_2d|>\"pays more and hires more\" <|split_2d|>\"pays less and hires fewer\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "pays less and hires fewer",
+      "incorrect_answers": [
+        "pays less and hires more",
+        "pays less and hires the same amount",
+        "pays more and hires more"
+      ]
+    }
+  },
+  {
+    "prompt": "If a monopsony labor market suddenly were transformed into a perfectly competitive labor market, how would the wage and employment change?<|start_2d|>\"Both would increase.\" <|split_2d|>\"Both would decrease.\" <|split_2d|>\"The wage would remain constant, but employment would increase.\" <|split_2d|>\"The wage would fall, but employment would increase.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Both would increase.",
+      "incorrect_answers": [
+        "Both would decrease.",
+        "The wage would remain constant, but employment would increase.",
+        "The wage would fall, but employment would increase."
+      ]
+    }
+  },
+  {
+    "prompt": "If corn is produced in a perfectly competitive market and the government placed a price ceiling above equilibrium, which of the following would be true?<|start_2d|>\"There would be no change in the amount of corn demanded or supplied.\" <|split_2d|>\"There would be a shortage created of corn.\" <|split_2d|>\"There would be a surplus created of corn.\" <|split_2d|>\"The producers of corn would lose revenue due to the decreased price.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "There would be no change in the amount of corn demanded or supplied.",
+      "incorrect_answers": [
+        "There would be a shortage created of corn.",
+        "There would be a surplus created of corn.",
+        "The producers of corn would lose revenue due to the decreased price."
+      ]
+    }
+  },
+  {
+    "prompt": "Marginal cost always intersects average variable cost at<|start_2d|>\"the profit-maximizing quantity\" <|split_2d|>\"the minimum of marginal cost\" <|split_2d|>\"the maximum of average variable cost\" <|split_2d|>\"the minimum of average variable cost\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the minimum of average variable cost",
+      "incorrect_answers": [
+        "the profit-maximizing quantity",
+        "the minimum of marginal cost",
+        "the maximum of average variable cost"
+      ]
+    }
+  },
+  {
+    "prompt": "Production possibilities frontiers are concave to the origin because<|start_2d|>\"of inefficiencies in the economy.\" <|split_2d|>\"of opportunity cost.\" <|split_2d|>\"of the law of increasing costs.\" <|split_2d|>\"of constant opportunity costs.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "of the law of increasing costs.",
+      "incorrect_answers": [
+        "of inefficiencies in the economy.",
+        "of opportunity cost.",
+        "of constant opportunity costs."
+      ]
+    }
+  },
+  {
+    "prompt": "Scarcity is best defined as<|start_2d|>\"the difference between limited wants and limited economic resources.\" <|split_2d|>\"the difference between the total benefit of an action and the total cost of that action.\" <|split_2d|>\"the difference between unlimited wants and limited economic resources.\" <|split_2d|>\"the opportunity cost of pursuing a given course of action.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the difference between unlimited wants and limited economic resources.",
+      "incorrect_answers": [
+        "the difference between limited wants and limited economic resources.",
+        "the difference between the total benefit of an action and the total cost of that action.",
+        "the opportunity cost of pursuing a given course of action."
+      ]
+    }
+  },
+  {
+    "prompt": "The market for Cincinnati Reds baseball tickets is currently in equilibrium. Which of the following events would most likely increase the consumer surplus received by Reds fans?<|start_2d|>\"The Reds offer discounted parking for all home games.\" <|split_2d|>\"The Reds increase hot dog prices to reflect a higher cost of buns.\" <|split_2d|>\"The city of Cincinnati is undertaking a huge highway construction project that strands fans in pregame traffic jams for hours.\" <|split_2d|>\"The Reds must increase ticket prices to afford the most talented players.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The Reds offer discounted parking for all home games.",
+      "incorrect_answers": [
+        "The Reds increase hot dog prices to reflect a higher cost of buns.",
+        "The city of Cincinnati is undertaking a huge highway construction project that strands fans in pregame traffic jams for hours.",
+        "The Reds must increase ticket prices to afford the most talented players."
+      ]
+    }
+  },
+  {
+    "prompt": "Firms with the following market structure(s) maximize profits by producing where marginal cost equals marginal revenue, if at all. I. Perfect competition II. Oligopoly III. Monopoly IV. Monopolistic competition<|start_2d|>\"I only\" <|split_2d|>\"I and II only\" <|split_2d|>\"I and III only\" <|split_2d|>\"I, II, III, and IV\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "I, II, III, and IV",
+      "incorrect_answers": [
+        "I only",
+        "I and II only",
+        "I and III only"
+      ]
+    }
+  },
+  {
+    "prompt": "Consumer surplus is<|start_2d|>\"the price of a good divided by its marginal utility.\" <|split_2d|>\"the marginal utility of the good divided by its price.\" <|split_2d|>\"the total utility of the good.\" <|split_2d|>\"the difference between the consumer's value and the market price.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the difference between the consumer's value and the market price.",
+      "incorrect_answers": [
+        "the price of a good divided by its marginal utility.",
+        "the marginal utility of the good divided by its price.",
+        "the total utility of the good."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements is positive?<|start_2d|>\"An economy that produces more butter than guns is better off than an economy that produces more guns than butter.\" <|split_2d|>\"Nations should concentrate their resources on producing wholesome consumer goods as opposed to the weapons of war.\" <|split_2d|>\"The production possibilities frontier is concave to the origin because of the law of increasing costs.\" <|split_2d|>\"Nations ought to devote at least some of their resources to national defense.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The production possibilities frontier is concave to the origin because of the law of increasing costs.",
+      "incorrect_answers": [
+        "An economy that produces more butter than guns is better off than an economy that produces more guns than butter.",
+        "Nations should concentrate their resources on producing wholesome consumer goods as opposed to the weapons of war.",
+        "Nations ought to devote at least some of their resources to national defense."
+      ]
+    }
+  },
+  {
+    "prompt": "Relatively free or easy entry (low or nonexistent barriers to entry) is best matched by which of the following?<|start_2d|>\"More consumer choices, greater price elasticity of demand, more competitors.\" <|split_2d|>\"More consumer choices, lower price elasticity of demand, more competitors.\" <|split_2d|>\"More consumer choices, greater price elasticity of demand, fewer competitors.\" <|split_2d|>\"Fewer consumer choices, lower price elasticity of demand, fewer competitors.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "More consumer choices, greater price elasticity of demand, more competitors.",
+      "incorrect_answers": [
+        "More consumer choices, lower price elasticity of demand, more competitors.",
+        "More consumer choices, greater price elasticity of demand, fewer competitors.",
+        "Fewer consumer choices, lower price elasticity of demand, fewer competitors."
+      ]
+    }
+  },
+  {
+    "prompt": "Firms maximize their profits by producing a level of output at which<|start_2d|>\"MC = AFC.\" <|split_2d|>\"MC = MR.\" <|split_2d|>\"P = ATC.\" <|split_2d|>\"MR= AVC.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "MC = MR.",
+      "incorrect_answers": [
+        "MC = AFC.",
+        "P = ATC.",
+        "MR= AVC."
+      ]
+    }
+  },
+  {
+    "prompt": "A typical characteristic of capitalist market economies is<|start_2d|>\"government ownership of land and capital.\" <|split_2d|>\"extensive price controls.\" <|split_2d|>\"centralized government decision making to determine production limits.\" <|split_2d|>\"private ownership of economic resources.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "private ownership of economic resources.",
+      "incorrect_answers": [
+        "government ownership of land and capital.",
+        "extensive price controls.",
+        "centralized government decision making to determine production limits."
+      ]
+    }
+  },
+  {
+    "prompt": "When a monopolist has maximized profit,<|start_2d|>\"price is set equal to marginal cost, creating zero economic profit.\" <|split_2d|>\"output is set where price is equal to average total cost.\" <|split_2d|>\"price is set above marginal cost, creating allocative inefficiency.\" <|split_2d|>\"any short-run profit will be eliminated through the long-run entry of new firms.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "price is set above marginal cost, creating allocative inefficiency.",
+      "incorrect_answers": [
+        "price is set equal to marginal cost, creating zero economic profit.",
+        "output is set where price is equal to average total cost.",
+        "any short-run profit will be eliminated through the long-run entry of new firms."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following situations best exemplifies the concept of consumer surplus?<|start_2d|>\"It refers to a consumer who no longer has any outstanding debts.\" <|split_2d|>\"The federal government has taken in more revenue than it has paid out in expenditures.\" <|split_2d|>\"A consumer pays more for a pizza than she thought it was worth at the margin of the purchase.\" <|split_2d|>\"A consumer pays less for a pizza than she thought it was worth at the margin of the purchase.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A consumer pays less for a pizza than she thought it was worth at the margin of the purchase.",
+      "incorrect_answers": [
+        "It refers to a consumer who no longer has any outstanding debts.",
+        "The federal government has taken in more revenue than it has paid out in expenditures.",
+        "A consumer pays more for a pizza than she thought it was worth at the margin of the purchase."
+      ]
+    }
+  },
+  {
+    "prompt": "If the perfectly competitive price is currently below minimum average total cost, we can expect which of the following events in the long run?<|start_2d|>\"The price will rise and each firm's output will fall as firms exit the industry.\" <|split_2d|>\"Market equilibrium quantity will increase as firms exit the industry.\" <|split_2d|>\"Nothing. The industry is currently in long-run equilibrium.\" <|split_2d|>\"The price will rise to the breakeven point as firms exit the industry.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The price will rise to the breakeven point as firms exit the industry.",
+      "incorrect_answers": [
+        "The price will rise and each firm's output will fall as firms exit the industry.",
+        "Market equilibrium quantity will increase as firms exit the industry.",
+        "Nothing. The industry is currently in long-run equilibrium."
+      ]
+    }
+  },
+  {
+    "prompt": "If total product of labor is rising at an increasing rate,<|start_2d|>\"marginal product of labor is rising.\" <|split_2d|>\"marginal product of labor is at its minimum.\" <|split_2d|>\"marginal product of labor is at its maximum.\" <|split_2d|>\"marginal cost is rising.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "marginal product of labor is rising.",
+      "incorrect_answers": [
+        "marginal product of labor is at its minimum.",
+        "marginal product of labor is at its maximum.",
+        "marginal cost is rising."
+      ]
+    }
+  },
+  {
+    "prompt": "When the opportunity for price discrimination arises,<|start_2d|>\"market segments with relatively elastic demand pay higher prices\" <|split_2d|>\"market segments with relatively inelastic demand pay lower prices\" <|split_2d|>\"consumer surplus decreases\" <|split_2d|>\"demand is horizontal\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "consumer surplus decreases",
+      "incorrect_answers": [
+        "market segments with relatively elastic demand pay higher prices",
+        "market segments with relatively inelastic demand pay lower prices",
+        "demand is horizontal"
+      ]
+    }
+  },
+  {
+    "prompt": "Price times quantity measures<|start_2d|>\"the international trade gap.\" <|split_2d|>\"the budget deficit.\" <|split_2d|>\"total revenue.\" <|split_2d|>\"price elasticity of demand.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "total revenue.",
+      "incorrect_answers": [
+        "the international trade gap.",
+        "the budget deficit.",
+        "price elasticity of demand."
+      ]
+    }
+  },
+  {
+    "prompt": "A tax imposed on a supplier will more likely be passed on to the consumer in the form of price increase if<|start_2d|>\"price elasticity of demand is highly elastic.\" <|split_2d|>\"price elasticity of demand is highly inelastic.\" <|split_2d|>\"price elasticity of demand is unit elastic.\" <|split_2d|>\"wage elasticity of demand is highly elastic.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "price elasticity of demand is highly inelastic.",
+      "incorrect_answers": [
+        "price elasticity of demand is highly elastic.",
+        "price elasticity of demand is unit elastic.",
+        "wage elasticity of demand is highly elastic."
+      ]
+    }
+  },
+  {
+    "prompt": "The law of increasing costs<|start_2d|>\"does not apply to guns and butter.\" <|split_2d|>\"is the result of resources not being perfectly adaptable between the production of two goods.\" <|split_2d|>\"implies that prices will rise when the costs of making a good rise.\" <|split_2d|>\"causes the production possibilities frontier to be a straight line.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "is the result of resources not being perfectly adaptable between the production of two goods.",
+      "incorrect_answers": [
+        "does not apply to guns and butter.",
+        "implies that prices will rise when the costs of making a good rise.",
+        "causes the production possibilities frontier to be a straight line."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is true about a price ceiling?<|start_2d|>\"It is used to correct government policy.\" <|split_2d|>\"It is used when equilibrium prices are too low.\" <|split_2d|>\"It will be located above the equilibrium price.\" <|split_2d|>\"It will be located below the equilibrium price.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "It will be located below the equilibrium price.",
+      "incorrect_answers": [
+        "It is used to correct government policy.",
+        "It is used when equilibrium prices are too low.",
+        "It will be located above the equilibrium price."
+      ]
+    }
+  },
+  {
+    "prompt": "Consider a profit-maximizing firm in a perfectly competitive market with several sellers and several buyers (i.e., the firm is a \"price taker\" of the goods it sells and a \"price taker\" of the hourly wages it pays its workers). If a technological innovation made by someone in this firm were to significantly raise the firm's marginal physical product (but not that of any other firm's), then this innovation would<|start_2d|>\"reduce the firm\u2019s employment level, because fewer workers are now needed\" <|split_2d|>\"raise the workers\u2019 hourly wage as they now contribute more marginal revenue\" <|split_2d|>\"lead the firm to hire more workers but not to raise their wages\" <|split_2d|>\"lead the firm to hire more workers and to pay them higher wages\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "lead the firm to hire more workers but not to raise their wages",
+      "incorrect_answers": [
+        "reduce the firm\u2019s employment level, because fewer workers are now needed",
+        "raise the workers\u2019 hourly wage as they now contribute more marginal revenue",
+        "lead the firm to hire more workers and to pay them higher wages"
+      ]
+    }
+  },
+  {
+    "prompt": "Suppose the price of beef rises by 10 percent and the quantity of beef demanded falls by 20 percent. We can conclude that<|start_2d|>\"demand for beef is price elastic and consumer spending on beef is falling.\" <|split_2d|>\"demand for beef is price elastic and consumer spending on beef is rising.\" <|split_2d|>\"demand for beef is price inelastic and consumer spending on beef is falling.\" <|split_2d|>\"demand for beef is price inelastic and consumer spending on beef is rising.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "demand for beef is price elastic and consumer spending on beef is falling.",
+      "incorrect_answers": [
+        "demand for beef is price elastic and consumer spending on beef is rising.",
+        "demand for beef is price inelastic and consumer spending on beef is falling.",
+        "demand for beef is price inelastic and consumer spending on beef is rising."
+      ]
+    }
+  },
+  {
+    "prompt": "The elasticity of supply is typically greater when<|start_2d|>\"producers have fewer alternative goods to produce.\" <|split_2d|>\"producers have less time to respond to price changes.\" <|split_2d|>\"producers are operating near the limits of their production.\" <|split_2d|>\"producers have more time to respond to price changes.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "producers have more time to respond to price changes.",
+      "incorrect_answers": [
+        "producers have fewer alternative goods to produce.",
+        "producers have less time to respond to price changes.",
+        "producers are operating near the limits of their production."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is true?<|start_2d|>\"A marginal social cost = marginal private cost + marginal social benefits.\" <|split_2d|>\"Value of externality = marginal social costs.\" <|split_2d|>\"Value of externality = marginal private costs.\" <|split_2d|>\"Marginal social cost = marginal private cost + negative externality.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Marginal social cost = marginal private cost + negative externality.",
+      "incorrect_answers": [
+        "A marginal social cost = marginal private cost + marginal social benefits.",
+        "Value of externality = marginal social costs.",
+        "Value of externality = marginal private costs."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is most likely to decrease the demand for kindergarten teachers?<|start_2d|>\"An increase in funding for education\" <|split_2d|>\"Increased immigration of foreign citizens and their families\" <|split_2d|>\"A decrease in the average number of children per household\" <|split_2d|>\"Subsidies given to college students who major in elementary education\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A decrease in the average number of children per household",
+      "incorrect_answers": [
+        "An increase in funding for education",
+        "Increased immigration of foreign citizens and their families",
+        "Subsidies given to college students who major in elementary education"
+      ]
+    }
+  },
+  {
+    "prompt": "Monopoly deadweight loss is the result of<|start_2d|>\"setting the price above marginal cost.\" <|split_2d|>\"setting the price above average total cost.\" <|split_2d|>\"monopoly output being greater than the competitive output.\" <|split_2d|>\"long-run normal profits.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "setting the price above marginal cost.",
+      "incorrect_answers": [
+        "setting the price above average total cost.",
+        "monopoly output being greater than the competitive output.",
+        "long-run normal profits."
+      ]
+    }
+  },
+  {
+    "prompt": "Education makes Chris a better worker, voter, parent, and citizen. Because the benefits from education go beyond those that Chris enjoys himself, education provides<|start_2d|>\"increasing marginal utility and should be subsidized\" <|split_2d|>\"externalities and should be taxed\" <|split_2d|>\"decreasing marginal utility and should be taxed\" <|split_2d|>\"externalities and should be subsidized\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "externalities and should be subsidized",
+      "incorrect_answers": [
+        "increasing marginal utility and should be subsidized",
+        "externalities and should be taxed",
+        "decreasing marginal utility and should be taxed"
+      ]
+    }
+  },
+  {
+    "prompt": "If, for each additional unit of a variable input, the increases in output become smaller, which of the following correctly identifies the concept?<|start_2d|>\"Diminishing marginal productivity.\" <|split_2d|>\"Diminishing marginal utility.\" <|split_2d|>\"Increasing marginal utility.\" <|split_2d|>\"Increasing marginal productivity.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Diminishing marginal productivity.",
+      "incorrect_answers": [
+        "Diminishing marginal utility.",
+        "Increasing marginal utility.",
+        "Increasing marginal productivity."
+      ]
+    }
+  },
+  {
+    "prompt": "If there is a positive externality associated with the production of a private good, which of the following is an action of government that would most likely move the market to an efficient outcome?<|start_2d|>\"Close the firm producing the good.\" <|split_2d|>\"Subsidize the firm or its customers.\" <|split_2d|>\"Tax the firm.\" <|split_2d|>\"Appoint a commission.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Subsidize the firm or its customers.",
+      "incorrect_answers": [
+        "Close the firm producing the good.",
+        "Tax the firm.",
+        "Appoint a commission."
+      ]
+    }
+  },
+  {
+    "prompt": "A positive sign on cross price elasticity of demand indicates that the two products are<|start_2d|>\"luxuries.\" <|split_2d|>\"necessities.\" <|split_2d|>\"substitutes.\" <|split_2d|>\"complements.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "substitutes.",
+      "incorrect_answers": [
+        "luxuries.",
+        "necessities.",
+        "complements."
+      ]
+    }
+  },
+  {
+    "prompt": "The price elasticity of demand for a product is greater if<|start_2d|>\"the proportion of the good of the consumer's budget is high.\" <|split_2d|>\"the period of time to respond to a price change is short.\" <|split_2d|>\"the number of substitute products is limited.\" <|split_2d|>\"the product is a necessity.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the proportion of the good of the consumer's budget is high.",
+      "incorrect_answers": [
+        "the period of time to respond to a price change is short.",
+        "the number of substitute products is limited.",
+        "the product is a necessity."
+      ]
+    }
+  },
+  {
+    "prompt": "A price discriminating monopoly differs from a non-discriminating monopoly because a discriminating monopoly<|start_2d|>\"has a demand curve that is more elastic than a non-discriminating monopoly\" <|split_2d|>\"earns less revenue than a non-discriminating monopoly\" <|split_2d|>\"earns more revenue than a non-discriminating monopoly\" <|split_2d|>\"will produce less than a non-discriminating monopoly\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "earns more revenue than a non-discriminating monopoly",
+      "incorrect_answers": [
+        "has a demand curve that is more elastic than a non-discriminating monopoly",
+        "earns less revenue than a non-discriminating monopoly",
+        "will produce less than a non-discriminating monopoly"
+      ]
+    }
+  },
+  {
+    "prompt": "Every time Mr. Hamm makes another pizza in his shop, he places $0.45 worth of sauce on top. For Mr. Hamm, the cost of pizza sauce is a component of which of the following? I. Total Fixed Costs II. Total Variable Costs III. Marginal Cost IV. Total Costs<|start_2d|>\"I and IV only\" <|split_2d|>\"II and III only\" <|split_2d|>\"II and IV only\" <|split_2d|>\"II, III, and IV only\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "II, III, and IV only",
+      "incorrect_answers": [
+        "I and IV only",
+        "II and III only",
+        "II and IV only"
+      ]
+    }
+  },
+  {
+    "prompt": "The law of increasing costs is useful in describing<|start_2d|>\"a demand curve.\" <|split_2d|>\"a marginal benefit curve.\" <|split_2d|>\"a linear production possibility frontier.\" <|split_2d|>\"a concave production possibility frontier.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a concave production possibility frontier.",
+      "incorrect_answers": [
+        "a demand curve.",
+        "a marginal benefit curve.",
+        "a linear production possibility frontier."
+      ]
+    }
+  },
+  {
+    "prompt": "Suppose that aluminum is a key production input in the production of bicycles. If the price of aluminum falls, and all other variables are held constant, we expect<|start_2d|>\"the demand for aluminum to rise.\" <|split_2d|>\"the supply of bicycles to rise.\" <|split_2d|>\"the supply of bicycles to fall.\" <|split_2d|>\"the demand for bicycles to rise.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the supply of bicycles to rise.",
+      "incorrect_answers": [
+        "the demand for aluminum to rise.",
+        "the supply of bicycles to fall.",
+        "the demand for bicycles to rise."
+      ]
+    }
+  },
+  {
+    "prompt": "The sales tax that you pay at the grocery store is commonly labeled a<|start_2d|>\"progressive tax.\" <|split_2d|>\"regressive tax.\" <|split_2d|>\"proportional tax.\" <|split_2d|>\"excise tax.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "regressive tax.",
+      "incorrect_answers": [
+        "progressive tax.",
+        "proportional tax.",
+        "excise tax."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is the best example of the free-rider effect?<|start_2d|>\"You and a friend take a road trip to Florida in your friend's car. You pay for the gas.\" <|split_2d|>\"In exchange for tutoring your friend in economics, she helps you with your geometry assignment.\" <|split_2d|>\"You have ordered a big college football game on pay-per-view, and several of your buddies show up unannounced to watch it at your place.\" <|split_2d|>\"You buy your date dinner, but your date insists on leaving a tip for the server.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "You have ordered a big college football game on pay-per-view, and several of your buddies show up unannounced to watch it at your place.",
+      "incorrect_answers": [
+        "You and a friend take a road trip to Florida in your friend's car. You pay for the gas.",
+        "In exchange for tutoring your friend in economics, she helps you with your geometry assignment.",
+        "You buy your date dinner, but your date insists on leaving a tip for the server."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is the best example of a negative externality and the appropriate plan for eliminating it?<|start_2d|>\"Air pollution from a factory blows downwind and harms children in a small community. Tax the citizens of the community.\" <|split_2d|>\"Your neighbor plants a fragrant blooming cherry tree in her front yard. Give a tree subsidy to your neighbor.\" <|split_2d|>\"The waste from a hog farm pollutes a neighbor's drinking water. Give a subsidy to the hog farmer.\" <|split_2d|>\"Air pollution from a power plant is blowing downwind and harming the trees in your community. Tax the production of electricity.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Air pollution from a power plant is blowing downwind and harming the trees in your community. Tax the production of electricity.",
+      "incorrect_answers": [
+        "Air pollution from a factory blows downwind and harms children in a small community. Tax the citizens of the community.",
+        "Your neighbor plants a fragrant blooming cherry tree in her front yard. Give a tree subsidy to your neighbor.",
+        "The waste from a hog farm pollutes a neighbor's drinking water. Give a subsidy to the hog farmer."
+      ]
+    }
+  },
+  {
+    "prompt": "If the government regulates a monopoly to produce at the allocative efficient quantity, which of the following would be true?<|start_2d|>\"The monopoly would break even.\" <|split_2d|>\"The monopoly would incur an economic loss.\" <|split_2d|>\"The monopoly would make an economic profit.\" <|split_2d|>\"The deadweight loss in this market would decrease.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The deadweight loss in this market would decrease.",
+      "incorrect_answers": [
+        "The monopoly would break even.",
+        "The monopoly would incur an economic loss.",
+        "The monopoly would make an economic profit."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following indicates that two goods are complements?<|start_2d|>\"A positive income elasticity\" <|split_2d|>\"A horizontal demand curve\" <|split_2d|>\"A negative cross-price elasticity\" <|split_2d|>\"A demand elasticity greater than one\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A negative cross-price elasticity",
+      "incorrect_answers": [
+        "A positive income elasticity",
+        "A horizontal demand curve",
+        "A demand elasticity greater than one"
+      ]
+    }
+  },
+  {
+    "prompt": "If the government subsidizes the production of halogen headlights,<|start_2d|>\"the demand curve will shift to the left.\" <|split_2d|>\"the demand curve will shift to the right.\" <|split_2d|>\"the supply curve will shift to the left.\" <|split_2d|>\"the supply curve will shift to the right.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the supply curve will shift to the right.",
+      "incorrect_answers": [
+        "the demand curve will shift to the left.",
+        "the demand curve will shift to the right.",
+        "the supply curve will shift to the left."
+      ]
+    }
+  },
+  {
+    "prompt": "Suppose the county government sends each parent a coupon that can be used to subsidize the cost of sending each child to daycare. What would you expect to occur in the market for daycare services?<|start_2d|>\"The demand for daycare falls, lowering the market price.\" <|split_2d|>\"The demand for daycare rises, increasing the market price.\" <|split_2d|>\"The supply of daycare rises, lowering the market price.\" <|split_2d|>\"The supply of daycare falls, increasing the market price.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The demand for daycare rises, increasing the market price.",
+      "incorrect_answers": [
+        "The demand for daycare falls, lowering the market price.",
+        "The supply of daycare rises, lowering the market price.",
+        "The supply of daycare falls, increasing the market price."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a characteristic of monopolistic competition?<|start_2d|>\"Economically efficient in the long run.\" <|split_2d|>\"Pricing at minimum ATC in long run.\" <|split_2d|>\"Excess capacity.\" <|split_2d|>\"Very few competitors.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Excess capacity.",
+      "incorrect_answers": [
+        "Economically efficient in the long run.",
+        "Pricing at minimum ATC in long run.",
+        "Very few competitors."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a fundamental aspect of the free market system?<|start_2d|>\"A high degree of government involvement.\" <|split_2d|>\"Public ownership of resources.\" <|split_2d|>\"Private property.\" <|split_2d|>\"Central planners set wages and prices.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Private property.",
+      "incorrect_answers": [
+        "A high degree of government involvement.",
+        "Public ownership of resources.",
+        "Central planners set wages and prices."
+      ]
+    }
+  },
+  {
+    "prompt": "A price ceiling is characterized by<|start_2d|>\"a price set below the current (or equilibrium) market price of the good.\" <|split_2d|>\"a price set above the current (or equilibrium) market price of the good.\" <|split_2d|>\"a shift of the demand curve (function).\" <|split_2d|>\"a shift of the supply curve.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a price set below the current (or equilibrium) market price of the good.",
+      "incorrect_answers": [
+        "a price set above the current (or equilibrium) market price of the good.",
+        "a shift of the demand curve (function).",
+        "a shift of the supply curve."
+      ]
+    }
+  },
+  {
+    "prompt": "Elsa values her time at $50 per hour, and tutors David for two hours. David is willing to pay $175 for two hours of tutoring, but they negotiate a price of $125 for the entire two hours. Which of the following statements is true about the transaction above:<|start_2d|>\"Consumer surplus is greater than producer surplus by between $50 and $75.\" <|split_2d|>\"Producer surplus is greater than consumer surplus by between $50 and $75.\" <|split_2d|>\"Consumer surplus is greater than producer surplus by more than $75.\" <|split_2d|>\"The difference between consumer and producer surplus is $25.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The difference between consumer and producer surplus is $25.",
+      "incorrect_answers": [
+        "Consumer surplus is greater than producer surplus by between $50 and $75.",
+        "Producer surplus is greater than consumer surplus by between $50 and $75.",
+        "Consumer surplus is greater than producer surplus by more than $75."
+      ]
+    }
+  },
+  {
+    "prompt": "If a consumer is not required to pay a monetary price for each cookie she consumes, the consumer will stop eating cookies when<|start_2d|>\"the total utility from eating cookies is equal to zero.\" <|split_2d|>\"the substitution effect outweighs the income effect from eating cookies.\" <|split_2d|>\"the ratio of marginal utility divided by total utility is equal to one.\" <|split_2d|>\"the marginal utility from eating the last cookie is zero.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the marginal utility from eating the last cookie is zero.",
+      "incorrect_answers": [
+        "the total utility from eating cookies is equal to zero.",
+        "the substitution effect outweighs the income effect from eating cookies.",
+        "the ratio of marginal utility divided by total utility is equal to one."
+      ]
+    }
+  },
+  {
+    "prompt": "For a competitive firm, what is the most important thing to consider in deciding whether to shut down in the short run?<|start_2d|>\"Compare AVC to MR.\" <|split_2d|>\"Compare TR to TC.\" <|split_2d|>\"Do not produce if the TFC is not covered by revenue.\" <|split_2d|>\"Produce the highest quantity demanded regardless of price.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Compare AVC to MR.",
+      "incorrect_answers": [
+        "Compare TR to TC.",
+        "Do not produce if the TFC is not covered by revenue.",
+        "Produce the highest quantity demanded regardless of price."
+      ]
+    }
+  },
+  {
+    "prompt": "Which is true of monopolistic competition?<|start_2d|>\"Firms earn long-run economic profits.\" <|split_2d|>\"P = MR = MC = ATC.\" <|split_2d|>\"Firms spend money to differentiate and advertise their products.\" <|split_2d|>\"In the long run the market is allocatively efficient.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Firms spend money to differentiate and advertise their products.",
+      "incorrect_answers": [
+        "Firms earn long-run economic profits.",
+        "P = MR = MC = ATC.",
+        "In the long run the market is allocatively efficient."
+      ]
+    }
+  },
+  {
+    "prompt": "The supply curve for lawn-mowing services is likely to slope upward because of<|start_2d|>\"decreasing marginal costs\" <|split_2d|>\"increasing opportunity cost of time\" <|split_2d|>\"diminishing marginal utility\" <|split_2d|>\"increasing returns to scale\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "increasing opportunity cost of time",
+      "incorrect_answers": [
+        "decreasing marginal costs",
+        "diminishing marginal utility",
+        "increasing returns to scale"
+      ]
+    }
+  },
+  {
+    "prompt": "Labor, human capital, entrepreneurship, natural resources, and physical capital are all examples of which of the following?<|start_2d|>\"Public goods\" <|split_2d|>\"Inferior goods\" <|split_2d|>\"Factors of production\" <|split_2d|>\"Outputs\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Factors of production",
+      "incorrect_answers": [
+        "Public goods",
+        "Inferior goods",
+        "Outputs"
+      ]
+    }
+  },
+  {
+    "prompt": "According to the principle of diminishing marginal utility,<|start_2d|>\"marginal utility stays the same.\" <|split_2d|>\"total utility stays the same.\" <|split_2d|>\"marginal utility decreases with each additional unit of a good that is consumed.\" <|split_2d|>\"marginal utility and total utility both decrease.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "marginal utility decreases with each additional unit of a good that is consumed.",
+      "incorrect_answers": [
+        "marginal utility stays the same.",
+        "total utility stays the same.",
+        "marginal utility and total utility both decrease."
+      ]
+    }
+  },
+  {
+    "prompt": "The downward-sloping demand curve is partially explained by which of the following?<|start_2d|>\"Substitution effects and income effects\" <|split_2d|>\"The law of increasing marginal costs\" <|split_2d|>\"The principle of comparative advantage\" <|split_2d|>\"The law of diminishing marginal returns to production\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Substitution effects and income effects",
+      "incorrect_answers": [
+        "The law of increasing marginal costs",
+        "The principle of comparative advantage",
+        "The law of diminishing marginal returns to production"
+      ]
+    }
+  },
+  {
+    "prompt": "If a market is organized by a cartel, we can expect<|start_2d|>\"normal profits for all cartel firms.\" <|split_2d|>\"an incentive for cartel firms to cheat on the cartel agreement.\" <|split_2d|>\"profit maximization by individual firms in the cartel.\" <|split_2d|>\"allocative efficiency.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "an incentive for cartel firms to cheat on the cartel agreement.",
+      "incorrect_answers": [
+        "normal profits for all cartel firms.",
+        "profit maximization by individual firms in the cartel.",
+        "allocative efficiency."
+      ]
+    }
+  },
+  {
+    "prompt": "At the birthday party of your best friend, you see Skylar help himself to a second piece of cake. For this individual, it must be the case that<|start_2d|>\"the marginal benefit of the second piece of cake is less than the marginal cost.\" <|split_2d|>\"the total benefit received from eating cake is falling.\" <|split_2d|>\"the ratio of marginal benefit over marginal cost is less than one.\" <|split_2d|>\"the marginal benefit of the second piece of cake is greater than the marginal cost.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the marginal benefit of the second piece of cake is greater than the marginal cost.",
+      "incorrect_answers": [
+        "the marginal benefit of the second piece of cake is less than the marginal cost.",
+        "the total benefit received from eating cake is falling.",
+        "the ratio of marginal benefit over marginal cost is less than one."
+      ]
+    }
+  },
+  {
+    "prompt": "In the short run, a firm employs labor and capital to produce gadgets. If the annual price of capital increases, what will happen to the short-run cost curves?<|start_2d|>\"The marginal cost and average variable cost curves will shift upward.\" <|split_2d|>\"The average fixed cost and average total cost curves will shift upward.\" <|split_2d|>\"The marginal cost and average fixed cost curves will shift upward.\" <|split_2d|>\"The marginal cost, average fixed cost, average variable cost, and average total cost curves will all shift upward.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The average fixed cost and average total cost curves will shift upward.",
+      "incorrect_answers": [
+        "The marginal cost and average variable cost curves will shift upward.",
+        "The marginal cost and average fixed cost curves will shift upward.",
+        "The marginal cost, average fixed cost, average variable cost, and average total cost curves will all shift upward."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is true about a price floor?<|start_2d|>\"It is used to correct government policy.\" <|split_2d|>\"It is used when the equilibrium price is too high.\" <|split_2d|>\"It will be located above the equilibrium price.\" <|split_2d|>\"It will be located below the equilibrium price.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "It will be located above the equilibrium price.",
+      "incorrect_answers": [
+        "It is used to correct government policy.",
+        "It is used when the equilibrium price is too high.",
+        "It will be located below the equilibrium price."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is true?<|start_2d|>\"Average total cost = total fixed costs divided by the number of units produced.\" <|split_2d|>\"Average total cost = average variable costs divided by the total number of units produced.\" <|split_2d|>\"Average total cost = average variable cost plus marginal cost.\" <|split_2d|>\"Average total cost = average variable cost plus average fixed cost.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Average total cost = average variable cost plus average fixed cost.",
+      "incorrect_answers": [
+        "Average total cost = total fixed costs divided by the number of units produced.",
+        "Average total cost = average variable costs divided by the total number of units produced.",
+        "Average total cost = average variable cost plus marginal cost."
+      ]
+    }
+  },
+  {
+    "prompt": "An industry described as an oligopoly would most likely have<|start_2d|>\"normal profits in the long run.\" <|split_2d|>\"no opportunities for collusive behavior.\" <|split_2d|>\"significant barriers to entry.\" <|split_2d|>\"price-taking behavior.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "significant barriers to entry.",
+      "incorrect_answers": [
+        "normal profits in the long run.",
+        "no opportunities for collusive behavior.",
+        "price-taking behavior."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is correct about the demand for labor?<|start_2d|>\"The demand for labor is independent of the demand for other inputs or resources.\" <|split_2d|>\"The demand for labor is independent of the demand for the products produced by labor.\" <|split_2d|>\"The demand for labor is independent of the availability of other inputs or resources.\" <|split_2d|>\"The demand for labor is derived from the demand for the products produced by labor.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The demand for labor is derived from the demand for the products produced by labor.",
+      "incorrect_answers": [
+        "The demand for labor is independent of the demand for other inputs or resources.",
+        "The demand for labor is independent of the demand for the products produced by labor.",
+        "The demand for labor is independent of the availability of other inputs or resources."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is not correct for the perfectly competitive firm, in the long run?<|start_2d|>\"price = minimum average cost.\" <|split_2d|>\"price = marginal revenue.\" <|split_2d|>\"price = minimum average variable cost.\" <|split_2d|>\"price = marginal cost.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "price = minimum average variable cost.",
+      "incorrect_answers": [
+        "price = minimum average cost.",
+        "price = marginal revenue.",
+        "price = marginal cost."
+      ]
+    }
+  },
+  {
+    "prompt": "The demand curve for a perfectly competitive firm's product is<|start_2d|>\"downward sloping and equal to the market demand curve.\" <|split_2d|>\"perfectly elastic.\" <|split_2d|>\"perfectly inelastic.\" <|split_2d|>\"kinked at the going market price.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "perfectly elastic.",
+      "incorrect_answers": [
+        "downward sloping and equal to the market demand curve.",
+        "perfectly inelastic.",
+        "kinked at the going market price."
+      ]
+    }
+  },
+  {
+    "prompt": "Normal goods always have a/an<|start_2d|>\"elastic demand curve\" <|split_2d|>\"inelastic demand curve\" <|split_2d|>\"elastic supply curve\" <|split_2d|>\"positive income elasticity\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "positive income elasticity",
+      "incorrect_answers": [
+        "elastic demand curve",
+        "inelastic demand curve",
+        "elastic supply curve"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following represents a measure of a firm's monopoly pricing or market power, i.e., the larger the value of the index, the greater the firm's market pricing power?<|start_2d|>\"(MC-P)/MC\" <|split_2d|>\"(MC-P)/P\" <|split_2d|>\"(P-MC)/P\" <|split_2d|>\"(P-MC)/MC\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "(P-MC)/P",
+      "incorrect_answers": [
+        "(MC-P)/MC",
+        "(MC-P)/P",
+        "(P-MC)/MC"
+      ]
+    }
+  },
+  {
+    "prompt": "The market demand curve for labor would shift to the left as the result of<|start_2d|>\"an increase in the price of the good which the labor is producing\" <|split_2d|>\"an increase in demand for the good which the labor is producing\" <|split_2d|>\"an increase in the wage rate paid to workers\" <|split_2d|>\"a decrease in the marginal product of labor\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a decrease in the marginal product of labor",
+      "incorrect_answers": [
+        "an increase in the price of the good which the labor is producing",
+        "an increase in demand for the good which the labor is producing",
+        "an increase in the wage rate paid to workers"
+      ]
+    }
+  },
+  {
+    "prompt": "Opportunity costs or implicit costs of a \"Mom & Pop\"-owned business are:<|start_2d|>\"equal to accounting costs.\" <|split_2d|>\"equal to accounting profits.\" <|split_2d|>\"equal to earnings or profits that could have occurred using resources elsewhere.\" <|split_2d|>\"equal to earnings or profits that occurred for Mom & Pop's business.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "equal to earnings or profits that could have occurred using resources elsewhere.",
+      "incorrect_answers": [
+        "equal to accounting costs.",
+        "equal to accounting profits.",
+        "equal to earnings or profits that occurred for Mom & Pop's business."
+      ]
+    }
+  },
+  {
+    "prompt": "The owner of a competitive firm making zero economic profit<|start_2d|>\"should consider shutting down because she could make more elsewhere\" <|split_2d|>\"is making less than normal profits\" <|split_2d|>\"is making exactly what she would make in her next best alternative job\" <|split_2d|>\"will most likely make more profits in the long run\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "is making exactly what she would make in her next best alternative job",
+      "incorrect_answers": [
+        "should consider shutting down because she could make more elsewhere",
+        "is making less than normal profits",
+        "will most likely make more profits in the long run"
+      ]
+    }
+  },
+  {
+    "prompt": "If the market price is above the perfectly competitive firm's average total cost curve, we expect that in the long run,<|start_2d|>\"the industry contracts as firms exit the market.\" <|split_2d|>\"the industry expands as firms exit the market.\" <|split_2d|>\"the industry contracts as firms enter the market.\" <|split_2d|>\"the industry expands as firms enter the market.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the industry expands as firms enter the market.",
+      "incorrect_answers": [
+        "the industry contracts as firms exit the market.",
+        "the industry expands as firms exit the market.",
+        "the industry contracts as firms enter the market."
+      ]
+    }
+  },
+  {
+    "prompt": "Land, labor, capital and entrepreneurial talent are often referred to as<|start_2d|>\"production possibilities.\" <|split_2d|>\"goods and services.\" <|split_2d|>\"unlimited human wants.\" <|split_2d|>\"scarce economic resources.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "scarce economic resources.",
+      "incorrect_answers": [
+        "production possibilities.",
+        "goods and services.",
+        "unlimited human wants."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following goods is likely to have the most elastic demand curve?<|start_2d|>\"Demand for white Ford minivans\" <|split_2d|>\"Demand for automobiles\" <|split_2d|>\"Demand for Ford automobiles\" <|split_2d|>\"Demand for American-made automobiles\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Demand for white Ford minivans",
+      "incorrect_answers": [
+        "Demand for automobiles",
+        "Demand for Ford automobiles",
+        "Demand for American-made automobiles"
+      ]
+    }
+  },
+  {
+    "prompt": "Deadweight loss occurs in<|start_2d|>\"monopolistic competition as P > MC.\" <|split_2d|>\"monopoly markets because P > MC.\" <|split_2d|>\"oligopoly markets because P > MC.\" <|split_2d|>\"All of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "All of the above.",
+      "incorrect_answers": [
+        "monopolistic competition as P > MC.",
+        "monopoly markets because P > MC.",
+        "oligopoly markets because P > MC."
+      ]
+    }
+  },
+  {
+    "prompt": "The individual firm, operating under perfect competition, is characterized as:<|start_2d|>\"a price-maker.\" <|split_2d|>\"one of a few sellers.\" <|split_2d|>\"a price strategist.\" <|split_2d|>\"a price-taker.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a price-taker.",
+      "incorrect_answers": [
+        "a price-maker.",
+        "one of a few sellers.",
+        "a price strategist."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following are associated with public goods? I. Free riders II. Adding demand curves vertically to find the demand curve for society III. Nonrivalry in consumption IV. Nonexcludability<|start_2d|>\"I and II only\" <|split_2d|>\"I and IV only\" <|split_2d|>\"II and III only\" <|split_2d|>\"I, II, III, and IV\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "I, II, III, and IV",
+      "incorrect_answers": [
+        "I and II only",
+        "I and IV only",
+        "II and III only"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is true about the pure public good?<|start_2d|>\"The marginal cost of providing an additional unit of the good to additional citizens is greater than zero.\" <|split_2d|>\"Consumers can be excluded from its benefits by not paying for it.\" <|split_2d|>\"One more unit of a public good for some consumers means one less unit for other consumers.\" <|split_2d|>\"The good cannot be divided into discrete units.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The good cannot be divided into discrete units.",
+      "incorrect_answers": [
+        "The marginal cost of providing an additional unit of the good to additional citizens is greater than zero.",
+        "Consumers can be excluded from its benefits by not paying for it.",
+        "One more unit of a public good for some consumers means one less unit for other consumers."
+      ]
+    }
+  },
+  {
+    "prompt": "Nancy has the choice to spend one hour studying for an exam, mowing the lawn for one hour at a wage of $6, or babysitting her niece for one hour at a wage of $8. If we know that Nancy has chosen to study for the exam, which of the following is true?<|start_2d|>\"The benefit received from studying is greater than the opportunity cost of $8.\" <|split_2d|>\"The opportunity cost of studying is $14, which is less than the benefit received from studying.\" <|split_2d|>\"Nancy is indifferent to both studying and mowing the lawn.\" <|split_2d|>\"Nancy's behavior is irrational, since babysitting was clearly superior to all other options.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The benefit received from studying is greater than the opportunity cost of $8.",
+      "incorrect_answers": [
+        "The opportunity cost of studying is $14, which is less than the benefit received from studying.",
+        "Nancy is indifferent to both studying and mowing the lawn.",
+        "Nancy's behavior is irrational, since babysitting was clearly superior to all other options."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements accurately describes the relationship between average product (AP) and marginal product (MP) of labor?<|start_2d|>\"AP rises when MP is above it and falls when MP is below it.\" <|split_2d|>\"MP intersects AP at the maximum of MP.\" <|split_2d|>\"AP and MP are always parallel to each other.\" <|split_2d|>\"AP and MP are either both rising or both falling at all levels of labor.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "AP rises when MP is above it and falls when MP is below it.",
+      "incorrect_answers": [
+        "MP intersects AP at the maximum of MP.",
+        "AP and MP are always parallel to each other.",
+        "AP and MP are either both rising or both falling at all levels of labor."
+      ]
+    }
+  },
+  {
+    "prompt": "Because people with relatively low incomes spend a larger percentage of their income on food than people with relatively high incomes, a sales tax on food would fall into which category of taxes?<|start_2d|>\"Progressive\" <|split_2d|>\"Proportional\" <|split_2d|>\"Regressive\" <|split_2d|>\"Neutral\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Regressive",
+      "incorrect_answers": [
+        "Progressive",
+        "Proportional",
+        "Neutral"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is NOT a source of wage differentials?<|start_2d|>\"Differences in human capital stock.\" <|split_2d|>\"Racial or gender discrimination.\" <|split_2d|>\"Immobility of workers.\" <|split_2d|>\"Decrease in the birth rate.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Decrease in the birth rate.",
+      "incorrect_answers": [
+        "Differences in human capital stock.",
+        "Racial or gender discrimination.",
+        "Immobility of workers."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following certainly lowers the equilibrium price of a good exchanged in a competitive market?<|start_2d|>\"The demand curve shifts to the right.\" <|split_2d|>\"The supply curve shifts to the left.\" <|split_2d|>\"The demand curve shifts to the left, and the supply curve shifts to the right.\" <|split_2d|>\"The demand curve shifts to the right, and the supply curve shifts to the left.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The demand curve shifts to the left, and the supply curve shifts to the right.",
+      "incorrect_answers": [
+        "The demand curve shifts to the right.",
+        "The supply curve shifts to the left.",
+        "The demand curve shifts to the right, and the supply curve shifts to the left."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is true for a firm operating under perfect competition in the long run?<|start_2d|>\"The firm will engage in non-price competition.\" <|split_2d|>\"The firm will realize economic profits.\" <|split_2d|>\"The firm will incur economic losses.\" <|split_2d|>\"The firm will realize zero economic profits.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The firm will realize zero economic profits.",
+      "incorrect_answers": [
+        "The firm will engage in non-price competition.",
+        "The firm will realize economic profits.",
+        "The firm will incur economic losses."
+      ]
+    }
+  },
+  {
+    "prompt": "A negative externality in the market for a good exists when<|start_2d|>\"the market overallocates resources to the production of this good.\" <|split_2d|>\"spillover benefits are received by society.\" <|split_2d|>\"the marginal social benefit equals the marginal social cost.\" <|split_2d|>\"total welfare is maximized.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the market overallocates resources to the production of this good.",
+      "incorrect_answers": [
+        "spillover benefits are received by society.",
+        "the marginal social benefit equals the marginal social cost.",
+        "total welfare is maximized."
+      ]
+    }
+  },
+  {
+    "prompt": "Which characteristic is likely a part of a monopoly market but not of monopolistic competition?<|start_2d|>\"Differentiated products\" <|split_2d|>\"Patents and copyrights\" <|split_2d|>\"Possibility of profit in the short run\" <|split_2d|>\"Deadweight loss exists\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Patents and copyrights",
+      "incorrect_answers": [
+        "Differentiated products",
+        "Possibility of profit in the short run",
+        "Deadweight loss exists"
+      ]
+    }
+  },
+  {
+    "prompt": "Every day Melanie spends her lunch money consuming apples, at $1 each, and oranges, at $2 each. At her current level of consumption, Melanie's marginal utility of apples is 12 and her marginal utility of oranges is 18. If she has already spent all of her lunch money, how should Melanie change her consumption decision to maximize utility?<|start_2d|>\"She should make no changes; she is consuming the utility maximizing combination of apples and oranges.\" <|split_2d|>\"She should increase her apple consumption and decrease her orange consumption until the marginal utility per dollar is equal for both.\" <|split_2d|>\"She should decrease her apple consumption and increase her orange consumption until the marginal utility per dollar is equal for both.\" <|split_2d|>\"She should increase her apple consumption and decrease her orange consumption until the marginal utility is equal for both.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "She should increase her apple consumption and decrease her orange consumption until the marginal utility per dollar is equal for both.",
+      "incorrect_answers": [
+        "She should make no changes; she is consuming the utility maximizing combination of apples and oranges.",
+        "She should decrease her apple consumption and increase her orange consumption until the marginal utility per dollar is equal for both.",
+        "She should increase her apple consumption and decrease her orange consumption until the marginal utility is equal for both."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following describes the theory behind the demand curve?<|start_2d|>\"Decreasing marginal utility as consumption rises.\" <|split_2d|>\"Increasing marginal cost as consumption rises.\" <|split_2d|>\"Decreasing marginal cost as consumption rises.\" <|split_2d|>\"Increasing total utility at an increasing rate as consumption rises.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Decreasing marginal utility as consumption rises.",
+      "incorrect_answers": [
+        "Increasing marginal cost as consumption rises.",
+        "Decreasing marginal cost as consumption rises.",
+        "Increasing total utility at an increasing rate as consumption rises."
+      ]
+    }
+  },
+  {
+    "prompt": "Economics is best described as<|start_2d|>\"the study of how scarce material wants are allocated between unlimited resources.\" <|split_2d|>\"the study of how scarce labor can be replaced by unlimited capital.\" <|split_2d|>\"the study of how decision makers choose the best way to satisfy their unlimited material wants with a scarce supply of resources.\" <|split_2d|>\"the study of how unlimited material wants can best be satisfied by allocating limitless amounts of productive resources.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the study of how decision makers choose the best way to satisfy their unlimited material wants with a scarce supply of resources.",
+      "incorrect_answers": [
+        "the study of how scarce material wants are allocated between unlimited resources.",
+        "the study of how scarce labor can be replaced by unlimited capital.",
+        "the study of how unlimited material wants can best be satisfied by allocating limitless amounts of productive resources."
+      ]
+    }
+  },
+  {
+    "prompt": "An effective price ceiling in the market for good X likely results in<|start_2d|>\"a persistent surplus of good X.\" <|split_2d|>\"a persistent shortage of good X.\" <|split_2d|>\"an increase in the demand for good Y, a substitute for good X.\" <|split_2d|>\"a decrease in the demand for good Z, a complement with good X.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a persistent shortage of good X.",
+      "incorrect_answers": [
+        "a persistent surplus of good X.",
+        "an increase in the demand for good Y, a substitute for good X.",
+        "a decrease in the demand for good Z, a complement with good X."
+      ]
+    }
+  },
+  {
+    "prompt": "When the production or consumption of a good creates a positive externality, it is deemed a market failure because at the market quantity<|start_2d|>\"the marginal social benefit exceeds the marginal social cost.\" <|split_2d|>\"the marginal social cost exceeds the marginal social benefit.\" <|split_2d|>\"society produces too much of the good.\" <|split_2d|>\"the private benefits from consuming the good exceed the social benefits.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the marginal social benefit exceeds the marginal social cost.",
+      "incorrect_answers": [
+        "the marginal social cost exceeds the marginal social benefit.",
+        "society produces too much of the good.",
+        "the private benefits from consuming the good exceed the social benefits."
+      ]
+    }
+  },
+  {
+    "prompt": "A competitive firm's demand for labor is determined directly by<|start_2d|>\"profits\" <|split_2d|>\"the opportunity cost of workers\u2019 time\" <|split_2d|>\"the wage and the average (physical) product of labor\" <|split_2d|>\"the marginal (physical) product of labor and the output price\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the marginal (physical) product of labor and the output price",
+      "incorrect_answers": [
+        "profits",
+        "the opportunity cost of workers\u2019 time",
+        "the wage and the average (physical) product of labor"
+      ]
+    }
+  },
+  {
+    "prompt": "When a perfectly competitive labor market is in equilibrium,<|start_2d|>\"everyone who wants to work has the opportunity to do so\" <|split_2d|>\"individual firms face downward sloping labor demand curves\" <|split_2d|>\"unemployment can reach as high as 10-15 percent\" <|split_2d|>\"individual firms face upward sloping labor demand curves\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "everyone who wants to work has the opportunity to do so",
+      "incorrect_answers": [
+        "individual firms face downward sloping labor demand curves",
+        "unemployment can reach as high as 10-15 percent",
+        "individual firms face upward sloping labor demand curves"
+      ]
+    }
+  },
+  {
+    "prompt": "The market demand curve for labor will shift to the right when<|start_2d|>\"the number of firms increases\" <|split_2d|>\"the price of output decreases\" <|split_2d|>\"the labor supply curve shifts to the right\" <|split_2d|>\"the labor supply curve shifts to the left\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the number of firms increases",
+      "incorrect_answers": [
+        "the price of output decreases",
+        "the labor supply curve shifts to the right",
+        "the labor supply curve shifts to the left"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following was not a landmark antitrust act?<|start_2d|>\"The Wagner Act\" <|split_2d|>\"The Sherman Act\" <|split_2d|>\"The Clayton Act\" <|split_2d|>\"The Robinson-Patman Act\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The Wagner Act",
+      "incorrect_answers": [
+        "The Sherman Act",
+        "The Clayton Act",
+        "The Robinson-Patman Act"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following might explain how a price decrease might cause a decrease in quantity demanded and an upward-sloping demand curve?<|start_2d|>\"The good is inferior and the income effect is stronger than the substitution effect.\" <|split_2d|>\"The good is normal and the income effect is stronger than the substitution effect.\" <|split_2d|>\"The good is normal and the income effect is weaker than the substitution effect.\" <|split_2d|>\"The good is inferior and a luxury.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The good is inferior and the income effect is stronger than the substitution effect.",
+      "incorrect_answers": [
+        "The good is normal and the income effect is stronger than the substitution effect.",
+        "The good is normal and the income effect is weaker than the substitution effect.",
+        "The good is inferior and a luxury."
+      ]
+    }
+  },
+  {
+    "prompt": "If the government wants to establish a socially optimal price for a natural monopoly, it should select the price at which<|start_2d|>\"average revenue equals zero\" <|split_2d|>\"marginal revenue equals zero\" <|split_2d|>\"the marginal cost curve intersects the demand curve\" <|split_2d|>\"the average total cost curve intersects the demand curve\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the marginal cost curve intersects the demand curve",
+      "incorrect_answers": [
+        "average revenue equals zero",
+        "marginal revenue equals zero",
+        "the average total cost curve intersects the demand curve"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is an implicit cost for the owner of a small store in your hometown?<|start_2d|>\"The wage that is paid to the assistant manager\" <|split_2d|>\"The cost of purchasing canned goods from a wholesale food distributor\" <|split_2d|>\"The value placed on the owner's skills in an alternative career\" <|split_2d|>\"The cost of cooling the refrigerated meat display\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The value placed on the owner's skills in an alternative career",
+      "incorrect_answers": [
+        "The wage that is paid to the assistant manager",
+        "The cost of purchasing canned goods from a wholesale food distributor",
+        "The cost of cooling the refrigerated meat display"
+      ]
+    }
+  },
+  {
+    "prompt": "The greater (higher) the wage elasticity of demand, the<|start_2d|>\"greater the proportion of capital costs to labor costs in the production of goods.\" <|split_2d|>\"greater the price elasticity for the product produced by labor.\" <|split_2d|>\"the smaller the number of substitutes for labor.\" <|split_2d|>\"the smaller the time period.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "greater the price elasticity for the product produced by labor.",
+      "incorrect_answers": [
+        "greater the proportion of capital costs to labor costs in the production of goods.",
+        "the smaller the number of substitutes for labor.",
+        "the smaller the time period."
+      ]
+    }
+  },
+  {
+    "prompt": "Unlike a perfectly competitive firm, a monopoly<|start_2d|>\"will charge the highest price it can on the demand curve\" <|split_2d|>\"has a horizontal marginal revenue curve\" <|split_2d|>\"has an upward sloping total revenue curve\" <|split_2d|>\"faces a downward sloping demand curve\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "faces a downward sloping demand curve",
+      "incorrect_answers": [
+        "will charge the highest price it can on the demand curve",
+        "has a horizontal marginal revenue curve",
+        "has an upward sloping total revenue curve"
+      ]
+    }
+  },
+  {
+    "prompt": "The law of diminishing marginal utility is most useful for explaining the<|start_2d|>\"law of supply\" <|split_2d|>\"law of demand\" <|split_2d|>\"curvature of the total cost curve\" <|split_2d|>\"shape of the production possibilities frontier\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "law of demand",
+      "incorrect_answers": [
+        "law of supply",
+        "curvature of the total cost curve",
+        "shape of the production possibilities frontier"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements is most consistent with a capitalist market economy?<|start_2d|>\"Economic resources are allocated according to the decisions of the central bank.\" <|split_2d|>\"Private property is fundamental to innovation, growth, and trade.\" <|split_2d|>\"A central government plans the production and distribution of goods.\" <|split_2d|>\"Most wages and prices are legally controlled.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Economic resources are allocated according to the decisions of the central bank.",
+      "incorrect_answers": [
+        "Private property is fundamental to innovation, growth, and trade.",
+        "A central government plans the production and distribution of goods.",
+        "Most wages and prices are legally controlled."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is an example of a long-run adjustment for the owners of a small caf\u00e9?<|start_2d|>\"The owners switch from whole wheat to sourdough bread.\" <|split_2d|>\"The owners hire several part-time workers to cover the dinner shifts.\" <|split_2d|>\"The owners work overtime on a busy weekend.\" <|split_2d|>\"The owners buy the office next door, and this doubles the customer seating.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The owners buy the office next door, and this doubles the customer seating.",
+      "incorrect_answers": [
+        "The owners switch from whole wheat to sourdough bread.",
+        "The owners hire several part-time workers to cover the dinner shifts.",
+        "The owners work overtime on a busy weekend."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is most likely to be true in the long run for a monopoly firm?<|start_2d|>\"P = MR = MC = ATC\" <|split_2d|>\"P = MR = MC > ATC\" <|split_2d|>\"P > MR = MC = ATC\" <|split_2d|>\"P > ATC > MR = MC\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "P > ATC > MR = MC",
+      "incorrect_answers": [
+        "P = MR = MC = ATC",
+        "P = MR = MC > ATC",
+        "P > MR = MC = ATC"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is not correct about economies of scale?<|start_2d|>\"Economies of scale are associated with increases in production of output.\" <|split_2d|>\"Economies of scale are associated with the rising or increasing portion of an average total cost (ATC) curve.\" <|split_2d|>\"Economies of scale are associated with the declining or decreasing portions of the ATC curve.\" <|split_2d|>\"Economies of scale result in decreases in per unit average cost.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Economies of scale are associated with the rising or increasing portion of an average total cost (ATC) curve.",
+      "incorrect_answers": [
+        "Economies of scale are associated with increases in production of output.",
+        "Economies of scale are associated with the declining or decreasing portions of the ATC curve.",
+        "Economies of scale result in decreases in per unit average cost."
+      ]
+    }
+  },
+  {
+    "prompt": "For the perfectly competitive firm, the profit-maximizing decision to shut down is made when the price<|start_2d|>\"falls below minimum average total cost.\" <|split_2d|>\"is greater than minimum average variable cost, but lower than minimum average total cost.\" <|split_2d|>\"falls below minimum average variable cost.\" <|split_2d|>\"is equal to minimum average total cost.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "falls below minimum average variable cost.",
+      "incorrect_answers": [
+        "falls below minimum average total cost.",
+        "is greater than minimum average variable cost, but lower than minimum average total cost.",
+        "is equal to minimum average total cost."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is true in the long run in perfect competition?<|start_2d|>\"P = MR = MC = ATC\" <|split_2d|>\"P = MR = MC > ATC\" <|split_2d|>\"P > MR = MC = ATC\" <|split_2d|>\"P = MR > MC = ATC\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "P = MR = MC = ATC",
+      "incorrect_answers": [
+        "P = MR = MC > ATC",
+        "P > MR = MC = ATC",
+        "P = MR > MC = ATC"
+      ]
+    }
+  },
+  {
+    "prompt": "If the perfectly competitive price is currently above minimum ATC, we can expect which of the following events in the long run?<|start_2d|>\"Price rises as firms enter the industry.\" <|split_2d|>\"Market equilibrium quantity rises as firms exit the industry.\" <|split_2d|>\"Nothing. The industry is currently in long-run equilibrium.\" <|split_2d|>\"Price falls as firms enter the industry.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Price falls as firms enter the industry.",
+      "incorrect_answers": [
+        "Price rises as firms enter the industry.",
+        "Market equilibrium quantity rises as firms exit the industry.",
+        "Nothing. The industry is currently in long-run equilibrium."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following will shift the supply curve for textbooks to the left?<|start_2d|>\"A decrease in the demand for a substitute in production\" <|split_2d|>\"A decrease in the number of buyers\" <|split_2d|>\"An increase in printing costs\" <|split_2d|>\"Expectations of future surpluses\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "An increase in printing costs",
+      "incorrect_answers": [
+        "A decrease in the demand for a substitute in production",
+        "A decrease in the number of buyers",
+        "Expectations of future surpluses"
+      ]
+    }
+  },
+  {
+    "prompt": "If Matt's total utility from consuming bratwurst increased at a constant rate, no matter how many bratwurst Matt consumed, what would Matt's demand curve for bratwurst look like?<|start_2d|>\"Vertical\" <|split_2d|>\"Horizontal\" <|split_2d|>\"Downward sloping\" <|split_2d|>\"Upward sloping\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Horizontal",
+      "incorrect_answers": [
+        "Vertical",
+        "Downward sloping",
+        "Upward sloping"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following causes the supply curve of paper to shift to the left?<|start_2d|>\"Paper producers expect lower paper prices in the months ahead.\" <|split_2d|>\"The price of pencils, a complement to paper, increases.\" <|split_2d|>\"Improvements in the technology used to produce paper.\" <|split_2d|>\"Environmental concerns reduce the yearly amount of timber that can be harvested.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Environmental concerns reduce the yearly amount of timber that can be harvested.",
+      "incorrect_answers": [
+        "Paper producers expect lower paper prices in the months ahead.",
+        "The price of pencils, a complement to paper, increases.",
+        "Improvements in the technology used to produce paper."
+      ]
+    }
+  },
+  {
+    "prompt": "When opportunity cost is constant across all production levels, the productions possibilities frontier is<|start_2d|>\"concave to the origin.\" <|split_2d|>\"convex to the origin.\" <|split_2d|>\"undefined.\" <|split_2d|>\"a straight diagonal line sloping downward from left to right.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a straight diagonal line sloping downward from left to right.",
+      "incorrect_answers": [
+        "concave to the origin.",
+        "convex to the origin.",
+        "undefined."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is likely to have a demand curve that is the least elastic?<|start_2d|>\"Demand for the perfectly competitive firm's output\" <|split_2d|>\"Demand for the oligopoly firm's output with a homogenous product\" <|split_2d|>\"Demand for the oligopoly firm's output with a differentiated product\" <|split_2d|>\"Demand for the monopoly firm's output\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Demand for the monopoly firm's output",
+      "incorrect_answers": [
+        "Demand for the perfectly competitive firm's output",
+        "Demand for the oligopoly firm's output with a homogenous product",
+        "Demand for the oligopoly firm's output with a differentiated product"
+      ]
+    }
+  },
+  {
+    "prompt": "A demand curve slopes downward for an individual as the result of<|start_2d|>\"diminishing marginal utility\" <|split_2d|>\"diminishing marginal returns\" <|split_2d|>\"the Fisher effect\" <|split_2d|>\"diminishing returns to scale\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "diminishing marginal utility",
+      "incorrect_answers": [
+        "diminishing marginal returns",
+        "the Fisher effect",
+        "diminishing returns to scale"
+      ]
+    }
+  },
+  {
+    "prompt": "In order to find the market supply curve for a particular good, one would<|start_2d|>\"aggregate the firm marginal revenue curves horizontally\" <|split_2d|>\"aggregate the firm supply curves vertically\" <|split_2d|>\"aggregate the firm marginal cost curves vertically\" <|split_2d|>\"aggregate the firm supply curves horizontally\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "aggregate the firm supply curves horizontally",
+      "incorrect_answers": [
+        "aggregate the firm marginal revenue curves horizontally",
+        "aggregate the firm supply curves vertically",
+        "aggregate the firm marginal cost curves vertically"
+      ]
+    }
+  },
+  {
+    "prompt": "The ability for firms to enter and exit a market over time means that<|start_2d|>\"the marginal cost is zero\" <|split_2d|>\"the marginal revenue is zero\" <|split_2d|>\"the long run supply curve is more elastic\" <|split_2d|>\"the long run supply curve is more inelastic\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the long run supply curve is more elastic",
+      "incorrect_answers": [
+        "the marginal cost is zero",
+        "the marginal revenue is zero",
+        "the long run supply curve is more inelastic"
+      ]
+    }
+  },
+  {
+    "prompt": "If one person has the only original signed copy of The Wealth of Nations by Adam Smith, which of the following would illustrate this situation?<|start_2d|>\"A downward sloping demand curve.\" <|split_2d|>\"An upward sloping supply curve.\" <|split_2d|>\"An invisible hand.\" <|split_2d|>\"A perfectly vertical supply curve.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A perfectly vertical supply curve.",
+      "incorrect_answers": [
+        "A downward sloping demand curve.",
+        "An upward sloping supply curve.",
+        "An invisible hand."
+      ]
+    }
+  },
+  {
+    "prompt": "Land refers to<|start_2d|>\"all productive resources.\" <|split_2d|>\"all natural resources.\" <|split_2d|>\"farmland only.\" <|split_2d|>\"real estate.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "all natural resources.",
+      "incorrect_answers": [
+        "all productive resources.",
+        "farmland only.",
+        "real estate."
+      ]
+    }
+  },
+  {
+    "prompt": "The basis for the answer in number 1 is<|start_2d|>\"P or wage rate of labor > MRP of labor and with one additional unit of labor, wage rate < MRP.\" <|split_2d|>\"P or wage rate of labor < MRP of labor and with one additional unit of labor WI, > MRP.\" <|split_2d|>\"total revenue is at a maximum.\" <|split_2d|>\"total output is at a maximum.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "P or wage rate of labor < MRP of labor and with one additional unit of labor WI, > MRP.",
+      "incorrect_answers": [
+        "P or wage rate of labor > MRP of labor and with one additional unit of labor, wage rate < MRP.",
+        "total revenue is at a maximum.",
+        "total output is at a maximum."
+      ]
+    }
+  },
+  {
+    "prompt": "In the same period there is a drought affecting the supply of pineapples and a discovery that may assist in the avoidance of cancer. How will this combination of events affect the equilibrium price and quantity of pineapples?Equilibrium Quantity<|start_2d|>\"Increases         Decreases\" <|split_2d|>\"Increases         Indeterminate\" <|split_2d|>\"Indeterminate         Increases\" <|split_2d|>\"Decreases         Indeterminate\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Increases         Indeterminate",
+      "incorrect_answers": [
+        "Increases         Decreases",
+        "Indeterminate         Increases",
+        "Decreases         Indeterminate"
+      ]
+    }
+  },
+  {
+    "prompt": "With respect to the kinked demand curve, which of the following is NOT correct?<|start_2d|>\"There is no price leader.\" <|split_2d|>\"There are relatively equal shares of the market.\" <|split_2d|>\"Price is greater than marginal costs.\" <|split_2d|>\"The demand curve is of one continuous function.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The demand curve is of one continuous function.",
+      "incorrect_answers": [
+        "There is no price leader.",
+        "There are relatively equal shares of the market.",
+        "Price is greater than marginal costs."
+      ]
+    }
+  },
+  {
+    "prompt": "Suppose that there are only two goods: x and y. Which of the following is NOT correct?<|start_2d|>\"One can have comparative advantage in producing both goods.\" <|split_2d|>\"One can have both an absolute advantage and a comparative advantage in producing x.\" <|split_2d|>\"One can have absolute advantage and no comparative advantage in producing x.\" <|split_2d|>\"One can have comparative advantage and no absolute advantage in producing x.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "One can have comparative advantage in producing both goods.",
+      "incorrect_answers": [
+        "One can have both an absolute advantage and a comparative advantage in producing x.",
+        "One can have absolute advantage and no comparative advantage in producing x.",
+        "One can have comparative advantage and no absolute advantage in producing x."
+      ]
+    }
+  },
+  {
+    "prompt": "The total utility from sardines is maximized when they are purchased until<|start_2d|>\"marginal utility is zero\" <|split_2d|>\"marginal benefit equals marginal cost\" <|split_2d|>\"consumer surplus is zero\" <|split_2d|>\"distributive efficiency is achieved\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "marginal utility is zero",
+      "incorrect_answers": [
+        "marginal benefit equals marginal cost",
+        "consumer surplus is zero",
+        "distributive efficiency is achieved"
+      ]
+    }
+  },
+  {
+    "prompt": "Assume a firm hires labor for $15 each and sells its products for $3 each. If the MP of the 3rd worker is 10, which of the following statements would be the most true?<|start_2d|>\"The firm should hire more labor so that the MRPL will increase.\" <|split_2d|>\"The firm should hire more labor so that the MRPL will decrease.\" <|split_2d|>\"The firm should hire less labor so that the MRPL will increase.\" <|split_2d|>\"The firm should hire less labor so that the MRPL will decrease.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The firm should hire more labor so that the MRPL will decrease.",
+      "incorrect_answers": [
+        "The firm should hire more labor so that the MRPL will increase.",
+        "The firm should hire less labor so that the MRPL will increase.",
+        "The firm should hire less labor so that the MRPL will decrease."
+      ]
+    }
+  },
+  {
+    "prompt": "The demand curve for labor is derived from<|start_2d|>\"the market labor demand curve\" <|split_2d|>\"the demand curve for the output produced by labor\" <|split_2d|>\"the labor supply curve for the firm\" <|split_2d|>\"the equilibrium wage in the labor market\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the demand curve for the output produced by labor",
+      "incorrect_answers": [
+        "the market labor demand curve",
+        "the labor supply curve for the firm",
+        "the equilibrium wage in the labor market"
+      ]
+    }
+  },
+  {
+    "prompt": "Monopolistic competition is often characterized by<|start_2d|>\"strong barriers to entry.\" <|split_2d|>\"a long-run price that exceeds average total cost.\" <|split_2d|>\"a price that exceeds average variable cost, causing excess capacity.\" <|split_2d|>\"many resources devoted to advertising.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "many resources devoted to advertising.",
+      "incorrect_answers": [
+        "strong barriers to entry.",
+        "a long-run price that exceeds average total cost.",
+        "a price that exceeds average variable cost, causing excess capacity."
+      ]
+    }
+  },
+  {
+    "prompt": "A student decides that, having already spent three hours studying for an exam, she should spend one more hour studying for the same exam. Which of the following is most likely true?<|start_2d|>\"The marginal benefit of the fourth hour is certainly less than the marginal cost of the fourth hour.\" <|split_2d|>\"The marginal benefit of the fourth hour is at least as great as the marginal cost of the fourth hour.\" <|split_2d|>\"Without knowing the student\u2019s opportunity cost of studying, we have no way of knowing whether or not her marginal benefits outweigh her marginal costs.\" <|split_2d|>\"The marginal cost of the third hour was likely greater than the marginal cost of the fourth hour.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The marginal benefit of the fourth hour is at least as great as the marginal cost of the fourth hour.",
+      "incorrect_answers": [
+        "The marginal benefit of the fourth hour is certainly less than the marginal cost of the fourth hour.",
+        "Without knowing the student\u2019s opportunity cost of studying, we have no way of knowing whether or not her marginal benefits outweigh her marginal costs.",
+        "The marginal cost of the third hour was likely greater than the marginal cost of the fourth hour."
+      ]
+    }
+  },
+  {
+    "prompt": "Macroeconomics focuses on<|start_2d|>\"government and its laws that affect commerce.\" <|split_2d|>\"individuals and their resource use.\" <|split_2d|>\"corporations and their production levels.\" <|split_2d|>\"the resource use of the entire nation.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the resource use of the entire nation.",
+      "incorrect_answers": [
+        "government and its laws that affect commerce.",
+        "individuals and their resource use.",
+        "corporations and their production levels."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is true?<|start_2d|>\"Marginal Social Costs = Private Marginal Costs + Negative Externality.\" <|split_2d|>\"Marginal Social Costs = Private Marginal Costs + Subsidy.\" <|split_2d|>\"Marginal Social Benefits = Private Marginal Benefits + Tax.\" <|split_2d|>\"Tax = Positive Externality.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Marginal Social Costs = Private Marginal Costs + Negative Externality.",
+      "incorrect_answers": [
+        "Marginal Social Costs = Private Marginal Costs + Subsidy.",
+        "Marginal Social Benefits = Private Marginal Benefits + Tax.",
+        "Tax = Positive Externality."
+      ]
+    }
+  },
+  {
+    "prompt": "Good X is exchanged in a competitive market. Which of the following is true if an excise tax is now imposed on the production of good X?<|start_2d|>\"If the demand curve is perfectly elastic, the price rises by the amount of the tax.\" <|split_2d|>\"The consumer's burden of the tax rises as the demand curve is more elastic.\" <|split_2d|>\"Consumer surplus rises as a result of the tax.\" <|split_2d|>\"The consumer's burden of the tax rises as the demand curve is less elastic.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The consumer's burden of the tax rises as the demand curve is less elastic.",
+      "incorrect_answers": [
+        "If the demand curve is perfectly elastic, the price rises by the amount of the tax.",
+        "The consumer's burden of the tax rises as the demand curve is more elastic.",
+        "Consumer surplus rises as a result of the tax."
+      ]
+    }
+  },
+  {
+    "prompt": "What could the government do to most effectively avoid a free rider problem?<|start_2d|>\"Enact stricter antitrust legislation\" <|split_2d|>\"Provide more complete information about the relevant goods\" <|split_2d|>\"Supply public goods using tax dollars\" <|split_2d|>\"Tax those creating negative externalities\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Supply public goods using tax dollars",
+      "incorrect_answers": [
+        "Enact stricter antitrust legislation",
+        "Provide more complete information about the relevant goods",
+        "Tax those creating negative externalities"
+      ]
+    }
+  },
+  {
+    "prompt": "In order to hire the least-cost combination of labor and capital, the firm must do which of the following?<|start_2d|>\"Find the combination of labor and capital where the marginal product of labor is equal to the marginal product of capital.\" <|split_2d|>\"Find the combination of labor and capital where the ratio of the marginal product of labor to the marginal product of capital is equal to one.\" <|split_2d|>\"Find the combination of labor and capital where the marginal product of labor divided by the price of labor is equal to the marginal product of capital divided by the price of capital.\" <|split_2d|>\"Find the combination of labor and capital where the price of labor is equal to the price of capital.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Find the combination of labor and capital where the marginal product of labor divided by the price of labor is equal to the marginal product of capital divided by the price of capital.",
+      "incorrect_answers": [
+        "Find the combination of labor and capital where the marginal product of labor is equal to the marginal product of capital.",
+        "Find the combination of labor and capital where the ratio of the marginal product of labor to the marginal product of capital is equal to one.",
+        "Find the combination of labor and capital where the price of labor is equal to the price of capital."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a characteristic of monopolistic competition in the long run?<|start_2d|>\"Strong barriers to entry.\" <|split_2d|>\"Homogeneous products.\" <|split_2d|>\"Zero economic profits.\" <|split_2d|>\"Minimum average total cost equals price.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Zero economic profits.",
+      "incorrect_answers": [
+        "Strong barriers to entry.",
+        "Homogeneous products.",
+        "Minimum average total cost equals price."
+      ]
+    }
+  },
+  {
+    "prompt": "A student eats 3 slices of pizza while studying for his Economics exam. The marginal utility of the first slice of pizza is 10 utils, the second slice is 7 utils, and the third slice is 3 utils. Which of the statements below holds true with the above data?<|start_2d|>\"The student would not eat any more pizza.\" <|split_2d|>\"The marginal utility of the 4th slice of pizza will be 0.\" <|split_2d|>\"The student should have stopped eating pizza after 2 slices.\" <|split_2d|>\"The total utility this student received from eating pizza is 20 utils.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The total utility this student received from eating pizza is 20 utils.",
+      "incorrect_answers": [
+        "The student would not eat any more pizza.",
+        "The marginal utility of the 4th slice of pizza will be 0.",
+        "The student should have stopped eating pizza after 2 slices."
+      ]
+    }
+  },
+  {
+    "prompt": "The United States is trading salmon to Peru in exchange for anchovies. If these nations are trading based upon relative opportunity costs, what must be the case?<|start_2d|>\"The United States has comparative advantage in anchovy production, and Peru has comparative advantage in salmon production.\" <|split_2d|>\"The United States has comparative advantage in salmon production, and Peru has comparative advantage in anchovy production.\" <|split_2d|>\"The United States has absolute advantage in anchovy production, and Peru has absolute advantage in salmon production.\" <|split_2d|>\"The United States has absolute advantage in salmon production, and Peru has absolute advantage in anchovy production.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The United States has comparative advantage in salmon production, and Peru has comparative advantage in anchovy production.",
+      "incorrect_answers": [
+        "The United States has comparative advantage in anchovy production, and Peru has comparative advantage in salmon production.",
+        "The United States has absolute advantage in anchovy production, and Peru has absolute advantage in salmon production.",
+        "The United States has absolute advantage in salmon production, and Peru has absolute advantage in anchovy production."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is true about the relationship of the average total cost (ATC) curve and the marginal cost (MC) curve?<|start_2d|>\"ATC and MC are always equal.\" <|split_2d|>\"ATC and MC are never equal.\" <|split_2d|>\"The ATC curve intersects the MC curve at the minimum point of the MC curve.\" <|split_2d|>\"The MC curve intersects the ATC curve at the minimum point of the ATC curve.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The MC curve intersects the ATC curve at the minimum point of the ATC curve.",
+      "incorrect_answers": [
+        "ATC and MC are always equal.",
+        "ATC and MC are never equal.",
+        "The ATC curve intersects the MC curve at the minimum point of the MC curve."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements about a price ceiling is accurate?<|start_2d|>\"An effective price ceiling must be at a price below the equilibrium price.\" <|split_2d|>\"A price ceiling will increase the quantity of the good supplied.\" <|split_2d|>\"A price ceiling will cause a shift in the demand curve for the good.\" <|split_2d|>\"A price ceiling will have no effect on the quantity of the good supplied.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "An effective price ceiling must be at a price below the equilibrium price.",
+      "incorrect_answers": [
+        "A price ceiling will increase the quantity of the good supplied.",
+        "A price ceiling will cause a shift in the demand curve for the good.",
+        "A price ceiling will have no effect on the quantity of the good supplied."
+      ]
+    }
+  },
+  {
+    "prompt": "In an oligopoly market, firms<|start_2d|>\"cannot earn economic profits\" <|split_2d|>\"are interdependent\" <|split_2d|>\"are not subject to antitrust legislation\" <|split_2d|>\"are large in number\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "are interdependent",
+      "incorrect_answers": [
+        "cannot earn economic profits",
+        "are not subject to antitrust legislation",
+        "are large in number"
+      ]
+    }
+  }
+]

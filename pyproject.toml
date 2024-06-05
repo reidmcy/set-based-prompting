@@ -1,0 +1,31 @@
+[project]
+name = "set_based_prompting"
+version = "1.0.0"
+dependencies = [
+    "transformers@git+https://github.com/huggingface/transformers@1c31b7aa3bb4e7ef24c77596d2a76f45a770159f",
+    "torch",
+    "accelerate",
+    "tqdm",
+    "tensorflow",
+    "pandas",
+    "pytz",
+]
+requires-python = ">=3.8"
+authors = [
+    { name = "Reid McIlroy-Young", email = "reidmcy@seas.harvard.edu" },
+    { name = "Katrina Brown", email = "katrinabrown@college.harvard.edu" },
+]
+description = "2D Attention Mask"
+readme = "README.md"
+
+[tool.setuptools]
+py-modules = ['set_based_prompting']
+
+[tool.ruff]
+ignore = ["E501", "E741"]
+
+[tool.black]
+target-version = ['py310']
+
+[tool.isort]
+profile = "black"

@@ -1,0 +1,2576 @@
+[
+  {
+    "prompt": "This is a hierarchy of effects or sequential model used to explain how advertising works:<|start_2d|>\"ADD.\" <|split_2d|>\"AIDA.\" <|split_2d|>\"PESTLE.\" <|split_2d|>\"SWOT.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "AIDA.",
+      "incorrect_answers": [
+        "ADD.",
+        "PESTLE.",
+        "SWOT."
+      ]
+    }
+  },
+  {
+    "prompt": " _____________is an important element in the communication process. It recognizes that successful communications are more likely to be achieved if the source and the receiver understand each other.<|start_2d|>\"The realm of understanding.\" <|split_2d|>\"Personal selling.\" <|split_2d|>\"Noise.\" <|split_2d|>\"Feedback.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The realm of understanding.",
+      "incorrect_answers": [
+        "Personal selling.",
+        "Noise.",
+        "Feedback."
+      ]
+    }
+  },
+  {
+    "prompt": "In the history of marketing, when did the production period end?<|start_2d|>\"In the late 1800s.\" <|split_2d|>\"In the early 1900s.\" <|split_2d|>\"In the 1920s.\" <|split_2d|>\"After the end of the Second World War.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "In the 1920s.",
+      "incorrect_answers": [
+        "In the late 1800s.",
+        "In the early 1900s.",
+        "After the end of the Second World War."
+      ]
+    }
+  },
+  {
+    "prompt": "The extent to which a service envelops a product varies according to a number of factors. Which of the following is NOT one of the factors?<|start_2d|>\"The level of tangibility associated with the type of product.\" <|split_2d|>\"Performance-value.\" <|split_2d|>\"Variations in supply and demand.\" <|split_2d|>\"The way in which the service is delivered.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Performance-value.",
+      "incorrect_answers": [
+        "The level of tangibility associated with the type of product.",
+        "Variations in supply and demand.",
+        "The way in which the service is delivered."
+      ]
+    }
+  },
+  {
+    "prompt": "The owners of independent gasoline stations in a community meet secretly and agree to keep their prices high to protect their profitability. If their plan is discovered and they are charged with a crime, they could be<|start_2d|>\"found guilty under the Sherman Antitrust Act and face prison time\" <|split_2d|>\"found guilty under the Magnuson-Moss Warranty Act and face large fines\" <|split_2d|>\"found guilty under the Adamson Act and face prison time and fines\" <|split_2d|>\"found not guilty because retailers are allowed to set their own price levels\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "found guilty under the Sherman Antitrust Act and face prison time",
+      "incorrect_answers": [
+        "found guilty under the Magnuson-Moss Warranty Act and face large fines",
+        "found guilty under the Adamson Act and face prison time and fines",
+        "found not guilty because retailers are allowed to set their own price levels"
+      ]
+    }
+  },
+  {
+    "prompt": " The term 'marketing mix' describes:<|start_2d|>\"A composite analysis of all environmental factors inside and outside the firm.\" <|split_2d|>\"A series of business decisions that aid in selling a product.\" <|split_2d|>\"The relationship between a firm's marketing strengths and its business weaknesses.\" <|split_2d|>\"A blending of four strategic elements to satisfy specific target markets.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A blending of four strategic elements to satisfy specific target markets.",
+      "incorrect_answers": [
+        "A composite analysis of all environmental factors inside and outside the firm.",
+        "A series of business decisions that aid in selling a product.",
+        "The relationship between a firm's marketing strengths and its business weaknesses."
+      ]
+    }
+  },
+  {
+    "prompt": "__________ have the potential to control the type and flow of information to the organization and the members of the DMU.<|start_2d|>\"Gatekeepers.\" <|split_2d|>\"Buyers.\" <|split_2d|>\"Users.\" <|split_2d|>\"Initiators.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Gatekeepers.",
+      "incorrect_answers": [
+        "Buyers.",
+        "Users.",
+        "Initiators."
+      ]
+    }
+  },
+  {
+    "prompt": " An imbalance between a consumer's actual and desired state in which recognition that a gap or problem needs resolving is called:<|start_2d|>\"Motive development.\" <|split_2d|>\"An attitude.\" <|split_2d|>\"A self-concept.\" <|split_2d|>\"Product evaluation.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Motive development.",
+      "incorrect_answers": [
+        "An attitude.",
+        "A self-concept.",
+        "Product evaluation."
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following is not an element of the marketing mix?<|start_2d|>\"Promotion.\" <|split_2d|>\"Product.\" <|split_2d|>\"Target market.\" <|split_2d|>\"Pricing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Target market.",
+      "incorrect_answers": [
+        "Promotion.",
+        "Product.",
+        "Pricing."
+      ]
+    }
+  },
+  {
+    "prompt": " Providing free samples of perfumes (scent) in magazines is an example of which of the following?<|start_2d|>\"Classical conditioning.\" <|split_2d|>\"Operant conditioning.\" <|split_2d|>\"Social learning.\" <|split_2d|>\"Behavioural learning.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Classical conditioning.",
+      "incorrect_answers": [
+        "Operant conditioning.",
+        "Social learning.",
+        "Behavioural learning."
+      ]
+    }
+  },
+  {
+    "prompt": "Why is market segmentation carried out?<|start_2d|>\"To break down large markets into smaller markets.\" <|split_2d|>\"To provide an opportunity to surpass competitors.\" <|split_2d|>\"By grouping together customers with similar needs, it provides a commercially viable method of serving these customers.\" <|split_2d|>\"To allow the achievement of greater market share.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "By grouping together customers with similar needs, it provides a commercially viable method of serving these customers.",
+      "incorrect_answers": [
+        "To break down large markets into smaller markets.",
+        "To provide an opportunity to surpass competitors.",
+        "To allow the achievement of greater market share."
+      ]
+    }
+  },
+  {
+    "prompt": " There are three main types of buying situations in an organization, referred to by Robinson, Faris, and Wind (1967) as _____________.<|start_2d|>\"Repeat purchases.\" <|split_2d|>\"Buyphases.\" <|split_2d|>\"Buyclasses.\" <|split_2d|>\"Tenders.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Buyclasses.",
+      "incorrect_answers": [
+        "Repeat purchases.",
+        "Buyphases.",
+        "Tenders."
+      ]
+    }
+  },
+  {
+    "prompt": "Where the winning bidder obtains an unprofitable contract that he/she is duty bound to deliver because their bid price was set so low, this is known as:<|start_2d|>\"Winner's curse.\" <|split_2d|>\"Winner's price.\" <|split_2d|>\"Winner's reward.\" <|split_2d|>\"Loss-leader pricing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Winner's curse.",
+      "incorrect_answers": [
+        "Winner's price.",
+        "Winner's reward.",
+        "Loss-leader pricing."
+      ]
+    }
+  },
+  {
+    "prompt": "This allows us to determine how the quantity of an offering relates to the price at which it is offered:<|start_2d|>\"Price bundling.\" <|split_2d|>\"Price elasticity.\" <|split_2d|>\"Price inelasticity.\" <|split_2d|>\"Price inflation.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Price elasticity.",
+      "incorrect_answers": [
+        "Price bundling.",
+        "Price inelasticity.",
+        "Price inflation."
+      ]
+    }
+  },
+  {
+    "prompt": " ________________ occur(s) where there is no prior history of exchange and no future exchanges are expected between a buyer and seller.<|start_2d|>\"Relationship marketing.\" <|split_2d|>\"Service mix.\" <|split_2d|>\"Market exchanges.\" <|split_2d|>\"Service failure.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Market exchanges.",
+      "incorrect_answers": [
+        "Relationship marketing.",
+        "Service mix.",
+        "Service failure."
+      ]
+    }
+  },
+  {
+    "prompt": "A method of marketing by electronic mail wherein the recipient of the message has consented to receive it is called:<|start_2d|>\"Search marketing.\" <|split_2d|>\"Internet advertising.\" <|split_2d|>\"Permission-based email marketing.\" <|split_2d|>\"Social web marketing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Permission-based email marketing.",
+      "incorrect_answers": [
+        "Search marketing.",
+        "Internet advertising.",
+        "Social web marketing."
+      ]
+    }
+  },
+  {
+    "prompt": " Collectively organizations that combine to enable offerings to reach end users quickly and efficiently constitute a marketing channel, are sometimes referred to as a:<|start_2d|>\"Vehicle.\" <|split_2d|>\"Courier.\" <|split_2d|>\"Transportation.\" <|split_2d|>\"Distribution channel.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Distribution channel.",
+      "incorrect_answers": [
+        "Vehicle.",
+        "Courier.",
+        "Transportation."
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following are the three broad groups of organizational characteristics segmentation criteria?<|start_2d|>\"Organizational size, industry type, and gender.\" <|split_2d|>\"Psychographics, purchaser, and behavioural criteria.\" <|split_2d|>\"Organizational size, industry type, and geographical location.\" <|split_2d|>\"None of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Organizational size, industry type, and geographical location.",
+      "incorrect_answers": [
+        "Organizational size, industry type, and gender.",
+        "Psychographics, purchaser, and behavioural criteria.",
+        "None of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is the name for a coupon that is included in a package for later purchase?<|start_2d|>\"a free-standing coupon\" <|split_2d|>\"an instant-redemption coupon\" <|split_2d|>\"a bounce-back coupon\" <|split_2d|>\"a rebate coupon\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a bounce-back coupon",
+      "incorrect_answers": [
+        "a free-standing coupon",
+        "an instant-redemption coupon",
+        "a rebate coupon"
+      ]
+    }
+  },
+  {
+    "prompt": " Advertising is employed as a defence, to retain customers, and to increase brand usage. Advertising is used to reinforce existing attitudes, not necessarily to drastically change them. This idea is based on:<|start_2d|>\"Strong theory.\" <|split_2d|>\"Weak theory.\" <|split_2d|>\"ATR framework.\" <|split_2d|>\"DRIP model.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Weak theory.",
+      "incorrect_answers": [
+        "Strong theory.",
+        "ATR framework.",
+        "DRIP model."
+      ]
+    }
+  },
+  {
+    "prompt": "_____________ is an assessment of a company's mix of products, services, investments, and other assets in order to optimize the use of resources and to assess its suitability, level of risk, and expected financial return.<|start_2d|>\"SWOT analysis.\" <|split_2d|>\"Political analysis.\" <|split_2d|>\"Portfolio analysis.\" <|split_2d|>\"Competitive analysis.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Portfolio analysis.",
+      "incorrect_answers": [
+        "SWOT analysis.",
+        "Political analysis.",
+        "Competitive analysis."
+      ]
+    }
+  },
+  {
+    "prompt": " These goods are low-priced products that are bought frequently, are used just once, and incur low levels of purchase risk:<|start_2d|>\"Non-durable.\" <|split_2d|>\"Durable.\" <|split_2d|>\"Generic.\" <|split_2d|>\"Luxury.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Non-durable.",
+      "incorrect_answers": [
+        "Durable.",
+        "Generic.",
+        "Luxury."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following processes is not fundamental in explaining how consumers think and learn about products and brands?<|start_2d|>\"Cognition.\" <|split_2d|>\"Perception.\" <|split_2d|>\"Learning.\" <|split_2d|>\"Personality.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Personality.",
+      "incorrect_answers": [
+        "Cognition.",
+        "Perception.",
+        "Learning."
+      ]
+    }
+  },
+  {
+    "prompt": " ________________is used to influence the way an organization is perceived by various groups of stakeholders.<|start_2d|>\"Direct marketing.\" <|split_2d|>\"Public relations.\" <|split_2d|>\"Sale promotion.\" <|split_2d|>\"Advertising\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Public relations.",
+      "incorrect_answers": [
+        "Direct marketing.",
+        "Sale promotion.",
+        "Advertising"
+      ]
+    }
+  },
+  {
+    "prompt": "Marketing that moves away from a transaction-based effort to a conversation (i.e. two-way dialogue) and can be described as a situation or mechanism through which marketers and a customer (e.g. stakeholders) interact usually in real-time is known as:<|start_2d|>\"Digital marketing.\" <|split_2d|>\"Interactive marketing.\" <|split_2d|>\"Direct marketing.\" <|split_2d|>\"Electronic marketing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Interactive marketing.",
+      "incorrect_answers": [
+        "Digital marketing.",
+        "Direct marketing.",
+        "Electronic marketing."
+      ]
+    }
+  },
+  {
+    "prompt": " The differentiation of a firm's products or services to promote environmental responsibility is referred to as:<|start_2d|>\"Social branding.\" <|split_2d|>\"Eco-branding.\" <|split_2d|>\"Me-too branding.\" <|split_2d|>\"Brand personality.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Eco-branding.",
+      "incorrect_answers": [
+        "Social branding.",
+        "Me-too branding.",
+        "Brand personality."
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following is the rate at which a market adopts an innovation?<|start_2d|>\"Process of diffusion.\" <|split_2d|>\"Process of differentiation.\" <|split_2d|>\"Adoption process.\" <|split_2d|>\"Adoption lifecycle.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Process of diffusion.",
+      "incorrect_answers": [
+        "Process of differentiation.",
+        "Adoption process.",
+        "Adoption lifecycle."
+      ]
+    }
+  },
+  {
+    "prompt": "Micromarketing is directed at potential buyers who<|start_2d|>\"have excess disposable income\" <|split_2d|>\"are between the ages of 8 and 14\" <|split_2d|>\"share similar attitudes and behaviors\" <|split_2d|>\"have opted out of customized marketing\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "share similar attitudes and behaviors",
+      "incorrect_answers": [
+        "have excess disposable income",
+        "are between the ages of 8 and 14",
+        "have opted out of customized marketing"
+      ]
+    }
+  },
+  {
+    "prompt": " This is a group of people in the process of diffusion who enjoy being at the leading edge of innovation and buy into new products at an early stage:<|start_2d|>\"Late majority.\" <|split_2d|>\"Early adopter.\" <|split_2d|>\"Early majority.\" <|split_2d|>\"Laggards.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Early adopter.",
+      "incorrect_answers": [
+        "Late majority.",
+        "Early majority.",
+        "Laggards."
+      ]
+    }
+  },
+  {
+    "prompt": " What channel structure is it where the product goes directly from the producer to the final customer?<|start_2d|>\"Direct.\" <|split_2d|>\"Indirect.\" <|split_2d|>\"Hybrid.\" <|split_2d|>\"None of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Direct.",
+      "incorrect_answers": [
+        "Indirect.",
+        "Hybrid.",
+        "None of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Joint creation of value, in which customers take part in an active dialogue and co-construct personalized experiences, is referred to as:<|start_2d|>\"Interactive marketing.\" <|split_2d|>\"Co-creation experience.\" <|split_2d|>\"Relationship marketing.\" <|split_2d|>\"Organization marketing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Co-creation experience.",
+      "incorrect_answers": [
+        "Interactive marketing.",
+        "Relationship marketing.",
+        "Organization marketing."
+      ]
+    }
+  },
+  {
+    "prompt": "This form of marketing communications tool is referred to as 'a paid, mediated form of communication from an identifiable source, designed to persuade the receiver to take some action, now or in the future'. This is referred to as:<|start_2d|>\"Advertising.\" <|split_2d|>\"Personal selling.\" <|split_2d|>\"Public relations.\" <|split_2d|>\"Publicity.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Advertising.",
+      "incorrect_answers": [
+        "Personal selling.",
+        "Public relations.",
+        "Publicity."
+      ]
+    }
+  },
+  {
+    "prompt": " The ____________ delivers to us a wide array of offerings, either directly or indirectly, through business markets, to serve our wants and needs.<|start_2d|>\"Aggregate marketing system.\" <|split_2d|>\"Planning excellence.\" <|split_2d|>\"A quality rift.\" <|split_2d|>\"A value line.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Aggregate marketing system.",
+      "incorrect_answers": [
+        "Planning excellence.",
+        "A quality rift.",
+        "A value line."
+      ]
+    }
+  },
+  {
+    "prompt": " ____________ describes the extrinsic properties of the product (the colour, the packaging, the product consistency, associations) and level to which these satisfy customers' psychological or social needs.<|start_2d|>\"Brand repositioning.\" <|split_2d|>\"Brand stretching.\" <|split_2d|>\"Brand equity.\" <|split_2d|>\"Brand imagery.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Brand imagery.",
+      "incorrect_answers": [
+        "Brand repositioning.",
+        "Brand stretching.",
+        "Brand equity."
+      ]
+    }
+  },
+  {
+    "prompt": "AIDA stands for awareness, ________, desire and _________.<|start_2d|>\"Interest; action.\" <|split_2d|>\"Intensity; appeal.\" <|split_2d|>\"Involvement; action.\" <|split_2d|>\"Involvement; appeal.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Interest; action.",
+      "incorrect_answers": [
+        "Intensity; appeal.",
+        "Involvement; action.",
+        "Involvement; appeal."
+      ]
+    }
+  },
+  {
+    "prompt": " This is where intermediaries are given exclusive rights to market the good or service within a defined 'territory', thus using a very limited number of intermediaries:<|start_2d|>\"Exclusive.\" <|split_2d|>\"Intensive.\" <|split_2d|>\"Selective.\" <|split_2d|>\"Direct.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Exclusive.",
+      "incorrect_answers": [
+        "Intensive.",
+        "Selective.",
+        "Direct."
+      ]
+    }
+  },
+  {
+    "prompt": "Once the agency has discussed the brief with the client, the agency provides a detailed outline of how they intend to investigate the problem. This document is called the ____________:<|start_2d|>\"Research brief.\" <|split_2d|>\"Research proposal.\" <|split_2d|>\"Research question.\" <|split_2d|>\"Research programme.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Research proposal.",
+      "incorrect_answers": [
+        "Research brief.",
+        "Research question.",
+        "Research programme."
+      ]
+    }
+  },
+  {
+    "prompt": " Organizational characteristics, such as organizational size and location, are sometimes referred to as___________.<|start_2d|>\"DMU.\" <|split_2d|>\"Firmographics.\" <|split_2d|>\"ACORN\" <|split_2d|>\"Product usage.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Firmographics.",
+      "incorrect_answers": [
+        "DMU.",
+        "ACORN",
+        "Product usage."
+      ]
+    }
+  },
+  {
+    "prompt": "The role of marketing communications is to engage audiences and there are four main tasks that it can be used to complete. Which of the following is not part of the four main tasks?<|start_2d|>\"Differentiate.\" <|split_2d|>\"Participate.\" <|split_2d|>\"Reinforce.\" <|split_2d|>\"Inform.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Participate.",
+      "incorrect_answers": [
+        "Differentiate.",
+        "Reinforce.",
+        "Inform."
+      ]
+    }
+  },
+  {
+    "prompt": "The process of making large numbers of unsolicited sales calls to potential customers whom the salesperson does not know is referred to as<|start_2d|>\"multilevel marketing\" <|split_2d|>\"cold canvassing\" <|split_2d|>\"the center-of-influence method\" <|split_2d|>\"the sales-associate method\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "cold canvassing",
+      "incorrect_answers": [
+        "multilevel marketing",
+        "the center-of-influence method",
+        "the sales-associate method"
+      ]
+    }
+  },
+  {
+    "prompt": " The process by which individuals accept and use new propositions is referred to as:<|start_2d|>\"Decision.\" <|split_2d|>\"Adoption.\" <|split_2d|>\"Acquisition.\" <|split_2d|>\"Awareness.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Adoption.",
+      "incorrect_answers": [
+        "Decision.",
+        "Acquisition.",
+        "Awareness."
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following occurs when competitors' pricing policies are almost exclusively focused on competitors rather than customers?<|start_2d|>\"Price differentiation.\" <|split_2d|>\"Price fixing.\" <|split_2d|>\"Price wars.\" <|split_2d|>\"Price guarantees.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Price wars.",
+      "incorrect_answers": [
+        "Price differentiation.",
+        "Price fixing.",
+        "Price guarantees."
+      ]
+    }
+  },
+  {
+    "prompt": "A commonly used basis for segmenting consumer markets is:<|start_2d|>\"Organizational size.\" <|split_2d|>\"Demographics.\" <|split_2d|>\"Product type.\" <|split_2d|>\"Price.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Demographics.",
+      "incorrect_answers": [
+        "Organizational size.",
+        "Product type.",
+        "Price."
+      ]
+    }
+  },
+  {
+    "prompt": " In B2B contexts, prices are set according to specific agreements between a company and its clients or customers (e.g. professional services such as architectural or structural engineering).This pricing approach is known as:<|start_2d|>\"Negotiated price\" <|split_2d|>\"Internal pricing.\" <|split_2d|>\"Listed pricing.\" <|split_2d|>\"Cost pricing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Negotiated price",
+      "incorrect_answers": [
+        "Internal pricing.",
+        "Listed pricing.",
+        "Cost pricing."
+      ]
+    }
+  },
+  {
+    "prompt": " Once referred to as a multibrand policy, this branding strategy requires that each product offered by an organization is branded independently of all the others. This is known as:<|start_2d|>\"Individual branding.\" <|split_2d|>\"Corporate brands.\" <|split_2d|>\"Family branding.\" <|split_2d|>\"Co-branding.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Individual branding.",
+      "incorrect_answers": [
+        "Corporate brands.",
+        "Family branding.",
+        "Co-branding."
+      ]
+    }
+  },
+  {
+    "prompt": " This is the use of inter-personal communications with the aim of developing positive feelings and stimulating behaviour.<|start_2d|>\"Direct marketing.\" <|split_2d|>\"Personal selling.\" <|split_2d|>\"Sale promotions.\" <|split_2d|>\"Advertising.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Personal selling.",
+      "incorrect_answers": [
+        "Direct marketing.",
+        "Sale promotions.",
+        "Advertising."
+      ]
+    }
+  },
+  {
+    "prompt": " An approach that encompasses a wide range of relationships, not just with customers, but also those that organizations develop with suppliers, regulators, government, competitors, employees, and others, is referred to as:<|start_2d|>\"Market exchanges.\" <|split_2d|>\"Service failure.\" <|split_2d|>\"Relationship marketing.\" <|split_2d|>\"Shared responsibility.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Relationship marketing.",
+      "incorrect_answers": [
+        "Market exchanges.",
+        "Service failure.",
+        "Shared responsibility."
+      ]
+    }
+  },
+  {
+    "prompt": "In marketing terms, ___________ refers to what we get for what we pay:<|start_2d|>\"Revenue.\" <|split_2d|>\"Cost.\" <|split_2d|>\"Value.\" <|split_2d|>\"Product.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Value.",
+      "incorrect_answers": [
+        "Revenue.",
+        "Cost.",
+        "Product."
+      ]
+    }
+  },
+  {
+    "prompt": " _______________ is concerned with the development of knowledge that is specific to the parties involved and is referred to as 'learning together'.<|start_2d|>\"Dialogue.\" <|split_2d|>\"Personal influencer.\" <|split_2d|>\"Feedback.\" <|split_2d|>\"Message.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Dialogue.",
+      "incorrect_answers": [
+        "Personal influencer.",
+        "Feedback.",
+        "Message."
+      ]
+    }
+  },
+  {
+    "prompt": " The process that creates changes in behaviour is called:<|start_2d|>\"Selective adaptation.\" <|split_2d|>\"Learning.\" <|split_2d|>\"Involvement manipulation.\" <|split_2d|>\"Attitude adjustment.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Learning.",
+      "incorrect_answers": [
+        "Selective adaptation.",
+        "Involvement manipulation.",
+        "Attitude adjustment."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is the most appropriate pricing strategy to use when introducing a new and unique product to the market?<|start_2d|>\"Price skimming\" <|split_2d|>\"Promotional pricing\" <|split_2d|>\"Psychological pricing\" <|split_2d|>\"Penetration pricing\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Price skimming",
+      "incorrect_answers": [
+        "Promotional pricing",
+        "Psychological pricing",
+        "Penetration pricing"
+      ]
+    }
+  },
+  {
+    "prompt": "Which type of shop offers a range of grocery and household items that cater for last-minute purchase needs of consumers?<|start_2d|>\"Supermarkets.\" <|split_2d|>\"Convenience stores.\" <|split_2d|>\"Category-killer stores.\" <|split_2d|>\"Limited line retailers.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Convenience stores.",
+      "incorrect_answers": [
+        "Supermarkets.",
+        "Category-killer stores.",
+        "Limited line retailers."
+      ]
+    }
+  },
+  {
+    "prompt": " Post-purchase re-evaluation of the consumer proposition acquisition process attempts to measure the degree of:<|start_2d|>\"Selling success experienced by the vendor.\" <|split_2d|>\"Consumer satisfaction with the purchase.\" <|split_2d|>\"Follow-up effectiveness of the firm.\" <|split_2d|>\"Advertising influence on the purchase.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Consumer satisfaction with the purchase.",
+      "incorrect_answers": [
+        "Selling success experienced by the vendor.",
+        "Follow-up effectiveness of the firm.",
+        "Advertising influence on the purchase."
+      ]
+    }
+  },
+  {
+    "prompt": " Many brands are deliberately imbued with human characteristics, to the point that they are identified as having particular personalities. This is referred to as:<|start_2d|>\"Branding pyramid.\" <|split_2d|>\"Brand value.\" <|split_2d|>\"Brand names.\" <|split_2d|>\"Brand personalities.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Brand personalities.",
+      "incorrect_answers": [
+        "Branding pyramid.",
+        "Brand value.",
+        "Brand names."
+      ]
+    }
+  },
+  {
+    "prompt": "Marketing research:<|start_2d|>\"Is work undertaken to understand how to make specific marketing strategy decisions.\" <|split_2d|>\"Is the collection and analysis of data from a sample or census of individuals or organizations.\" <|split_2d|>\"Includes all forms of market, opinion, and social research such as consumer and industrial surveys.\" <|split_2d|>\"Is work undertaken to determine either structural characteristics of the industry of concern.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Is work undertaken to understand how to make specific marketing strategy decisions.",
+      "incorrect_answers": [
+        "Is the collection and analysis of data from a sample or census of individuals or organizations.",
+        "Includes all forms of market, opinion, and social research such as consumer and industrial surveys.",
+        "Is work undertaken to determine either structural characteristics of the industry of concern."
+      ]
+    }
+  },
+  {
+    "prompt": "____________ is very effective at delivering messages to target audiences as it allows for explanation in a way that most other media cannot.<|start_2d|>\"Digital.\" <|split_2d|>\"Print.\" <|split_2d|>\"Broadcast.\" <|split_2d|>\"Outdoor.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Print.",
+      "incorrect_answers": [
+        "Digital.",
+        "Broadcast.",
+        "Outdoor."
+      ]
+    }
+  },
+  {
+    "prompt": " This is a marketing communications activity concerned with providing support for the sales force and merchandising personnel:<|start_2d|>\"Store marketing.\" <|split_2d|>\"Field marketing.\" <|split_2d|>\"Sales promotions.\" <|split_2d|>\"Personal selling.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Field marketing.",
+      "incorrect_answers": [
+        "Store marketing.",
+        "Sales promotions.",
+        "Personal selling."
+      ]
+    }
+  },
+  {
+    "prompt": "Services are consumed at the point they are produced. In other words, service delivery cannot be separated or split out of service provision or service consumption. Which characteristic of service is this referred to?<|start_2d|>\"Intangibility.\" <|split_2d|>\"Variability.\" <|split_2d|>\"Inseparability.\" <|split_2d|>\"Perishability.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Inseparability.",
+      "incorrect_answers": [
+        "Intangibility.",
+        "Variability.",
+        "Perishability."
+      ]
+    }
+  },
+  {
+    "prompt": "These are costs which do not vary according to the number of units of product made or service sold:<|start_2d|>\"Fixed costs.\" <|split_2d|>\"Moving assets.\" <|split_2d|>\"Working capital.\" <|split_2d|>\"Fixed capital.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Fixed costs.",
+      "incorrect_answers": [
+        "Moving assets.",
+        "Working capital.",
+        "Fixed capital."
+      ]
+    }
+  },
+  {
+    "prompt": "SWOT is an acronym for:<|start_2d|>\"Strengths, weaknesses, opportunities, threats.\" <|split_2d|>\"Strategy, work, openness, toughness.\" <|split_2d|>\"Strategy, weakness, opinions, tactics.\" <|split_2d|>\"Strategy, working, opinion, tactical.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Strengths, weaknesses, opportunities, threats.",
+      "incorrect_answers": [
+        "Strategy, work, openness, toughness.",
+        "Strategy, weakness, opinions, tactics.",
+        "Strategy, working, opinion, tactical."
+      ]
+    }
+  },
+  {
+    "prompt": "The three stages of attitude formation are that we learn something, we feel something, and we act on our attitudes. The stage that we learn something is referred to as:<|start_2d|>\"Behaviour.\" <|split_2d|>\"Conative.\" <|split_2d|>\"Cognitive.\" <|split_2d|>\"Emotional.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Cognitive.",
+      "incorrect_answers": [
+        "Behaviour.",
+        "Conative.",
+        "Emotional."
+      ]
+    }
+  },
+  {
+    "prompt": "Market testing studies use __________ to carry out controlled experiments in specific country regions, where specific adverts can be shown, before exposing the 'new feature' (offering, campaign, distribution, etc.) to a full national or even international launch.<|start_2d|>\"Test markets.\" <|split_2d|>\"Data mining.\" <|split_2d|>\"Analytical information.\" <|split_2d|>\"Storyboards.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Test markets.",
+      "incorrect_answers": [
+        "Data mining.",
+        "Analytical information.",
+        "Storyboards."
+      ]
+    }
+  },
+  {
+    "prompt": " When there is little or no personal contact between customer and service provider, this is classified as:<|start_2d|>\"Low-contact service.\" <|split_2d|>\"Medium-contact service.\" <|split_2d|>\"High-contact service.\" <|split_2d|>\"Intense-contact service.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Low-contact service.",
+      "incorrect_answers": [
+        "Medium-contact service.",
+        "High-contact service.",
+        "Intense-contact service."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is not an example of a behavioural variable?<|start_2d|>\"Product usage.\" <|split_2d|>\"Media usage.\" <|split_2d|>\"Purchase occasion.\" <|split_2d|>\"Personality.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Personality.",
+      "incorrect_answers": [
+        "Product usage.",
+        "Media usage.",
+        "Purchase occasion."
+      ]
+    }
+  },
+  {
+    "prompt": " __________ is the collection and interpretation of information about forces, events, and relationships that may affect the organization.<|start_2d|>\"Environmental scanning\" <|split_2d|>\"Stakeholder analysis\" <|split_2d|>\"Market sampling\" <|split_2d|>\"Opportunity analysis\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Environmental scanning",
+      "incorrect_answers": [
+        "Stakeholder analysis",
+        "Market sampling",
+        "Opportunity analysis"
+      ]
+    }
+  },
+  {
+    "prompt": "ACORN, a segmentation analysis technique, stands for which of the following?<|start_2d|>\"A corresponding official residential notation.\" <|split_2d|>\"A classification of reported nationals.\" <|split_2d|>\"A classification of residential neighbourhoods.\" <|split_2d|>\"A countrywide official resources navigation.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A classification of residential neighbourhoods.",
+      "incorrect_answers": [
+        "A corresponding official residential notation.",
+        "A classification of reported nationals.",
+        "A countrywide official resources navigation."
+      ]
+    }
+  },
+  {
+    "prompt": " A probability sample constructed so that randomly selected sub-samples of different groups are represented in the total sample is called a:<|start_2d|>\"Stratified sample.\" <|split_2d|>\"Convenience sample.\" <|split_2d|>\"Quota sample.\" <|split_2d|>\"Cluster sample.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Stratified sample.",
+      "incorrect_answers": [
+        "Convenience sample.",
+        "Quota sample.",
+        "Cluster sample."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following terms refers to the paid mention of a company, a product, or a service by a form of media?<|start_2d|>\"Advertising\" <|split_2d|>\"Public relations\" <|split_2d|>\"Third-party endorsement\" <|split_2d|>\"Puffing\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Advertising",
+      "incorrect_answers": [
+        "Public relations",
+        "Third-party endorsement",
+        "Puffing"
+      ]
+    }
+  },
+  {
+    "prompt": "Marketing period, 1950s-1980s - characterized by a more advanced focus on the ___________.<|start_2d|>\"Society and ethics.\" <|split_2d|>\"Personal selling.\" <|split_2d|>\"Physical production.\" <|split_2d|>\"Customer's needs.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Customer's needs.",
+      "incorrect_answers": [
+        "Society and ethics.",
+        "Personal selling.",
+        "Physical production."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following statements is correct?<|start_2d|>\"Marketing is the term used to refer only to the sales function within a firm.\" <|split_2d|>\"Marketing managers don't usually get involved in production or distribution decisions.\" <|split_2d|>\"Marketing is an activity that considers only the needs of the organization; not the needs of society as a whole.\" <|split_2d|>\"Marketing is the activity, set of institutions, and processes for creating, communicating, delivering, and exchanging offerings that have value for customers, clients, partners, and society at large.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Marketing is the activity, set of institutions, and processes for creating, communicating, delivering, and exchanging offerings that have value for customers, clients, partners, and society at large.",
+      "incorrect_answers": [
+        "Marketing is the term used to refer only to the sales function within a firm.",
+        "Marketing managers don't usually get involved in production or distribution decisions.",
+        "Marketing is an activity that considers only the needs of the organization; not the needs of society as a whole."
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following is a stage in the new product development process, undertaken when a new product is tested with a sample of customers, or is launched in a specified geographical area, to judge customers' reactions prior to a national launch?<|start_2d|>\"Test marketing.\" <|split_2d|>\"Focused marketing.\" <|split_2d|>\"Live marketing.\" <|split_2d|>\"Generic marketing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Test marketing.",
+      "incorrect_answers": [
+        "Focused marketing.",
+        "Live marketing.",
+        "Generic marketing."
+      ]
+    }
+  },
+  {
+    "prompt": "The term marketing refers to:<|start_2d|>\"new product concepts and improvements.\" <|split_2d|>\"advertising and promotion activities.\" <|split_2d|>\"a philosophy that stresses customer value and satisfaction.\" <|split_2d|>\"planning sales campaigns.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a philosophy that stresses customer value and satisfaction.",
+      "incorrect_answers": [
+        "new product concepts and improvements.",
+        "advertising and promotion activities.",
+        "planning sales campaigns."
+      ]
+    }
+  },
+  {
+    "prompt": " ____________ is the set of practices that enables organizations to communicate and engage interactively with their audiences through any mobile device or network.<|start_2d|>\"Mobile marketing\" <|split_2d|>\"Social web marketing.\" <|split_2d|>\"Internet marketing\" <|split_2d|>\"Social media marketing\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Mobile marketing",
+      "incorrect_answers": [
+        "Social web marketing.",
+        "Internet marketing",
+        "Social media marketing"
+      ]
+    }
+  },
+  {
+    "prompt": " According to the British Government, which of the following is not a marketing function?<|start_2d|>\"Promote marketing intelligence.\" <|split_2d|>\"Develop sales tactics.\" <|split_2d|>\"Develop the customer proposition.\" <|split_2d|>\"Work with other business functions and third parties.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Develop sales tactics.",
+      "incorrect_answers": [
+        "Promote marketing intelligence.",
+        "Develop the customer proposition.",
+        "Work with other business functions and third parties."
+      ]
+    }
+  },
+  {
+    "prompt": "The use of entertainment material delivered through paid or owned media and which features a single company or brand is referred to as:<|start_2d|>\"Sponsorships.\" <|split_2d|>\"Exhibitions.\" <|split_2d|>\"Branded content.\" <|split_2d|>\"Advertisement.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Branded content.",
+      "incorrect_answers": [
+        "Sponsorships.",
+        "Exhibitions.",
+        "Advertisement."
+      ]
+    }
+  },
+  {
+    "prompt": "Second-hand data, collected for someone else's purposes, is known as____________:<|start_2d|>\"Primary research.\" <|split_2d|>\"Descriptive research.\" <|split_2d|>\"Causal research.\" <|split_2d|>\"Secondary research.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Secondary research.",
+      "incorrect_answers": [
+        "Primary research.",
+        "Descriptive research.",
+        "Causal research."
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following refers to unsolicited electronic messages?<|start_2d|>\"Opt-in email.\" <|split_2d|>\"Consent marketing.\" <|split_2d|>\"Spam.\" <|split_2d|>\"Opt-out email.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Spam.",
+      "incorrect_answers": [
+        "Opt-in email.",
+        "Consent marketing.",
+        "Opt-out email."
+      ]
+    }
+  },
+  {
+    "prompt": " The purpose of evaluating the attractiveness of the differing market segments identified in the second stage of the market segmentation process is to:<|start_2d|>\"Identify the specific members of each segment to be able to contact each of them directly.\" <|split_2d|>\"Determine the level of resources that must be committed to each segment.\" <|split_2d|>\"Evaluate the market potential within each segment.\" <|split_2d|>\"Design marketing strategy and tactics to reinforce the firm's image.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Evaluate the market potential within each segment.",
+      "incorrect_answers": [
+        "Identify the specific members of each segment to be able to contact each of them directly.",
+        "Determine the level of resources that must be committed to each segment.",
+        "Design marketing strategy and tactics to reinforce the firm's image."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following types of advertising is being used when a retail store agrees to share advertising costs for a consumer product with the national distributor of the product?<|start_2d|>\"Trade advertising\" <|split_2d|>\"Industrial advertising\" <|split_2d|>\"National advertising\" <|split_2d|>\"Cooperative advertising\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Cooperative advertising",
+      "incorrect_answers": [
+        "Trade advertising",
+        "Industrial advertising",
+        "National advertising"
+      ]
+    }
+  },
+  {
+    "prompt": " This pricing approach is used when the firm sets prices according to how much customers are prepared to pay:<|start_2d|>\"Cost-oriented approach.\" <|split_2d|>\"Value-oriented approach.\" <|split_2d|>\"Competitor-oriented approach.\" <|split_2d|>\"Demand-oriented approach.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Demand-oriented approach.",
+      "incorrect_answers": [
+        "Cost-oriented approach.",
+        "Value-oriented approach.",
+        "Competitor-oriented approach."
+      ]
+    }
+  },
+  {
+    "prompt": "These goods are bought infrequently, used repeatedly, and involve a reasonably high level of consumer risk:<|start_2d|>\"Impulse goods.\" <|split_2d|>\"Luxury goods.\" <|split_2d|>\"Non-durable goods.\" <|split_2d|>\"Durable goods.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Durable goods.",
+      "incorrect_answers": [
+        "Impulse goods.",
+        "Luxury goods.",
+        "Non-durable goods."
+      ]
+    }
+  },
+  {
+    "prompt": "_____________ helps in 'problematizing hitherto uncontentious marketing areas to reveal underlying institutional and theoretical dysfunctionalities' (Saren, 2011:95).<|start_2d|>\"Production marketing\" <|split_2d|>\"Sustainable marketing\" <|split_2d|>\"Relationship marketing\" <|split_2d|>\"Critical marketing analysis\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Critical marketing analysis",
+      "incorrect_answers": [
+        "Production marketing",
+        "Sustainable marketing",
+        "Relationship marketing"
+      ]
+    }
+  },
+  {
+    "prompt": "An important characteristic of services is that they are produced and consumed by people, simultaneously, as a single event. One of the outcomes of this unique process is that it is exceedingly difficult to standardize the delivery of services around the blueprint model. Which characteristic of service is this referred to?<|start_2d|>\"Intangibility.\" <|split_2d|>\"Inseparability.\" <|split_2d|>\"Variability.\" <|split_2d|>\"Perishability.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Variability.",
+      "incorrect_answers": [
+        "Intangibility.",
+        "Inseparability.",
+        "Perishability."
+      ]
+    }
+  },
+  {
+    "prompt": "Which type of retailer involves comparatively low prices as a major selling point combined with the reduced costs of doing business?<|start_2d|>\"Discount retailers.\" <|split_2d|>\"Convenience stores.\" <|split_2d|>\"Category killer stores.\" <|split_2d|>\"Limited line retailers.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Discount retailers.",
+      "incorrect_answers": [
+        "Convenience stores.",
+        "Category killer stores.",
+        "Limited line retailers."
+      ]
+    }
+  },
+  {
+    "prompt": "A marketing philosophy summarized by the phrase 'a stronger focus on social and ethical concerns in marketing' is characteristic of the _________ period.<|start_2d|>\"Production.\" <|split_2d|>\"Sales.\" <|split_2d|>\"Marketing.\" <|split_2d|>\"societal marketing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "societal marketing.",
+      "incorrect_answers": [
+        "Production.",
+        "Sales.",
+        "Marketing."
+      ]
+    }
+  },
+  {
+    "prompt": "The development of social media has enabled individuals to communicate with organizations, communities, friends, and family. The content of the message can be about brands, experiences, or events, and is developed and shared by individuals. This is referred to as:<|start_2d|>\"Broadcast.\" <|split_2d|>\"User-generated content.\" <|split_2d|>\"Viral marketing.\" <|split_2d|>\"Telemarketing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "User-generated content.",
+      "incorrect_answers": [
+        "Broadcast.",
+        "Viral marketing.",
+        "Telemarketing."
+      ]
+    }
+  },
+  {
+    "prompt": " To highlight the variation in approaches to purchasing behaviour, Svahn and Westerlund (2009) identify six principal purchasing strategies used by organizations. The __________ strategy refers to a buyer's efficiency orientation where the main purchasing goal is to seek the lowest price for the offering. To help achieve this, the buyer actively promotes competition among several potential suppliers.<|start_2d|>\"'Bargainer' purchasing.\" <|split_2d|>\"The 'adaptator' purchasing.\" <|split_2d|>\"Price minimizer' purchasing.\" <|split_2d|>\"The 'projector' purchasing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Price minimizer' purchasing.",
+      "incorrect_answers": [
+        "'Bargainer' purchasing.",
+        "The 'adaptator' purchasing.",
+        "The 'projector' purchasing."
+      ]
+    }
+  },
+  {
+    "prompt": " In conducting international market research, there are three types of equivalence. Which of the following is NOT one of the equivalences?<|start_2d|>\"Conceptual equivalence.\" <|split_2d|>\"Market equivalence.\" <|split_2d|>\"Functional equivalence.\" <|split_2d|>\"Translation equivalence.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Market equivalence.",
+      "incorrect_answers": [
+        "Conceptual equivalence.",
+        "Functional equivalence.",
+        "Translation equivalence."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following gives the owner exclusive rights by law to use a brand?<|start_2d|>\"Brand loyalty\" <|split_2d|>\"Brand mark\" <|split_2d|>\"Trade name\" <|split_2d|>\"Trademark\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Trademark",
+      "incorrect_answers": [
+        "Brand loyalty",
+        "Brand mark",
+        "Trade name"
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following is not a useful base for segmenting organizational characteristics?<|start_2d|>\"By turnover.\" <|split_2d|>\"By geographical location.\" <|split_2d|>\"By organizational size.\" <|split_2d|>\"By industry type.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "By turnover.",
+      "incorrect_answers": [
+        "By geographical location.",
+        "By organizational size.",
+        "By industry type."
+      ]
+    }
+  },
+  {
+    "prompt": "________ is the process of marketing accomplished or facilitated via the use of Internet technologies (e.g. web, email, intranet, extranets, etc.).<|start_2d|>\"Internet marketing.\" <|split_2d|>\"Search marketing.\" <|split_2d|>\"E-marketing.\" <|split_2d|>\"Mobile marketing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Internet marketing.",
+      "incorrect_answers": [
+        "Search marketing.",
+        "E-marketing.",
+        "Mobile marketing."
+      ]
+    }
+  },
+  {
+    "prompt": "Firms that view themselves as market leaders in product quality frequently adopt a<|start_2d|>\"market share strategy\" <|split_2d|>\"penetration pricing strategy\" <|split_2d|>\"strategy that focuses on non-price benefits\" <|split_2d|>\"strategy to expand the overall market\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "strategy that focuses on non-price benefits",
+      "incorrect_answers": [
+        "market share strategy",
+        "penetration pricing strategy",
+        "strategy to expand the overall market"
+      ]
+    }
+  },
+  {
+    "prompt": " Our perception of risk is greater if we are continually reminded of it than if we consider it only at the point of purchase. This is referred to as:<|start_2d|>\"Purchase context.\" <|split_2d|>\"Price bonding.\" <|split_2d|>\"Odd number pricing.\" <|split_2d|>\"Mark-up price.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Purchase context.",
+      "incorrect_answers": [
+        "Price bonding.",
+        "Odd number pricing.",
+        "Mark-up price."
+      ]
+    }
+  },
+  {
+    "prompt": " Fees paid by advertisers to online companies that refer qualified potential customers or provide consumer information where the consumer opts in to being contacted by a marketer. This is referred to as:<|start_2d|>\"Lead generation.\" <|split_2d|>\"Search.\" <|split_2d|>\"Rich media.\" <|split_2d|>\"Social media marketing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Lead generation.",
+      "incorrect_answers": [
+        "Search.",
+        "Rich media.",
+        "Social media marketing."
+      ]
+    }
+  },
+  {
+    "prompt": "Which element of the promotional mix handles unfavorable stories and events and promotes a good corporate image?<|start_2d|>\"Personal selling\" <|split_2d|>\"Sales promotion\" <|split_2d|>\"Direct marketing\" <|split_2d|>\"Public relations\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Public relations",
+      "incorrect_answers": [
+        "Personal selling",
+        "Sales promotion",
+        "Direct marketing"
+      ]
+    }
+  },
+  {
+    "prompt": " This operates algorithmically or using a mixture of algorithmic and human input to collect, index, store, and retrieve information on the web (e.g. web pages, images, information, and other types of files). It makes the information available to users in a manageable and meaningful way in response to a search query. This is referred to as:<|start_2d|>\"Banner ads.\" <|split_2d|>\"Pop-up ads.\" <|split_2d|>\"A search engine.\" <|split_2d|>\"Apps.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A search engine.",
+      "incorrect_answers": [
+        "Banner ads.",
+        "Pop-up ads.",
+        "Apps."
+      ]
+    }
+  },
+  {
+    "prompt": " Four competing philosophies strongly influence the role of marketing and marketing activities within an organization. Which if the following is not a component of market orientation?<|start_2d|>\"Customer orientation.\" <|split_2d|>\"Profitability orientation.\" <|split_2d|>\"Interfunctional coordination.\" <|split_2d|>\"Competitor orientation.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Profitability orientation.",
+      "incorrect_answers": [
+        "Customer orientation.",
+        "Interfunctional coordination.",
+        "Competitor orientation."
+      ]
+    }
+  },
+  {
+    "prompt": " To evaluate an organization's Strategic Business Units (SBU), the Boston Consulting Group developed a portfolio performance framework that characterizes some of the SBUs as:<|start_2d|>\"Question marks.\" <|split_2d|>\"Quick winners.\" <|split_2d|>\"Charging bulls.\" <|split_2d|>\"Cash outs.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Question marks.",
+      "incorrect_answers": [
+        "Quick winners.",
+        "Charging bulls.",
+        "Cash outs."
+      ]
+    }
+  },
+  {
+    "prompt": "Tobacco advertising is now banned in virtually all marketing communication forms in many countries around the world. This can be explained as an influence of:<|start_2d|>\"Technological environment.\" <|split_2d|>\"Legal environment.\" <|split_2d|>\"Economic environment.\" <|split_2d|>\"Ecological environment.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Legal environment.",
+      "incorrect_answers": [
+        "Technological environment.",
+        "Economic environment.",
+        "Ecological environment."
+      ]
+    }
+  },
+  {
+    "prompt": " Pine and Gilmore (1999) derive four distinct realms of experience, based on two dimensions. What are these dimensions?<|start_2d|>\"Customer participation and environmental relationship.\" <|split_2d|>\"Customer acquisition and environmental relationship.\" <|split_2d|>\"Customer participation and customer relationship.\" <|split_2d|>\"Customer retention and customer relationship.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Customer participation and environmental relationship.",
+      "incorrect_answers": [
+        "Customer acquisition and environmental relationship.",
+        "Customer participation and customer relationship.",
+        "Customer retention and customer relationship."
+      ]
+    }
+  },
+  {
+    "prompt": "An advertising model in which advertisers bid on keywords or phrases relevant to their target market, with sponsored/paid search engine listings to drive traffic to a website is called:<|start_2d|>\"Search engine optimization (SEO).\" <|split_2d|>\"Contextual advertising.\" <|split_2d|>\"Digital asset optimization (DAO).\" <|split_2d|>\"Pay per click (PPC).\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Pay per click (PPC).",
+      "incorrect_answers": [
+        "Search engine optimization (SEO).",
+        "Contextual advertising.",
+        "Digital asset optimization (DAO)."
+      ]
+    }
+  },
+  {
+    "prompt": "These are chains of organizations that are concerned with the management of the processes and activities involved in creating and moving products from producers and manufacturers to end-user customers. The organizations involved with any one journey, are collectively termed as a:<|start_2d|>\"Distribution.\" <|split_2d|>\"Vendor.\" <|split_2d|>\"Communication.\" <|split_2d|>\"Selling.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Distribution.",
+      "incorrect_answers": [
+        "Vendor.",
+        "Communication.",
+        "Selling."
+      ]
+    }
+  },
+  {
+    "prompt": " _______________ are used in the positioning process to illustrate differing attributes of a selection of brands.<|start_2d|>\"Product features.\" <|split_2d|>\"SIC code.\" <|split_2d|>\"Perceptual maps.\" <|split_2d|>\"Organizational characteristics.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Perceptual maps.",
+      "incorrect_answers": [
+        "Product features.",
+        "SIC code.",
+        "Organizational characteristics."
+      ]
+    }
+  },
+  {
+    "prompt": "On August 4, a store purchased five sofas invoiced at $7,000, terms 2/10 , n/30 . The invoice was paid August 13. The store paid<|start_2d|>\"$7,140 \" <|split_2d|>\"$7,000 \" <|split_2d|>\"$6,860 \" <|split_2d|>\"$6,300 \" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "$6,860 ",
+      "incorrect_answers": [
+        "$7,140 ",
+        "$7,000 ",
+        "$6,300 "
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following are aimed at providing customers with the peace of mind of knowing that the company they are purchasing from is competitive in price?<|start_2d|>\"Price competitiveness.\" <|split_2d|>\"Price assurance.\" <|split_2d|>\"Reference prices.\" <|split_2d|>\"Price guarantee schemes.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Price guarantee schemes.",
+      "incorrect_answers": [
+        "Price competitiveness.",
+        "Price assurance.",
+        "Reference prices."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Leone and Shultz (1980), the law-like generalization 1 explains that ___________ has a direct and positive influence on total industry (market) sales.<|start_2d|>\"Increased consumer demand.\" <|split_2d|>\"Advertising.\" <|split_2d|>\"increase in urbanization.\" <|split_2d|>\"Elasticity.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Advertising.",
+      "incorrect_answers": [
+        "Increased consumer demand.",
+        "increase in urbanization.",
+        "Elasticity."
+      ]
+    }
+  },
+  {
+    "prompt": " This is part of the communication process where receivers unpack the various components of the message, and begin to make sense and give the message meaning:<|start_2d|>\"Encoding.\" <|split_2d|>\"Decoding.\" <|split_2d|>\"Transfer.\" <|split_2d|>\"Noise.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Decoding.",
+      "incorrect_answers": [
+        "Encoding.",
+        "Transfer.",
+        "Noise."
+      ]
+    }
+  },
+  {
+    "prompt": "An example of a segmented market would be:<|start_2d|>\"Phillips marketing its product to all residents of the European Union with one marketing mix based on the concept 'Sense and Sensibility'.\" <|split_2d|>\"High-income and low-income consumers being treated the same at Marks and Spencer (M&S).\" <|split_2d|>\"A garden nursery seeing residents of urban areas and rural areas as one market needing trees.\" <|split_2d|>\"Honda separating its potential customers into economy car buyers and luxury car buyers.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Honda separating its potential customers into economy car buyers and luxury car buyers.",
+      "incorrect_answers": [
+        "Phillips marketing its product to all residents of the European Union with one marketing mix based on the concept 'Sense and Sensibility'.",
+        "High-income and low-income consumers being treated the same at Marks and Spencer (M&S).",
+        "A garden nursery seeing residents of urban areas and rural areas as one market needing trees."
+      ]
+    }
+  },
+  {
+    "prompt": " Psychographic segmentation is based on:<|start_2d|>\"The quantitative side of consumer demographic analysis.\" <|split_2d|>\"The quantitative side of consumer geographic analysis.\" <|split_2d|>\"Individuals' residential patterns and life-cycle preferences.\" <|split_2d|>\"Grouping people according to their psychological characteristics, values, and lifestyles.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Grouping people according to their psychological characteristics, values, and lifestyles.",
+      "incorrect_answers": [
+        "The quantitative side of consumer demographic analysis.",
+        "The quantitative side of consumer geographic analysis.",
+        "Individuals' residential patterns and life-cycle preferences."
+      ]
+    }
+  },
+  {
+    "prompt": "A framework categorizes different services, which, in turn, influence the degree to which market offerings can be evaluated, and three main properties are identified:<|start_2d|>\"Search, experiment, and credence properties.\" <|split_2d|>\"Search, experience, and credence properties.\" <|split_2d|>\"Sell, trust, and credence properties.\" <|split_2d|>\"Search, belief, and confidence properties.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Search, experience, and credence properties.",
+      "incorrect_answers": [
+        "Search, experiment, and credence properties.",
+        "Sell, trust, and credence properties.",
+        "Search, belief, and confidence properties."
+      ]
+    }
+  },
+  {
+    "prompt": " ____________ distribute the product. They offer value through services associated with selling inventory, credit, and aftersales service.<|start_2d|>\"Distributors.\" <|split_2d|>\"Agents.\" <|split_2d|>\"Merchants.\" <|split_2d|>\"Franchises.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Distributors.",
+      "incorrect_answers": [
+        "Agents.",
+        "Merchants.",
+        "Franchises."
+      ]
+    }
+  },
+  {
+    "prompt": "This is the process in which offerings move through a sequential, pre-determined pattern of development similar to the biological path that lifeforms follow:<|start_2d|>\"Diffusion process.\" <|split_2d|>\"Product lifecycle.\" <|split_2d|>\"Adoption process.\" <|split_2d|>\"Service development.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Product lifecycle.",
+      "incorrect_answers": [
+        "Diffusion process.",
+        "Adoption process.",
+        "Service development."
+      ]
+    }
+  },
+  {
+    "prompt": " A 10% increase (decrease) in price produces a 10% decrease (increase) in quantity demanded. This is referred to as:<|start_2d|>\"Zero price elasticity of demand.\" <|split_2d|>\"Infinite price elasticity of demand.\" <|split_2d|>\"Unit price elasticity of demand.\" <|split_2d|>\"Indefinite price elasticity of demand.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Unit price elasticity of demand.",
+      "incorrect_answers": [
+        "Zero price elasticity of demand.",
+        "Infinite price elasticity of demand.",
+        "Indefinite price elasticity of demand."
+      ]
+    }
+  },
+  {
+    "prompt": " Which type of research methods are designed to elicit responses to predetermined, standardized questions from many respondents?<|start_2d|>\"Quantitative.\" <|split_2d|>\"Qualitative.\" <|split_2d|>\"Non-probability.\" <|split_2d|>\"Probability.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Quantitative.",
+      "incorrect_answers": [
+        "Qualitative.",
+        "Non-probability.",
+        "Probability."
+      ]
+    }
+  },
+  {
+    "prompt": " In the _________ stage in the adoption process, consumers become aware of the new proposition. They have little information and have yet to develop any particular attitudes towards the product. Indeed, at this stage consumers are not interested in finding out any more information.<|start_2d|>\"Persuasion\" <|split_2d|>\"Confirmation\" <|split_2d|>\"Knowledge\" <|split_2d|>\"Implementation\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Knowledge",
+      "incorrect_answers": [
+        "Persuasion",
+        "Confirmation",
+        "Implementation"
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following is a type of consumer product bought relatively infrequently and which requires consumers to update their knowledge prior to purchase?<|start_2d|>\"Luxury product.\" <|split_2d|>\"Shopping product.\" <|split_2d|>\"Generic products.\" <|split_2d|>\"Branded products.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Shopping product.",
+      "incorrect_answers": [
+        "Luxury product.",
+        "Generic products.",
+        "Branded products."
+      ]
+    }
+  },
+  {
+    "prompt": "This is where the perception on the part of a channel member is that its goal attainment is being impeded by another, with stress or tension the result:<|start_2d|>\"Channel communication.\" <|split_2d|>\"Channel conflict.\" <|split_2d|>\"Channel relationships.\" <|split_2d|>\"Customer conflict.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Channel conflict.",
+      "incorrect_answers": [
+        "Channel communication.",
+        "Channel relationships.",
+        "Customer conflict."
+      ]
+    }
+  },
+  {
+    "prompt": "These are events when groups of sellers meet collectively with the key purpose of attracting buyers:<|start_2d|>\"Exhibitions.\" <|split_2d|>\"Sales promotions.\" <|split_2d|>\"Mass media advertising.\" <|split_2d|>\"Press conference.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Exhibitions.",
+      "incorrect_answers": [
+        "Sales promotions.",
+        "Mass media advertising.",
+        "Press conference."
+      ]
+    }
+  },
+  {
+    "prompt": " These objectives are often the most suitable when firms operate in a market dominated by a major competitor and where their financial resources are limited.<|start_2d|>\"Divest objectives.\" <|split_2d|>\"Harvest objectives.\" <|split_2d|>\"Hold objectives.\" <|split_2d|>\"Niche objectives\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Niche objectives",
+      "incorrect_answers": [
+        "Divest objectives.",
+        "Harvest objectives.",
+        "Hold objectives."
+      ]
+    }
+  },
+  {
+    "prompt": " The process of outsourcing a task or group of tasks to a generally large group of people is known as:<|start_2d|>\"Social media marketing.\" <|split_2d|>\"Internet advertising.\" <|split_2d|>\"Crowdsourcing.\" <|split_2d|>\"E-marketing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Crowdsourcing.",
+      "incorrect_answers": [
+        "Social media marketing.",
+        "Internet advertising.",
+        "E-marketing."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is not one of the categories of research design?<|start_2d|>\"Exploratory research.\" <|split_2d|>\"Descriptive research.\" <|split_2d|>\"Causal research.\" <|split_2d|>\"Desk research.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Desk research.",
+      "incorrect_answers": [
+        "Exploratory research.",
+        "Descriptive research.",
+        "Causal research."
+      ]
+    }
+  },
+  {
+    "prompt": " This marketing and communication tool offers a direct inducement or an incentive to encourage customers to buy a product/service:<|start_2d|>\"Advertising.\" <|split_2d|>\"Public relations.\" <|split_2d|>\"Sales promotion.\" <|split_2d|>\"Direct marketing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Sales promotion.",
+      "incorrect_answers": [
+        "Advertising.",
+        "Public relations.",
+        "Direct marketing."
+      ]
+    }
+  },
+  {
+    "prompt": " These objectives are often employed in mature markets as firms/products enter a decline phase. The goal is to maximize short-term profits and stimulate a positive cash flow.<|start_2d|>\"Divest objectives.\" <|split_2d|>\"Hold objectives.\" <|split_2d|>\"Growth objectives.\" <|split_2d|>\"Harvesting objectives.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Harvesting objectives.",
+      "incorrect_answers": [
+        "Divest objectives.",
+        "Hold objectives.",
+        "Growth objectives."
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following is the interpersonal communication about products or services where a receiver regards the communicator as impartial and is not attempting to sell products or services?<|start_2d|>\"Word of Mouth (WOM).\" <|split_2d|>\"Personal Selling (PS).\" <|split_2d|>\"Direct Marketing (DM).\" <|split_2d|>\"Customer Service (CS).\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Word of Mouth (WOM).",
+      "incorrect_answers": [
+        "Personal Selling (PS).",
+        "Direct Marketing (DM).",
+        "Customer Service (CS)."
+      ]
+    }
+  },
+  {
+    "prompt": " McDonald's and KFC are good examples of:<|start_2d|>\"Distributors.\" <|split_2d|>\"Franchising.\" <|split_2d|>\"Merchant.\" <|split_2d|>\"Retailers.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Franchising.",
+      "incorrect_answers": [
+        "Distributors.",
+        "Merchant.",
+        "Retailers."
+      ]
+    }
+  },
+  {
+    "prompt": " The way in which the product is delivered to meet the customers' needs refers to:<|start_2d|>\"New product concepts and improvements.\" <|split_2d|>\"Selling.\" <|split_2d|>\"Advertising and promotion activities.\" <|split_2d|>\"Place or distribution activities.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Place or distribution activities.",
+      "incorrect_answers": [
+        "New product concepts and improvements.",
+        "Selling.",
+        "Advertising and promotion activities."
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following is the investigation of the hedonic consumption of products?<|start_2d|>\"Social interaction perspective.\" <|split_2d|>\"Functional utilization perspective.\" <|split_2d|>\"Experiential consumption.\" <|split_2d|>\"Brand management perspective.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Experiential consumption.",
+      "incorrect_answers": [
+        "Social interaction perspective.",
+        "Functional utilization perspective.",
+        "Brand management perspective."
+      ]
+    }
+  },
+  {
+    "prompt": "These are stores designed to kill off the competition and are characterized by narrow but very deep product assortment, low prices, and few to moderate customer services:<|start_2d|>\"Speciality stores.\" <|split_2d|>\"Limited line retailers.\" <|split_2d|>\"Category-killer stores.\" <|split_2d|>\"Superstores.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Category-killer stores.",
+      "incorrect_answers": [
+        "Speciality stores.",
+        "Limited line retailers.",
+        "Superstores."
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following is the communication model that depicts information flowing via various media channels, to particular types of people, to whom other members of the audience refer for information and guidance?<|start_2d|>\"Two-step.\" <|split_2d|>\"Three-step.\" <|split_2d|>\"Multi-step.\" <|split_2d|>\"One-step.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Two-step.",
+      "incorrect_answers": [
+        "Three-step.",
+        "Multi-step.",
+        "One-step."
+      ]
+    }
+  },
+  {
+    "prompt": " If an advertisement shows the interior of a train with comfortable seats and plenty of space yet a customer boards a train only to find a lack of space and hard seating. This is an example of:<|start_2d|>\"GAP 4-the gap between service delivery and external communications.\" <|split_2d|>\"GAP 2-the gap between management perception and service-quality specification\" <|split_2d|>\"GAP1-the gap between the customer's expectations and management perception.\" <|split_2d|>\"GAP 3-the gap between service-quality specifications and service delivery.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "GAP 4-the gap between service delivery and external communications.",
+      "incorrect_answers": [
+        "GAP 2-the gap between management perception and service-quality specification",
+        "GAP1-the gap between the customer's expectations and management perception.",
+        "GAP 3-the gap between service-quality specifications and service delivery."
+      ]
+    }
+  },
+  {
+    "prompt": " To make sense of the external environment, the well-known acronym, PESTLE is used. PESTLE stands for _____________<|start_2d|>\"The political, economics, substitute, technological, legal, and ecological environments.\" <|split_2d|>\"The political, economic, social, technological, legal, and ecological environments.\" <|split_2d|>\"The political, economic, social, treat, legal, and ecological environments.\" <|split_2d|>\"The purchasing, economics, social, technological, legal, and ecological environments.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The political, economic, social, technological, legal, and ecological environments.",
+      "incorrect_answers": [
+        "The political, economics, substitute, technological, legal, and ecological environments.",
+        "The political, economic, social, treat, legal, and ecological environments.",
+        "The purchasing, economics, social, technological, legal, and ecological environments."
+      ]
+    }
+  },
+  {
+    "prompt": "To be effective, the process of market segmentation must meet which of the following basic requirements?<|start_2d|>\"The firm must avoid focusing on non-variables such as profitability and volume.\" <|split_2d|>\"The market segment must have measurable purchasing power and size.\" <|split_2d|>\"The company must expand beyond its marketing capabilities to capture growing markets.\" <|split_2d|>\"The market segment must reflect the population's changing attitudes and lifestyles.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The market segment must have measurable purchasing power and size.",
+      "incorrect_answers": [
+        "The firm must avoid focusing on non-variables such as profitability and volume.",
+        "The company must expand beyond its marketing capabilities to capture growing markets.",
+        "The market segment must reflect the population's changing attitudes and lifestyles."
+      ]
+    }
+  },
+  {
+    "prompt": " Newsletters, catalogues, and invitations to organization-sponsored events are most closely associated with the marketing mix activity of:<|start_2d|>\"Pricing.\" <|split_2d|>\"Distribution.\" <|split_2d|>\"Product development.\" <|split_2d|>\"Promotion.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Promotion.",
+      "incorrect_answers": [
+        "Pricing.",
+        "Distribution.",
+        "Product development."
+      ]
+    }
+  },
+  {
+    "prompt": "Marketers usually decide whether to conduct marketing research study internally or through an outside organization based on certain criteria. Which of the following criterion is not used?<|start_2d|>\"Whether the study offers value for money.\" <|split_2d|>\"The agency's reputation.\" <|split_2d|>\"The likelihood that the research design will provide insights into the management problem.\" <|split_2d|>\"The size of the agency.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The size of the agency.",
+      "incorrect_answers": [
+        "Whether the study offers value for money.",
+        "The agency's reputation.",
+        "The likelihood that the research design will provide insights into the management problem."
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following elements is not part of Porter's Five Forces model for industry competitiveness?<|start_2d|>\"Threat of substitutes.\" <|split_2d|>\"Threat of suppliers.\" <|split_2d|>\"Power of buyers.\" <|split_2d|>\"Threat from government.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Threat from government.",
+      "incorrect_answers": [
+        "Threat of substitutes.",
+        "Threat of suppliers.",
+        "Power of buyers."
+      ]
+    }
+  },
+  {
+    "prompt": " These sell directly to end consumers and may purchase directly from manufacturers and/or deal with wholesalers:<|start_2d|>\"Distributors.\" <|split_2d|>\"Franchising.\" <|split_2d|>\"Merchant.\" <|split_2d|>\"Retailers.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Retailers.",
+      "incorrect_answers": [
+        "Distributors.",
+        "Franchising.",
+        "Merchant."
+      ]
+    }
+  },
+  {
+    "prompt": " Before beginning the market segmentation process, a firm should:<|start_2d|>\"Identify bases for segmenting markets.\" <|split_2d|>\"Forecast total market potential.\" <|split_2d|>\"Forecast market share.\" <|split_2d|>\"Select target market segments.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Identify bases for segmenting markets.",
+      "incorrect_answers": [
+        "Forecast total market potential.",
+        "Forecast market share.",
+        "Select target market segments."
+      ]
+    }
+  },
+  {
+    "prompt": "The primary objective of team-based selling is to<|start_2d|>\"match various functional areas of the company with customer needs\" <|split_2d|>\"distribute the work involved in managing an account\" <|split_2d|>\"equitably manage the sales bonus pool\" <|split_2d|>\"create multiple points of contact between the customer and the company\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "match various functional areas of the company with customer needs",
+      "incorrect_answers": [
+        "distribute the work involved in managing an account",
+        "equitably manage the sales bonus pool",
+        "create multiple points of contact between the customer and the company"
+      ]
+    }
+  },
+  {
+    "prompt": "This level of branding can be seen when a customer attaches a name, term, or other feature that enables them to identify one seller's good or service as distinct from those of other sellers. This branding is known as:<|start_2d|>\"Corporate brand.\" <|split_2d|>\"Family branding.\" <|split_2d|>\"Customer branding.\" <|split_2d|>\"International brand.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Customer branding.",
+      "incorrect_answers": [
+        "Corporate brand.",
+        "Family branding.",
+        "International brand."
+      ]
+    }
+  },
+  {
+    "prompt": " This is a form of targeted advertising, on websites, with advertisements selected and served by automated systems based on the content displayed to the user.<|start_2d|>\"Contextual advertising.\" <|split_2d|>\"Interactive marketing.\" <|split_2d|>\"Internet advertising.\" <|split_2d|>\"Direct marketing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Contextual advertising.",
+      "incorrect_answers": [
+        "Interactive marketing.",
+        "Internet advertising.",
+        "Direct marketing."
+      ]
+    }
+  },
+  {
+    "prompt": " Primary data are:<|start_2d|>\"Data collected for the first time specifically for a marketing research study.\" <|split_2d|>\"Less time-consuming to acquire and less costly than secondary data.\" <|split_2d|>\"Newly-published results of government investigations.\" <|split_2d|>\"Part of a strategic planning activity to ensure proper resource allocation.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Data collected for the first time specifically for a marketing research study.",
+      "incorrect_answers": [
+        "Less time-consuming to acquire and less costly than secondary data.",
+        "Newly-published results of government investigations.",
+        "Part of a strategic planning activity to ensure proper resource allocation."
+      ]
+    }
+  },
+  {
+    "prompt": "Salespeople who view a situation as a customer sees it are exhibiting<|start_2d|>\"cooperation\" <|split_2d|>\"empathy\" <|split_2d|>\"responsibility\" <|split_2d|>\"tolerance\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "empathy",
+      "incorrect_answers": [
+        "cooperation",
+        "responsibility",
+        "tolerance"
+      ]
+    }
+  },
+  {
+    "prompt": " This is a part of the communication process where the sender selects a combination of appropriate words, pictures, symbols, and music to represent a message to be transmitted:<|start_2d|>\"Encoding.\" <|split_2d|>\"Decoding.\" <|split_2d|>\"Transfer.\" <|split_2d|>\"Feedback.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Encoding.",
+      "incorrect_answers": [
+        "Decoding.",
+        "Transfer.",
+        "Feedback."
+      ]
+    }
+  },
+  {
+    "prompt": " Toyota's Prius and Honda's hybrid Civic are examples of technological products inspired by:<|start_2d|>\"Style considerations in the Japanese automobile industry.\" <|split_2d|>\"Social pressure to develop more fuel-efficient vehicles with fewer dangerous emissions.\" <|split_2d|>\"The desire of many engineers to simply make interesting products.\" <|split_2d|>\"The realization that Japanese people didn't need large, high-speed cars.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Social pressure to develop more fuel-efficient vehicles with fewer dangerous emissions.",
+      "incorrect_answers": [
+        "Style considerations in the Japanese automobile industry.",
+        "The desire of many engineers to simply make interesting products.",
+        "The realization that Japanese people didn't need large, high-speed cars."
+      ]
+    }
+  },
+  {
+    "prompt": " This approach has been used to convey particular information and help educate large target audiences through television and radio programmes. This approach is referred to as:<|start_2d|>\"Opinion followers.\" <|split_2d|>\"Opinion formers.\" <|split_2d|>\"Public relations.\" <|split_2d|>\"Opinion leaders.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Opinion leaders.",
+      "incorrect_answers": [
+        "Opinion followers.",
+        "Opinion formers.",
+        "Public relations."
+      ]
+    }
+  },
+  {
+    "prompt": "When an individual passively appreciates an event or environment but leaves without affecting or altering the nature of the environment is called:<|start_2d|>\"Entertainment realm.\" <|split_2d|>\"Educational realm.\" <|split_2d|>\"Aesthetic realm.\" <|split_2d|>\"Escapist realm\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Aesthetic realm.",
+      "incorrect_answers": [
+        "Entertainment realm.",
+        "Educational realm.",
+        "Escapist realm"
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following is best understood as a period of time during which a customer interacts directly with a service?<|start_2d|>\"Good usage.\" <|split_2d|>\"Servicescape.\" <|split_2d|>\"Service mix.\" <|split_2d|>\"Service encounters.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Service encounters.",
+      "incorrect_answers": [
+        "Good usage.",
+        "Servicescape.",
+        "Service mix."
+      ]
+    }
+  },
+  {
+    "prompt": "Intermediaries assist end-users by bringing a product produced a long way away to a more convenient location for purchase and consumption. This is referred to as:<|start_2d|>\"Time utility.\" <|split_2d|>\"Place utility.\" <|split_2d|>\"Ownership utility.\" <|split_2d|>\"Information utility.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Place utility.",
+      "incorrect_answers": [
+        "Time utility.",
+        "Ownership utility.",
+        "Information utility."
+      ]
+    }
+  },
+  {
+    "prompt": " The pricing approach where prices are set based on what competitors are charging is called the:<|start_2d|>\"Cost-oriented approach.\" <|split_2d|>\"Demand-oriented approach.\" <|split_2d|>\"Competitor-oriented approach.\" <|split_2d|>\"Value-oriented approach.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Competitor-oriented approach.",
+      "incorrect_answers": [
+        "Cost-oriented approach.",
+        "Demand-oriented approach.",
+        "Value-oriented approach."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following types of tests is designed primarily to help predict how successful a person is likely to be in learning new skills?<|start_2d|>\"Achievement\" <|split_2d|>\"Aptitude\" <|split_2d|>\"Interest\" <|split_2d|>\"Personality\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Aptitude",
+      "incorrect_answers": [
+        "Achievement",
+        "Interest",
+        "Personality"
+      ]
+    }
+  },
+  {
+    "prompt": " ____________ occurs when a search engine company charges fees related to inclusion of websites in their search index.<|start_2d|>\"Contextual search.\" <|split_2d|>\"Site optimization.\" <|split_2d|>\"Paid inclusion.\" <|split_2d|>\"Paid listing\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Paid inclusion.",
+      "incorrect_answers": [
+        "Contextual search.",
+        "Site optimization.",
+        "Paid listing"
+      ]
+    }
+  },
+  {
+    "prompt": " This is where the manufacturing, purchasing, and consumption can occur at differing points in time.<|start_2d|>\"Time utility.\" <|split_2d|>\"Ownership utility.\" <|split_2d|>\"Accessibility.\" <|split_2d|>\"Information utility.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Time utility.",
+      "incorrect_answers": [
+        "Ownership utility.",
+        "Accessibility.",
+        "Information utility."
+      ]
+    }
+  },
+  {
+    "prompt": " According to Maslow's Hierarchy of Needs theory, the need for fulfilment, for realizing one's own potential, and for fully using one's talents and capabilities are examples of __________ needs.<|start_2d|>\"Self-actualization.\" <|split_2d|>\"Physiological.\" <|split_2d|>\"Social.\" <|split_2d|>\"Esteem.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Self-actualization.",
+      "incorrect_answers": [
+        "Physiological.",
+        "Social.",
+        "Esteem."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is not part of the consumer proposition acquisition process?<|start_2d|>\"Motive development.\" <|split_2d|>\"Information gathering.\" <|split_2d|>\"Proposition evaluation.\" <|split_2d|>\"Perception.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Perception.",
+      "incorrect_answers": [
+        "Motive development.",
+        "Information gathering.",
+        "Proposition evaluation."
+      ]
+    }
+  },
+  {
+    "prompt": " When analysing consumer lifecycles, marketers look at consumers in differing stages of their life. Many models upon which these are based were developed in the 1960s. Since then a lot has changed in 'consumer lifecycles'. Which emerging trends should marketers take into consideration?<|start_2d|>\"Fewer people are getting married.\" <|split_2d|>\"People getting married at a later age.\" <|split_2d|>\"More couples co-habiting.\" <|split_2d|>\"All of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "All of the above.",
+      "incorrect_answers": [
+        "Fewer people are getting married.",
+        "People getting married at a later age.",
+        "More couples co-habiting."
+      ]
+    }
+  },
+  {
+    "prompt": " The pricing approach where prices are set based on what customers believe to offer value is called the:<|start_2d|>\"Cost-oriented approach.\" <|split_2d|>\"Demand-oriented approach.\" <|split_2d|>\"Competitor-oriented approach.\" <|split_2d|>\"Value-oriented approach.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Value-oriented approach.",
+      "incorrect_answers": [
+        "Cost-oriented approach.",
+        "Demand-oriented approach.",
+        "Competitor-oriented approach."
+      ]
+    }
+  },
+  {
+    "prompt": "The Internet has led to the development of an information intermediary. Here the key role is to manage information to improve the efficiency and effectiveness of the distribution channel. This is referred to as:<|start_2d|>\"Time utility.\" <|split_2d|>\"Information utility.\" <|split_2d|>\"Ownership utility.\" <|split_2d|>\"Place utility.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Information utility.",
+      "incorrect_answers": [
+        "Time utility.",
+        "Ownership utility.",
+        "Place utility."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is the best example of a trade discount?<|start_2d|>\"A lumberyard offers a discount to a homeowner for buying lumber.\" <|split_2d|>\"A retailer offers a discount to a consumer for buying out of-season merchandise.\" <|split_2d|>\"A producer offers a discount to retailers for promoting its product during the month of June.\" <|split_2d|>\"A car dealer offers a discount to a customer in exchange for a used car.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A producer offers a discount to retailers for promoting its product during the month of June.",
+      "incorrect_answers": [
+        "A lumberyard offers a discount to a homeowner for buying lumber.",
+        "A retailer offers a discount to a consumer for buying out of-season merchandise.",
+        "A car dealer offers a discount to a customer in exchange for a used car."
+      ]
+    }
+  },
+  {
+    "prompt": "The rise of ___________ has led marketing to evolve away from a hierarchical one-sided mass communication model towards more participatory technologies (e.g. social channels and online communities).<|start_2d|>\"Website.\" <|split_2d|>\"Social media.\" <|split_2d|>\"Web 1.0.\" <|split_2d|>\"Web platform.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Social media.",
+      "incorrect_answers": [
+        "Website.",
+        "Web 1.0.",
+        "Web platform."
+      ]
+    }
+  },
+  {
+    "prompt": " Nysveen and Pedersen (2014) added in key dimensions of customer experience. The ______________ refers to how strongly a brand engages consumers in physical activities.<|start_2d|>\"Affective dimension.\" <|split_2d|>\"Intellectual dimension.\" <|split_2d|>\"Behavioural dimension.\" <|split_2d|>\"Sensory dimension.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Behavioural dimension.",
+      "incorrect_answers": [
+        "Affective dimension.",
+        "Intellectual dimension.",
+        "Sensory dimension."
+      ]
+    }
+  },
+  {
+    "prompt": "New technology results in new goods and services, and it can also:<|start_2d|>\"Lower the quality of existing products.\" <|split_2d|>\"Lower the available level of customer service.\" <|split_2d|>\"Reduce prices through new production and distribution methods.\" <|split_2d|>\"Bring back products that were considered obsolete.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Reduce prices through new production and distribution methods.",
+      "incorrect_answers": [
+        "Lower the quality of existing products.",
+        "Lower the available level of customer service.",
+        "Bring back products that were considered obsolete."
+      ]
+    }
+  },
+  {
+    "prompt": "These are non-durable goods or services, often bought with little pre-purchase thought or consideration:<|start_2d|>\"Impulse products.\" <|split_2d|>\"Manufacturer products.\" <|split_2d|>\"Convenience products.\" <|split_2d|>\"Luxury products.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Convenience products.",
+      "incorrect_answers": [
+        "Impulse products.",
+        "Manufacturer products.",
+        "Luxury products."
+      ]
+    }
+  },
+  {
+    "prompt": "In marketing, the term proposition:<|start_2d|>\"Refers only to tangible items that can be seen, tasted, or touched.\" <|split_2d|>\"Is a broad concept that encompasses the satisfaction of consumer needs.\" <|split_2d|>\"Is limited in meaning to goods, services, and ideas only.\" <|split_2d|>\"Never refers to such things as package design, brand name, or warranty.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Is a broad concept that encompasses the satisfaction of consumer needs.",
+      "incorrect_answers": [
+        "Refers only to tangible items that can be seen, tasted, or touched.",
+        "Is limited in meaning to goods, services, and ideas only.",
+        "Never refers to such things as package design, brand name, or warranty."
+      ]
+    }
+  },
+  {
+    "prompt": " When the analyst reads the data from a critical perspective to determine whether or not this fits with their expectations, this constitutes what is termed a:<|start_2d|>\"Face validity.\" <|split_2d|>\"Reliability.\" <|split_2d|>\"Control group.\" <|split_2d|>\"Focus group.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Face validity.",
+      "incorrect_answers": [
+        "Reliability.",
+        "Control group.",
+        "Focus group."
+      ]
+    }
+  },
+  {
+    "prompt": " What is the term used to describe how consistent or stable the ratings generated by a scale are?<|start_2d|>\"Replication.\" <|split_2d|>\"Pre-code.\" <|split_2d|>\"Reliability.\" <|split_2d|>\"Convenience.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Reliability.",
+      "incorrect_answers": [
+        "Replication.",
+        "Pre-code.",
+        "Convenience."
+      ]
+    }
+  },
+  {
+    "prompt": "_________ enable different types of uncertainty to be lowered in several ways (Fill and McKee, 2012). These include reducing the complexity, increasing value and competitive advantage, routinization, and providing specialization.<|start_2d|>\"Warehouse.\" <|split_2d|>\"Distribution.\" <|split_2d|>\"Supply chain.\" <|split_2d|>\"Marketing channels.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Marketing channels.",
+      "incorrect_answers": [
+        "Warehouse.",
+        "Distribution.",
+        "Supply chain."
+      ]
+    }
+  },
+  {
+    "prompt": "When little is known about the problem, research seeking to discover the cause of a problem by discussing the problem with informed sources and examining pre-existing data is undertaken. This type of research is:<|start_2d|>\"Situation analysis.\" <|split_2d|>\"Information investigation.\" <|split_2d|>\"Exploratory research.\" <|split_2d|>\"Bottom-line analysis.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Exploratory research.",
+      "incorrect_answers": [
+        "Situation analysis.",
+        "Information investigation.",
+        "Bottom-line analysis."
+      ]
+    }
+  },
+  {
+    "prompt": " A means of orchestrating the tools of the marketing communications mix, so that audiences perceive a single, consistent, unified message whenever they have contact with a brand, is referred to as:<|start_2d|>\"Integrated marketing communications (IMC).\" <|split_2d|>\"Personal selling (PS).\" <|split_2d|>\"Direct marketing (DM).\" <|split_2d|>\"Customer service (CS).\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Integrated marketing communications (IMC).",
+      "incorrect_answers": [
+        "Personal selling (PS).",
+        "Direct marketing (DM).",
+        "Customer service (CS)."
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following consumer buying behaviours requires the least effort?<|start_2d|>\"High involvement buying situation.\" <|split_2d|>\"New buying situation.\" <|split_2d|>\"Routine buying.\" <|split_2d|>\"Impulsive buying.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Routine buying.",
+      "incorrect_answers": [
+        "High involvement buying situation.",
+        "New buying situation.",
+        "Impulsive buying."
+      ]
+    }
+  },
+  {
+    "prompt": " ________________ is a process that leads to specific decisions on how to compete in the marketplace and how the company should best serve its customers.<|start_2d|>\"Portfolio analysis.\" <|split_2d|>\"Environmental scanning.\" <|split_2d|>\"Strategic marketing.\" <|split_2d|>\"Marketing research.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Strategic marketing.",
+      "incorrect_answers": [
+        "Portfolio analysis.",
+        "Environmental scanning.",
+        "Marketing research."
+      ]
+    }
+  },
+  {
+    "prompt": " What type of media has the primary objective to get the attention of shoppers and to stimulate them to make a purchase? (Examples include point-of-purchase displays and packaging.)<|start_2d|>\"Broadcast media.\" <|split_2d|>\"Interactive media.\" <|split_2d|>\"In-store media.\" <|split_2d|>\"Support media.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "In-store media.",
+      "incorrect_answers": [
+        "Broadcast media.",
+        "Interactive media.",
+        "Support media."
+      ]
+    }
+  },
+  {
+    "prompt": "A commercial activity, whereby one party permits another an opportunity to exploit an association with a target audience in return for funds, services, or resources is referred to as:<|start_2d|>\"Advertising.\" <|split_2d|>\"Exchange.\" <|split_2d|>\"Sponsorship.\" <|split_2d|>\"Public relations.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Sponsorship.",
+      "incorrect_answers": [
+        "Advertising.",
+        "Exchange.",
+        "Public relations."
+      ]
+    }
+  },
+  {
+    "prompt": " Types of non-random samples include:<|start_2d|>\"Convenience and quota samples.\" <|split_2d|>\"Cluster and convenience samples.\" <|split_2d|>\"Stratified and convenience samples.\" <|split_2d|>\"Random and cluster samples.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Convenience and quota samples.",
+      "incorrect_answers": [
+        "Cluster and convenience samples.",
+        "Stratified and convenience samples.",
+        "Random and cluster samples."
+      ]
+    }
+  },
+  {
+    "prompt": " These store goods for moderate to long periods:<|start_2d|>\"Storage warehouses.\" <|split_2d|>\"Distribution centres.\" <|split_2d|>\"Haulage transport.\" <|split_2d|>\"Electronic data interchange.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Storage warehouses.",
+      "incorrect_answers": [
+        "Distribution centres.",
+        "Haulage transport.",
+        "Electronic data interchange."
+      ]
+    }
+  },
+  {
+    "prompt": "Robert is a marketer for a global consumer products company. He is working on the promotional campaign designed to reach a target audience in a new international market. Robert is working hard to make sure that the promotional campaign is clearly understood by the nation's consumers and doesn't offend anyone. By which of the factors in the external environment is he being influenced<|start_2d|>\"Socio-cultural environment.\" <|split_2d|>\"Competitive environment.\" <|split_2d|>\"Economic environment.\" <|split_2d|>\"Legal environment.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Socio-cultural environment.",
+      "incorrect_answers": [
+        "Competitive environment.",
+        "Economic environment.",
+        "Legal environment."
+      ]
+    }
+  },
+  {
+    "prompt": "____________________ are those who address the same target market but provide a different offering to satisfy the market need, for example Spotify, Sony, and Apple's iPod.<|start_2d|>\"Direct competitions.\" <|split_2d|>\"Direct suppliers.\" <|split_2d|>\"Indirect distributors.\" <|split_2d|>\"Indirect competitions.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Indirect competitions.",
+      "incorrect_answers": [
+        "Direct competitions.",
+        "Direct suppliers.",
+        "Indirect distributors."
+      ]
+    }
+  },
+  {
+    "prompt": " A key benefit of the STP process is:<|start_2d|>\"More effective and efficient matching of company resources to targeted market segments promising the greatest ROMI.\" <|split_2d|>\"Enhancing a company's competitive position by providing direction and focus for marketing strategies.\" <|split_2d|>\"Examining and identifying growth opportunities in the market through the identification of new customers, growth segments, or new product uses.\" <|split_2d|>\"All of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "All of the above.",
+      "incorrect_answers": [
+        "More effective and efficient matching of company resources to targeted market segments promising the greatest ROMI.",
+        "Enhancing a company's competitive position by providing direction and focus for marketing strategies.",
+        "Examining and identifying growth opportunities in the market through the identification of new customers, growth segments, or new product uses."
+      ]
+    }
+  },
+  {
+    "prompt": " ____________ is also a form of sponsorship and represents a relationship between film/TV producers and managers of brands. Through this arrangement, brand managers are able, for a fee, to present their brands 'naturally' within a film or entertainment event. Such placement is designed to increase brand awareness, develop positive brand attitudes, and possibly lead to purchase activity.<|start_2d|>\"Brand placement.\" <|split_2d|>\"Field marketing.\" <|split_2d|>\"Exhibition.\" <|split_2d|>\"Viral marketing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Brand placement.",
+      "incorrect_answers": [
+        "Field marketing.",
+        "Exhibition.",
+        "Viral marketing."
+      ]
+    }
+  },
+  {
+    "prompt": "The management and execution of marketing using digital electronic technologies and channels (e.g. web, email, digital TV, wireless media) and digital data about user/customer characteristics and behaviour is referred to as:<|start_2d|>\"E-marketing.\" <|split_2d|>\"Social marketing.\" <|split_2d|>\"Digital marketing\" <|split_2d|>\"Internet marketing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Digital marketing",
+      "incorrect_answers": [
+        "E-marketing.",
+        "Social marketing.",
+        "Internet marketing."
+      ]
+    }
+  },
+  {
+    "prompt": " ___________ occurs when a website's structure and content is improved to maximize its listing in organic search engine results pages using relevant keywords or search phrases.<|start_2d|>\"Paid inclusion.\" <|split_2d|>\"Search engine optimization.\" <|split_2d|>\"Contextual search.\" <|split_2d|>\"Pay per click.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Search engine optimization.",
+      "incorrect_answers": [
+        "Paid inclusion.",
+        "Contextual search.",
+        "Pay per click."
+      ]
+    }
+  },
+  {
+    "prompt": "A form of marketing communications that uses the Internet for the purpose of advertising, aiming to increase website traffic and/or encourage product trial, purchase, and repeat purchase activity is called:<|start_2d|>\"Search marketing.\" <|split_2d|>\"E-mail marketing.\" <|split_2d|>\"Internet advertising.\" <|split_2d|>\"Social web marketing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Internet advertising.",
+      "incorrect_answers": [
+        "Search marketing.",
+        "E-mail marketing.",
+        "Social web marketing."
+      ]
+    }
+  },
+  {
+    "prompt": "This branding policy requires that all the products use the organization's name, either entirely or in part, e.g. Microsoft, Heinz, and Kellogg's<|start_2d|>\"Individual branding.\" <|split_2d|>\"Family branding.\" <|split_2d|>\"Corporate brands.\" <|split_2d|>\"Manufacturer brand.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Family branding.",
+      "incorrect_answers": [
+        "Individual branding.",
+        "Corporate brands.",
+        "Manufacturer brand."
+      ]
+    }
+  },
+  {
+    "prompt": " The action of presenting persuasive communication and the action of audiences in interpreting that communication to assimilate it into their existing understanding is referred to as:<|start_2d|>\"Needs identifying.\" <|split_2d|>\"Innovating.\" <|split_2d|>\"Advertising.\" <|split_2d|>\"Framing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Framing.",
+      "incorrect_answers": [
+        "Needs identifying.",
+        "Innovating.",
+        "Advertising."
+      ]
+    }
+  },
+  {
+    "prompt": " An organization can offer standard products at acceptable levels of quality, yet still generate above-average profit margin by adopting _____________<|start_2d|>\"Cost leadership.\" <|split_2d|>\"Differentiation.\" <|split_2d|>\"Focus strategy.\" <|split_2d|>\"Market follower strategy.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Cost leadership.",
+      "incorrect_answers": [
+        "Differentiation.",
+        "Focus strategy.",
+        "Market follower strategy."
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following is not an issue that marketers need to consider when using digital resources for marketing activities?<|start_2d|>\"Jurisdiction.\" <|split_2d|>\"Disclosure.\" <|split_2d|>\"Ownership.\" <|split_2d|>\"Permissions.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Disclosure.",
+      "incorrect_answers": [
+        "Jurisdiction.",
+        "Ownership.",
+        "Permissions."
+      ]
+    }
+  },
+  {
+    "prompt": " What type of media helps advertisers demonstrate the benefits of using a particular product and can bring life and energy to an advertiser's message?<|start_2d|>\"Broadcast media.\" <|split_2d|>\"Interactive media.\" <|split_2d|>\"Print media.\" <|split_2d|>\"Support media.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Broadcast media.",
+      "incorrect_answers": [
+        "Interactive media.",
+        "Print media.",
+        "Support media."
+      ]
+    }
+  },
+  {
+    "prompt": "The process of keeping a running account of merchandise on hand is referred to as<|start_2d|>\"perpetual inventory\" <|split_2d|>\"economic order quantity\" <|split_2d|>\"book inventory\" <|split_2d|>\"physical inventory\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "perpetual inventory",
+      "incorrect_answers": [
+        "economic order quantity",
+        "book inventory",
+        "physical inventory"
+      ]
+    }
+  },
+  {
+    "prompt": "This is the sharing of meaning created through the transmission of information:<|start_2d|>\"Communication.\" <|split_2d|>\"Noise.\" <|split_2d|>\"Transfer.\" <|split_2d|>\"Understanding.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Communication.",
+      "incorrect_answers": [
+        "Noise.",
+        "Transfer.",
+        "Understanding."
+      ]
+    }
+  },
+  {
+    "prompt": "In relationship marketing firms focus on __________ relationships with __________.<|start_2d|>\"Short-term; customers and stakeholders.\" <|split_2d|>\"Long-term; customers and stakeholders.\" <|split_2d|>\"Short-term; customers.\" <|split_2d|>\"Long-term; customers.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Long-term; customers and stakeholders.",
+      "incorrect_answers": [
+        "Short-term; customers and stakeholders.",
+        "Short-term; customers.",
+        "Long-term; customers."
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following means placing your product or service in as many outlets or locations as possible, in order to maximize the opportunity for customers to find the good or service?<|start_2d|>\"Exclusive distribution.\" <|split_2d|>\"Intensive distribution.\" <|split_2d|>\"Selective distribution.\" <|split_2d|>\"Direct distribution.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Intensive distribution.",
+      "incorrect_answers": [
+        "Exclusive distribution.",
+        "Selective distribution.",
+        "Direct distribution."
+      ]
+    }
+  },
+  {
+    "prompt": " ______________ is used to determine whether one variable causes an effect in another variable. In order to determine causality experimental or longitudinal studies are needed.<|start_2d|>\"Ethnographic study.\" <|split_2d|>\"Consumer juries.\" <|split_2d|>\"Causal research.\" <|split_2d|>\"Focus-groups.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Causal research.",
+      "incorrect_answers": [
+        "Ethnographic study.",
+        "Consumer juries.",
+        "Focus-groups."
+      ]
+    }
+  },
+  {
+    "prompt": " A database of information that is maintained by human editors and lists websites by category and subcategory with categorization is known as:<|start_2d|>\"A search directory.\" <|split_2d|>\"Automated voice response (AVR).\" <|split_2d|>\"Apps.\" <|split_2d|>\"SEO.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "A search directory.",
+      "incorrect_answers": [
+        "Automated voice response (AVR).",
+        "Apps.",
+        "SEO."
+      ]
+    }
+  },
+  {
+    "prompt": "Services are characterized by five distinct characteristics. These are:<|start_2d|>\"Intangibility, value, variability, inseparability, and a lack of ownership.\" <|split_2d|>\"Intangibility, value, variability, inseparability, and profitability.\" <|split_2d|>\"Intangibility, perishability, variability, inseparability, and a lack of ownership.\" <|split_2d|>\"Intangibility, value, variability, inseparability, and relationship.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Intangibility, perishability, variability, inseparability, and a lack of ownership.",
+      "incorrect_answers": [
+        "Intangibility, value, variability, inseparability, and a lack of ownership.",
+        "Intangibility, value, variability, inseparability, and profitability.",
+        "Intangibility, value, variability, inseparability, and relationship."
+      ]
+    }
+  },
+  {
+    "prompt": "A company sells its product at two different prices in two different locations. Which of the following types of research will be most effective in identifying the optimal price for the product if all other marketing factors are held constant?<|start_2d|>\"Descriptive\" <|split_2d|>\"Exploratory\" <|split_2d|>\"Ethnographic\" <|split_2d|>\"Causal\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Causal",
+      "incorrect_answers": [
+        "Descriptive",
+        "Exploratory",
+        "Ethnographic"
+      ]
+    }
+  },
+  {
+    "prompt": "Where the price is set low relative to the competition to gain market share, this strategy is known as:<|start_2d|>\"Premium pricing.\" <|split_2d|>\"Price skimming.\" <|split_2d|>\"Economy pricing.\" <|split_2d|>\"Penetration pricing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Penetration pricing.",
+      "incorrect_answers": [
+        "Premium pricing.",
+        "Price skimming.",
+        "Economy pricing."
+      ]
+    }
+  },
+  {
+    "prompt": " Which of the following is not the rationale for developing CSR initiatives?<|start_2d|>\"Corporations have responsibilities going beyond the production of their offerings at a profit.\" <|split_2d|>\"Corporations have a broader constituency of stakeholders than shareholders alone.\" <|split_2d|>\"The impacts of corporations limit to only simple marketplace transactions.\" <|split_2d|>\"Corporations serve a wider range of human values, not captured solely by a focus on economic values.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The impacts of corporations limit to only simple marketplace transactions.",
+      "incorrect_answers": [
+        "Corporations have responsibilities going beyond the production of their offerings at a profit.",
+        "Corporations have a broader constituency of stakeholders than shareholders alone.",
+        "Corporations serve a wider range of human values, not captured solely by a focus on economic values."
+      ]
+    }
+  },
+  {
+    "prompt": "This business-to-business pricing approach seeks to understand customers' needs before pricing the offering according to those needs in order to generate a long-term relationship. This is referred to as:<|start_2d|>\"Geographical pricing.\" <|split_2d|>\"Discount pricing.\" <|split_2d|>\"Relationship pricing.\" <|split_2d|>\"Value-in-use pricing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Relationship pricing.",
+      "incorrect_answers": [
+        "Geographical pricing.",
+        "Discount pricing.",
+        "Value-in-use pricing."
+      ]
+    }
+  },
+  {
+    "prompt": "This form of advert delivered on social platforms and social gaming websites and apps, across all device types is known as:<|start_2d|>\"Mobile marketing.\" <|split_2d|>\"Social media advertising.\" <|split_2d|>\"Internet advertising.\" <|split_2d|>\"E-marketing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Social media advertising.",
+      "incorrect_answers": [
+        "Mobile marketing.",
+        "Internet advertising.",
+        "E-marketing."
+      ]
+    }
+  },
+  {
+    "prompt": " Secondary data has two important advantages over primary data. It is:<|start_2d|>\"Capable of compensating for rapid environmental changes and technical improvements.\" <|split_2d|>\"Always available and complete.\" <|split_2d|>\"Seldom obsolete and usually fits the dimensions of your problem.\" <|split_2d|>\"Generally cheaper to gather than primary data and takes less time to find.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Generally cheaper to gather than primary data and takes less time to find.",
+      "incorrect_answers": [
+        "Capable of compensating for rapid environmental changes and technical improvements.",
+        "Always available and complete.",
+        "Seldom obsolete and usually fits the dimensions of your problem."
+      ]
+    }
+  },
+  {
+    "prompt": " Internet-based organizations designed to provide information to channel members, including end-users are referred to as:<|start_2d|>\"Infomediaries.\" <|split_2d|>\"Retailers.\" <|split_2d|>\"Department stores.\" <|split_2d|>\"Wholesalers.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Infomediaries.",
+      "incorrect_answers": [
+        "Retailers.",
+        "Department stores.",
+        "Wholesalers."
+      ]
+    }
+  },
+  {
+    "prompt": "In B2B contexts, ___________ occurs in large organizations where considerable internal dealing between different company divisions occurs, often across national boundaries.<|start_2d|>\"Price gouging.\" <|split_2d|>\"Transfer pricing.\" <|split_2d|>\"Pay what you want pricing.\" <|split_2d|>\"EVC pricing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Transfer pricing.",
+      "incorrect_answers": [
+        "Price gouging.",
+        "Pay what you want pricing.",
+        "EVC pricing."
+      ]
+    }
+  },
+  {
+    "prompt": "This is when a product or service is offered together with another typically complementary product or service:<|start_2d|>\"Product pricing.\" <|split_2d|>\"Price differentiation.\" <|split_2d|>\"Pure price bundling.\" <|split_2d|>\"Odd-Number pricing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Pure price bundling.",
+      "incorrect_answers": [
+        "Product pricing.",
+        "Price differentiation.",
+        "Odd-Number pricing."
+      ]
+    }
+  },
+  {
+    "prompt": " This is something that at some time in the future may destabilize and/or reduce the potential performance of the organization.<|start_2d|>\"Strength.\" <|split_2d|>\"Weakness.\" <|split_2d|>\"Threat.\" <|split_2d|>\"Opportunities.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Threat.",
+      "incorrect_answers": [
+        "Strength.",
+        "Weakness.",
+        "Opportunities."
+      ]
+    }
+  },
+  {
+    "prompt": "When there are high levels of business failures and unemployment, the business cycle is said to be in which of the following phases?<|start_2d|>\"Expansion\" <|split_2d|>\"Peak\" <|split_2d|>\"Recovery\" <|split_2d|>\"Trough\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Trough",
+      "incorrect_answers": [
+        "Expansion",
+        "Peak",
+        "Recovery"
+      ]
+    }
+  },
+  {
+    "prompt": "Many retail brands adopt a single umbrella brand, based on the name of the organization. This is referred to as:<|start_2d|>\"Family branding.\" <|split_2d|>\"Corporate brands.\" <|split_2d|>\"Individual branding.\" <|split_2d|>\"Manufacturer brand.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Corporate brands.",
+      "incorrect_answers": [
+        "Family branding.",
+        "Individual branding.",
+        "Manufacturer brand."
+      ]
+    }
+  },
+  {
+    "prompt": " The importance and significance of customer experience to both individuals and society is referred to as:<|start_2d|>\"Knowledge economy.\" <|split_2d|>\"Service economy.\" <|split_2d|>\"Experience economy.\" <|split_2d|>\"Customer economy.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Experience economy.",
+      "incorrect_answers": [
+        "Knowledge economy.",
+        "Service economy.",
+        "Customer economy."
+      ]
+    }
+  },
+  {
+    "prompt": "________________reflect a purchaser's high level of involvement in the purchase decision. There is high perceived risk in these decisions so consumers spend a great deal of time, care, and energy searching, formulating, and making the final decision.<|start_2d|>\"Durable goods.\" <|split_2d|>\"Non-durable goods.\" <|split_2d|>\"Convenience products.\" <|split_2d|>\"Services.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Durable goods.",
+      "incorrect_answers": [
+        "Non-durable goods.",
+        "Convenience products.",
+        "Services."
+      ]
+    }
+  },
+  {
+    "prompt": "____________ is a form of digital marketing that describes the use of the social web and social media (e.g. social networks, online communities, blogs or wikis) or any online collaborative technology for marketing activities, be it sales, public relations, research, distribution, or customer service.<|start_2d|>\"Pay per click (PPC)\" <|split_2d|>\"Digital asset optimization (DAO)\" <|split_2d|>\"Social media marketing (SMM)\" <|split_2d|>\"Search engine optimization (SEO)\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Social media marketing (SMM)",
+      "incorrect_answers": [
+        "Pay per click (PPC)",
+        "Digital asset optimization (DAO)",
+        "Search engine optimization (SEO)"
+      ]
+    }
+  },
+  {
+    "prompt": "Inelastic demand occurs when the<|start_2d|>\"quantity demanded changes a great deal as prices fluctuate\" <|split_2d|>\"quantity demanded barely changes with a change in price\" <|split_2d|>\"change in quantity demanded is in the same proportion as the change in price\" <|split_2d|>\"demand curve and the supply curve intersect at a given price point\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "quantity demanded barely changes with a change in price",
+      "incorrect_answers": [
+        "quantity demanded changes a great deal as prices fluctuate",
+        "change in quantity demanded is in the same proportion as the change in price",
+        "demand curve and the supply curve intersect at a given price point"
+      ]
+    }
+  },
+  {
+    "prompt": " A person who is in the position of attempting to satisfy their needs at the most basic level is operating at the level of Maslow's needs hierarchy called the need for:<|start_2d|>\"Self-actualization.\" <|split_2d|>\"Esteem.\" <|split_2d|>\"Physiological needs.\" <|split_2d|>\"Belongingness.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Physiological needs.",
+      "incorrect_answers": [
+        "Self-actualization.",
+        "Esteem.",
+        "Belongingness."
+      ]
+    }
+  },
+  {
+    "prompt": " During the __________ stage of the adoption process, the innovation is tried for the first time. Sales promotions are often used as samples to allow individuals to test the product without any undue risk. Individuals accept or reject an innovation on the basis of their experience of the trial.<|start_2d|>\"Knowledge.\" <|split_2d|>\"Implementation.\" <|split_2d|>\"Persuasion.\" <|split_2d|>\"Decision.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Implementation.",
+      "incorrect_answers": [
+        "Knowledge.",
+        "Persuasion.",
+        "Decision."
+      ]
+    }
+  },
+  {
+    "prompt": " Which technique is used to collect data that has been previously collected for a purpose other than the current research situation?<|start_2d|>\"Primary research.\" <|split_2d|>\"Secondary research.\" <|split_2d|>\"Primary and secondary.\" <|split_2d|>\"Primary and desk research.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Secondary research.",
+      "incorrect_answers": [
+        "Primary research.",
+        "Primary and secondary.",
+        "Primary and desk research."
+      ]
+    }
+  },
+  {
+    "prompt": " Current changes in behaviors clearly show that ______ is taking over more and more of consumer online searches.<|start_2d|>\"Social media.\" <|split_2d|>\"Mobile.\" <|split_2d|>\"Internet.\" <|split_2d|>\"Blog.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Mobile.",
+      "incorrect_answers": [
+        "Social media.",
+        "Internet.",
+        "Blog."
+      ]
+    }
+  },
+  {
+    "prompt": "Once a train pulls out of a station, or an aeroplane takes off or a film starts, those seats are lost and can never be sold. This is referred to as:<|start_2d|>\"Inseparability.\" <|split_2d|>\"Variability.\" <|split_2d|>\"Intangibility.\" <|split_2d|>\"Perishability.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Perishability.",
+      "incorrect_answers": [
+        "Inseparability.",
+        "Variability.",
+        "Intangibility."
+      ]
+    }
+  },
+  {
+    "prompt": " The train operator understands customer desire for a comfortable seat but fails to specify how many should be provided relative to the anticipated number of travellers on each route. This is an example of:<|start_2d|>\"GAP 2-the gap between management perception and service-quality specification.\" <|split_2d|>\"GAP1-the gap between the customer's expectations and management perception.\" <|split_2d|>\"GAP 3-the gap between service-quality specifications and service delivery.\" <|split_2d|>\"GAP 4-the gap between service delivery and external communications.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "GAP 2-the gap between management perception and service-quality specification.",
+      "incorrect_answers": [
+        "GAP1-the gap between the customer's expectations and management perception.",
+        "GAP 3-the gap between service-quality specifications and service delivery.",
+        "GAP 4-the gap between service delivery and external communications."
+      ]
+    }
+  },
+  {
+    "prompt": " This is part of the communication process and refers to the responses offered by receivers:<|start_2d|>\"Encoding.\" <|split_2d|>\"Decoding.\" <|split_2d|>\"Transfer.\" <|split_2d|>\"Feedback.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Feedback.",
+      "incorrect_answers": [
+        "Encoding.",
+        "Decoding.",
+        "Transfer."
+      ]
+    }
+  },
+  {
+    "prompt": " Economic\u2014marketing should encourage long-term economic development as opposed to short-term economic development.<|start_2d|>\"Ecological, evolutionary, and economic\" <|split_2d|>\"Ecological, equitable, and economic\" <|split_2d|>\"Evolutionary, equitable, and economic.\" <|split_2d|>\"Ecological, equitable, and emerging.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Ecological, equitable, and economic",
+      "incorrect_answers": [
+        "Ecological, evolutionary, and economic",
+        "Evolutionary, equitable, and economic.",
+        "Ecological, equitable, and emerging."
+      ]
+    }
+  },
+  {
+    "prompt": " Individuals become completely immersed in their environment and actively participate so that they affect actual performances or occurrences in the environment. This is referred to as:<|start_2d|>\"Educational realm.\" <|split_2d|>\"Escapist realm.\" <|split_2d|>\"Aesthetic realm.\" <|split_2d|>\"Entertainment realm.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Escapist realm.",
+      "incorrect_answers": [
+        "Educational realm.",
+        "Aesthetic realm.",
+        "Entertainment realm."
+      ]
+    }
+  },
+  {
+    "prompt": "This is a marketing communication tool that uses non-personal media to create and sustain a personal and intermediary free communication with customers, potential customers, and other significant stakeholders:<|start_2d|>\"Direct marketing.\" <|split_2d|>\"Advertising.\" <|split_2d|>\"Public relations.\" <|split_2d|>\"Sales promotion.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Direct marketing.",
+      "incorrect_answers": [
+        "Advertising.",
+        "Public relations.",
+        "Sales promotion."
+      ]
+    }
+  },
+  {
+    "prompt": " It has been claimed that the three major outcomes from the development of relationship trust are satisfaction, ___________, and continuity (Pavlou, 2002).<|start_2d|>\"Reduced perceived risk.\" <|split_2d|>\"Service recovery.\" <|split_2d|>\"Service processes.\" <|split_2d|>\"Efficiency.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Reduced perceived risk.",
+      "incorrect_answers": [
+        "Service recovery.",
+        "Service processes.",
+        "Efficiency."
+      ]
+    }
+  },
+  {
+    "prompt": "The family life cycle:<|start_2d|>\"Is a way to apply psychographic segmentation.\" <|split_2d|>\"Refers to the process of family formation and dissolution.\" <|split_2d|>\"Provides insights into the relationships among age, occupation, income, and housing.\" <|split_2d|>\"Is composed of the 11 stages of personal growth from infancy to retirement.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Refers to the process of family formation and dissolution.",
+      "incorrect_answers": [
+        "Is a way to apply psychographic segmentation.",
+        "Provides insights into the relationships among age, occupation, income, and housing.",
+        "Is composed of the 11 stages of personal growth from infancy to retirement."
+      ]
+    }
+  },
+  {
+    "prompt": "A marketing research firm contracts with clients to conduct a complete marketing research project from data collection, analysis, and reporting. It is a__________ firm.<|start_2d|>\"Consultant.\" <|split_2d|>\"Field agency.\" <|split_2d|>\"Full-service agency.\" <|split_2d|>\"Tabulation agency.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Full-service agency.",
+      "incorrect_answers": [
+        "Consultant.",
+        "Field agency.",
+        "Tabulation agency."
+      ]
+    }
+  },
+  {
+    "prompt": "A company builds its sales message, advertising message, and promotion theme to influence how a particular market sector perceives a good or service in comparison with the competition. The company is primarily engaged in<|start_2d|>\"segmentation\" <|split_2d|>\"mass customization\" <|split_2d|>\"concentrated targeting\" <|split_2d|>\"positioning\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "positioning",
+      "incorrect_answers": [
+        "segmentation",
+        "mass customization",
+        "concentrated targeting"
+      ]
+    }
+  },
+  {
+    "prompt": " With this pricing approach, the pricing process begins with the customer; not the cost of the product offering:<|start_2d|>\"Value-based pricing.\" <|split_2d|>\"Cost-based pricing.\" <|split_2d|>\"Customer-led pricing.\" <|split_2d|>\"Sales pricing.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Value-based pricing.",
+      "incorrect_answers": [
+        "Cost-based pricing.",
+        "Customer-led pricing.",
+        "Sales pricing."
+      ]
+    }
+  },
+  {
+    "prompt": "___________ is based on the idea that customer expectations of the service they will receive shape their perception of the actual service encounter.<|start_2d|>\"Service quality.\" <|split_2d|>\"Service action.\" <|split_2d|>\"Service recovery.\" <|split_2d|>\"Service satisfaction.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Service quality.",
+      "incorrect_answers": [
+        "Service action.",
+        "Service recovery.",
+        "Service satisfaction."
+      ]
+    }
+  },
+  {
+    "prompt": " Information collected for the first time specifically for a marketing research study is called:<|start_2d|>\"Secondary research.\" <|split_2d|>\"Primary research.\" <|split_2d|>\"Soft research.\" <|split_2d|>\"Experimental research.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Primary research.",
+      "incorrect_answers": [
+        "Secondary research.",
+        "Soft research.",
+        "Experimental research."
+      ]
+    }
+  },
+  {
+    "prompt": "This includes advertisements that contain 'call-to-response' mechanisms such as telephone numbers, website addresses, email and postal addresses:<|start_2d|>\"Direct response advertising.\" <|split_2d|>\"Sales promotions.\" <|split_2d|>\"Mass media advertising.\" <|split_2d|>\"Public relations.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Direct response advertising.",
+      "incorrect_answers": [
+        "Sales promotions.",
+        "Mass media advertising.",
+        "Public relations."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is not part of the external marketing environment?<|start_2d|>\"Political.\" <|split_2d|>\"Legal.\" <|split_2d|>\"Product.\" <|split_2d|>\"Socio-cultural.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Product.",
+      "incorrect_answers": [
+        "Political.",
+        "Legal.",
+        "Socio-cultural."
+      ]
+    }
+  },
+  {
+    "prompt": " In order for exchange to occur:<|start_2d|>\"A complex societal system must be involved.\" <|split_2d|>\"Organized marketing activities must also occur.\" <|split_2d|>\"A profit-oriented organization must be involved.\" <|split_2d|>\"Each party must have something of value to the other party.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Each party must have something of value to the other party.",
+      "incorrect_answers": [
+        "A complex societal system must be involved.",
+        "Organized marketing activities must also occur.",
+        "A profit-oriented organization must be involved."
+      ]
+    }
+  },
+  {
+    "prompt": "Conflict between sequential members in a distribution network, such as producers, distributor, and retailers, over such matters as carrying a particular range or price increases is referred to as:<|start_2d|>\"Channel conflict.\" <|split_2d|>\"Horizontal conflict.\" <|split_2d|>\"Vertical conflict.\" <|split_2d|>\"Supply chain conflict.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Vertical conflict.",
+      "incorrect_answers": [
+        "Channel conflict.",
+        "Horizontal conflict.",
+        "Supply chain conflict."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is an example of costbased pricing?<|start_2d|>\"Basing the price on what the customer is willing to pay\" <|split_2d|>\"Basing the price on the psychological expectations of the customer\" <|split_2d|>\"Basing the price on the features and benefits of the product\" <|split_2d|>\"Basing the price on the full cost of production plus the required profit\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Basing the price on the full cost of production plus the required profit",
+      "incorrect_answers": [
+        "Basing the price on what the customer is willing to pay",
+        "Basing the price on the psychological expectations of the customer",
+        "Basing the price on the features and benefits of the product"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is typically not a result of recognizing the importance of ethnic groups by marketers?<|start_2d|>\"Use of an undifferentiated one-size-fits-all marketing strategy.\" <|split_2d|>\"Adaptation of the advertising, particularly the use of foreign languages, to the target ethnic market.\" <|split_2d|>\"Variations in product offerings to suit the wants of a particular group.\" <|split_2d|>\"Study of ethnic buying habits to isolate market segments.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Use of an undifferentiated one-size-fits-all marketing strategy.",
+      "incorrect_answers": [
+        "Adaptation of the advertising, particularly the use of foreign languages, to the target ethnic market.",
+        "Variations in product offerings to suit the wants of a particular group.",
+        "Study of ethnic buying habits to isolate market segments."
+      ]
+    }
+  },
+  {
+    "prompt": "_______________can be defined as the aspect of our psyche that determines the way in which we respond to our environment in a relatively stable way over time.<|start_2d|>\"Perception.\" <|split_2d|>\"Personality.\" <|split_2d|>\"Learning.\" <|split_2d|>\"Memory.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Personality.",
+      "incorrect_answers": [
+        "Perception.",
+        "Learning.",
+        "Memory."
+      ]
+    }
+  },
+  {
+    "prompt": "The six dimensions usually considered to constitute the external marketing environment include all of the following except:<|start_2d|>\"Political considerations.\" <|split_2d|>\"Global factors.\" <|split_2d|>\"Socio-cultural aspects.\" <|split_2d|>\"Economics issues.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Global factors.",
+      "incorrect_answers": [
+        "Political considerations.",
+        "Socio-cultural aspects.",
+        "Economics issues."
+      ]
+    }
+  }
+]

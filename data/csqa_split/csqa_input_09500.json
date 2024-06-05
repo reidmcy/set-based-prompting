@@ -1,0 +1,2893 @@
+[
+  {
+    "prompt": "If a person sees an accident, what do they generally wonder?\n<|start_2d|>\n- wonder what happened<|split_2d|>\n- cross street<|split_2d|>\n- run away<|split_2d|>\n- wash themselves<|split_2d|>\n- feel lucky<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "wonder what happened",
+      "incorrect_answers": [
+        "cross street",
+        "run away",
+        "wash themselves",
+        "feel lucky"
+      ]
+    }
+  },
+  {
+    "prompt": "I live in a rural area, so where am I likely going if I drive through a turnpike?\n<|start_2d|>\n- drive to work<|split_2d|>\n- urban region<|split_2d|>\n- atlas<|split_2d|>\n- countryside<|split_2d|>\n- eastern united states<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "urban region",
+      "incorrect_answers": [
+        "drive to work",
+        "atlas",
+        "countryside",
+        "eastern united states"
+      ]
+    }
+  },
+  {
+    "prompt": "She was hitting bottle to the point that doing what would seem like sobering up even though it wasn't?\n<|start_2d|>\n- buying beer<|split_2d|>\n- table<|split_2d|>\n- alcoholism<|split_2d|>\n- aim<|split_2d|>\n- michigan<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "buying beer",
+      "incorrect_answers": [
+        "table",
+        "alcoholism",
+        "aim",
+        "michigan"
+      ]
+    }
+  },
+  {
+    "prompt": "How do you show that you are agreeing with someone?\n<|start_2d|>\n- handshake<|split_2d|>\n- kiss<|split_2d|>\n- nodding<|split_2d|>\n- lie<|split_2d|>\n- shaking hand<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "nodding",
+      "incorrect_answers": [
+        "handshake",
+        "kiss",
+        "lie",
+        "shaking hand"
+      ]
+    }
+  },
+  {
+    "prompt": "Over-indulgence when having food can lead to what?\n<|start_2d|>\n- weight lost<|split_2d|>\n- eating food<|split_2d|>\n- digesting<|split_2d|>\n- being full<|split_2d|>\n- getting fat<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "getting fat",
+      "incorrect_answers": [
+        "weight lost",
+        "eating food",
+        "digesting",
+        "being full"
+      ]
+    }
+  },
+  {
+    "prompt": "Who is someone competing against?\n<|start_2d|>\n- effort<|split_2d|>\n- time<|split_2d|>\n- opponent<|split_2d|>\n- skill<|split_2d|>\n- competition<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "opponent",
+      "incorrect_answers": [
+        "effort",
+        "time",
+        "skill",
+        "competition"
+      ]
+    }
+  },
+  {
+    "prompt": "The guy ate a lunch of onions, sardines, and garlic, what did he have as a result?\n<|start_2d|>\n- bad breath<|split_2d|>\n- no friends<|split_2d|>\n- farts<|split_2d|>\n- late for work<|split_2d|>\n- gain weight<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "bad breath",
+      "incorrect_answers": [
+        "no friends",
+        "farts",
+        "late for work",
+        "gain weight"
+      ]
+    }
+  },
+  {
+    "prompt": "If a human breaks the law, where could they be placed?\n<|start_2d|>\n- school<|split_2d|>\n- church<|split_2d|>\n- love<|split_2d|>\n- jail<|split_2d|>\n- foster care<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "jail",
+      "incorrect_answers": [
+        "school",
+        "church",
+        "love",
+        "foster care"
+      ]
+    }
+  },
+  {
+    "prompt": "Why are cooks hired?\n<|start_2d|>\n- to be fired<|split_2d|>\n- prepare meals<|split_2d|>\n- season with salt<|split_2d|>\n- better food<|split_2d|>\n- perfect food<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "prepare meals",
+      "incorrect_answers": [
+        "to be fired",
+        "season with salt",
+        "better food",
+        "perfect food"
+      ]
+    }
+  },
+  {
+    "prompt": "When birds are looking for a mate they're going to be doing what?\n<|start_2d|>\n- pretty smart<|split_2d|>\n- small<|split_2d|>\n- very colorful<|split_2d|>\n- pick up prostitutes<|split_2d|>\n- singing<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "singing",
+      "incorrect_answers": [
+        "pretty smart",
+        "small",
+        "very colorful",
+        "pick up prostitutes"
+      ]
+    }
+  },
+  {
+    "prompt": "What are you trying to achieve when you're talking?\n<|start_2d|>\n- opera<|split_2d|>\n- making sound<|split_2d|>\n- people to listen<|split_2d|>\n- attempting to communicate<|split_2d|>\n- dry mouth<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "attempting to communicate",
+      "incorrect_answers": [
+        "opera",
+        "making sound",
+        "people to listen",
+        "dry mouth"
+      ]
+    }
+  },
+  {
+    "prompt": "What can long kissing lead to?\n<|start_2d|>\n- feeling good<|split_2d|>\n- pleasure<|split_2d|>\n- being happy<|split_2d|>\n- bad breath<|split_2d|>\n- sexual excitement<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "sexual excitement",
+      "incorrect_answers": [
+        "feeling good",
+        "pleasure",
+        "being happy",
+        "bad breath"
+      ]
+    }
+  },
+  {
+    "prompt": "After running twenty six miles he felt like he had lost twenty six pounds, this was from all the what?\n<|start_2d|>\n- exercise<|split_2d|>\n- sweat<|split_2d|>\n- pass out<|split_2d|>\n- collapse<|split_2d|>\n- drink water<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "sweat",
+      "incorrect_answers": [
+        "exercise",
+        "pass out",
+        "collapse",
+        "drink water"
+      ]
+    }
+  },
+  {
+    "prompt": "What do you get when you analysing something new?\n<|start_2d|>\n- change<|split_2d|>\n- better knowledge<|split_2d|>\n- enlightened<|split_2d|>\n- get smart<|split_2d|>\n- learning more about<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "better knowledge",
+      "incorrect_answers": [
+        "change",
+        "enlightened",
+        "get smart",
+        "learning more about"
+      ]
+    }
+  },
+  {
+    "prompt": "Where would a box office be selling tickets for something that is happening outside?\n<|start_2d|>\n- movie theater<|split_2d|>\n- theater district<|split_2d|>\n- ballpark<|split_2d|>\n- theatre<|split_2d|>\n- street<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "ballpark",
+      "incorrect_answers": [
+        "movie theater",
+        "theater district",
+        "theatre",
+        "street"
+      ]
+    }
+  },
+  {
+    "prompt": "What events are typical, expected and not divine?\n<|start_2d|>\n- undivine<|split_2d|>\n- humdrum<|split_2d|>\n- godless<|split_2d|>\n- horrible<|split_2d|>\n- cursed<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "humdrum",
+      "incorrect_answers": [
+        "undivine",
+        "godless",
+        "horrible",
+        "cursed"
+      ]
+    }
+  },
+  {
+    "prompt": "She celebrated her success by giving a speech, where was she?\n<|start_2d|>\n- graveyard<|split_2d|>\n- awards ceremony<|split_2d|>\n- various situations<|split_2d|>\n- vocation<|split_2d|>\n- working hard<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "awards ceremony",
+      "incorrect_answers": [
+        "graveyard",
+        "various situations",
+        "vocation",
+        "working hard"
+      ]
+    }
+  },
+  {
+    "prompt": "What is a steel cable called a wire rope primarily used for?\n<|start_2d|>\n- factory<|split_2d|>\n- building<|split_2d|>\n- winch<|split_2d|>\n- ship<|split_2d|>\n- jumprope<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "ship",
+      "incorrect_answers": [
+        "factory",
+        "building",
+        "winch",
+        "jumprope"
+      ]
+    }
+  },
+  {
+    "prompt": "If a person wants to take up harmonica where might they find one to get started?\n<|start_2d|>\n- blues band<|split_2d|>\n- outside<|split_2d|>\n- music shop<|split_2d|>\n- mouth<|split_2d|>\n- pocket<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "music shop",
+      "incorrect_answers": [
+        "blues band",
+        "outside",
+        "mouth",
+        "pocket"
+      ]
+    }
+  },
+  {
+    "prompt": "What leads someone to learning about world?\n<|start_2d|>\n- anger<|split_2d|>\n- open mind<|split_2d|>\n- biology book<|split_2d|>\n- smartness<|split_2d|>\n- cynicism<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "open mind",
+      "incorrect_answers": [
+        "anger",
+        "biology book",
+        "smartness",
+        "cynicism"
+      ]
+    }
+  },
+  {
+    "prompt": "If a person is trying new things, what is their goal?\n<|start_2d|>\n- cross street<|split_2d|>\n- man crew<|split_2d|>\n- cross road<|split_2d|>\n- lose weight<|split_2d|>\n- experience life<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "experience life",
+      "incorrect_answers": [
+        "cross street",
+        "man crew",
+        "cross road",
+        "lose weight"
+      ]
+    }
+  },
+  {
+    "prompt": "What happens to a neighborhood when someone is known to be hurting someone else?\n<|start_2d|>\n- public outcry<|split_2d|>\n- more hurt<|split_2d|>\n- people become happy<|split_2d|>\n- legal problems<|split_2d|>\n- physical pain<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "public outcry",
+      "incorrect_answers": [
+        "more hurt",
+        "people become happy",
+        "legal problems",
+        "physical pain"
+      ]
+    }
+  },
+  {
+    "prompt": "In what geological feature will you find fungus growing?\n<|start_2d|>\n- shower stall<|split_2d|>\n- toenails<|split_2d|>\n- basement<|split_2d|>\n- forrest<|split_2d|>\n- cave<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "cave",
+      "incorrect_answers": [
+        "shower stall",
+        "toenails",
+        "basement",
+        "forrest"
+      ]
+    }
+  },
+  {
+    "prompt": "John buys a 5 pound block of salt. Where is he likely to keep it?\n<|start_2d|>\n- shaker<|split_2d|>\n- sea water<|split_2d|>\n- falling down<|split_2d|>\n- kitchen cupboard<|split_2d|>\n- fast food restaurant<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "kitchen cupboard",
+      "incorrect_answers": [
+        "shaker",
+        "sea water",
+        "falling down",
+        "fast food restaurant"
+      ]
+    }
+  },
+  {
+    "prompt": "Where might a t-shirt be kept?\n<|start_2d|>\n- suitcase<|split_2d|>\n- underground<|split_2d|>\n- shirtdress<|split_2d|>\n- closet<|split_2d|>\n- drawer<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "drawer",
+      "incorrect_answers": [
+        "suitcase",
+        "underground",
+        "shirtdress",
+        "closet"
+      ]
+    }
+  },
+  {
+    "prompt": "When making a list what comes after the main item?\n<|start_2d|>\n- minor<|split_2d|>\n- impossibles<|split_2d|>\n- secondary<|split_2d|>\n- maintopmast<|split_2d|>\n- peripheral<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "secondary",
+      "incorrect_answers": [
+        "minor",
+        "impossibles",
+        "maintopmast",
+        "peripheral"
+      ]
+    }
+  },
+  {
+    "prompt": "John wants to eat at an Indian restaurant in on top of the space needle, where would he have to go?\n<|start_2d|>\n- reservation<|split_2d|>\n- curry<|split_2d|>\n- britsh town<|split_2d|>\n- seattle<|split_2d|>\n- large city<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "seattle",
+      "incorrect_answers": [
+        "reservation",
+        "curry",
+        "britsh town",
+        "large city"
+      ]
+    }
+  },
+  {
+    "prompt": "Where do tabby cats usually like to live?\n<|start_2d|>\n- dumpsters<|split_2d|>\n- alley<|split_2d|>\n- lap<|split_2d|>\n- home<|split_2d|>\n- barn<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "barn",
+      "incorrect_answers": [
+        "dumpsters",
+        "alley",
+        "lap",
+        "home"
+      ]
+    }
+  },
+  {
+    "prompt": "Their first kiss was ruined, his bad choice of smoking had given him what?\n<|start_2d|>\n- lung disease<|split_2d|>\n- persistent cough<|split_2d|>\n- birth defects<|split_2d|>\n- bad breath<|split_2d|>\n- ashtray<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "bad breath",
+      "incorrect_answers": [
+        "lung disease",
+        "persistent cough",
+        "birth defects",
+        "ashtray"
+      ]
+    }
+  },
+  {
+    "prompt": "What are people in awe of in New York City?\n<|start_2d|>\n- opera<|split_2d|>\n- buildings<|split_2d|>\n- fireworks<|split_2d|>\n- end of line<|split_2d|>\n- neighbor's house<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "buildings",
+      "incorrect_answers": [
+        "opera",
+        "fireworks",
+        "end of line",
+        "neighbor's house"
+      ]
+    }
+  },
+  {
+    "prompt": "The catwalk was five stories up and exposed, everybody had to wear helmets and harnesses at the where?\n<|start_2d|>\n- mountain<|split_2d|>\n- construction site<|split_2d|>\n- theatre<|split_2d|>\n- fieldhouse<|split_2d|>\n- fashion show<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "construction site",
+      "incorrect_answers": [
+        "mountain",
+        "theatre",
+        "fieldhouse",
+        "fashion show"
+      ]
+    }
+  },
+  {
+    "prompt": "How does a doctor deal with suffering and death in his patients?\n<|start_2d|>\n- care for patients<|split_2d|>\n- distance himself<|split_2d|>\n- goes to therapy<|split_2d|>\n- let blood<|split_2d|>\n- study medicine<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "distance himself",
+      "incorrect_answers": [
+        "care for patients",
+        "goes to therapy",
+        "let blood",
+        "study medicine"
+      ]
+    }
+  },
+  {
+    "prompt": "The writer wasn't known for them but he loved to what about nature?\n<|start_2d|>\n- write poems<|split_2d|>\n- advertising company<|split_2d|>\n- see work<|split_2d|>\n- write letter<|split_2d|>\n- write novels<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "write poems",
+      "incorrect_answers": [
+        "advertising company",
+        "see work",
+        "write letter",
+        "write novels"
+      ]
+    }
+  },
+  {
+    "prompt": "Children leave home with clean clothes and then?\n<|start_2d|>\n- use water<|split_2d|>\n- soap<|split_2d|>\n- launder<|split_2d|>\n- cry<|split_2d|>\n- get dirty<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "get dirty",
+      "incorrect_answers": [
+        "use water",
+        "soap",
+        "launder",
+        "cry"
+      ]
+    }
+  },
+  {
+    "prompt": "If you're caught buying beer for children what will happen?\n<|start_2d|>\n- problems<|split_2d|>\n- losing money<|split_2d|>\n- get arrested<|split_2d|>\n- fighting<|split_2d|>\n- relaxation<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "get arrested",
+      "incorrect_answers": [
+        "problems",
+        "losing money",
+        "fighting",
+        "relaxation"
+      ]
+    }
+  },
+  {
+    "prompt": "The old house had a loose window, this meant the what needed a coat of paint yearly?\n<|start_2d|>\n- windowsill<|split_2d|>\n- door<|split_2d|>\n- garage<|split_2d|>\n- hardware store<|split_2d|>\n- shelf<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "windowsill",
+      "incorrect_answers": [
+        "door",
+        "garage",
+        "hardware store",
+        "shelf"
+      ]
+    }
+  },
+  {
+    "prompt": "What do you add to you dough when making bread to make it rise?\n<|start_2d|>\n- yeast<|split_2d|>\n- oven<|split_2d|>\n- mess<|split_2d|>\n- flour<|split_2d|>\n- biscuit<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "yeast",
+      "incorrect_answers": [
+        "oven",
+        "mess",
+        "flour",
+        "biscuit"
+      ]
+    }
+  },
+  {
+    "prompt": "What might happen to a person with a tumor?\n<|start_2d|>\n- travel<|split_2d|>\n- die of cancer<|split_2d|>\n- cross street<|split_2d|>\n- meet friends<|split_2d|>\n- say words<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "die of cancer",
+      "incorrect_answers": [
+        "travel",
+        "cross street",
+        "meet friends",
+        "say words"
+      ]
+    }
+  },
+  {
+    "prompt": "If you rent a condominium in a glove-shaped state where are you?\n<|start_2d|>\n- great lake state<|split_2d|>\n- michigan<|split_2d|>\n- community<|split_2d|>\n- towels<|split_2d|>\n- complex<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "michigan",
+      "incorrect_answers": [
+        "great lake state",
+        "community",
+        "towels",
+        "complex"
+      ]
+    }
+  },
+  {
+    "prompt": "How might a bank statement arrive at someone's house?\n<|start_2d|>\n- legal document<|split_2d|>\n- newspaper<|split_2d|>\n- press release<|split_2d|>\n- email<|split_2d|>\n- mail<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "mail",
+      "incorrect_answers": [
+        "legal document",
+        "newspaper",
+        "press release",
+        "email"
+      ]
+    }
+  },
+  {
+    "prompt": "John wanted to keep his food fresh, she he bought something that would let him suck the air it, leaving empty space inside.   This would keep food fresh.  This item was a type of what?\n<|start_2d|>\n- front<|split_2d|>\n- jar<|split_2d|>\n- baggie<|split_2d|>\n- box<|split_2d|>\n- universe<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "jar",
+      "incorrect_answers": [
+        "front",
+        "baggie",
+        "box",
+        "universe"
+      ]
+    }
+  },
+  {
+    "prompt": "Stood below the balloons and studied them closely.  As he looked to the sky, he didn't see anything holding them up.  He wondered what the balloons where?\n<|start_2d|>\n- aloft<|split_2d|>\n- overhead<|split_2d|>\n- upwards<|split_2d|>\n- upstairs<|split_2d|>\n- above<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "aloft",
+      "incorrect_answers": [
+        "overhead",
+        "upwards",
+        "upstairs",
+        "above"
+      ]
+    }
+  },
+  {
+    "prompt": "When someone is not living anymore they?\n<|start_2d|>\n- trying to stay happy<|split_2d|>\n- seeing<|split_2d|>\n- die<|split_2d|>\n- experiencing<|split_2d|>\n- expire<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "die",
+      "incorrect_answers": [
+        "trying to stay happy",
+        "seeing",
+        "experiencing",
+        "expire"
+      ]
+    }
+  },
+  {
+    "prompt": "What does a person do in a dirty kitchen?\n<|start_2d|>\n- wash dishes<|split_2d|>\n- cook dinner<|split_2d|>\n- thank god<|split_2d|>\n- mop<|split_2d|>\n- cook food<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "wash dishes",
+      "incorrect_answers": [
+        "cook dinner",
+        "thank god",
+        "mop",
+        "cook food"
+      ]
+    }
+  },
+  {
+    "prompt": "The big match was today and those lucky enough to have tickets filled in to the what?\n<|start_2d|>\n- football stadium<|split_2d|>\n- bus depot<|split_2d|>\n- bath<|split_2d|>\n- surface of earth<|split_2d|>\n- apartment<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "football stadium",
+      "incorrect_answers": [
+        "bus depot",
+        "bath",
+        "surface of earth",
+        "apartment"
+      ]
+    }
+  },
+  {
+    "prompt": "When one is stabbing to death another, they might look around and realize what a what they have made?\n<|start_2d|>\n- bleeding<|split_2d|>\n- knife<|split_2d|>\n- gruesome<|split_2d|>\n- killing<|split_2d|>\n- mess<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "mess",
+      "incorrect_answers": [
+        "bleeding",
+        "knife",
+        "gruesome",
+        "killing"
+      ]
+    }
+  },
+  {
+    "prompt": "A reaching advantage will lead to what in a race?\n<|start_2d|>\n- victory<|split_2d|>\n- being ahead<|split_2d|>\n- winning prize<|split_2d|>\n- new option<|split_2d|>\n- fall<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "being ahead",
+      "incorrect_answers": [
+        "victory",
+        "winning prize",
+        "new option",
+        "fall"
+      ]
+    }
+  },
+  {
+    "prompt": "A hurricane is similar to what other wind event?\n<|start_2d|>\n- tornadocane<|split_2d|>\n- disaster<|split_2d|>\n- tornadoes<|split_2d|>\n- death<|split_2d|>\n- horrendous<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "tornadoes",
+      "incorrect_answers": [
+        "tornadocane",
+        "disaster",
+        "death",
+        "horrendous"
+      ]
+    }
+  },
+  {
+    "prompt": "Joe put clear tape on his glasses because he did not want to do what to his field of vision?\n<|start_2d|>\n- obscure<|split_2d|>\n- confusing<|split_2d|>\n- change<|split_2d|>\n- opaque<|split_2d|>\n- thick<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "obscure",
+      "incorrect_answers": [
+        "confusing",
+        "change",
+        "opaque",
+        "thick"
+      ]
+    }
+  },
+  {
+    "prompt": "Where could you find a person standing next to a net?\n<|start_2d|>\n- ocean<|split_2d|>\n- soccer game<|split_2d|>\n- fishing gear<|split_2d|>\n- fisherman's boat<|split_2d|>\n- fishing boat<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "soccer game",
+      "incorrect_answers": [
+        "ocean",
+        "fishing gear",
+        "fisherman's boat",
+        "fishing boat"
+      ]
+    }
+  },
+  {
+    "prompt": "He was really cashing in after the accident, the judge ruled he would be what in full?\n<|start_2d|>\n- selling out<|split_2d|>\n- hitting the jackpot<|split_2d|>\n- receiving money<|split_2d|>\n- happy<|split_2d|>\n- getting paid<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "receiving money",
+      "incorrect_answers": [
+        "selling out",
+        "hitting the jackpot",
+        "happy",
+        "getting paid"
+      ]
+    }
+  },
+  {
+    "prompt": "Where would you go if you want to get many types of goods?\n<|start_2d|>\n- shop<|split_2d|>\n- supermarket<|split_2d|>\n- shop<|split_2d|>\n- mall<|split_2d|>\n- grocery store<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "supermarket",
+      "incorrect_answers": [
+        "shop",
+        "shop",
+        "mall",
+        "grocery store"
+      ]
+    }
+  },
+  {
+    "prompt": "Where is likely to have a large door?\n<|start_2d|>\n- van<|split_2d|>\n- building<|split_2d|>\n- apartment<|split_2d|>\n- neighbor's house<|split_2d|>\n- wall<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "building",
+      "incorrect_answers": [
+        "van",
+        "apartment",
+        "neighbor's house",
+        "wall"
+      ]
+    }
+  },
+  {
+    "prompt": "James finishes playing with his ball and left it on the floor.  His mother found it and put it somewhere that he could find it easily.  Where might she put it?\n<|start_2d|>\n- playroom<|split_2d|>\n- brush<|split_2d|>\n- closet<|split_2d|>\n- toy box<|split_2d|>\n- pool table<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "toy box",
+      "incorrect_answers": [
+        "playroom",
+        "brush",
+        "closet",
+        "pool table"
+      ]
+    }
+  },
+  {
+    "prompt": "They would only allow one more in, he was unfortunately a what?\n<|start_2d|>\n- forbid<|split_2d|>\n- deny<|split_2d|>\n- reject<|split_2d|>\n- reject<|split_2d|>\n- permitted<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "reject",
+      "incorrect_answers": [
+        "forbid",
+        "deny",
+        "permitted"
+      ]
+    }
+  },
+  {
+    "prompt": "Billy enjoyed answering questions.  When all of the questioners went home he experienced what emotion?\n<|start_2d|>\n- contempt<|split_2d|>\n- irritation<|split_2d|>\n- discussion<|split_2d|>\n- polite<|split_2d|>\n- sadness<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "sadness",
+      "incorrect_answers": [
+        "contempt",
+        "irritation",
+        "discussion",
+        "polite"
+      ]
+    }
+  },
+  {
+    "prompt": "James wanted to ruin the parade.  In order to do that, he did something in the middle of the street.  What did he do?\n<|start_2d|>\n- found<|split_2d|>\n- fix<|split_2d|>\n- new construction<|split_2d|>\n- construct<|split_2d|>\n- produce<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "construct",
+      "incorrect_answers": [
+        "found",
+        "fix",
+        "new construction",
+        "produce"
+      ]
+    }
+  },
+  {
+    "prompt": "The excavation workers had to take extra care to stay hydrated, what landscape might they be working?\n<|start_2d|>\n- city<|split_2d|>\n- montana<|split_2d|>\n- egypt<|split_2d|>\n- store<|split_2d|>\n- desert<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "desert",
+      "incorrect_answers": [
+        "city",
+        "montana",
+        "egypt",
+        "store"
+      ]
+    }
+  },
+  {
+    "prompt": "The researcher cut his hand and went to the sink, where was the researcher?\n<|start_2d|>\n- home<|split_2d|>\n- chemistry lab<|split_2d|>\n- apartment<|split_2d|>\n- laboratory<|split_2d|>\n- laundry room<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "laboratory",
+      "incorrect_answers": [
+        "home",
+        "chemistry lab",
+        "apartment",
+        "laundry room"
+      ]
+    }
+  },
+  {
+    "prompt": "What is often the function of ice?\n<|start_2d|>\n- cool water<|split_2d|>\n- cool drink<|split_2d|>\n- harm humans<|split_2d|>\n- become water<|split_2d|>\n- form crystals<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "cool drink",
+      "incorrect_answers": [
+        "cool water",
+        "harm humans",
+        "become water",
+        "form crystals"
+      ]
+    }
+  },
+  {
+    "prompt": "If you get too drunk and make a mess with your own liquids what have you likely done?\n<|start_2d|>\n- vomit<|split_2d|>\n- fall down<|split_2d|>\n- stagger<|split_2d|>\n- spill gasoline<|split_2d|>\n- get arrested<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "vomit",
+      "incorrect_answers": [
+        "fall down",
+        "stagger",
+        "spill gasoline",
+        "get arrested"
+      ]
+    }
+  },
+  {
+    "prompt": "Where can you store a pie?\n<|start_2d|>\n- outside<|split_2d|>\n- windowsill<|split_2d|>\n- freezer<|split_2d|>\n- refrigerator<|split_2d|>\n- oven<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "refrigerator",
+      "incorrect_answers": [
+        "outside",
+        "windowsill",
+        "freezer",
+        "oven"
+      ]
+    }
+  },
+  {
+    "prompt": "What can you put in a parking lot?\n<|start_2d|>\n- car<|split_2d|>\n- town<|split_2d|>\n- circus<|split_2d|>\n- city<|split_2d|>\n- business district<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "car",
+      "incorrect_answers": [
+        "town",
+        "circus",
+        "city",
+        "business district"
+      ]
+    }
+  },
+  {
+    "prompt": "WHat do many people like to do at festivals?\n<|start_2d|>\n- play games<|split_2d|>\n- talk<|split_2d|>\n- hear birds voices<|split_2d|>\n- eat ice cream<|split_2d|>\n- listen to music<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "listen to music",
+      "incorrect_answers": [
+        "play games",
+        "talk",
+        "hear birds voices",
+        "eat ice cream"
+      ]
+    }
+  },
+  {
+    "prompt": "Where are you likely to find endless shelves?\n<|start_2d|>\n- kitchen<|split_2d|>\n- corner<|split_2d|>\n- bookstore<|split_2d|>\n- refrigerator<|split_2d|>\n- cupboard<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "bookstore",
+      "incorrect_answers": [
+        "kitchen",
+        "corner",
+        "refrigerator",
+        "cupboard"
+      ]
+    }
+  },
+  {
+    "prompt": "He saw that he was about an hour from Jackson after heaidng east on the de Soto bridge, where was he?\n<|start_2d|>\n- tennessee<|split_2d|>\n- atlanta<|split_2d|>\n- wyoming<|split_2d|>\n- michigan<|split_2d|>\n- mississippi<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "tennessee",
+      "incorrect_answers": [
+        "atlanta",
+        "wyoming",
+        "michigan",
+        "mississippi"
+      ]
+    }
+  },
+  {
+    "prompt": "The temperature was such that one could see their breath, what was occuring?\n<|start_2d|>\n- increase<|split_2d|>\n- drop rapidly<|split_2d|>\n- drop to zero<|split_2d|>\n- mist<|split_2d|>\n- heat up<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "drop to zero",
+      "incorrect_answers": [
+        "increase",
+        "drop rapidly",
+        "mist",
+        "heat up"
+      ]
+    }
+  },
+  {
+    "prompt": "Computers were important in John's work, but they were useless if they weren't what?\n<|start_2d|>\n- help people<|split_2d|>\n- networked<|split_2d|>\n- crash<|split_2d|>\n- enable<|split_2d|>\n- do work<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "networked",
+      "incorrect_answers": [
+        "help people",
+        "crash",
+        "enable",
+        "do work"
+      ]
+    }
+  },
+  {
+    "prompt": "Where would you place a bed in a new house?\n<|start_2d|>\n- garage<|split_2d|>\n- furniture<|split_2d|>\n- floor<|split_2d|>\n- sleep<|split_2d|>\n- awake<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "floor",
+      "incorrect_answers": [
+        "garage",
+        "furniture",
+        "sleep",
+        "awake"
+      ]
+    }
+  },
+  {
+    "prompt": "What do people do sometimes when they find a good deal?\n<|start_2d|>\n- race cars<|split_2d|>\n- believe in god<|split_2d|>\n- fight each other<|split_2d|>\n- fear death<|split_2d|>\n- murder each other<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "fight each other",
+      "incorrect_answers": [
+        "race cars",
+        "believe in god",
+        "fear death",
+        "murder each other"
+      ]
+    }
+  },
+  {
+    "prompt": "What does a spider build to capture it's prey?\n<|start_2d|>\n- web<|split_2d|>\n- bridge<|split_2d|>\n- cellar<|split_2d|>\n- basement<|split_2d|>\n- hanging in air<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "web",
+      "incorrect_answers": [
+        "bridge",
+        "cellar",
+        "basement",
+        "hanging in air"
+      ]
+    }
+  },
+  {
+    "prompt": "Where would a beauty parlor be?\n<|start_2d|>\n- georgian houses<|split_2d|>\n- city<|split_2d|>\n- building<|split_2d|>\n- victorian house<|split_2d|>\n- underwater<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "building",
+      "incorrect_answers": [
+        "georgian houses",
+        "city",
+        "victorian house",
+        "underwater"
+      ]
+    }
+  },
+  {
+    "prompt": "The boy pondered commititng suicide, but didn't think of the consequences, what would he do should he carry though with it?\n<|start_2d|>\n- extreme pain<|split_2d|>\n- die<|split_2d|>\n- dying<|split_2d|>\n- interruption<|split_2d|>\n- sit down<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "die",
+      "incorrect_answers": [
+        "extreme pain",
+        "dying",
+        "interruption",
+        "sit down"
+      ]
+    }
+  },
+  {
+    "prompt": "Where can a woman get birth control pills?\n<|start_2d|>\n- drug store<|split_2d|>\n- medicine cabinet<|split_2d|>\n- hormones<|split_2d|>\n- vagina<|split_2d|>\n- pharmacy<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "pharmacy",
+      "incorrect_answers": [
+        "drug store",
+        "medicine cabinet",
+        "hormones",
+        "vagina"
+      ]
+    }
+  },
+  {
+    "prompt": "Sam's children are rambunctious.  What might they do?\n<|start_2d|>\n- break things<|split_2d|>\n- play sports<|split_2d|>\n- play with toys<|split_2d|>\n- play ball<|split_2d|>\n- throw things<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "throw things",
+      "incorrect_answers": [
+        "break things",
+        "play sports",
+        "play with toys",
+        "play ball"
+      ]
+    }
+  },
+  {
+    "prompt": "Lance owns a vineyard.  To make grapes he needs plenty of what?\n<|start_2d|>\n- deserts<|split_2d|>\n- shops<|split_2d|>\n- sunshine<|split_2d|>\n- kitchen<|split_2d|>\n- terrain<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "sunshine",
+      "incorrect_answers": [
+        "deserts",
+        "shops",
+        "kitchen",
+        "terrain"
+      ]
+    }
+  },
+  {
+    "prompt": "The dumb kid tried to use his student ID at the door, this obviously did not get him into the what?\n<|start_2d|>\n- bar<|split_2d|>\n- gentleman's lounge<|split_2d|>\n- kindergarten class<|split_2d|>\n- university<|split_2d|>\n- school<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "bar",
+      "incorrect_answers": [
+        "gentleman's lounge",
+        "kindergarten class",
+        "university",
+        "school"
+      ]
+    }
+  },
+  {
+    "prompt": "If the recipe called for a potato, where could you get one along with other ingredients?\n<|start_2d|>\n- pantry<|split_2d|>\n- farmer's field<|split_2d|>\n- cellar<|split_2d|>\n- food market<|split_2d|>\n- soil<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "food market",
+      "incorrect_answers": [
+        "pantry",
+        "farmer's field",
+        "cellar",
+        "soil"
+      ]
+    }
+  },
+  {
+    "prompt": "What do soldiers do when their opponents get the upper hand?\n<|start_2d|>\n- follow orders<|split_2d|>\n- use weapons<|split_2d|>\n- call reinforcements<|split_2d|>\n- coming home<|split_2d|>\n- die in battle<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "die in battle",
+      "incorrect_answers": [
+        "follow orders",
+        "use weapons",
+        "call reinforcements",
+        "coming home"
+      ]
+    }
+  },
+  {
+    "prompt": "Where is a dress shirt kept?\n<|start_2d|>\n- garderobe<|split_2d|>\n- drawer<|split_2d|>\n- suitcase<|split_2d|>\n- absence heat<|split_2d|>\n- closet<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "closet",
+      "incorrect_answers": [
+        "garderobe",
+        "drawer",
+        "suitcase",
+        "absence heat"
+      ]
+    }
+  },
+  {
+    "prompt": "Bob is happy that the programs he was in will be seen by millions of people.  Where will these programs be shown?\n<|start_2d|>\n- group functions<|split_2d|>\n- conference<|split_2d|>\n- theater<|split_2d|>\n- compute<|split_2d|>\n- television<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "television",
+      "incorrect_answers": [
+        "group functions",
+        "conference",
+        "theater",
+        "compute"
+      ]
+    }
+  },
+  {
+    "prompt": "Where are gallons of beer held in one container?\n<|start_2d|>\n- outside<|split_2d|>\n- friend's house<|split_2d|>\n- neighbor's house<|split_2d|>\n- keg<|split_2d|>\n- refrigerator<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "keg",
+      "incorrect_answers": [
+        "outside",
+        "friend's house",
+        "neighbor's house",
+        "refrigerator"
+      ]
+    }
+  },
+  {
+    "prompt": "The monkey was frightened because the zoo looked nothing like his home.  The plants were the same, the trees were the same, but it still wasn't right  Where did the monkey come from?\n<|start_2d|>\n- rain forest<|split_2d|>\n- treetops<|split_2d|>\n- tundra<|split_2d|>\n- playful mood<|split_2d|>\n- brazil<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "brazil",
+      "incorrect_answers": [
+        "rain forest",
+        "treetops",
+        "tundra",
+        "playful mood"
+      ]
+    }
+  },
+  {
+    "prompt": "John needed to go across the country so he ordered tickets online and got into his car.  Where might he be going?\n<|start_2d|>\n- train station<|split_2d|>\n- opera<|split_2d|>\n- car rental shop<|split_2d|>\n- show<|split_2d|>\n- race track<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "train station",
+      "incorrect_answers": [
+        "opera",
+        "car rental shop",
+        "show",
+        "race track"
+      ]
+    }
+  },
+  {
+    "prompt": "The woman called herself the Joy.  She married a man called what?\n<|start_2d|>\n- place plate on table<|split_2d|>\n- sadness<|split_2d|>\n- sorrow<|split_2d|>\n- misery<|split_2d|>\n- bad time<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "sorrow",
+      "incorrect_answers": [
+        "place plate on table",
+        "sadness",
+        "misery",
+        "bad time"
+      ]
+    }
+  },
+  {
+    "prompt": "The building could accommodate many people.  The entrance hall alone was impressive, being wide enough to admit a hundred shoulder to shoulder.  But the building was owned by a billionaire and used only for his personal entertainment.  How would you describe this place?\n<|start_2d|>\n- convention center<|split_2d|>\n- public building<|split_2d|>\n- large building<|split_2d|>\n- school<|split_2d|>\n- town hall<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "large building",
+      "incorrect_answers": [
+        "convention center",
+        "public building",
+        "school",
+        "town hall"
+      ]
+    }
+  },
+  {
+    "prompt": "Where do you go to see a dinosaur bone?\n<|start_2d|>\n- human body<|split_2d|>\n- arm<|split_2d|>\n- tomb<|split_2d|>\n- pyramid<|split_2d|>\n- museum<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "museum",
+      "incorrect_answers": [
+        "human body",
+        "arm",
+        "tomb",
+        "pyramid"
+      ]
+    }
+  },
+  {
+    "prompt": "A garage is a type of what?\n<|start_2d|>\n- home<|split_2d|>\n- building<|split_2d|>\n- downtown<|split_2d|>\n- storage area<|split_2d|>\n- car<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "building",
+      "incorrect_answers": [
+        "home",
+        "downtown",
+        "storage area",
+        "car"
+      ]
+    }
+  },
+  {
+    "prompt": "The back courtyard led to a walkout basement, where was it attached to?\n<|start_2d|>\n- suburbs<|split_2d|>\n- large house<|split_2d|>\n- farm house<|split_2d|>\n- palace<|split_2d|>\n- country estate<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "large house",
+      "incorrect_answers": [
+        "suburbs",
+        "farm house",
+        "palace",
+        "country estate"
+      ]
+    }
+  },
+  {
+    "prompt": "When young people are bored and want to recreate, what do they do?\n<|start_2d|>\n- play ball<|split_2d|>\n- choose life<|split_2d|>\n- talk to each other<|split_2d|>\n- play outside<|split_2d|>\n- write programs<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "play outside",
+      "incorrect_answers": [
+        "play ball",
+        "choose life",
+        "talk to each other",
+        "write programs"
+      ]
+    }
+  },
+  {
+    "prompt": "I am lost on a turnpike without a GPS, so what should I consult?\n<|start_2d|>\n- eastern united states<|split_2d|>\n- burying needle<|split_2d|>\n- atlas<|split_2d|>\n- urban region<|split_2d|>\n- interstate highway<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "atlas",
+      "incorrect_answers": [
+        "eastern united states",
+        "burying needle",
+        "urban region",
+        "interstate highway"
+      ]
+    }
+  },
+  {
+    "prompt": "If you lost track of a monkey at home what is the closest place you should look first?\n<|start_2d|>\n- canada<|split_2d|>\n- friend's house<|split_2d|>\n- rain forest<|split_2d|>\n- amazon basin<|split_2d|>\n- african continent<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "friend's house",
+      "incorrect_answers": [
+        "canada",
+        "rain forest",
+        "amazon basin",
+        "african continent"
+      ]
+    }
+  },
+  {
+    "prompt": "Why would someone close a door?\n<|start_2d|>\n- keep people out<|split_2d|>\n- prevent wind<|split_2d|>\n- enclose cupboard<|split_2d|>\n- open<|split_2d|>\n- glass<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "keep people out",
+      "incorrect_answers": [
+        "prevent wind",
+        "enclose cupboard",
+        "open",
+        "glass"
+      ]
+    }
+  },
+  {
+    "prompt": "What floor do you run between rooms?\n<|start_2d|>\n- carpet<|split_2d|>\n- exchange<|split_2d|>\n- dance<|split_2d|>\n- building<|split_2d|>\n- hallway<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "hallway",
+      "incorrect_answers": [
+        "carpet",
+        "exchange",
+        "dance",
+        "building"
+      ]
+    }
+  },
+  {
+    "prompt": "Lily bought some new clothing at the mall. She put it in her car and took it somewhere. Where might she take it?\n<|start_2d|>\n- closet<|split_2d|>\n- yard sale<|split_2d|>\n- drawer<|split_2d|>\n- trunk<|split_2d|>\n- house<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "house",
+      "incorrect_answers": [
+        "closet",
+        "yard sale",
+        "drawer",
+        "trunk"
+      ]
+    }
+  },
+  {
+    "prompt": "These locker rooms are often visited by reporters.\n<|start_2d|>\n- jocks<|split_2d|>\n- health club<|split_2d|>\n- gymnasium<|split_2d|>\n- stadium<|split_2d|>\n- hatred<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "stadium",
+      "incorrect_answers": [
+        "jocks",
+        "health club",
+        "gymnasium",
+        "hatred"
+      ]
+    }
+  },
+  {
+    "prompt": "Humans enjoy sitting while expressing themselves artistically, so what did they invent?\n<|start_2d|>\n- sit down<|split_2d|>\n- play piano<|split_2d|>\n- excrete<|split_2d|>\n- eat meat<|split_2d|>\n- catch fish<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "play piano",
+      "incorrect_answers": [
+        "sit down",
+        "excrete",
+        "eat meat",
+        "catch fish"
+      ]
+    }
+  },
+  {
+    "prompt": "John thought that there was no conflict between religion and what?\n<|start_2d|>\n- atheist<|split_2d|>\n- atheism<|split_2d|>\n- important to people<|split_2d|>\n- wars<|split_2d|>\n- science<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "science",
+      "incorrect_answers": [
+        "atheist",
+        "atheism",
+        "important to people",
+        "wars"
+      ]
+    }
+  },
+  {
+    "prompt": "What can planning vacation lead to between a couple when they disagree?\n<|start_2d|>\n- relaxation<|split_2d|>\n- enjoying<|split_2d|>\n- arguments<|split_2d|>\n- going abroad<|split_2d|>\n- spending money<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "arguments",
+      "incorrect_answers": [
+        "relaxation",
+        "enjoying",
+        "going abroad",
+        "spending money"
+      ]
+    }
+  },
+  {
+    "prompt": "When you're telling many people about something you will need to do what to address them?\n<|start_2d|>\n- hand signals<|split_2d|>\n- speak<|split_2d|>\n- shout<|split_2d|>\n- earthquake<|split_2d|>\n- yell<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "speak",
+      "incorrect_answers": [
+        "hand signals",
+        "shout",
+        "earthquake",
+        "yell"
+      ]
+    }
+  },
+  {
+    "prompt": "Since we aren't immortal, people should what?\n<|start_2d|>\n- expect to die<|split_2d|>\n- pay bills<|split_2d|>\n- buy pets<|split_2d|>\n- stay in<|split_2d|>\n- eat corn<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "expect to die",
+      "incorrect_answers": [
+        "pay bills",
+        "buy pets",
+        "stay in",
+        "eat corn"
+      ]
+    }
+  },
+  {
+    "prompt": "Where would you find travelers that are planning to go to a different continent?\n<|start_2d|>\n- rest area<|split_2d|>\n- bus depot<|split_2d|>\n- train station<|split_2d|>\n- airport<|split_2d|>\n- book tickets<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "airport",
+      "incorrect_answers": [
+        "rest area",
+        "bus depot",
+        "train station",
+        "book tickets"
+      ]
+    }
+  },
+  {
+    "prompt": "Despite this name out front you will also find beer and wine where too?\n<|start_2d|>\n- liquor store<|split_2d|>\n- texas<|split_2d|>\n- art show<|split_2d|>\n- basement<|split_2d|>\n- spaghetti sauce<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "liquor store",
+      "incorrect_answers": [
+        "texas",
+        "art show",
+        "basement",
+        "spaghetti sauce"
+      ]
+    }
+  },
+  {
+    "prompt": "Computers with audio cards can do what?\n<|start_2d|>\n- do work<|split_2d|>\n- produce sound<|split_2d|>\n- follow instructions<|split_2d|>\n- advance knowledge<|split_2d|>\n- solve problems<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "produce sound",
+      "incorrect_answers": [
+        "do work",
+        "follow instructions",
+        "advance knowledge",
+        "solve problems"
+      ]
+    }
+  },
+  {
+    "prompt": "Where can you buy a complex system?\n<|start_2d|>\n- place<|split_2d|>\n- clothing store<|split_2d|>\n- computer store<|split_2d|>\n- human body<|split_2d|>\n- computer science<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "computer store",
+      "incorrect_answers": [
+        "place",
+        "clothing store",
+        "human body",
+        "computer science"
+      ]
+    }
+  },
+  {
+    "prompt": "The man was crass and rude, all the what in the office filed a complaint together?\n<|start_2d|>\n- lady<|split_2d|>\n- wifes husband<|split_2d|>\n- women<|split_2d|>\n- her<|split_2d|>\n- female person<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "women",
+      "incorrect_answers": [
+        "lady",
+        "wifes husband",
+        "her",
+        "female person"
+      ]
+    }
+  },
+  {
+    "prompt": "Where are there often spiders in a house?\n<|start_2d|>\n- in wall<|split_2d|>\n- cellar<|split_2d|>\n- floor<|split_2d|>\n- web<|split_2d|>\n- basement<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "basement",
+      "incorrect_answers": [
+        "in wall",
+        "cellar",
+        "floor",
+        "web"
+      ]
+    }
+  },
+  {
+    "prompt": "The person signed up for a dating website, what is he looking for?\n<|start_2d|>\n- financial security<|split_2d|>\n- quick marriage<|split_2d|>\n- live well<|split_2d|>\n- own house<|split_2d|>\n- good relationship<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "good relationship",
+      "incorrect_answers": [
+        "financial security",
+        "quick marriage",
+        "live well",
+        "own house"
+      ]
+    }
+  },
+  {
+    "prompt": "What leads to mass death?\n<|start_2d|>\n- poisonous gas<|split_2d|>\n- homicide<|split_2d|>\n- suicide<|split_2d|>\n- poison leaves<|split_2d|>\n- nuclear weapons<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "nuclear weapons",
+      "incorrect_answers": [
+        "poisonous gas",
+        "homicide",
+        "suicide",
+        "poison leaves"
+      ]
+    }
+  },
+  {
+    "prompt": "What do people who are collectivist do?\n<|start_2d|>\n- sail boats<|split_2d|>\n- believe in god<|split_2d|>\n- shake hands<|split_2d|>\n- share things<|split_2d|>\n- question authority<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "share things",
+      "incorrect_answers": [
+        "sail boats",
+        "believe in god",
+        "shake hands",
+        "question authority"
+      ]
+    }
+  },
+  {
+    "prompt": "Lilly wanted to see every type of flower that there is.  But this is a tall order, because flowers grow all over what?\n<|start_2d|>\n- surface of earth<|split_2d|>\n- netherlands<|split_2d|>\n- countryside<|split_2d|>\n- state park<|split_2d|>\n- anthology<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "surface of earth",
+      "incorrect_answers": [
+        "netherlands",
+        "countryside",
+        "state park",
+        "anthology"
+      ]
+    }
+  },
+  {
+    "prompt": "The student liked to play tennis, she frequented the tennis court on the what?\n<|start_2d|>\n- recreational center<|split_2d|>\n- athletic club<|split_2d|>\n- soccer field<|split_2d|>\n- town<|split_2d|>\n- college campus<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "college campus",
+      "incorrect_answers": [
+        "recreational center",
+        "athletic club",
+        "soccer field",
+        "town"
+      ]
+    }
+  },
+  {
+    "prompt": "When is food never cold?\n<|start_2d|>\n- prepared<|split_2d|>\n- hot<|split_2d|>\n- baking<|split_2d|>\n- amiable<|split_2d|>\n- cooking<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "baking",
+      "incorrect_answers": [
+        "prepared",
+        "hot",
+        "amiable",
+        "cooking"
+      ]
+    }
+  },
+  {
+    "prompt": "Being fat is unhealthy, one who is should probably exercise to what?\n<|start_2d|>\n- stay fit<|split_2d|>\n- get in shape<|split_2d|>\n- look better<|split_2d|>\n- run faster<|split_2d|>\n- eat healthily<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "get in shape",
+      "incorrect_answers": [
+        "stay fit",
+        "look better",
+        "run faster",
+        "eat healthily"
+      ]
+    }
+  },
+  {
+    "prompt": "James likes listening to after a long and hard day, along with a cool bath.  He finds that it makes him what?\n<|start_2d|>\n- ardor<|split_2d|>\n- amusement<|split_2d|>\n- fall asleep<|split_2d|>\n- feeling better<|split_2d|>\n- enlightenment<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "feeling better",
+      "incorrect_answers": [
+        "ardor",
+        "amusement",
+        "fall asleep",
+        "enlightenment"
+      ]
+    }
+  },
+  {
+    "prompt": "For a stressed out mother a baby is cutest when it is able to what?\n<|start_2d|>\n- like spinach<|split_2d|>\n- laugh<|split_2d|>\n- sleep soundly<|split_2d|>\n- giggle<|split_2d|>\n- clap hands<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "sleep soundly",
+      "incorrect_answers": [
+        "like spinach",
+        "laugh",
+        "giggle",
+        "clap hands"
+      ]
+    }
+  },
+  {
+    "prompt": "Where is driftwood usually found in large quantities?\n<|start_2d|>\n- sea<|split_2d|>\n- ocean<|split_2d|>\n- beach<|split_2d|>\n- sand<|split_2d|>\n- drift<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "beach",
+      "incorrect_answers": [
+        "sea",
+        "ocean",
+        "sand",
+        "drift"
+      ]
+    }
+  },
+  {
+    "prompt": "When black and white balls are kicked with feet what is being played?\n<|start_2d|>\n- sporting event<|split_2d|>\n- gym<|split_2d|>\n- toy store<|split_2d|>\n- baseball<|split_2d|>\n- soccer game<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "soccer game",
+      "incorrect_answers": [
+        "sporting event",
+        "gym",
+        "toy store",
+        "baseball"
+      ]
+    }
+  },
+  {
+    "prompt": "What is often a side effect of traveling on the water?\n<|start_2d|>\n- seasickness<|split_2d|>\n- motion sickness<|split_2d|>\n- jet lag<|split_2d|>\n- diarrhea<|split_2d|>\n- fatigue<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "motion sickness",
+      "incorrect_answers": [
+        "seasickness",
+        "jet lag",
+        "diarrhea",
+        "fatigue"
+      ]
+    }
+  },
+  {
+    "prompt": "What do I attend annually to check out the offered programs?\n<|start_2d|>\n- think tank<|split_2d|>\n- group functions<|split_2d|>\n- theater<|split_2d|>\n- conference<|split_2d|>\n- television<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "conference",
+      "incorrect_answers": [
+        "think tank",
+        "group functions",
+        "theater",
+        "television"
+      ]
+    }
+  },
+  {
+    "prompt": "Where is a motorway likely to have tolls?\n<|start_2d|>\n- england<|split_2d|>\n- europe<|split_2d|>\n- city<|split_2d|>\n- new jersey<|split_2d|>\n- interstate<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "new jersey",
+      "incorrect_answers": [
+        "england",
+        "europe",
+        "city",
+        "interstate"
+      ]
+    }
+  },
+  {
+    "prompt": "What would you be if you do not have work?\n<|start_2d|>\n- unemployed<|split_2d|>\n- do nothing<|split_2d|>\n- play<|split_2d|>\n- celebrate<|split_2d|>\n- laziness<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "unemployed",
+      "incorrect_answers": [
+        "do nothing",
+        "play",
+        "celebrate",
+        "laziness"
+      ]
+    }
+  },
+  {
+    "prompt": "As the human rode in his spacecraft in orbit around his home planet, what did he have a view of?\n<|start_2d|>\n- workplace<|split_2d|>\n- international space station<|split_2d|>\n- anywhere on earth<|split_2d|>\n- places he knows well<|split_2d|>\n- strip club<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "anywhere on earth",
+      "incorrect_answers": [
+        "workplace",
+        "international space station",
+        "places he knows well",
+        "strip club"
+      ]
+    }
+  },
+  {
+    "prompt": "When someone is talking a lot and being lively, they are said to be?\n<|start_2d|>\n- speaking from mouth<|split_2d|>\n- voice<|split_2d|>\n- blabbering<|split_2d|>\n- being alive<|split_2d|>\n- speech<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "being alive",
+      "incorrect_answers": [
+        "speaking from mouth",
+        "voice",
+        "blabbering",
+        "speech"
+      ]
+    }
+  },
+  {
+    "prompt": "John cut his feet on broken glass while walking.  Where might have he been walking?\n<|start_2d|>\n- street<|split_2d|>\n- landfill<|split_2d|>\n- field<|split_2d|>\n- trash<|split_2d|>\n- beach<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "beach",
+      "incorrect_answers": [
+        "street",
+        "landfill",
+        "field",
+        "trash"
+      ]
+    }
+  },
+  {
+    "prompt": "He was eating too much and the doctors warned him, what was his condition?\n<|start_2d|>\n- gain weight<|split_2d|>\n- obesity<|split_2d|>\n- getting fit<|split_2d|>\n- getting sick<|split_2d|>\n- gas<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "obesity",
+      "incorrect_answers": [
+        "gain weight",
+        "getting fit",
+        "getting sick",
+        "gas"
+      ]
+    }
+  },
+  {
+    "prompt": "What could happen after you are eating lunch that affects other people?\n<|start_2d|>\n- gain weight<|split_2d|>\n- farts<|split_2d|>\n- jealous<|split_2d|>\n- heartburn<|split_2d|>\n- bad breath<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "bad breath",
+      "incorrect_answers": [
+        "gain weight",
+        "farts",
+        "jealous",
+        "heartburn"
+      ]
+    }
+  },
+  {
+    "prompt": "The robot could do lots of things, but unlike a human when presented with new situations it could not what?\n<|start_2d|>\n- torture<|split_2d|>\n- be clear<|split_2d|>\n- think and reason<|split_2d|>\n- think critically<|split_2d|>\n- have fever<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "think and reason",
+      "incorrect_answers": [
+        "torture",
+        "be clear",
+        "think critically",
+        "have fever"
+      ]
+    }
+  },
+  {
+    "prompt": "What did having sex as a gay man lead to twenty years ago?\n<|start_2d|>\n- making babies<|split_2d|>\n- bliss<|split_2d|>\n- unwanted pregnancy<|split_2d|>\n- aids<|split_2d|>\n- orgasm<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "aids",
+      "incorrect_answers": [
+        "making babies",
+        "bliss",
+        "unwanted pregnancy",
+        "orgasm"
+      ]
+    }
+  },
+  {
+    "prompt": "While getting drunk the body can only process so much at a time, go too fast and your belly might just make you what?\n<|start_2d|>\n- getting arrested<|split_2d|>\n- throw up<|split_2d|>\n- staggering<|split_2d|>\n- fall down<|split_2d|>\n- explode<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "throw up",
+      "incorrect_answers": [
+        "getting arrested",
+        "staggering",
+        "fall down",
+        "explode"
+      ]
+    }
+  },
+  {
+    "prompt": "Playing tennis can be a great workout, all the lateral movement really gets the whats?\n<|start_2d|>\n- legs<|split_2d|>\n- skill<|split_2d|>\n- hand<|split_2d|>\n- competition<|split_2d|>\n- tennis racket<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "legs",
+      "incorrect_answers": [
+        "skill",
+        "hand",
+        "competition",
+        "tennis racket"
+      ]
+    }
+  },
+  {
+    "prompt": "The snake was very cold inside it's cage, so at the first opportunity it did what?\n<|start_2d|>\n- pet<|split_2d|>\n- rude<|split_2d|>\n- tropical forest<|split_2d|>\n- sun itself<|split_2d|>\n- tree<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "sun itself",
+      "incorrect_answers": [
+        "pet",
+        "rude",
+        "tropical forest",
+        "tree"
+      ]
+    }
+  },
+  {
+    "prompt": "John thought that it was relaxing to do what?\n<|start_2d|>\n- feeling better<|split_2d|>\n- lie back<|split_2d|>\n- lower blood pressure<|split_2d|>\n- feel happy<|split_2d|>\n- fall asleep<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "lie back",
+      "incorrect_answers": [
+        "feeling better",
+        "lower blood pressure",
+        "feel happy",
+        "fall asleep"
+      ]
+    }
+  },
+  {
+    "prompt": "Where may a human find peace?\n<|start_2d|>\n- jail<|split_2d|>\n- train station<|split_2d|>\n- workplace<|split_2d|>\n- church<|split_2d|>\n- park<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "church",
+      "incorrect_answers": [
+        "jail",
+        "train station",
+        "workplace",
+        "park"
+      ]
+    }
+  },
+  {
+    "prompt": "A person surrounded by tools and oil cans would probably be found in a what?\n<|start_2d|>\n- garage<|split_2d|>\n- white house<|split_2d|>\n- synagogue<|split_2d|>\n- hospital<|split_2d|>\n- demonstration<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "garage",
+      "incorrect_answers": [
+        "white house",
+        "synagogue",
+        "hospital",
+        "demonstration"
+      ]
+    }
+  },
+  {
+    "prompt": "Why did the police office pull the car over?\n<|start_2d|>\n- going too fast<|split_2d|>\n- last several years<|split_2d|>\n- go fast<|split_2d|>\n- careless driving<|split_2d|>\n- start running<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "going too fast",
+      "incorrect_answers": [
+        "last several years",
+        "go fast",
+        "careless driving",
+        "start running"
+      ]
+    }
+  },
+  {
+    "prompt": "People like to watch movies to escape for a couple hours, they find them very what?\n<|start_2d|>\n- entertaining<|split_2d|>\n- theasres<|split_2d|>\n- funny<|split_2d|>\n- watched on videos<|split_2d|>\n- excellent<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "entertaining",
+      "incorrect_answers": [
+        "theasres",
+        "funny",
+        "watched on videos",
+        "excellent"
+      ]
+    }
+  },
+  {
+    "prompt": "Where in your home would you store a satchel?\n<|start_2d|>\n- room<|split_2d|>\n- desk<|split_2d|>\n- clothing store<|split_2d|>\n- school<|split_2d|>\n- luggage compartment<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "room",
+      "incorrect_answers": [
+        "desk",
+        "clothing store",
+        "school",
+        "luggage compartment"
+      ]
+    }
+  },
+  {
+    "prompt": "What could have an iron in some areas of it but not in other areas?\n<|start_2d|>\n- hematite<|split_2d|>\n- linen closet<|split_2d|>\n- house<|split_2d|>\n- laundry room<|split_2d|>\n- chemistry lab<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "house",
+      "incorrect_answers": [
+        "hematite",
+        "linen closet",
+        "laundry room",
+        "chemistry lab"
+      ]
+    }
+  },
+  {
+    "prompt": "What do you want to do when you love something?\n<|start_2d|>\n- please parents<|split_2d|>\n- get<|split_2d|>\n- make a promise<|split_2d|>\n- reproduce<|split_2d|>\n- obstruct justice<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "get",
+      "incorrect_answers": [
+        "please parents",
+        "make a promise",
+        "reproduce",
+        "obstruct justice"
+      ]
+    }
+  },
+  {
+    "prompt": "John wanted respect, but  Lud didn't even act like he was alive.  What was Lud doing?\n<|start_2d|>\n- befriending<|split_2d|>\n- disparagement<|split_2d|>\n- ignoring<|split_2d|>\n- dishonor<|split_2d|>\n- contumely<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "ignoring",
+      "incorrect_answers": [
+        "befriending",
+        "disparagement",
+        "dishonor",
+        "contumely"
+      ]
+    }
+  },
+  {
+    "prompt": "What continent  has a country with a historical wall?\n<|start_2d|>\n- asia<|split_2d|>\n- canada<|split_2d|>\n- africa<|split_2d|>\n- great outdoors<|split_2d|>\n- region<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "asia",
+      "incorrect_answers": [
+        "canada",
+        "africa",
+        "great outdoors",
+        "region"
+      ]
+    }
+  },
+  {
+    "prompt": "Out changing society meets a lot of resistance by people who like the old way of things.   But slowly, new ways gain what?\n<|start_2d|>\n- happy times ahead<|split_2d|>\n- change in leadership<|split_2d|>\n- better standard of living<|split_2d|>\n- no water<|split_2d|>\n- acceptance<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "acceptance",
+      "incorrect_answers": [
+        "happy times ahead",
+        "change in leadership",
+        "better standard of living",
+        "no water"
+      ]
+    }
+  },
+  {
+    "prompt": "What do people do when they remember that they left their oven turned on?\n<|start_2d|>\n- learn from each other<|split_2d|>\n- jump to conclusions<|split_2d|>\n- hurry home<|split_2d|>\n- build trust<|split_2d|>\n- talk to each other<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "hurry home",
+      "incorrect_answers": [
+        "learn from each other",
+        "jump to conclusions",
+        "build trust",
+        "talk to each other"
+      ]
+    }
+  },
+  {
+    "prompt": "Prescriptions being the specialty the store charges higher prices for most other goods, I'd be paying for convenience if I bought a hair dryer where?\n<|start_2d|>\n- drug store<|split_2d|>\n- high end store<|split_2d|>\n- beauty salon<|split_2d|>\n- box<|split_2d|>\n- bathroom<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "drug store",
+      "incorrect_answers": [
+        "high end store",
+        "beauty salon",
+        "box",
+        "bathroom"
+      ]
+    }
+  },
+  {
+    "prompt": "The high rollers began playing poker, there were no blinds so they all did what?\n<|start_2d|>\n- skill<|split_2d|>\n- losing money<|split_2d|>\n- bet their shoes<|split_2d|>\n- ante<|split_2d|>\n- attention<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "ante",
+      "incorrect_answers": [
+        "skill",
+        "losing money",
+        "bet their shoes",
+        "attention"
+      ]
+    }
+  },
+  {
+    "prompt": "What state north of alabama has many a beaver?\n<|start_2d|>\n- beaverton<|split_2d|>\n- canada<|split_2d|>\n- river or stream<|split_2d|>\n- kentucky<|split_2d|>\n- montana<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "kentucky",
+      "incorrect_answers": [
+        "beaverton",
+        "canada",
+        "river or stream",
+        "montana"
+      ]
+    }
+  },
+  {
+    "prompt": "Where would you find people using a laser to alleviate suffering?\n<|start_2d|>\n- nasa<|split_2d|>\n- cd players<|split_2d|>\n- laboratory<|split_2d|>\n- hospital<|split_2d|>\n- othamologist's office<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "hospital",
+      "incorrect_answers": [
+        "nasa",
+        "cd players",
+        "laboratory",
+        "othamologist's office"
+      ]
+    }
+  },
+  {
+    "prompt": "Why do some people choose to not own cars?\n<|start_2d|>\n- cost money<|split_2d|>\n- slow down<|split_2d|>\n- move people<|split_2d|>\n- get to town<|split_2d|>\n- cars are cheap<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "cost money",
+      "incorrect_answers": [
+        "slow down",
+        "move people",
+        "get to town",
+        "cars are cheap"
+      ]
+    }
+  },
+  {
+    "prompt": "Driving to work can be monotonous, she would play her favorite music and just what along with it?\n<|start_2d|>\n- sing<|split_2d|>\n- listen to radio<|split_2d|>\n- listen to music<|split_2d|>\n- speed<|split_2d|>\n- head bang<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "sing",
+      "incorrect_answers": [
+        "listen to radio",
+        "listen to music",
+        "speed",
+        "head bang"
+      ]
+    }
+  },
+  {
+    "prompt": "Lilly was still getting warm.  She ran her hands over John's body, he kissed her.  She couldn't think straight anymore.  Every nerve was tingling.  Nothing ever felt so right. She was experiencing what?\n<|start_2d|>\n- stroke<|split_2d|>\n- pleasure<|split_2d|>\n- increase of temperature<|split_2d|>\n- get hot<|split_2d|>\n- euphoria<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "euphoria",
+      "incorrect_answers": [
+        "stroke",
+        "pleasure",
+        "increase of temperature",
+        "get hot"
+      ]
+    }
+  },
+  {
+    "prompt": "Where might  jellyfish stay warm?\n<|start_2d|>\n- atlantic ocean<|split_2d|>\n- bikini bottom<|split_2d|>\n- japanese restaurant<|split_2d|>\n- store<|split_2d|>\n- pacific ocean<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "pacific ocean",
+      "incorrect_answers": [
+        "atlantic ocean",
+        "bikini bottom",
+        "japanese restaurant",
+        "store"
+      ]
+    }
+  },
+  {
+    "prompt": "Where can we see an elephant do tricks?\n<|start_2d|>\n- india<|split_2d|>\n- circus<|split_2d|>\n- zoo<|split_2d|>\n- safari<|split_2d|>\n- africa<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "circus",
+      "incorrect_answers": [
+        "india",
+        "zoo",
+        "safari",
+        "africa"
+      ]
+    }
+  },
+  {
+    "prompt": "It is hard to predict a rebound in basketball, this is because the ball and rim are what?\n<|start_2d|>\n- dribbling<|split_2d|>\n- full of air<|split_2d|>\n- bouncing around court<|split_2d|>\n- punctured<|split_2d|>\n- round<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "round",
+      "incorrect_answers": [
+        "dribbling",
+        "full of air",
+        "bouncing around court",
+        "punctured"
+      ]
+    }
+  },
+  {
+    "prompt": "The beaver swam through the country he symbolized, where was he likely to be?\n<|start_2d|>\n- japan<|split_2d|>\n- ontario<|split_2d|>\n- washington<|split_2d|>\n- woodlands<|split_2d|>\n- books<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "ontario",
+      "incorrect_answers": [
+        "japan",
+        "washington",
+        "woodlands",
+        "books"
+      ]
+    }
+  },
+  {
+    "prompt": "Which group is the cover for tonight's musical program?\n<|start_2d|>\n- opera<|split_2d|>\n- concert<|split_2d|>\n- television<|split_2d|>\n- symphonic<|split_2d|>\n- computer<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "concert",
+      "incorrect_answers": [
+        "opera",
+        "television",
+        "symphonic",
+        "computer"
+      ]
+    }
+  },
+  {
+    "prompt": "Where can you get a dining room table?\n<|start_2d|>\n- house<|split_2d|>\n- rug<|split_2d|>\n- shoe store<|split_2d|>\n- home<|split_2d|>\n- furniture store<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "furniture store",
+      "incorrect_answers": [
+        "house",
+        "rug",
+        "shoe store",
+        "home"
+      ]
+    }
+  },
+  {
+    "prompt": "What could happen as a secondary result of being tired?\n<|start_2d|>\n- lazy<|split_2d|>\n- stop bicycle<|split_2d|>\n- watch tv<|split_2d|>\n- snore<|split_2d|>\n- sit down<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "snore",
+      "incorrect_answers": [
+        "lazy",
+        "stop bicycle",
+        "watch tv",
+        "sit down"
+      ]
+    }
+  },
+  {
+    "prompt": "If a couple is having financial issues, buying products can lead to what?\n<|start_2d|>\n- economic boom<|split_2d|>\n- being able to use<|split_2d|>\n- disagreements<|split_2d|>\n- spending money<|split_2d|>\n- joy<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "disagreements",
+      "incorrect_answers": [
+        "economic boom",
+        "being able to use",
+        "spending money",
+        "joy"
+      ]
+    }
+  },
+  {
+    "prompt": "If something attempted to destroy something but didn't fully succeed, then one might be able to do what to it afterwards?\n<|start_2d|>\n- demolish object<|split_2d|>\n- repair<|split_2d|>\n- fix<|split_2d|>\n- create<|split_2d|>\n- construct<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "repair",
+      "incorrect_answers": [
+        "demolish object",
+        "fix",
+        "create",
+        "construct"
+      ]
+    }
+  },
+  {
+    "prompt": "Where is highly unusual to put a furnace?\n<|start_2d|>\n- cellar<|split_2d|>\n- encampment<|split_2d|>\n- house<|split_2d|>\n- basement<|split_2d|>\n- home<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "cellar",
+      "incorrect_answers": [
+        "encampment",
+        "house",
+        "basement",
+        "home"
+      ]
+    }
+  },
+  {
+    "prompt": "What might someone store in a ring binder?\n<|start_2d|>\n- stationary shop<|split_2d|>\n- school<|split_2d|>\n- office<|split_2d|>\n- notebook<|split_2d|>\n- backpack<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "notebook",
+      "incorrect_answers": [
+        "stationary shop",
+        "school",
+        "office",
+        "backpack"
+      ]
+    }
+  },
+  {
+    "prompt": "Why does grooming require careful consideration.?\n<|start_2d|>\n- mistakes<|split_2d|>\n- neatness<|split_2d|>\n- errors<|split_2d|>\n- cleanliness<|split_2d|>\n- beauty<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "mistakes",
+      "incorrect_answers": [
+        "neatness",
+        "errors",
+        "cleanliness",
+        "beauty"
+      ]
+    }
+  },
+  {
+    "prompt": "Where do you put junk mail?\n<|start_2d|>\n- basket<|split_2d|>\n- trash<|split_2d|>\n- waste bin<|split_2d|>\n- mail box<|split_2d|>\n- desk<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "trash",
+      "incorrect_answers": [
+        "basket",
+        "waste bin",
+        "mail box",
+        "desk"
+      ]
+    }
+  },
+  {
+    "prompt": "Billy emptied his trash can into the big dumpster.  Housekeeping was supposed to do it, but it was easy for him, and this place was cheap.  Where is Billy?\n<|start_2d|>\n- dump<|split_2d|>\n- office<|split_2d|>\n- motel<|split_2d|>\n- park<|split_2d|>\n- corner<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "motel",
+      "incorrect_answers": [
+        "dump",
+        "office",
+        "park",
+        "corner"
+      ]
+    }
+  },
+  {
+    "prompt": "If I want to write a proper sentence, what must I make sure it is not?\n<|start_2d|>\n- incorrect<|split_2d|>\n- incomplete<|split_2d|>\n- impolite<|split_2d|>\n- inappropriate<|split_2d|>\n- prison<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "incomplete",
+      "incorrect_answers": [
+        "incorrect",
+        "impolite",
+        "inappropriate",
+        "prison"
+      ]
+    }
+  },
+  {
+    "prompt": "After doing what he held his breathe?\n<|start_2d|>\n- inhale<|split_2d|>\n- inhaling<|split_2d|>\n- wheeze<|split_2d|>\n- take breath<|split_2d|>\n- meditate<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "inhaling",
+      "incorrect_answers": [
+        "inhale",
+        "wheeze",
+        "take breath",
+        "meditate"
+      ]
+    }
+  },
+  {
+    "prompt": "He bought an apple tree to plant near Providence, where did the tree get planted?\n<|start_2d|>\n- beach<|split_2d|>\n- rhode island<|split_2d|>\n- idaho<|split_2d|>\n- new hampshire<|split_2d|>\n- fields<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "rhode island",
+      "incorrect_answers": [
+        "beach",
+        "idaho",
+        "new hampshire",
+        "fields"
+      ]
+    }
+  },
+  {
+    "prompt": "If you're standing in line all day and someone cuts in front of you what may you feel?\n<|start_2d|>\n- fainting<|split_2d|>\n- agitation<|split_2d|>\n- hunger<|split_2d|>\n- boredom<|split_2d|>\n- pain<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "agitation",
+      "incorrect_answers": [
+        "fainting",
+        "hunger",
+        "boredom",
+        "pain"
+      ]
+    }
+  },
+  {
+    "prompt": "The plate was an antique, where did the man buy it?\n<|start_2d|>\n- kitchen cupboard<|split_2d|>\n- flea market<|split_2d|>\n- big box store<|split_2d|>\n- dishwasher<|split_2d|>\n- restaurant<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "flea market",
+      "incorrect_answers": [
+        "kitchen cupboard",
+        "big box store",
+        "dishwasher",
+        "restaurant"
+      ]
+    }
+  },
+  {
+    "prompt": "If man and mammoth wanted to meet, they would probably have to do it during when?\n<|start_2d|>\n- a baby shower<|split_2d|>\n- ancient history<|split_2d|>\n- storybook<|split_2d|>\n- stone age<|split_2d|>\n- forest<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "stone age",
+      "incorrect_answers": [
+        "a baby shower",
+        "ancient history",
+        "storybook",
+        "forest"
+      ]
+    }
+  },
+  {
+    "prompt": "what is another word for getting drunk?\n<|start_2d|>\n- intoxication<|split_2d|>\n- blazed<|split_2d|>\n- vomiting<|split_2d|>\n- hangover<|split_2d|>\n- being sick<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "intoxication",
+      "incorrect_answers": [
+        "blazed",
+        "vomiting",
+        "hangover",
+        "being sick"
+      ]
+    }
+  },
+  {
+    "prompt": "Where does a dog go to pee?\n<|start_2d|>\n- guard house<|split_2d|>\n- affection<|split_2d|>\n- walked<|split_2d|>\n- inside the house<|split_2d|>\n- go outside<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "go outside",
+      "incorrect_answers": [
+        "guard house",
+        "affection",
+        "walked",
+        "inside the house"
+      ]
+    }
+  },
+  {
+    "prompt": "If you need a restroom while on the road where can you stop?\n<|start_2d|>\n- rest area<|split_2d|>\n- library<|split_2d|>\n- resturant<|split_2d|>\n- office building<|split_2d|>\n- gas station<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "rest area",
+      "incorrect_answers": [
+        "library",
+        "resturant",
+        "office building",
+        "gas station"
+      ]
+    }
+  },
+  {
+    "prompt": "What is something that the public can go to which involves a committee?\n<|start_2d|>\n- business<|split_2d|>\n- city council meeting<|split_2d|>\n- temple<|split_2d|>\n- office building<|split_2d|>\n- boardroom<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "city council meeting",
+      "incorrect_answers": [
+        "business",
+        "temple",
+        "office building",
+        "boardroom"
+      ]
+    }
+  },
+  {
+    "prompt": "What would happen if you are having a good time while chatting with friends?\n<|start_2d|>\n- agreement<|split_2d|>\n- communication<|split_2d|>\n- love<|split_2d|>\n- happiness<|split_2d|>\n- discord<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "happiness",
+      "incorrect_answers": [
+        "agreement",
+        "communication",
+        "love",
+        "discord"
+      ]
+    }
+  },
+  {
+    "prompt": "The tool didn't fit the bolt, and the tool had a standard sizing, what was the bolt like?\n<|start_2d|>\n- informal<|split_2d|>\n- colloquial<|split_2d|>\n- nonstandard<|split_2d|>\n- standard wing<|split_2d|>\n- stanine<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "nonstandard",
+      "incorrect_answers": [
+        "informal",
+        "colloquial",
+        "standard wing",
+        "stanine"
+      ]
+    }
+  },
+  {
+    "prompt": "You can land, claim your things, and go right to a bus stop where?\n<|start_2d|>\n- airport<|split_2d|>\n- city<|split_2d|>\n- urban area<|split_2d|>\n- towns<|split_2d|>\n- bus station<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "airport",
+      "incorrect_answers": [
+        "city",
+        "urban area",
+        "towns",
+        "bus station"
+      ]
+    }
+  },
+  {
+    "prompt": "The king strolled through his back courtyard, where was near?\n<|start_2d|>\n- palace<|split_2d|>\n- garden<|split_2d|>\n- country estate<|split_2d|>\n- large house<|split_2d|>\n- suburbs<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "palace",
+      "incorrect_answers": [
+        "garden",
+        "country estate",
+        "large house",
+        "suburbs"
+      ]
+    }
+  },
+  {
+    "prompt": "The salesperson had to be especially good with children, he did work where after all?\n<|start_2d|>\n- closing deal<|split_2d|>\n- bookstore<|split_2d|>\n- toy store<|split_2d|>\n- shop<|split_2d|>\n- restaurant<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "toy store",
+      "incorrect_answers": [
+        "closing deal",
+        "bookstore",
+        "shop",
+        "restaurant"
+      ]
+    }
+  },
+  {
+    "prompt": "Where could you find a pebble that has been walked on?\n<|start_2d|>\n- lake<|split_2d|>\n- playground<|split_2d|>\n- pond<|split_2d|>\n- aquarium<|split_2d|>\n- stucco<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "playground",
+      "incorrect_answers": [
+        "lake",
+        "pond",
+        "aquarium",
+        "stucco"
+      ]
+    }
+  },
+  {
+    "prompt": "Brother Mike escaped the collapsed mine.  Ever since, he was afraid of what?\n<|start_2d|>\n- be imprisoned<|split_2d|>\n- captured<|split_2d|>\n- stay in<|split_2d|>\n- being caught<|split_2d|>\n- being trapped<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "being trapped",
+      "incorrect_answers": [
+        "be imprisoned",
+        "captured",
+        "stay in",
+        "being caught"
+      ]
+    }
+  },
+  {
+    "prompt": "Max looked for the onions so that he could  made a stew.  Where might he have looked?\n<|start_2d|>\n- market<|split_2d|>\n- pizza<|split_2d|>\n- refrigerator<|split_2d|>\n- servant<|split_2d|>\n- table<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "refrigerator",
+      "incorrect_answers": [
+        "market",
+        "pizza",
+        "servant",
+        "table"
+      ]
+    }
+  },
+  {
+    "prompt": "Religion plays a big role in many lives, but the what in the room is oddly often the most preachy?\n<|start_2d|>\n- atheism<|split_2d|>\n- atheist<|split_2d|>\n- science<|split_2d|>\n- wars<|split_2d|>\n- confusing<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "atheist",
+      "incorrect_answers": [
+        "atheism",
+        "science",
+        "wars",
+        "confusing"
+      ]
+    }
+  },
+  {
+    "prompt": "John thought that using television is different from listening to radio. How is television different from radio?\n<|start_2d|>\n- visual<|split_2d|>\n- conformity<|split_2d|>\n- audio<|split_2d|>\n- entertained<|split_2d|>\n- laziness<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "visual",
+      "incorrect_answers": [
+        "conformity",
+        "audio",
+        "entertained",
+        "laziness"
+      ]
+    }
+  },
+  {
+    "prompt": "What can happen to your car if you take a corner at too high a velocity?\n<|start_2d|>\n- roll over<|split_2d|>\n- move quickly<|split_2d|>\n- slow down<|split_2d|>\n- go fast<|split_2d|>\n- be late<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "roll over",
+      "incorrect_answers": [
+        "move quickly",
+        "slow down",
+        "go fast",
+        "be late"
+      ]
+    }
+  },
+  {
+    "prompt": "What can the stockholders of the company look at to see how well it's doing?\n<|start_2d|>\n- assets<|split_2d|>\n- you<|split_2d|>\n- cafeteria<|split_2d|>\n- board of directors<|split_2d|>\n- earnings<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "earnings",
+      "incorrect_answers": [
+        "assets",
+        "you",
+        "cafeteria",
+        "board of directors"
+      ]
+    }
+  },
+  {
+    "prompt": "If people are told something controversial, what do they do next?\n<|start_2d|>\n- hope for peace<|split_2d|>\n- believe in god<|split_2d|>\n- start fighting<|split_2d|>\n- form opinions<|split_2d|>\n- worship idols<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "form opinions",
+      "incorrect_answers": [
+        "hope for peace",
+        "believe in god",
+        "start fighting",
+        "worship idols"
+      ]
+    }
+  },
+  {
+    "prompt": "All the parents gathered in the cafeteria to watch the performance, Mark's were there to watch him play trombone in the what?\n<|start_2d|>\n- orchestra<|split_2d|>\n- brass quartet<|split_2d|>\n- marching band<|split_2d|>\n- school band<|split_2d|>\n- school play<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "school band",
+      "incorrect_answers": [
+        "orchestra",
+        "brass quartet",
+        "marching band",
+        "school play"
+      ]
+    }
+  },
+  {
+    "prompt": "Where can a human in a large northeastern city find food?\n<|start_2d|>\n- store<|split_2d|>\n- school<|split_2d|>\n- many places<|split_2d|>\n- new york city<|split_2d|>\n- zoo<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "many places",
+      "incorrect_answers": [
+        "store",
+        "school",
+        "new york city",
+        "zoo"
+      ]
+    }
+  },
+  {
+    "prompt": "What do most people hope to achieve when having sex?\n<|start_2d|>\n- unwanted pregnancy<|split_2d|>\n- bliss<|split_2d|>\n- aids<|split_2d|>\n- getting pregnant<|split_2d|>\n- orgasm<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "orgasm",
+      "incorrect_answers": [
+        "unwanted pregnancy",
+        "bliss",
+        "aids",
+        "getting pregnant"
+      ]
+    }
+  },
+  {
+    "prompt": "When do people go shopping for souvenirs?\n<|start_2d|>\n- having money<|split_2d|>\n- money and time<|split_2d|>\n- funeral<|split_2d|>\n- spending money<|split_2d|>\n- travel<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "travel",
+      "incorrect_answers": [
+        "having money",
+        "money and time",
+        "funeral",
+        "spending money"
+      ]
+    }
+  },
+  {
+    "prompt": "Where would have a specialty hair salon for guests?\n<|start_2d|>\n- mail<|split_2d|>\n- shopping center<|split_2d|>\n- hotel<|split_2d|>\n- resort<|split_2d|>\n- metropolitan city<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "hotel",
+      "incorrect_answers": [
+        "mail",
+        "shopping center",
+        "resort",
+        "metropolitan city"
+      ]
+    }
+  },
+  {
+    "prompt": "A sloth climbs slow, but it can eventually reach all the way up where?\n<|start_2d|>\n- forest canopy<|split_2d|>\n- universe<|split_2d|>\n- tropical rainforest<|split_2d|>\n- large trees<|split_2d|>\n- nature preserve<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "forest canopy",
+      "incorrect_answers": [
+        "universe",
+        "tropical rainforest",
+        "large trees",
+        "nature preserve"
+      ]
+    }
+  },
+  {
+    "prompt": "When someone is learning about science what happens to them?\n<|start_2d|>\n- loss of interest<|split_2d|>\n- excitement<|split_2d|>\n- accidents<|split_2d|>\n- experiment<|split_2d|>\n- become educated<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "become educated",
+      "incorrect_answers": [
+        "loss of interest",
+        "excitement",
+        "accidents",
+        "experiment"
+      ]
+    }
+  },
+  {
+    "prompt": "Where south of the U.S. can you find a steak house serving Dos Equis cerveza?\n<|start_2d|>\n- japan<|split_2d|>\n- restaurant<|split_2d|>\n- mexico<|split_2d|>\n- united states<|split_2d|>\n- texas<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "mexico",
+      "incorrect_answers": [
+        "japan",
+        "restaurant",
+        "united states",
+        "texas"
+      ]
+    }
+  },
+  {
+    "prompt": "The christian rock band was on a large stage, the singer's foot got caught on a wire and he had a small what?\n<|start_2d|>\n- commit sin<|split_2d|>\n- fail<|split_2d|>\n- disobey<|split_2d|>\n- stumble<|split_2d|>\n- boo boo<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "stumble",
+      "incorrect_answers": [
+        "commit sin",
+        "fail",
+        "disobey",
+        "boo boo"
+      ]
+    }
+  },
+  {
+    "prompt": "The person took a ibuprofen after experiencing a headache, what happened to him next?\n<|start_2d|>\n- feel relieved<|split_2d|>\n- cross street<|split_2d|>\n- learn to swim<|split_2d|>\n- walk<|split_2d|>\n- act responsibly<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "feel relieved",
+      "incorrect_answers": [
+        "cross street",
+        "learn to swim",
+        "walk",
+        "act responsibly"
+      ]
+    }
+  },
+  {
+    "prompt": "You may see a beaver when visiting what state known as \"Big Sky Country\"?\n<|start_2d|>\n- kentucky<|split_2d|>\n- zoo<|split_2d|>\n- montana<|split_2d|>\n- river or stream<|split_2d|>\n- canada woodlands<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "montana",
+      "incorrect_answers": [
+        "kentucky",
+        "zoo",
+        "river or stream",
+        "canada woodlands"
+      ]
+    }
+  },
+  {
+    "prompt": "What kind of parents make the happiest child?\n<|start_2d|>\n- birth<|split_2d|>\n- act of sex<|split_2d|>\n- loving couple<|split_2d|>\n- parents<|split_2d|>\n- adoption<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "loving couple",
+      "incorrect_answers": [
+        "birth",
+        "act of sex",
+        "parents",
+        "adoption"
+      ]
+    }
+  },
+  {
+    "prompt": "What happened when economic forces don't match a changing society?\n<|start_2d|>\n- change in leadership<|split_2d|>\n- anger<|split_2d|>\n- resentment<|split_2d|>\n- heartache<|split_2d|>\n- depression<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "depression",
+      "incorrect_answers": [
+        "change in leadership",
+        "anger",
+        "resentment",
+        "heartache"
+      ]
+    }
+  },
+  {
+    "prompt": "Jane was going to the party.  She didn't care about making friends or gorging on alcohol, she just wanted to do what?\n<|start_2d|>\n- plan<|split_2d|>\n- meet new people<|split_2d|>\n- work<|split_2d|>\n- have fun<|split_2d|>\n- getting drunk<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "have fun",
+      "incorrect_answers": [
+        "plan",
+        "meet new people",
+        "work",
+        "getting drunk"
+      ]
+    }
+  },
+  {
+    "prompt": "John didn't know what to get for anyone. Buying Christmas presents was stressful for him, and finishing was whaat?\n<|start_2d|>\n- relief<|split_2d|>\n- happiness<|split_2d|>\n- very sad<|split_2d|>\n- lack of money<|split_2d|>\n- debt<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "relief",
+      "incorrect_answers": [
+        "happiness",
+        "very sad",
+        "lack of money",
+        "debt"
+      ]
+    }
+  },
+  {
+    "prompt": "Chatting with friends can be bad for your health if you join them outside while they what?\n<|start_2d|>\n- laughing<|split_2d|>\n- smoke<|split_2d|>\n- laugh loud<|split_2d|>\n- tell story<|split_2d|>\n- lie<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "smoke",
+      "incorrect_answers": [
+        "laughing",
+        "laugh loud",
+        "tell story",
+        "lie"
+      ]
+    }
+  },
+  {
+    "prompt": "It is important to spend time in nature and sometimes get out of where?\n<|start_2d|>\n- city<|split_2d|>\n- man made<|split_2d|>\n- indoors<|split_2d|>\n- town<|split_2d|>\n- artificial<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "city",
+      "incorrect_answers": [
+        "man made",
+        "indoors",
+        "town",
+        "artificial"
+      ]
+    }
+  },
+  {
+    "prompt": "What does kissing lead to?\n<|start_2d|>\n- like<|split_2d|>\n- drunkenness<|split_2d|>\n- happiness<|split_2d|>\n- herpes<|split_2d|>\n- shyness<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "happiness",
+      "incorrect_answers": [
+        "like",
+        "drunkenness",
+        "herpes",
+        "shyness"
+      ]
+    }
+  },
+  {
+    "prompt": "My chest is swelling at the prospect of gaining more land. Why is my chest swelling?\n<|start_2d|>\n- go to war<|split_2d|>\n- higher taxes<|split_2d|>\n- heart attack<|split_2d|>\n- pride<|split_2d|>\n- disputes<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "pride",
+      "incorrect_answers": [
+        "go to war",
+        "higher taxes",
+        "heart attack",
+        "disputes"
+      ]
+    }
+  },
+  {
+    "prompt": "Washing hands too often can cause what?\n<|start_2d|>\n- health<|split_2d|>\n- dry skin<|split_2d|>\n- pink hands<|split_2d|>\n- become wet<|split_2d|>\n- wet floor<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "dry skin",
+      "incorrect_answers": [
+        "health",
+        "pink hands",
+        "become wet",
+        "wet floor"
+      ]
+    }
+  },
+  {
+    "prompt": "Where do you put a bowl after it is used?\n<|start_2d|>\n- cupboard<|split_2d|>\n- restaurant<|split_2d|>\n- cabinet<|split_2d|>\n- trash<|split_2d|>\n- dishwasher<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "dishwasher",
+      "incorrect_answers": [
+        "cupboard",
+        "restaurant",
+        "cabinet",
+        "trash"
+      ]
+    }
+  },
+  {
+    "prompt": "What is usually the mood when chatting with friends?\n<|start_2d|>\n- love<|split_2d|>\n- social bonding<|split_2d|>\n- talkative<|split_2d|>\n- gathering of information<|split_2d|>\n- feel relaxed<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "feel relaxed",
+      "incorrect_answers": [
+        "love",
+        "social bonding",
+        "talkative",
+        "gathering of information"
+      ]
+    }
+  },
+  {
+    "prompt": "Where might I find a history of the kingdom?\n<|start_2d|>\n- europe<|split_2d|>\n- monarchy<|split_2d|>\n- saudi arabia<|split_2d|>\n- book<|split_2d|>\n- crown jewels<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "book",
+      "incorrect_answers": [
+        "europe",
+        "monarchy",
+        "saudi arabia",
+        "crown jewels"
+      ]
+    }
+  },
+  {
+    "prompt": "If you're in North America traveling an expressway toward the Atlantic Ocean, where are you traveling to?\n<|start_2d|>\n- michigan<|split_2d|>\n- large city<|split_2d|>\n- state<|split_2d|>\n- american city<|split_2d|>\n- eastern united states<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "eastern united states",
+      "incorrect_answers": [
+        "michigan",
+        "large city",
+        "state",
+        "american city"
+      ]
+    }
+  },
+  {
+    "prompt": "What do people perform if they have a band?\n<|start_2d|>\n- standing ovation<|split_2d|>\n- music<|split_2d|>\n- tricks<|split_2d|>\n- applause<|split_2d|>\n- smile<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "music",
+      "incorrect_answers": [
+        "standing ovation",
+        "tricks",
+        "applause",
+        "smile"
+      ]
+    }
+  },
+  {
+    "prompt": "What must someone go through when heading to the sky?\n<|start_2d|>\n- outdoors<|split_2d|>\n- planetarium<|split_2d|>\n- head strain<|split_2d|>\n- atmosphere<|split_2d|>\n- heavens<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "atmosphere",
+      "incorrect_answers": [
+        "outdoors",
+        "planetarium",
+        "head strain",
+        "heavens"
+      ]
+    }
+  },
+  {
+    "prompt": "Billy was was going on a long vacation, but before he did he got a bite to eat.  Where might he have eaten?\n<|start_2d|>\n- space shuttle<|split_2d|>\n- friend's house<|split_2d|>\n- disneyland<|split_2d|>\n- supermarket<|split_2d|>\n- gas station<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "friend's house",
+      "incorrect_answers": [
+        "space shuttle",
+        "disneyland",
+        "supermarket",
+        "gas station"
+      ]
+    }
+  },
+  {
+    "prompt": "where do you keep a tourniquet?\n<|start_2d|>\n- hospital<|split_2d|>\n- ambulance<|split_2d|>\n- pocket<|split_2d|>\n- emergency kit<|split_2d|>\n- applying even pressure<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "emergency kit",
+      "incorrect_answers": [
+        "hospital",
+        "ambulance",
+        "pocket",
+        "applying even pressure"
+      ]
+    }
+  },
+  {
+    "prompt": "I'm naked in the snow.  I need some method of getting warm.  What mightI try?\n<|start_2d|>\n- jump in a swimming pool<|split_2d|>\n- starting fire<|split_2d|>\n- pleasure<|split_2d|>\n- increase of temperature<|split_2d|>\n- feeling comfortable<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "starting fire",
+      "incorrect_answers": [
+        "jump in a swimming pool",
+        "pleasure",
+        "increase of temperature",
+        "feeling comfortable"
+      ]
+    }
+  },
+  {
+    "prompt": "When is good time for garlic bread?\n<|start_2d|>\n- refrigerator<|split_2d|>\n- dinner<|split_2d|>\n- jail<|split_2d|>\n- supermarket<|split_2d|>\n- going on a date<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "dinner",
+      "incorrect_answers": [
+        "refrigerator",
+        "jail",
+        "supermarket",
+        "going on a date"
+      ]
+    }
+  },
+  {
+    "prompt": "What is writing a form of?\n<|start_2d|>\n- communication<|split_2d|>\n- listening<|split_2d|>\n- carpal tunnel syndrome<|split_2d|>\n- revolutions<|split_2d|>\n- writer's cramp<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "communication",
+      "incorrect_answers": [
+        "listening",
+        "carpal tunnel syndrome",
+        "revolutions",
+        "writer's cramp"
+      ]
+    }
+  },
+  {
+    "prompt": "Must people get up and live life because they?\n<|start_2d|>\n- help people<|split_2d|>\n- all know<|split_2d|>\n- was given to<|split_2d|>\n- have no other choice<|split_2d|>\n- can't help it<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "have no other choice",
+      "incorrect_answers": [
+        "help people",
+        "all know",
+        "was given to",
+        "can't help it"
+      ]
+    }
+  },
+  {
+    "prompt": "The big rolling machines made tons of newspapers everyday simply by getting the stories what?\n<|start_2d|>\n- tree<|split_2d|>\n- recycled<|split_2d|>\n- written on paper<|split_2d|>\n- printed on paper<|split_2d|>\n- local<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "printed on paper",
+      "incorrect_answers": [
+        "tree",
+        "recycled",
+        "written on paper",
+        "local"
+      ]
+    }
+  },
+  {
+    "prompt": "Billy's disability prevented him from moving, but it didn't alter his mind or what?\n<|start_2d|>\n- activity<|split_2d|>\n- potence<|split_2d|>\n- qualification<|split_2d|>\n- competency<|split_2d|>\n- strength<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "competency",
+      "incorrect_answers": [
+        "activity",
+        "potence",
+        "qualification",
+        "strength"
+      ]
+    }
+  },
+  {
+    "prompt": "The CEO's curiosity about the product got the best of her, so she decided to do what with it?\n<|start_2d|>\n- hear news<|split_2d|>\n- purchase it<|split_2d|>\n- examine thing<|split_2d|>\n- attend school<|split_2d|>\n- go to market<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "go to market",
+      "incorrect_answers": [
+        "hear news",
+        "purchase it",
+        "examine thing",
+        "attend school"
+      ]
+    }
+  },
+  {
+    "prompt": "If you're caught hurting someone else, what are you likely to have?\n<|start_2d|>\n- legal problems<|split_2d|>\n- more hurt<|split_2d|>\n- physical pain<|split_2d|>\n- public outcry<|split_2d|>\n- money<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "legal problems",
+      "incorrect_answers": [
+        "more hurt",
+        "physical pain",
+        "public outcry",
+        "money"
+      ]
+    }
+  },
+  {
+    "prompt": "There was a cloud or two out but overall it was very what?\n<|start_2d|>\n- clear sky<|split_2d|>\n- eat cake<|split_2d|>\n- sunny<|split_2d|>\n- bringing rain<|split_2d|>\n- sunshine<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "sunny",
+      "incorrect_answers": [
+        "clear sky",
+        "eat cake",
+        "bringing rain",
+        "sunshine"
+      ]
+    }
+  },
+  {
+    "prompt": "If I wanted to work a crossword puzzle, where might I find one?\n<|start_2d|>\n- playground<|split_2d|>\n- newspaper<|split_2d|>\n- kindergarten class<|split_2d|>\n- toy store<|split_2d|>\n- toy shop<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "newspaper",
+      "incorrect_answers": [
+        "playground",
+        "kindergarten class",
+        "toy store",
+        "toy shop"
+      ]
+    }
+  },
+  {
+    "prompt": "Two year college degrees are either an associates of science or an associates of what?\n<|start_2d|>\n- math<|split_2d|>\n- astronomy<|split_2d|>\n- bachelor<|split_2d|>\n- arts<|split_2d|>\n- faith<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "arts",
+      "incorrect_answers": [
+        "math",
+        "astronomy",
+        "bachelor",
+        "faith"
+      ]
+    }
+  },
+  {
+    "prompt": "Fish comes in all varieties, many people prefer the ones than can be what?\n<|start_2d|>\n- striped<|split_2d|>\n- colorful<|split_2d|>\n- gills<|split_2d|>\n- snakefish<|split_2d|>\n- eaten raw<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "eaten raw",
+      "incorrect_answers": [
+        "striped",
+        "colorful",
+        "gills",
+        "snakefish"
+      ]
+    }
+  },
+  {
+    "prompt": "He enjoyed to watch film a second time with director's commentary, he loved the insight and would do what intently?\n<|start_2d|>\n- go to movies<|split_2d|>\n- rent one<|split_2d|>\n- sit down<|split_2d|>\n- listen<|split_2d|>\n- quite<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "listen",
+      "incorrect_answers": [
+        "go to movies",
+        "rent one",
+        "sit down",
+        "quite"
+      ]
+    }
+  },
+  {
+    "prompt": "What will happen to someone writing a term paper too quickly likely encounter?\n<|start_2d|>\n- headaches<|split_2d|>\n- errors<|split_2d|>\n- low mark<|split_2d|>\n- anxiety<|split_2d|>\n- frustration<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "errors",
+      "incorrect_answers": [
+        "headaches",
+        "low mark",
+        "anxiety",
+        "frustration"
+      ]
+    }
+  },
+  {
+    "prompt": "John cooled the steam. What did the steam become?\n<|start_2d|>\n- condensate<|split_2d|>\n- electric smoke<|split_2d|>\n- smoke<|split_2d|>\n- liquid water<|split_2d|>\n- cold air<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "liquid water",
+      "incorrect_answers": [
+        "condensate",
+        "electric smoke",
+        "smoke",
+        "cold air"
+      ]
+    }
+  },
+  {
+    "prompt": "What has a surface with ripples?\n<|start_2d|>\n- mirror<|split_2d|>\n- object<|split_2d|>\n- cottage cheese<|split_2d|>\n- tetrahedron<|split_2d|>\n- lake<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "lake",
+      "incorrect_answers": [
+        "mirror",
+        "object",
+        "cottage cheese",
+        "tetrahedron"
+      ]
+    }
+  },
+  {
+    "prompt": "They all wanted to play a board game, it was retrieved from inside where?\n<|start_2d|>\n- cupboard<|split_2d|>\n- under the bed<|split_2d|>\n- shelf<|split_2d|>\n- toy store<|split_2d|>\n- house<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "cupboard",
+      "incorrect_answers": [
+        "under the bed",
+        "shelf",
+        "toy store",
+        "house"
+      ]
+    }
+  },
+  {
+    "prompt": "Where might I find seating while waiting to take public transit in a major city?\n<|start_2d|>\n- rest area<|split_2d|>\n- bus depot<|split_2d|>\n- theatre<|split_2d|>\n- bus stop<|split_2d|>\n- church<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "bus depot",
+      "incorrect_answers": [
+        "rest area",
+        "theatre",
+        "bus stop",
+        "church"
+      ]
+    }
+  },
+  {
+    "prompt": "What type of homes are likely to have an attic?\n<|start_2d|>\n- victorian house<|split_2d|>\n- own home<|split_2d|>\n- older houses<|split_2d|>\n- boxes<|split_2d|>\n- apartment<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "older houses",
+      "incorrect_answers": [
+        "victorian house",
+        "own home",
+        "boxes",
+        "apartment"
+      ]
+    }
+  },
+  {
+    "prompt": "Something that you need to have inside of you when opening a business is a lot of?\n<|start_2d|>\n- workers<|split_2d|>\n- money<|split_2d|>\n- determination<|split_2d|>\n- funding<|split_2d|>\n- creativity<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "determination",
+      "incorrect_answers": [
+        "workers",
+        "money",
+        "funding",
+        "creativity"
+      ]
+    }
+  },
+  {
+    "prompt": "What would someone need to do if he or she wanted to be going public?\n<|start_2d|>\n- consequences<|split_2d|>\n- being ridiculed<|split_2d|>\n- more money<|split_2d|>\n- more funding<|split_2d|>\n- telling all<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "telling all",
+      "incorrect_answers": [
+        "consequences",
+        "being ridiculed",
+        "more money",
+        "more funding"
+      ]
+    }
+  },
+  {
+    "prompt": "Where might you find a chair at an office?\n<|start_2d|>\n- stadium<|split_2d|>\n- kitchen<|split_2d|>\n- porch<|split_2d|>\n- cubicle<|split_2d|>\n- living room<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "cubicle",
+      "incorrect_answers": [
+        "stadium",
+        "kitchen",
+        "porch",
+        "living room"
+      ]
+    }
+  },
+  {
+    "prompt": "Where would you buy jeans in a place with a large number of indoor merchants?\n<|start_2d|>\n- shopping mall<|split_2d|>\n- laundromat<|split_2d|>\n- hospital<|split_2d|>\n- clothing store<|split_2d|>\n- thrift store<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "shopping mall",
+      "incorrect_answers": [
+        "laundromat",
+        "hospital",
+        "clothing store",
+        "thrift store"
+      ]
+    }
+  },
+  {
+    "prompt": "John fell down the well.  he couldn't believe what he found down there. It was like something out of what?\n<|start_2d|>\n- fairytale<|split_2d|>\n- farm yard<|split_2d|>\n- farm country<|split_2d|>\n- michigan<|split_2d|>\n- horror movie<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "fairytale",
+      "incorrect_answers": [
+        "farm yard",
+        "farm country",
+        "michigan",
+        "horror movie"
+      ]
+    }
+  },
+  {
+    "prompt": "I forgot to pay the electricity bill, now what can't I do with my ground pump?\n<|start_2d|>\n- put in to the water<|split_2d|>\n- cause fire<|split_2d|>\n- produce heat<|split_2d|>\n- short fuse<|split_2d|>\n- shock<|end_2d|> Answer: ",
+    "prompt_metadata": {
+      "label": "produce heat",
+      "incorrect_answers": [
+        "put in to the water",
+        "cause fire",
+        "short fuse",
+        "shock"
+      ]
+    }
+  }
+]

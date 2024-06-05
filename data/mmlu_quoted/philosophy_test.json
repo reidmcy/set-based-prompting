@@ -1,0 +1,3423 @@
+[
+  {
+    "prompt": "Aesthetics deals with objects that are_____.<|start_2d|>\"essential to our existence\" <|split_2d|>\"unimportant to most people\" <|split_2d|>\"not essential to our existence\" <|split_2d|>\"rarely viewed\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "not essential to our existence",
+      "incorrect_answers": [
+        "essential to our existence",
+        "unimportant to most people",
+        "rarely viewed"
+      ]
+    }
+  },
+  {
+    "prompt": "For Socrates, an unexamined life is a tragedy because it results in grievous harm to _____.<|start_2d|>\"the state\" <|split_2d|>\"the justice system\" <|split_2d|>\"the body\" <|split_2d|>\"the soul\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the soul",
+      "incorrect_answers": [
+        "the state",
+        "the justice system",
+        "the body"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Kant, nothing can be called \u201cgood\u201d without qualification except _____.<|start_2d|>\"right action\" <|split_2d|>\"good consequences\" <|split_2d|>\"happiness\" <|split_2d|>\"a good will\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a good will",
+      "incorrect_answers": [
+        "right action",
+        "good consequences",
+        "happiness"
+      ]
+    }
+  },
+  {
+    "prompt": "Plato's view is that true beauty is _____.<|start_2d|>\"found in everyday objects\" <|split_2d|>\"nonexistent\" <|split_2d|>\"everywhere in the natural world\" <|split_2d|>\"not of this world\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "not of this world",
+      "incorrect_answers": [
+        "found in everyday objects",
+        "nonexistent",
+        "everywhere in the natural world"
+      ]
+    }
+  },
+  {
+    "prompt": "In Aristotle\u2019s terminology, incontinence is when:<|start_2d|>\"one does not know that one\u2019s actions are wrong.\" <|split_2d|>\"one knows that one\u2019s actions are wrong, but does them anyway.\" <|split_2d|>\"one knows that one\u2019s feelings are inappropriate, and does not act on them.\" <|split_2d|>\"one does the right action, but for the wrong reason.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "one knows that one\u2019s actions are wrong, but does them anyway.",
+      "incorrect_answers": [
+        "one does not know that one\u2019s actions are wrong.",
+        "one knows that one\u2019s feelings are inappropriate, and does not act on them.",
+        "one does the right action, but for the wrong reason."
+      ]
+    }
+  },
+  {
+    "prompt": "Nagel claims that most skeptical arguments:<|start_2d|>\"are the result of applying arbitrarily stringent standards.\" <|split_2d|>\"are based on linguistic confusions.\" <|split_2d|>\"are logically self-refuting.\" <|split_2d|>\"grow from the consistent application of ordinary standards.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "grow from the consistent application of ordinary standards.",
+      "incorrect_answers": [
+        "are the result of applying arbitrarily stringent standards.",
+        "are based on linguistic confusions.",
+        "are logically self-refuting."
+      ]
+    }
+  },
+  {
+    "prompt": "Rawls conceives of the original contract as one to:<|start_2d|>\"enter a particular society.\" <|split_2d|>\"set up a particular form of government.\" <|split_2d|>\"establish the principles of justice for the basic structure of society.\" <|split_2d|>\"establish the content of morality.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "establish the principles of justice for the basic structure of society.",
+      "incorrect_answers": [
+        "enter a particular society.",
+        "set up a particular form of government.",
+        "establish the content of morality."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Singer, compliance with his principle requires:<|start_2d|>\"modest changes to our personal habits, but not to our society as a whole.\" <|split_2d|>\"modest changes to our personal habits, as well as to society.\" <|split_2d|>\"drastic changes to our personal habits, but not to our society.\" <|split_2d|>\"drastic changes to both our personal habits and to our society.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "drastic changes to both our personal habits and to our society.",
+      "incorrect_answers": [
+        "modest changes to our personal habits, but not to our society as a whole.",
+        "modest changes to our personal habits, as well as to society.",
+        "drastic changes to our personal habits, but not to our society."
+      ]
+    }
+  },
+  {
+    "prompt": "For Socrates, the soul is harmed by lack of _____.<|start_2d|>\"knowledge\" <|split_2d|>\"wealth\" <|split_2d|>\"community\" <|split_2d|>\"courage\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "knowledge",
+      "incorrect_answers": [
+        "wealth",
+        "community",
+        "courage"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Kant, morality requires us to:<|start_2d|>\"perform the action that leads to the greatest total happiness.\" <|split_2d|>\"act only on maxims that we can will to become universal laws.\" <|split_2d|>\"behave only in such a way as a perfectly virtuous person would behave.\" <|split_2d|>\"place the interests of others above the interests of ourselves.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "act only on maxims that we can will to become universal laws.",
+      "incorrect_answers": [
+        "perform the action that leads to the greatest total happiness.",
+        "behave only in such a way as a perfectly virtuous person would behave.",
+        "place the interests of others above the interests of ourselves."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Gauthier, the basis of morality is:<|start_2d|>\"maximizing the utility of all sentient beings.\" <|split_2d|>\"God\u2019s commands.\" <|split_2d|>\"the agreement of rational persons choosing the terms of their interaction.\" <|split_2d|>\"the purposive order of nature.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the agreement of rational persons choosing the terms of their interaction.",
+      "incorrect_answers": [
+        "maximizing the utility of all sentient beings.",
+        "God\u2019s commands.",
+        "the purposive order of nature."
+      ]
+    }
+  },
+  {
+    "prompt": "Anscombe claims that it is not profitable to do moral philosophy until we have an adequate philosophy of:<|start_2d|>\"religion.\" <|split_2d|>\"physics.\" <|split_2d|>\"psychology.\" <|split_2d|>\"art.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "psychology.",
+      "incorrect_answers": [
+        "religion.",
+        "physics.",
+        "art."
+      ]
+    }
+  },
+  {
+    "prompt": "Mill claims that one of the strongest objections to utilitarianism is drawn from the idea of:<|start_2d|>\"duty.\" <|split_2d|>\"justice.\" <|split_2d|>\"virtue.\" <|split_2d|>\"supererogation.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "justice.",
+      "incorrect_answers": [
+        "duty.",
+        "virtue.",
+        "supererogation."
+      ]
+    }
+  },
+  {
+    "prompt": "Berkeley asserts that existing and perceiving are _____.<|start_2d|>\"one and the same thing\" <|split_2d|>\"both nonexistent\" <|split_2d|>\"two distinct things\" <|split_2d|>\"imaginary\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "one and the same thing",
+      "incorrect_answers": [
+        "both nonexistent",
+        "two distinct things",
+        "imaginary"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Rawls, the term \u201cjustice as fairness\u201d conveys the idea that the principles of justice are agreed to in an initial position that is _____.<|start_2d|>\"rational\" <|split_2d|>\"artificial\" <|split_2d|>\"constitutional\" <|split_2d|>\"fair\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "fair",
+      "incorrect_answers": [
+        "rational",
+        "artificial",
+        "constitutional"
+      ]
+    }
+  },
+  {
+    "prompt": "Berkeley believes that sensible things cannot exist except in _____.<|start_2d|>\"a mind\" <|split_2d|>\"absolute existence\" <|split_2d|>\"material substance\" <|split_2d|>\"a material universe\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a mind",
+      "incorrect_answers": [
+        "absolute existence",
+        "material substance",
+        "a material universe"
+      ]
+    }
+  },
+  {
+    "prompt": "Singer claims that his argument upsets the traditional distinction between:<|start_2d|>\"duty and charity.\" <|split_2d|>\"egoism and altruism.\" <|split_2d|>\"rights and privileges.\" <|split_2d|>\"positive and negative rights.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "duty and charity.",
+      "incorrect_answers": [
+        "egoism and altruism.",
+        "rights and privileges.",
+        "positive and negative rights."
+      ]
+    }
+  },
+  {
+    "prompt": " In his discussion of the Divided Line, Plato says that, in contrast to mere belief or opinion, knowledge is a belief for which we give reasons or justifications by appealing:<|start_2d|>\"to what our senses reveal to us about how things appear to us, not how they  really are.\" <|split_2d|>\"beyond the Forms to images of goodness, beauty, and truth obtained from particular objects.\" <|split_2d|>\"to what we sincerely believe is true about the Forms based on our experiences in the world.\" <|split_2d|>\"beyond sense experience to unchanging ideas (Forms) that are perceived as rationally ordered.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "beyond sense experience to unchanging ideas (Forms) that are perceived as rationally ordered.",
+      "incorrect_answers": [
+        "to what our senses reveal to us about how things appear to us, not how they  really are.",
+        "beyond the Forms to images of goodness, beauty, and truth obtained from particular objects.",
+        "to what we sincerely believe is true about the Forms based on our experiences in the world."
+      ]
+    }
+  },
+  {
+    "prompt": "What was Clarence Darrow's belief about life's meaning?<|start_2d|>\"Life was not worthwhile.\" <|split_2d|>\"Life was hard but worthwhile.\" <|split_2d|>\"Life was uncertain but ultimately rewarding.\" <|split_2d|>\"Life was meaningful for most people.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Life was not worthwhile.",
+      "incorrect_answers": [
+        "Life was hard but worthwhile.",
+        "Life was uncertain but ultimately rewarding.",
+        "Life was meaningful for most people."
+      ]
+    }
+  },
+  {
+    "prompt": "Stevenson\u2019s primary aim in this paper is to:<|start_2d|>\"provide an account of what makes right actions right.\" <|split_2d|>\"establish which things are good in themselves.\" <|split_2d|>\"develop a theory of good moral character.\" <|split_2d|>\"make ethical questions clear.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "make ethical questions clear.",
+      "incorrect_answers": [
+        "provide an account of what makes right actions right.",
+        "establish which things are good in themselves.",
+        "develop a theory of good moral character."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Moore, we are thinking about good whenever we think about:<|start_2d|>\"pleasure.\" <|split_2d|>\"things that we desire.\" <|split_2d|>\"intrinsic value.\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "intrinsic value.",
+      "incorrect_answers": [
+        "pleasure.",
+        "things that we desire.",
+        "none of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Baier argues that genuine moral rules:<|start_2d|>\"must be for the good of human beings.\" <|split_2d|>\"make take into account the interests of all sentient beings.\" <|split_2d|>\"must take into account the interests of all living beings.\" <|split_2d|>\"are primarily directed toward promoting self-interest.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "must be for the good of human beings.",
+      "incorrect_answers": [
+        "make take into account the interests of all sentient beings.",
+        "must take into account the interests of all living beings.",
+        "are primarily directed toward promoting self-interest."
+      ]
+    }
+  },
+  {
+    "prompt": "Nussbaum claims that to many current ethical theorists, turning to an ethical approach based on the virtues is connected with a turn toward:<|start_2d|>\"rationalism.\" <|split_2d|>\"empiricism.\" <|split_2d|>\"relativism.\" <|split_2d|>\"absolutism.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "relativism.",
+      "incorrect_answers": [
+        "rationalism.",
+        "empiricism.",
+        "absolutism."
+      ]
+    }
+  },
+  {
+    "prompt": "Philosophy is concerned primarily with identifying beliefs about human existence and evaluating arguments that support those beliefs.  These activities can be summarized in two questions that drive philosophical investigations:<|start_2d|>\"why should we bother? and what are the consequences of our believing one thing over another?\" <|split_2d|>\"what do you mean? and how do you know?\" <|split_2d|>\"who really believes X? and how can we explain differences in people's beliefs?\" <|split_2d|>\"how do philosophers argue? and are their differences important?\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "what do you mean? and how do you know?",
+      "incorrect_answers": [
+        "why should we bother? and what are the consequences of our believing one thing over another?",
+        "who really believes X? and how can we explain differences in people's beliefs?",
+        "how do philosophers argue? and are their differences important?"
+      ]
+    }
+  },
+  {
+    "prompt": "Epictetus claims that things within our power are __________ and things not in our power are __________.<|start_2d|>\"free and unhindered; free and unhindered\" <|split_2d|>\"free and unhindered; servile and subject to hindrance\" <|split_2d|>\"servile and subject to hindrance; free and unhindered\" <|split_2d|>\"servile and subject to hindrance; servile and subject to hindrance\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "free and unhindered; servile and subject to hindrance",
+      "incorrect_answers": [
+        "free and unhindered; free and unhindered",
+        "servile and subject to hindrance; free and unhindered",
+        "servile and subject to hindrance; servile and subject to hindrance"
+      ]
+    }
+  },
+  {
+    "prompt": "Hume divides our perceptions into two categories:<|start_2d|>\"sensations and emotions.\" <|split_2d|>\"impressions and ideas.\" <|split_2d|>\"static and dynamic.\" <|split_2d|>\"simple and complex.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "impressions and ideas.",
+      "incorrect_answers": [
+        "sensations and emotions.",
+        "static and dynamic.",
+        "simple and complex."
+      ]
+    }
+  },
+  {
+    "prompt": "Aristotle says  that what makes things be what they are--their essence--does not exist apart from individ-uals that exist in the world.  So if all the members of a species were destroyed, then their essence or form:<|start_2d|>\"would likewise be destroyed.\" <|split_2d|>\"would be destroyed only if there were no one around to remember the species.\" <|split_2d|>\"would continue existing (as with Plato's Forms) in some other realm of being.\" <|split_2d|>\"would not be destroyed because there was no essence or form originally to be destroyed; there are only individuals, not universal essences or natures of things.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "would likewise be destroyed.",
+      "incorrect_answers": [
+        "would be destroyed only if there were no one around to remember the species.",
+        "would continue existing (as with Plato's Forms) in some other realm of being.",
+        "would not be destroyed because there was no essence or form originally to be destroyed; there are only individuals, not universal essences or natures of things."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Socrates, an unexamined life is not worth living; and it certainly could not be a virtuous life.  Why not?<|start_2d|>\"Because if someone did not know how to act virtuously, he or she would still be considered virtuous by others who also did not know the principles for good living.\" <|split_2d|>\"Because since Socrates was a philosopher, he of course thought that people who examined their lives philosophically were more virtuous than those who did not.\" <|split_2d|>\"Because without knowing the rationale for why one should act in a particular way, one does not know whether actions are justified and ought to be repeated.\" <|split_2d|>\"Because a virtuous life would be one in which someone does what the rest of the society says is right, and that means examining views other than one's own.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Because without knowing the rationale for why one should act in a particular way, one does not know whether actions are justified and ought to be repeated.",
+      "incorrect_answers": [
+        "Because if someone did not know how to act virtuously, he or she would still be considered virtuous by others who also did not know the principles for good living.",
+        "Because since Socrates was a philosopher, he of course thought that people who examined their lives philosophically were more virtuous than those who did not.",
+        "Because a virtuous life would be one in which someone does what the rest of the society says is right, and that means examining views other than one's own."
+      ]
+    }
+  },
+  {
+    "prompt": "\"There is no rationale for myth because it is through myth that reason itself is defined.\"  This means that:<|start_2d|>\"mythos is ultimately based on logos, just as myth is ultimately based on reasoning or thinking.\" <|split_2d|>\"myth does not 'explain' how things are related as much as it simply reveals them as related.\" <|split_2d|>\"metaphysicians are justified in reasoning as they do because there is only one true answer about being.\" <|split_2d|>\"myth and reason are the same: 'myth' defines 'reason,' and 'reason' defines 'myth.'\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "myth does not \"explain\" how things are related as much as it simply reveals them as related.",
+      "incorrect_answers": [
+        "mythos is ultimately based on logos, just as myth is ultimately based on reasoning or thinking.",
+        "metaphysicians are justified in reasoning as they do because there is only one true answer about being.",
+        "myth and reason are the same: \"myth\" defines \"reason,\" and \"reason\" defines \"myth.\""
+      ]
+    }
+  },
+  {
+    "prompt": "According to Epicurus, a law is unjust when:<|start_2d|>\"it is not in accordance with natural law.\" <|split_2d|>\"it is not in accordance with the traditions of society.\" <|split_2d|>\"it is offensive to the gods.\" <|split_2d|>\"it is not beneficial to those it affects.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "it is not beneficial to those it affects.",
+      "incorrect_answers": [
+        "it is not in accordance with natural law.",
+        "it is not in accordance with the traditions of society.",
+        "it is offensive to the gods."
+      ]
+    }
+  },
+  {
+    "prompt": "Leo Tolstoy says that art is _____.<|start_2d|>\"expression\" <|split_2d|>\"form\" <|split_2d|>\"representation\" <|split_2d|>\"abstract\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "expression",
+      "incorrect_answers": [
+        "form",
+        "representation",
+        "abstract"
+      ]
+    }
+  },
+  {
+    "prompt": "Aquinas holds that the last end of man is:<|start_2d|>\"pleasure.\" <|split_2d|>\"happiness or beatitude.\" <|split_2d|>\"the satisfaction of desire.\" <|split_2d|>\"freedom from anxiety.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "happiness or beatitude.",
+      "incorrect_answers": [
+        "pleasure.",
+        "the satisfaction of desire.",
+        "freedom from anxiety."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Kant, the supreme principle of morality is:<|start_2d|>\"analytic and a priori.\" <|split_2d|>\"analytic and a posteriori.\" <|split_2d|>\"synthetic and a priori.\" <|split_2d|>\"synthetic and a posteriori.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "synthetic and a priori.",
+      "incorrect_answers": [
+        "analytic and a priori.",
+        "analytic and a posteriori.",
+        "synthetic and a posteriori."
+      ]
+    }
+  },
+  {
+    "prompt": "Epicurus claims that all other virtues spring from:<|start_2d|>\"prudence.\" <|split_2d|>\"temperance.\" <|split_2d|>\"justice.\" <|split_2d|>\"courage.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "prudence.",
+      "incorrect_answers": [
+        "temperance.",
+        "justice.",
+        "courage."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Butler, it is impossible to:<|start_2d|>\"approve of the actions of others without imitating them.\" <|split_2d|>\"do something of which one does not oneself approve.\" <|split_2d|>\"be motivated by genuine benevolence.\" <|split_2d|>\"do that which is good and not to approve of it.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "do that which is good and not to approve of it.",
+      "incorrect_answers": [
+        "approve of the actions of others without imitating them.",
+        "do something of which one does not oneself approve.",
+        "be motivated by genuine benevolence."
+      ]
+    }
+  },
+  {
+    "prompt": "The systematic use of critical reasoning to try to find answers to fundamental questions about reality, morality, and knowledge is called _____.<|start_2d|>\"the argumentative method\" <|split_2d|>\"the philosophical method\" <|split_2d|>\"propositional logic\" <|split_2d|>\"syllogistic reasoning\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the philosophical method",
+      "incorrect_answers": [
+        "the argumentative method",
+        "propositional logic",
+        "syllogistic reasoning"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Mill, to determine whether one pleasure is more valuable than another, we must _____.<|start_2d|>\"determine which one is objectively most pleasurable\" <|split_2d|>\"determine which pleasure most experienced people prefer\" <|split_2d|>\"consult philosophers of the past\" <|split_2d|>\"consult science\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "determine which pleasure most experienced people prefer",
+      "incorrect_answers": [
+        "determine which one is objectively most pleasurable",
+        "consult philosophers of the past",
+        "consult science"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Hobbes, the definition of injustice is _____.<|start_2d|>\"disobedience to a sovereign\" <|split_2d|>\"disobedience to God's law\" <|split_2d|>\"failure to abide by a contract\" <|split_2d|>\"failure to respect inherent rights\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "failure to abide by a contract",
+      "incorrect_answers": [
+        "disobedience to a sovereign",
+        "disobedience to God's law",
+        "failure to respect inherent rights"
+      ]
+    }
+  },
+  {
+    "prompt": "Kant claims that the natural purpose of reason is to:<|start_2d|>\"produce happiness.\" <|split_2d|>\"produce pleasure.\" <|split_2d|>\"produce knowledge.\" <|split_2d|>\"produce a good will.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "produce a good will.",
+      "incorrect_answers": [
+        "produce happiness.",
+        "produce pleasure.",
+        "produce knowledge."
+      ]
+    }
+  },
+  {
+    "prompt": "Hare claims that the two essential features of the logic of moral judgments are:<|start_2d|>\"consequentialism and hedonism.\" <|split_2d|>\"universalizability and prescriptivity.\" <|split_2d|>\"contractualism and rule-following.\" <|split_2d|>\"consistency and coherence.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "universalizability and prescriptivity.",
+      "incorrect_answers": [
+        "consequentialism and hedonism.",
+        "contractualism and rule-following.",
+        "consistency and coherence."
+      ]
+    }
+  },
+  {
+    "prompt": "Mill defines \u201cutility\u201d as:<|start_2d|>\"usefulness for some craft.\" <|split_2d|>\"usefulness to society.\" <|split_2d|>\"pleasure and the absence of pain.\" <|split_2d|>\"it promotes the interests of all and does not harm anyone.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "pleasure and the absence of pain.",
+      "incorrect_answers": [
+        "usefulness for some craft.",
+        "usefulness to society.",
+        "it promotes the interests of all and does not harm anyone."
+      ]
+    }
+  },
+  {
+    "prompt": "To Kant, making a lying promise would be wrong because _____.<|start_2d|>\"lying to people can cause them harm\" <|split_2d|>\"lying to people harms society\" <|split_2d|>\"you could not consistently will that everyone should make lying promises\" <|split_2d|>\"most people condemn the practice\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "you could not consistently will that everyone should make lying promises",
+      "incorrect_answers": [
+        "lying to people can cause them harm",
+        "lying to people harms society",
+        "most people condemn the practice"
+      ]
+    }
+  },
+  {
+    "prompt": "How does Stevenson respond to the objection that his theory does not account for the kind of goodness that is objective and is known a priori?<|start_2d|>\"He claims to have proven that such a property does not exist.\" <|split_2d|>\"He claims to have offered an account of just such a property.\" <|split_2d|>\"He claims he does not understand such a property.\" <|split_2d|>\"None of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "He claims he does not understand such a property.",
+      "incorrect_answers": [
+        "He claims to have proven that such a property does not exist.",
+        "He claims to have offered an account of just such a property.",
+        "None of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Wolf claims that interpreting Kant\u2019s ethics so that it consists of a finite set of constraints:<|start_2d|>\"yields an unattractive picture of moral sainthood.\" <|split_2d|>\"implausibly places an \u201cupper bound\u201d on moral worthiness.\" <|split_2d|>\"yields a theory that is too demanding.\" <|split_2d|>\"transforms the theory into a form of contractarianism.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "implausibly places an \u201cupper bound\u201d on moral worthiness.",
+      "incorrect_answers": [
+        "yields an unattractive picture of moral sainthood.",
+        "yields a theory that is too demanding.",
+        "transforms the theory into a form of contractarianism."
+      ]
+    }
+  },
+  {
+    "prompt": "The famous statement \u201cAn unexamined life is not worth living\u201d is attributed to _____.<|start_2d|>\"Aristotle\" <|split_2d|>\"John Locke\" <|split_2d|>\"Socrates\" <|split_2d|>\"Plato\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Socrates",
+      "incorrect_answers": [
+        "Aristotle",
+        "John Locke",
+        "Plato"
+      ]
+    }
+  },
+  {
+    "prompt": "Paley maintains that the key difference between the \u201ccontrivance\u201d of a watch and that of nature is that the latter is _____.<|start_2d|>\"simpler\" <|split_2d|>\"more natural\" <|split_2d|>\"older\" <|split_2d|>\"greater and grander\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "greater and grander",
+      "incorrect_answers": [
+        "simpler",
+        "more natural",
+        "older"
+      ]
+    }
+  },
+  {
+    "prompt": "Concerning the relationship between morality and theology, Bentham claims that:<|start_2d|>\"we must first know whether something is right before we can know whether it conforms to God\u2019s will.\" <|split_2d|>\"we must first know whether something conforms to God\u2019s will before we can know that it is right.\" <|split_2d|>\"God exists, but does not concern himself with matters of morality.\" <|split_2d|>\"God does not exist.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "we must first know whether something is right before we can know whether it conforms to God\u2019s will.",
+      "incorrect_answers": [
+        "we must first know whether something conforms to God\u2019s will before we can know that it is right.",
+        "God exists, but does not concern himself with matters of morality.",
+        "God does not exist."
+      ]
+    }
+  },
+  {
+    "prompt": "For the soft determinist, to say that you could have done otherwise is to say that you would have done otherwise if _____.<|start_2d|>\"your desires were always the same\" <|split_2d|>\"your desires were completely under your control\" <|split_2d|>\"your desires had been different\" <|split_2d|>\"your desires played no role in your decisions\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "your desires had been different",
+      "incorrect_answers": [
+        "your desires were always the same",
+        "your desires were completely under your control",
+        "your desires played no role in your decisions"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Ross, our prima facie duties:<|start_2d|>\"can be proven.\" <|split_2d|>\"are self-evident.\" <|split_2d|>\"cannot be known.\" <|split_2d|>\"are not objective.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "are self-evident.",
+      "incorrect_answers": [
+        "can be proven.",
+        "cannot be known.",
+        "are not objective."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Rawls, behind the veil of ignorance, the principles of justice are _____.<|start_2d|>\"the result of coercion\" <|split_2d|>\"impractical\" <|split_2d|>\"chosen arbitrarily\" <|split_2d|>\"the result of a fair agreement or bargain\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the result of a fair agreement or bargain",
+      "incorrect_answers": [
+        "the result of coercion",
+        "impractical",
+        "chosen arbitrarily"
+      ]
+    }
+  },
+  {
+    "prompt": "In Aquinas\u2019s view, man\u2019s ultimate happiness consists in:<|start_2d|>\"pleasure\" <|split_2d|>\"acts of the moral virtues.\" <|split_2d|>\"loving God.\" <|split_2d|>\"contemplating God.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "contemplating God.",
+      "incorrect_answers": [
+        "pleasure",
+        "acts of the moral virtues.",
+        "loving God."
+      ]
+    }
+  },
+  {
+    "prompt": "Taurek claims that if faced with the choice between saving the life of X or the arm of Y:<|start_2d|>\"Y is obligated to choose saving the life of X.\" <|split_2d|>\"we are obligated to choose saving the life of X.\" <|split_2d|>\"both a and b.\" <|split_2d|>\"neither a nor b.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "neither a nor b.",
+      "incorrect_answers": [
+        "Y is obligated to choose saving the life of X.",
+        "we are obligated to choose saving the life of X.",
+        "both a and b."
+      ]
+    }
+  },
+  {
+    "prompt": "Wolf argues that the unattractiveness of the moral saint:<|start_2d|>\"gives us reason to abandon utilitarianism.\" <|split_2d|>\"gives us reason to abandon Kantianism.\" <|split_2d|>\"both a and b.\" <|split_2d|>\"neither a nor b.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "neither a nor b.",
+      "incorrect_answers": [
+        "gives us reason to abandon utilitarianism.",
+        "gives us reason to abandon Kantianism.",
+        "both a and b."
+      ]
+    }
+  },
+  {
+    "prompt": "Plato's suggestion that knowledge is innate or remembered as a result of being triggered by experience is in response to a paradox he sets up for himself.  The paradox, now referred to as Meno's Paradox, has to do with the question of:<|start_2d|>\"how a person can remember anything about the realm of the Forms after the shock of being born into this world.\" <|split_2d|>\"how knowledge of the Forms can ever be anything other than a generalization of experience.\" <|split_2d|>\"how anyone can recognize the correct answer to a question without already knowing the answer.\" <|split_2d|>\"how concepts bound to the realm of becoming have meaning only when associated with the realm of Being.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "how anyone can recognize the correct answer to a question without already knowing the answer.",
+      "incorrect_answers": [
+        "how a person can remember anything about the realm of the Forms after the shock of being born into this world.",
+        "how knowledge of the Forms can ever be anything other than a generalization of experience.",
+        "how concepts bound to the realm of becoming have meaning only when associated with the realm of Being."
+      ]
+    }
+  },
+  {
+    "prompt": "Gauthier claims that there is nothing for practical rationality to be besides:<|start_2d|>\"moral justification.\" <|split_2d|>\"deliberative justification.\" <|split_2d|>\"epistemic justification.\" <|split_2d|>\"an illusion.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "deliberative justification.",
+      "incorrect_answers": [
+        "moral justification.",
+        "epistemic justification.",
+        "an illusion."
+      ]
+    }
+  },
+  {
+    "prompt": "Socrates' claim that \"the unexamined life is not worth living\" is often cited as a central theme in the activities of people.  By it, Socrates is typically understood to mean that:<|start_2d|>\"it is sometimes simply not worth all the effort of examining life and its problems in great detail; sometimes it is better simply to 'go with the flow.'\" <|split_2d|>\"while taking a reflective attitude toward life is interesting and even sometimes important, most of what makes life worth living is not worth examining.\" <|split_2d|>\"simply doing whatever everyone else does without thinking about why we should do what we do can hardly be thought of as worthwhile, noble, or admirable.\" <|split_2d|>\"it is a waste of time to sit around thinking about whether life is worth living; we should leave such reflection to talk-show hosts, political figures, and religious leaders.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "simply doing whatever everyone else does without thinking about why we should do what we do can hardly be thought of as worthwhile, noble, or admirable.",
+      "incorrect_answers": [
+        "it is sometimes simply not worth all the effort of examining life and its problems in great detail; sometimes it is better simply to \"go with the flow.\"",
+        "while taking a reflective attitude toward life is interesting and even sometimes important, most of what makes life worth living is not worth examining.",
+        "it is a waste of time to sit around thinking about whether life is worth living; we should leave such reflection to talk-show hosts, political figures, and religious leaders."
+      ]
+    }
+  },
+  {
+    "prompt": "Nagel claims that the problem of moral luck is closely connected to the problem of:<|start_2d|>\"the existence of God.\" <|split_2d|>\"freedom of the will.\" <|split_2d|>\"psychological egoism.\" <|split_2d|>\"universals.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "freedom of the will.",
+      "incorrect_answers": [
+        "the existence of God.",
+        "psychological egoism.",
+        "universals."
+      ]
+    }
+  },
+  {
+    "prompt": "\"Is there anything you would be willing to die for?\" is a philosophical question insofar as:<|start_2d|>\"it does not have any right or wrong answer because it is a meaningless question.\" <|split_2d|>\"it is a meaningless question because everyone could have a different answer to it.\" <|split_2d|>\"it forces us to articulate and justify our beliefs about what we know and ought to do.\" <|split_2d|>\"it is more concerned with one's religious beliefs than with factual claims about the world.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "it forces us to articulate and justify our beliefs about what we know and ought to do.",
+      "incorrect_answers": [
+        "it does not have any right or wrong answer because it is a meaningless question.",
+        "it is a meaningless question because everyone could have a different answer to it.",
+        "it is more concerned with one's religious beliefs than with factual claims about the world."
+      ]
+    }
+  },
+  {
+    "prompt": "Hume defines virtue as:<|start_2d|>\"a tendency to maximize happiness.\" <|split_2d|>\"a tendency to pursue justice.\" <|split_2d|>\"whatever mental action or quality gives a spectator a sentiment of approbation.\" <|split_2d|>\"whatever mental action or quality brings about the best consequences for all.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "whatever mental action or quality gives a spectator a sentiment of approbation.",
+      "incorrect_answers": [
+        "a tendency to maximize happiness.",
+        "a tendency to pursue justice.",
+        "whatever mental action or quality brings about the best consequences for all."
+      ]
+    }
+  },
+  {
+    "prompt": "Parfit claims that:<|start_2d|>\"it is possible for an outcome to be worse for a particular person than some alternative.\" <|split_2d|>\"it is possible for an outcome to be worse than some alternative.\" <|split_2d|>\"both a and b.\" <|split_2d|>\"neither a. nor b.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "both a and b.",
+      "incorrect_answers": [
+        "it is possible for an outcome to be worse for a particular person than some alternative.",
+        "it is possible for an outcome to be worse than some alternative.",
+        "neither a. nor b."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Baier\u2019s theory, the second step in assessing whether an action is morally permissible is to find out:<|start_2d|>\"whether it is forbidden by a moral rule of one\u2019s group.\" <|split_2d|>\"whether the moral rule forbidding it is a genuine moral rule.\" <|split_2d|>\"whether it is forbidden by a law.\" <|split_2d|>\"whether one can approve of it.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "whether the moral rule forbidding it is a genuine moral rule.",
+      "incorrect_answers": [
+        "whether it is forbidden by a moral rule of one\u2019s group.",
+        "whether it is forbidden by a law.",
+        "whether one can approve of it."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Hume, morality is ultimately based on:<|start_2d|>\"reason.\" <|split_2d|>\"God\u2019s commands.\" <|split_2d|>\"social agreements.\" <|split_2d|>\"sympathy.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "sympathy.",
+      "incorrect_answers": [
+        "reason.",
+        "God\u2019s commands.",
+        "social agreements."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Kant, moral laws are:<|start_2d|>\"necessary and apply to all rational beings.\" <|split_2d|>\"contingent and apply only to human beings.\" <|split_2d|>\"culturally relative.\" <|split_2d|>\"grounded in God\u2019s commands.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "necessary and apply to all rational beings.",
+      "incorrect_answers": [
+        "contingent and apply only to human beings.",
+        "culturally relative.",
+        "grounded in God\u2019s commands."
+      ]
+    }
+  },
+  {
+    "prompt": "Wolf claims that ultimately, normative questions must be assessed from:<|start_2d|>\"the moral point of view.\" <|split_2d|>\"the point of view of virtue.\" <|split_2d|>\"the point of view of individual perfection.\" <|split_2d|>\"a perspective that is unattached to a commitment to any well-ordered system of values.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a perspective that is unattached to a commitment to any well-ordered system of values.",
+      "incorrect_answers": [
+        "the moral point of view.",
+        "the point of view of virtue.",
+        "the point of view of individual perfection."
+      ]
+    }
+  },
+  {
+    "prompt": "Baier claims that for a rule to belong the morality of a group, the rule must be:<|start_2d|>\"part of the mores of the group.\" <|split_2d|>\"universally teachable.\" <|split_2d|>\"not merely a taboo.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "all of the above.",
+      "incorrect_answers": [
+        "part of the mores of the group.",
+        "universally teachable.",
+        "not merely a taboo."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Sartre, if God does not exist, _____.<|start_2d|>\"anything is permissible\" <|split_2d|>\"moral values must come from nature\" <|split_2d|>\"moral values still exist\" <|split_2d|>\"man does not exist\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "anything is permissible",
+      "incorrect_answers": [
+        "moral values must come from nature",
+        "moral values still exist",
+        "man does not exist"
+      ]
+    }
+  },
+  {
+    "prompt": "Baggini accuses pessimists of mixing up the two senses of _____.<|start_2d|>\"philosophy\" <|split_2d|>\"religion\" <|split_2d|>\"meaning\" <|split_2d|>\"time\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "meaning",
+      "incorrect_answers": [
+        "philosophy",
+        "religion",
+        "time"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is an example of deception in business research?<|start_2d|>\"The obtaining of company material without permission.\" <|split_2d|>\"The researcher wearing a disguise during an observation.\" <|split_2d|>\"The researcher representing their research as being about a different topic.\" <|split_2d|>\"The researcher failing to ask permission to interview someone.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "The researcher representing their research as being about a different topic.",
+      "incorrect_answers": [
+        "The obtaining of company material without permission.",
+        "The researcher wearing a disguise during an observation.",
+        "The researcher failing to ask permission to interview someone."
+      ]
+    }
+  },
+  {
+    "prompt": "Feinberg claims that most arguments for psychological egoism:<|start_2d|>\"make reference to neuroscience.\" <|split_2d|>\"are based on controlled studies.\" <|split_2d|>\"are based on interviews and surveys.\" <|split_2d|>\"are nonempirical in character.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "are nonempirical in character.",
+      "incorrect_answers": [
+        "make reference to neuroscience.",
+        "are based on controlled studies.",
+        "are based on interviews and surveys."
+      ]
+    }
+  },
+  {
+    "prompt": "Descartes had been disillusioned by his discovery that many of the alleged truths learned in his youth were _____.<|start_2d|>\"contrary to his religion\" <|split_2d|>\"TRUE\" <|split_2d|>\"FALSE\" <|split_2d|>\"beyond question\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "FALSE",
+      "incorrect_answers": [
+        "contrary to his religion",
+        "TRUE",
+        "beyond question"
+      ]
+    }
+  },
+  {
+    "prompt": "Critics of the divine command theory have argued that the theory implies that God's commands are _____.<|start_2d|>\"well supported\" <|split_2d|>\"unclear\" <|split_2d|>\"unknowable\" <|split_2d|>\"arbitrary\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "arbitrary",
+      "incorrect_answers": [
+        "well supported",
+        "unclear",
+        "unknowable"
+      ]
+    }
+  },
+  {
+    "prompt": "Aquinas argues that the end of every action is:<|start_2d|>\"some desire.\" <|split_2d|>\"some pleasure.\" <|split_2d|>\"some good.\" <|split_2d|>\"some emotional state.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "some good.",
+      "incorrect_answers": [
+        "some desire.",
+        "some pleasure.",
+        "some emotional state."
+      ]
+    }
+  },
+  {
+    "prompt": "Epicurus holds that philosophy is:<|start_2d|>\"not suitable for the young.\" <|split_2d|>\"not suitable for the old.\" <|split_2d|>\"important, but unpleasant.\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "none of the above.",
+      "incorrect_answers": [
+        "not suitable for the young.",
+        "not suitable for the old.",
+        "important, but unpleasant."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Parfit, both Taurek and Lewis assume that for there to be a \u201csum of pain,\u201d it must be:<|start_2d|>\"all felt at a single time.\" <|split_2d|>\"all felt by a single person.\" <|split_2d|>\"all be caused by a single source.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "all felt by a single person.",
+      "incorrect_answers": [
+        "all felt at a single time.",
+        "all be caused by a single source.",
+        "all of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Mill claims that in deciding how to act:<|start_2d|>\"we should always calculate the expected consequences of our action.\" <|split_2d|>\"we should depend on rules of thumb derived from the principle of utility.\" <|split_2d|>\"we should consult tradition.\" <|split_2d|>\"we should consult scripture.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "we should depend on rules of thumb derived from the principle of utility.",
+      "incorrect_answers": [
+        "we should always calculate the expected consequences of our action.",
+        "we should consult tradition.",
+        "we should consult scripture."
+      ]
+    }
+  },
+  {
+    "prompt": "An important formal characteristic of art is_____.<|start_2d|>\"social meaning\" <|split_2d|>\"faithful representation\" <|split_2d|>\"its power to evoke strong emotions\" <|split_2d|>\"coherence\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "coherence",
+      "incorrect_answers": [
+        "social meaning",
+        "faithful representation",
+        "its power to evoke strong emotions"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Hobbes, in the condition of man in which there is a state of war of everyone against everyone, every man has a right to _____.<|start_2d|>\"some things\" <|split_2d|>\"lawful treatment\" <|split_2d|>\"due process\" <|split_2d|>\"everything\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "everything",
+      "incorrect_answers": [
+        "some things",
+        "lawful treatment",
+        "due process"
+      ]
+    }
+  },
+  {
+    "prompt": "In the case of the debtors, the moral argument against imprisoning A relies on:<|start_2d|>\"fear.\" <|split_2d|>\"universalizability.\" <|split_2d|>\"considerations of the consequences of doing so.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "universalizability.",
+      "incorrect_answers": [
+        "fear.",
+        "considerations of the consequences of doing so.",
+        "all of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Hume, justice:<|start_2d|>\"has no value.\" <|split_2d|>\"has value in part because it is useful to society.\" <|split_2d|>\"has value solely because it is useful to society.\" <|split_2d|>\"has value solely because it is useful to the agent.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "has value solely because it is useful to society.",
+      "incorrect_answers": [
+        "has no value.",
+        "has value in part because it is useful to society.",
+        "has value solely because it is useful to the agent."
+      ]
+    }
+  },
+  {
+    "prompt": "Why is it important that personal data about research participants are kept within secure, confidential records?<|start_2d|>\"So that the participants cannot find out what has been written about them.\" <|split_2d|>\"In case individuals, places, or organizations can be harmed through identification or disclosure of personal information.\" <|split_2d|>\"So that government officials, teachers, and other people in authority can have easy access to the data.\" <|split_2d|>\"To enable the researcher to track down individuals and find out more about their lives.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "In case individuals, places, or organizations can be harmed through identification or disclosure of personal information.",
+      "incorrect_answers": [
+        "So that the participants cannot find out what has been written about them.",
+        "So that government officials, teachers, and other people in authority can have easy access to the data.",
+        "To enable the researcher to track down individuals and find out more about their lives."
+      ]
+    }
+  },
+  {
+    "prompt": "Berkeley insists that heat and cold are _____.<|start_2d|>\"illusions\" <|split_2d|>\"physical objects\" <|split_2d|>\"only things existing apart from our minds\" <|split_2d|>\"only sensations existing in our minds\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "only sensations existing in our minds",
+      "incorrect_answers": [
+        "illusions",
+        "physical objects",
+        "only things existing apart from our minds"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Moore, the most fundamental question in all of ethics is:<|start_2d|>\"whether life is worth living.\" <|split_2d|>\"whether God exists.\" <|split_2d|>\"how \u201cgood\u201d is to be defined.\" <|split_2d|>\"whether morality is objective.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "how \u201cgood\u201d is to be defined.",
+      "incorrect_answers": [
+        "whether life is worth living.",
+        "whether God exists.",
+        "whether morality is objective."
+      ]
+    }
+  },
+  {
+    "prompt": "Bentham claims that actions are right or wrong in virtue of:<|start_2d|>\"the motives behind them.\" <|split_2d|>\"their consequences.\" <|split_2d|>\"both a and b.\" <|split_2d|>\"neither a nor b.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "their consequences.",
+      "incorrect_answers": [
+        "the motives behind them.",
+        "both a and b.",
+        "neither a nor b."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following concepts can be defined, according to Moore?<|start_2d|>\"good\" <|split_2d|>\"yellow\" <|split_2d|>\"horse\" <|split_2d|>\"all of the above\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "horse",
+      "incorrect_answers": [
+        "good",
+        "yellow",
+        "all of the above"
+      ]
+    }
+  },
+  {
+    "prompt": "Cicero argues that we will never go morally astray if we:<|start_2d|>\"follow our conscience.\" <|split_2d|>\"follow the laws.\" <|split_2d|>\"follow religious edicts.\" <|split_2d|>\"follow Nature as our guide.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "follow Nature as our guide.",
+      "incorrect_answers": [
+        "follow our conscience.",
+        "follow the laws.",
+        "follow religious edicts."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Kant, the moral worth of an action depends on:<|start_2d|>\"the moral character of the agent who performs it.\" <|split_2d|>\"the consequences of the action.\" <|split_2d|>\"the maxim that is acted on.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the maxim that is acted on.",
+      "incorrect_answers": [
+        "the moral character of the agent who performs it.",
+        "the consequences of the action.",
+        "all of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Epictetus recommends that we refrain from:<|start_2d|>\"laughing without restraint.\" <|split_2d|>\"casually going to lectures.\" <|split_2d|>\"having sex before marriage.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "all of the above.",
+      "incorrect_answers": [
+        "laughing without restraint.",
+        "casually going to lectures.",
+        "having sex before marriage."
+      ]
+    }
+  },
+  {
+    "prompt": "Nussbaum claims that our modern debates about homosexuality:<|start_2d|>\"are continuations of the very same debate about sexual activity that went on in the Greek world.\" <|split_2d|>\"are interminable because there is no objective answer as to whether homosexuality is immoral.\" <|split_2d|>\"are carried out in a manner that is not virtuous.\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "none of the above.",
+      "incorrect_answers": [
+        "are continuations of the very same debate about sexual activity that went on in the Greek world.",
+        "are interminable because there is no objective answer as to whether homosexuality is immoral.",
+        "are carried out in a manner that is not virtuous."
+      ]
+    }
+  },
+  {
+    "prompt": "To say that \"philosophy\" (like \"love\" or \"art\") is not a closed concept means that we cannot state the necessary and sufficient conditions by which it is defined.  Rather, philosophic issues are identifiable as having \"family resemblances\" with one another.  In other words:<|start_2d|>\"there is no one distinguishing feature that identifies an issue as philosophic, only an overlapping of issues roughly associated with one another.\" <|split_2d|>\"the way we come to think about philosophy, love, or art really depends on how we were raised by our families to identify things as resembling one another.\" <|split_2d|>\"the necessary and sufficient condition for something to be considered philosophic is that it answers either of these questions: What does it mean? and How do you know?\" <|split_2d|>\"philosophy is not a closed discipline insofar as it is willing to accept any answer suggested by the 'human family' as being true.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "there is no one distinguishing feature that identifies an issue as philosophic, only an overlapping of issues roughly associated with one another.",
+      "incorrect_answers": [
+        "the way we come to think about philosophy, love, or art really depends on how we were raised by our families to identify things as resembling one another.",
+        "the necessary and sufficient condition for something to be considered philosophic is that it answers either of these questions: What does it mean? and How do you know?",
+        "philosophy is not a closed discipline insofar as it is willing to accept any answer suggested by the \"human family\" as being true."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Ross, we should construct a moral theory by:<|start_2d|>\"constructing logical proofs for moral principles.\" <|split_2d|>\"consulting social conventions.\" <|split_2d|>\"reflecting on what we really think.\" <|split_2d|>\"consulting scripture.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "reflecting on what we really think.",
+      "incorrect_answers": [
+        "constructing logical proofs for moral principles.",
+        "consulting social conventions.",
+        "consulting scripture."
+      ]
+    }
+  },
+  {
+    "prompt": "A prima facie duty is a characteristic of an act in virtue of which the act:<|start_2d|>\"seems to be right, although this might be illusory.\" <|split_2d|>\"tends to be right, although this might be outweighed by other considerations.\" <|split_2d|>\"is right.\" <|split_2d|>\"is the first thing that an agent ought to do, above all else.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "tends to be right, although this might be outweighed by other considerations.",
+      "incorrect_answers": [
+        "seems to be right, although this might be illusory.",
+        "is right.",
+        "is the first thing that an agent ought to do, above all else."
+      ]
+    }
+  },
+  {
+    "prompt": " According to Socrates, the task of the wise and virtuous person is not simply to learn various examples of just or virtuous actions but to learn the essence of justice or virtue, because:<|start_2d|>\"by knowing enough examples of justice or virtue, we will live a worthwhile life even if we do not know what makes them examples of justice or virtue.\" <|split_2d|>\"knowledge of individual examples alone would not prepare someone for situations of justice or virtue to which the examples do not immediately apply.\" <|split_2d|>\"what makes an action just or virtuous can be known only by asking people for their opinions and respecting each answer as equally valuable.\" <|split_2d|>\"justice and virtue are universal goals of all human beings, even if people do not always agree on how to achieve those ends.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "knowledge of individual examples alone would not prepare someone for situations of justice or virtue to which the examples do not immediately apply.",
+      "incorrect_answers": [
+        "by knowing enough examples of justice or virtue, we will live a worthwhile life even if we do not know what makes them examples of justice or virtue.",
+        "what makes an action just or virtuous can be known only by asking people for their opinions and respecting each answer as equally valuable.",
+        "justice and virtue are universal goals of all human beings, even if people do not always agree on how to achieve those ends."
+      ]
+    }
+  },
+  {
+    "prompt": "Baier claims that ethical skepticism is often due to:<|start_2d|>\"confused metaphysical theories.\" <|split_2d|>\"confused epistemological theories.\" <|split_2d|>\"confused religious views.\" <|split_2d|>\"confused scientific theories.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "confused epistemological theories.",
+      "incorrect_answers": [
+        "confused metaphysical theories.",
+        "confused religious views.",
+        "confused scientific theories."
+      ]
+    }
+  },
+  {
+    "prompt": "Aquinas claim that all human operations appear to serve:<|start_2d|>\"those in power.\" <|split_2d|>\"those of high status.\" <|split_2d|>\"those who contemplate the truth.\" <|split_2d|>\"those who act wickedly.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "those who contemplate the truth.",
+      "incorrect_answers": [
+        "those in power.",
+        "those of high status.",
+        "those who act wickedly."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Stevenson, moral disagreements involve:<|start_2d|>\"disagreement in interest.\" <|split_2d|>\"disagreement in belief.\" <|split_2d|>\"disagreement in theory.\" <|split_2d|>\"disagreement in practice.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "disagreement in interest.",
+      "incorrect_answers": [
+        "disagreement in belief.",
+        "disagreement in theory.",
+        "disagreement in practice."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Hobbes, whenever and wherever men live without a common power to keep them all in awe, there is _____.<|start_2d|>\"negotiation\" <|split_2d|>\"war\" <|split_2d|>\"democracy\" <|split_2d|>\"freedom\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "war",
+      "incorrect_answers": [
+        "negotiation",
+        "democracy",
+        "freedom"
+      ]
+    }
+  },
+  {
+    "prompt": "Hare claims that all moral arguments are:<|start_2d|>\"useless.\" <|split_2d|>\"valid.\" <|split_2d|>\"ad hominem.\" <|split_2d|>\"sound.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "ad hominem.",
+      "incorrect_answers": [
+        "useless.",
+        "valid.",
+        "sound."
+      ]
+    }
+  },
+  {
+    "prompt": "Apart from the fact that it is \"not a nice thing to do\", what is an important ethical disadvantage of deceiving participants?<|start_2d|>\"It can damage the professional reputation of the researcher and their discipline.\" <|split_2d|>\"It makes it more difficult to gain access to deviant or hidden populations.\" <|split_2d|>\"It means that records of personal data about the participants cannot be made anonymous.\" <|split_2d|>\"None of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "It can damage the professional reputation of the researcher and their discipline.",
+      "incorrect_answers": [
+        "It makes it more difficult to gain access to deviant or hidden populations.",
+        "It means that records of personal data about the participants cannot be made anonymous.",
+        "None of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Stevenson claims that the primary use of ethical judgments is to:<|start_2d|>\"state facts.\" <|split_2d|>\"influence the interests of others.\" <|split_2d|>\"describe one\u2019s own approval of things.\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "influence the interests of others.",
+      "incorrect_answers": [
+        "state facts.",
+        "describe one\u2019s own approval of things.",
+        "none of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Butler claims that, strictly speaking, the only thing that anyone has a right to is:<|start_2d|>\"life.\" <|split_2d|>\"liberty.\" <|split_2d|>\"property.\" <|split_2d|>\"happiness.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "happiness.",
+      "incorrect_answers": [
+        "life.",
+        "liberty.",
+        "property."
+      ]
+    }
+  },
+  {
+    "prompt": "Augustine holds that we can never err:<|start_2d|>\"in any circumstances whatsoever.\" <|split_2d|>\"except through ignorance.\" <|split_2d|>\"except through wickedness.\" <|split_2d|>\"except through temptation.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "except through ignorance.",
+      "incorrect_answers": [
+        "in any circumstances whatsoever.",
+        "except through wickedness.",
+        "except through temptation."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Brandt\u2019s theory, an ideal moral rule is one that would:<|start_2d|>\"maximize positive utility, ignoring negative utility.\" <|split_2d|>\"minimize negative utility, ignoring positive utility.\" <|split_2d|>\"maximize utility, with both positive and negative utilities being counted.\" <|split_2d|>\"take no account of either positive or negative utility.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "maximize utility, with both positive and negative utilities being counted.",
+      "incorrect_answers": [
+        "maximize positive utility, ignoring negative utility.",
+        "minimize negative utility, ignoring positive utility.",
+        "take no account of either positive or negative utility."
+      ]
+    }
+  },
+  {
+    "prompt": "Hare asserts that ethics and science are similar in that:<|start_2d|>\"both seek to provide us with true beliefs about the world.\" <|split_2d|>\"both are essential components of a worthwhile life.\" <|split_2d|>\"both involve testing general principles by examining their logical consequences.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "both involve testing general principles by examining their logical consequences.",
+      "incorrect_answers": [
+        "both seek to provide us with true beliefs about the world.",
+        "both are essential components of a worthwhile life.",
+        "all of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Hume argues that the criteria for judging aesthetic value are _____.<|start_2d|>\"entirely subjective\" <|split_2d|>\"unchangeable\" <|split_2d|>\"entirely objective\" <|split_2d|>\"unknown\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "entirely subjective",
+      "incorrect_answers": [
+        "unchangeable",
+        "entirely objective",
+        "unknown"
+      ]
+    }
+  },
+  {
+    "prompt": "How many categories of ethical principles do Diener and Crandell refer to?<|start_2d|>\"Three: harm to students; lack of informed consent; invasion of privacy on social media.\" <|split_2d|>\"Four: harm to participants; lack of informed consent; invasion of privacy; involvement of deception\" <|split_2d|>\"Two: ethical and unethical\" <|split_2d|>\"Two: right and wrong\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Four: harm to participants; lack of informed consent; invasion of privacy; involvement of deception",
+      "incorrect_answers": [
+        "Three: harm to students; lack of informed consent; invasion of privacy on social media.",
+        "Two: ethical and unethical",
+        "Two: right and wrong"
+      ]
+    }
+  },
+  {
+    "prompt": "In response to the claim that deliberative justification is incomplete:<|start_2d|>\"Gauthier expands the definition of deliberative justification.\" <|split_2d|>\"Gauthier argues that deliberative justification by definition takes account of all relevant considerations.\" <|split_2d|>\"Gauthier claims that deliberative justification works.\" <|split_2d|>\"Gauthier argues that all theories of justification are equally incomplete.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Gauthier claims that deliberative justification works.",
+      "incorrect_answers": [
+        "Gauthier expands the definition of deliberative justification.",
+        "Gauthier argues that deliberative justification by definition takes account of all relevant considerations.",
+        "Gauthier argues that all theories of justification are equally incomplete."
+      ]
+    }
+  },
+  {
+    "prompt": "Aquinas claims that the ultimate perfection of operation is:<|start_2d|>\"delight.\" <|split_2d|>\"peace.\" <|split_2d|>\"pleasure.\" <|split_2d|>\"Godliness.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "delight.",
+      "incorrect_answers": [
+        "peace.",
+        "pleasure.",
+        "Godliness."
+      ]
+    }
+  },
+  {
+    "prompt": "Rawls argues that parties in the original position would not accept utilitarianism because:<|start_2d|>\"it is too difficult to determine which policies would maximize happiness.\" <|split_2d|>\"doing so would be too risky.\" <|split_2d|>\"it requires us to do unjust things, such as executing innocent people.\" <|split_2d|>\"they would be behind the veil of ignorance and thus would never have heard of utilitarianism.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "doing so would be too risky.",
+      "incorrect_answers": [
+        "it is too difficult to determine which policies would maximize happiness.",
+        "it requires us to do unjust things, such as executing innocent people.",
+        "they would be behind the veil of ignorance and thus would never have heard of utilitarianism."
+      ]
+    }
+  },
+  {
+    "prompt": "What does the notion of \u201cmeaning in life\u201d refer to?<|start_2d|>\"external meaning\" <|split_2d|>\"god's plan\" <|split_2d|>\"internalmeaning\" <|split_2d|>\"meaning in an afterlife\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "internalmeaning",
+      "incorrect_answers": [
+        "external meaning",
+        "god's plan",
+        "meaning in an afterlife"
+      ]
+    }
+  },
+  {
+    "prompt": "Stevenson identifies the meaning of a term with:<|start_2d|>\"the empirical observations to which it applies.\" <|split_2d|>\"all the psychological causes and effects that attend its utterance.\" <|split_2d|>\"the psychological causes and effects it has a tendency to be connected with.\" <|split_2d|>\"the set of other words that are synonyms to the original word.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the psychological causes and effects it has a tendency to be connected with.",
+      "incorrect_answers": [
+        "the empirical observations to which it applies.",
+        "all the psychological causes and effects that attend its utterance.",
+        "the set of other words that are synonyms to the original word."
+      ]
+    }
+  },
+  {
+    "prompt": "Hume thinks that each mind perceives _____.<|start_2d|>\"the same beauty\" <|split_2d|>\"a different beauty\" <|split_2d|>\"a warped sense of beauty\" <|split_2d|>\"objective beauty\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a different beauty",
+      "incorrect_answers": [
+        "the same beauty",
+        "a warped sense of beauty",
+        "objective beauty"
+      ]
+    }
+  },
+  {
+    "prompt": "Descartes says that the chief characteristic of physical things is that _____.<|start_2d|>\"they cannot be measured\" <|split_2d|>\"science can study them\" <|split_2d|>\"they do not have extension\" <|split_2d|>\"they have extension\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "they have extension",
+      "incorrect_answers": [
+        "they cannot be measured",
+        "science can study them",
+        "they do not have extension"
+      ]
+    }
+  },
+  {
+    "prompt": "In Book II of the Republic, Glaucon claims that justice originates from:<|start_2d|>\"a social agreement.\" <|split_2d|>\"nature.\" <|split_2d|>\"the gods.\" <|split_2d|>\"the powerful.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a social agreement.",
+      "incorrect_answers": [
+        "nature.",
+        "the gods.",
+        "the powerful."
+      ]
+    }
+  },
+  {
+    "prompt": "Augustine identifies evil with:<|start_2d|>\"the influence of the devil.\" <|split_2d|>\"the absence of good.\" <|split_2d|>\"a unique force, opposed to goodness.\" <|split_2d|>\"pain.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the absence of good.",
+      "incorrect_answers": [
+        "the influence of the devil.",
+        "a unique force, opposed to goodness.",
+        "pain."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Paley, we must conclude that a watch had an intelligent designer if the watch _____.<|start_2d|>\"shows purposefulness\" <|split_2d|>\"has a structure\" <|split_2d|>\"runs well\" <|split_2d|>\"is engraved\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "shows purposefulness",
+      "incorrect_answers": [
+        "has a structure",
+        "runs well",
+        "is engraved"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Bentham, a moral sanction is:<|start_2d|>\"pleasure or pain inflicted by chance members of the community.\" <|split_2d|>\"pleasure or pain inflicted by a judge in accordance with a rule.\" <|split_2d|>\"pleasure or pain that it is permissible to inflict on someone.\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "pleasure or pain inflicted by chance members of the community.",
+      "incorrect_answers": [
+        "pleasure or pain inflicted by a judge in accordance with a rule.",
+        "pleasure or pain that it is permissible to inflict on someone.",
+        "none of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Augustine claims that Academic skepticism:<|start_2d|>\"is true, and can be proven.\" <|split_2d|>\"is true, but cannot be proven\" <|split_2d|>\"is false but cannot be refuted.\" <|split_2d|>\"is false and can be refuted.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "is false and can be refuted.",
+      "incorrect_answers": [
+        "is true, and can be proven.",
+        "is true, but cannot be proven",
+        "is false but cannot be refuted."
+      ]
+    }
+  },
+  {
+    "prompt": "If you assume that a set of statements is true, and yet you can deduce a false or absurd statement from it, then the original set of statements as a whole must be false. This kind of argument is known as _____.<|start_2d|>\"modus tollens\" <|split_2d|>\"modus ponens\" <|split_2d|>\"hypothetical syllogism\" <|split_2d|>\"reductio ad absurdum\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "reductio ad absurdum",
+      "incorrect_answers": [
+        "modus tollens",
+        "modus ponens",
+        "hypothetical syllogism"
+      ]
+    }
+  },
+  {
+    "prompt": "Aristotle ends the Ethics with a segue to a discussion of:<|start_2d|>\"aesthetics.\" <|split_2d|>\"theology.\" <|split_2d|>\"politics.\" <|split_2d|>\"natural science.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "politics.",
+      "incorrect_answers": [
+        "aesthetics.",
+        "theology.",
+        "natural science."
+      ]
+    }
+  },
+  {
+    "prompt": "Kant claims that the moral law is given to each person by:<|start_2d|>\"society.\" <|split_2d|>\"one\u2019s own will.\" <|split_2d|>\"God.\" <|split_2d|>\"Nature.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "one\u2019s own will.",
+      "incorrect_answers": [
+        "society.",
+        "God.",
+        "Nature."
+      ]
+    }
+  },
+  {
+    "prompt": "Aesthetics addresses questions that interest _____.<|start_2d|>\"only philosophers\" <|split_2d|>\"only critics\" <|split_2d|>\"no one\" <|split_2d|>\"philosophers and nonphilosophers\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "philosophers and nonphilosophers",
+      "incorrect_answers": [
+        "only philosophers",
+        "only critics",
+        "no one"
+      ]
+    }
+  },
+  {
+    "prompt": "The control condition claims:<|start_2d|>\"it is morally wrong to ever lose control of oneself.\" <|split_2d|>\"it is morally wrong to try to control the lives of (adult) others.\" <|split_2d|>\"one cannot be morally assessed for what is due to factors outside one\u2019s control.\" <|split_2d|>\"one cannot be morally blamed for taking control of one\u2019s own life.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "one cannot be morally assessed for what is due to factors outside one\u2019s control.",
+      "incorrect_answers": [
+        "it is morally wrong to ever lose control of oneself.",
+        "it is morally wrong to try to control the lives of (adult) others.",
+        "one cannot be morally blamed for taking control of one\u2019s own life."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Feinberg, the claim that we always feel pleasure when we get what we want:<|start_2d|>\"is true, and supports psychological egoism.\" <|split_2d|>\"is true, but does not support psychological egoism.\" <|split_2d|>\"is false, and would not support psychological egoism even if it were true.\" <|split_2d|>\"is false, but would support psychological egoism if it were true.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "is false, and would not support psychological egoism even if it were true.",
+      "incorrect_answers": [
+        "is true, and supports psychological egoism.",
+        "is true, but does not support psychological egoism.",
+        "is false, but would support psychological egoism if it were true."
+      ]
+    }
+  },
+  {
+    "prompt": "Plato distinguishes knowledge from mere belief or opinion by saying that knowledge must be a true belief for which one can give a justification, a rationale, or \"logos.\"  In terms of his image of the Divided Line, for Plato, knowledge is attained only when our sensible experience is:<|start_2d|>\"grounded ultimately in what our senses reveal to us about the world of becoming.\" <|split_2d|>\"based on images of the good, beauty, and truth obtained from particular objects and on which the concepts and Forms depend.\" <|split_2d|>\"replaced by what we sincerely believe is true or have come to believe based on our upbringing.\" <|split_2d|>\"understood in terms of concepts or innate ideas (Forms) that are perceived as rationally ordered.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "understood in terms of concepts or innate ideas (Forms) that are perceived as rationally ordered.",
+      "incorrect_answers": [
+        "grounded ultimately in what our senses reveal to us about the world of becoming.",
+        "based on images of the good, beauty, and truth obtained from particular objects and on which the concepts and Forms depend.",
+        "replaced by what we sincerely believe is true or have come to believe based on our upbringing."
+      ]
+    }
+  },
+  {
+    "prompt": "What are the two principal answers to whether life has any meaning for us?<|start_2d|>\"the external view and the internal view\" <|split_2d|>\"the pessimist'sview and the optimist'sview\" <|split_2d|>\"the religious view and the liberal view\" <|split_2d|>\"the theistic view and the agnostics view\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the pessimist'sview and the optimist'sview",
+      "incorrect_answers": [
+        "the external view and the internal view",
+        "the religious view and the liberal view",
+        "the theistic view and the agnostics view"
+      ]
+    }
+  },
+  {
+    "prompt": "Bentham defines the fecundity of a pleasure or pain as:<|start_2d|>\"its chance of occurring.\" <|split_2d|>\"the degree to which it is felt.\" <|split_2d|>\"its chance of being followed by sensations of the same kind.\" <|split_2d|>\"how long it lasts.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "its chance of being followed by sensations of the same kind.",
+      "incorrect_answers": [
+        "its chance of occurring.",
+        "the degree to which it is felt.",
+        "how long it lasts."
+      ]
+    }
+  },
+  {
+    "prompt": "Disagreements about the aesthetic value or social relevance of a piece of art are _____.<|start_2d|>\"uncommon\" <|split_2d|>\"common\" <|split_2d|>\"vacuous\" <|split_2d|>\"never serious\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "common",
+      "incorrect_answers": [
+        "uncommon",
+        "vacuous",
+        "never serious"
+      ]
+    }
+  },
+  {
+    "prompt": "Aristotle states that if we ask what the highest good of human action is:<|start_2d|>\"there is no agreement about the answer.\" <|split_2d|>\"most people agree that it is pleasure.\" <|split_2d|>\"nearly everyone agrees that it is happiness.\" <|split_2d|>\"there is no objective answer to this question.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "nearly everyone agrees that it is happiness.",
+      "incorrect_answers": [
+        "there is no agreement about the answer.",
+        "most people agree that it is pleasure.",
+        "there is no objective answer to this question."
+      ]
+    }
+  },
+  {
+    "prompt": "When faced with the complaint that utilitarianism is a doctrine worthy of swine, Mill responds that pleasures differ in:<|start_2d|>\"purity.\" <|split_2d|>\"quality.\" <|split_2d|>\"species.\" <|split_2d|>\"weight.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "quality.",
+      "incorrect_answers": [
+        "purity.",
+        "species.",
+        "weight."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Aquinas, an infinite regress of causes is _____.<|start_2d|>\"finite\" <|split_2d|>\"possible\" <|split_2d|>\"impossible\" <|split_2d|>\"necessary\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "impossible",
+      "incorrect_answers": [
+        "finite",
+        "possible",
+        "necessary"
+      ]
+    }
+  },
+  {
+    "prompt": "Epictetus claims that if the wife and children of a virtuous man were to die, he should feel:<|start_2d|>\"righteous indignation.\" <|split_2d|>\"moderate grief.\" <|split_2d|>\"undisturbed.\" <|split_2d|>\"envy of those who still have their loved ones.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "undisturbed.",
+      "incorrect_answers": [
+        "righteous indignation.",
+        "moderate grief.",
+        "envy of those who still have their loved ones."
+      ]
+    }
+  },
+  {
+    "prompt": "Like most rationalists, Plato defines knowledge as justified true belief.  In terms of this definition, we might be able to claim to know something as true which might actually be false, but it is impossible for us really to know something that is false.  Why?<|start_2d|>\"Because to know something that is false is to know no real thing, nothing (i.e., not to know at all).\" <|split_2d|>\"Because what we know as true is ultimately based on what we claim to know as true.\" <|split_2d|>\"Because we cannot give a justification or reason for believing in something that is false.\" <|split_2d|>\"Because in contrast to our knowledge of the unchanging Forms, beliefs about particular objects can change.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Because to know something that is false is to know no real thing, nothing (i.e., not to know at all).",
+      "incorrect_answers": [
+        "Because what we know as true is ultimately based on what we claim to know as true.",
+        "Because we cannot give a justification or reason for believing in something that is false.",
+        "Because in contrast to our knowledge of the unchanging Forms, beliefs about particular objects can change."
+      ]
+    }
+  },
+  {
+    "prompt": "By \u201canimal motion,\u201d Hobbes means:<|start_2d|>\"involuntary operations such as heartbeat and breathing.\" <|split_2d|>\"instinctive behavior, such as nursing young.\" <|split_2d|>\"irrational behavior.\" <|split_2d|>\"all voluntary behavior.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "all voluntary behavior.",
+      "incorrect_answers": [
+        "involuntary operations such as heartbeat and breathing.",
+        "instinctive behavior, such as nursing young.",
+        "irrational behavior."
+      ]
+    }
+  },
+  {
+    "prompt": "Taurek claims that:<|start_2d|>\"the death of two people is always worse than the death of one.\" <|split_2d|>\"the death of two people is sometimes less bad than the death of one.\" <|split_2d|>\"the death of two people is always exactly as bad as the death of one.\" <|split_2d|>\"the notion of the sum of two people\u2019s losses should be rejected.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the notion of the sum of two people\u2019s losses should be rejected.",
+      "incorrect_answers": [
+        "the death of two people is always worse than the death of one.",
+        "the death of two people is sometimes less bad than the death of one.",
+        "the death of two people is always exactly as bad as the death of one."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following ideas is not associated with the stance of situation ethics?<|start_2d|>\"Anything goes\" <|split_2d|>\"Principled relativism\" <|split_2d|>\"The end justifies the means\" <|split_2d|>\"No choice\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Anything goes",
+      "incorrect_answers": [
+        "Principled relativism",
+        "The end justifies the means",
+        "No choice"
+      ]
+    }
+  },
+  {
+    "prompt": "For Plato, ordinary sensible objects exist and are knowable as examples or instances of Ideas or \"Forms\" that do not exist in our ordinary sensible world.  Forms do not exist in the sensible world because:<|start_2d|>\"in the sensible world only mathematical objects (e.g., triangles) can be known using hypotheses which are recollected when we are asked the right kinds of questions.\" <|split_2d|>\"unlike everything in the sensible world, Forms are not individual things but rather the universal essences or natures by which individual things are what they are and are known.\" <|split_2d|>\"nothing in the sensible, experienced world could exist or be identified as one particular thing or another unless there were a 'Sensible World' Form (like the Form of beauty or justice).\" <|split_2d|>\"the sensible world consists of changing Forms that exist and are known in terms of other changing Forms, which in turn exist and are known in terms of yet others in an endless regress.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "unlike everything in the sensible world, Forms are not individual things but rather the universal essences or natures by which individual things are what they are and are known.",
+      "incorrect_answers": [
+        "in the sensible world only mathematical objects (e.g., triangles) can be known using hypotheses which are recollected when we are asked the right kinds of questions.",
+        "nothing in the sensible, experienced world could exist or be identified as one particular thing or another unless there were a \"Sensible World\" Form (like the Form of beauty or justice).",
+        "the sensible world consists of changing Forms that exist and are known in terms of other changing Forms, which in turn exist and are known in terms of yet others in an endless regress."
+      ]
+    }
+  },
+  {
+    "prompt": "Descartes declares that he is _____.<|start_2d|>\"a body\" <|split_2d|>\"a dream\" <|split_2d|>\"a thing that thinks\" <|split_2d|>\"a thing that cannot exist\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a thing that thinks",
+      "incorrect_answers": [
+        "a body",
+        "a dream",
+        "a thing that cannot exist"
+      ]
+    }
+  },
+  {
+    "prompt": "Aquinas says that the first efficient cause of everything is _____.<|start_2d|>\"the universe\" <|split_2d|>\"God\" <|split_2d|>\"nature\" <|split_2d|>\"an infinite series\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "God",
+      "incorrect_answers": [
+        "the universe",
+        "nature",
+        "an infinite series"
+      ]
+    }
+  },
+  {
+    "prompt": "Hume claims that a person who is unaffected by images of human happiness or misery will also be indifferent to:<|start_2d|>\"art and beauty.\" <|split_2d|>\"virtue and vice.\" <|split_2d|>\"his own well-being.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "virtue and vice.",
+      "incorrect_answers": [
+        "art and beauty.",
+        "his own well-being.",
+        "all of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "When using visual methods in a research project what should you take into consideration alongside the legal guidelines?<|start_2d|>\"What constitutes a public space\" <|split_2d|>\"Protecting individuals from potential harm\" <|split_2d|>\"Any risk of invasion of privacy\" <|split_2d|>\"All of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "All of the above.",
+      "incorrect_answers": [
+        "What constitutes a public space",
+        "Protecting individuals from potential harm",
+        "Any risk of invasion of privacy"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Epicurus, the wise man:<|start_2d|>\"yearns for the end of life.\" <|split_2d|>\"fears the cessation of life.\" <|split_2d|>\"is unconcerned with death.\" <|split_2d|>\"realizes that death is an illusion.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "is unconcerned with death.",
+      "incorrect_answers": [
+        "yearns for the end of life.",
+        "fears the cessation of life.",
+        "realizes that death is an illusion."
+      ]
+    }
+  },
+  {
+    "prompt": "To illustrate the attempt to do injustice with impunity, Cicero considers the story of:<|start_2d|>\"the ring of Gyges.\" <|split_2d|>\"Icarus.\" <|split_2d|>\"Achilles and Agamemnon.\" <|split_2d|>\"Oedipus the King.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the ring of Gyges.",
+      "incorrect_answers": [
+        "Icarus.",
+        "Achilles and Agamemnon.",
+        "Oedipus the King."
+      ]
+    }
+  },
+  {
+    "prompt": "Epicurus states that of all the things required for a complete life, the greatest is:<|start_2d|>\"honor.\" <|split_2d|>\"friendship.\" <|split_2d|>\"luxury.\" <|split_2d|>\"good food.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "friendship.",
+      "incorrect_answers": [
+        "honor.",
+        "luxury.",
+        "good food."
+      ]
+    }
+  },
+  {
+    "prompt": "Parfit claims that the magnitude of pains:<|start_2d|>\"can be precisely compared.\" <|split_2d|>\"can be compared, but only roughly.\" <|split_2d|>\"can be compared within individuals, but not between individuals.\" <|split_2d|>\"cannot compared either within individuals or between individuals.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "can be compared, but only roughly.",
+      "incorrect_answers": [
+        "can be precisely compared.",
+        "can be compared within individuals, but not between individuals.",
+        "cannot compared either within individuals or between individuals."
+      ]
+    }
+  },
+  {
+    "prompt": "Nagel claims that prior to reflection, it is plausible that people cannot be morally assessed for:<|start_2d|>\"actions that affect only themselves.\" <|split_2d|>\"their character.\" <|split_2d|>\"what is due to factors beyond their control.\" <|split_2d|>\"actions that do not violate anyone\u2019s rights.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "what is due to factors beyond their control.",
+      "incorrect_answers": [
+        "actions that affect only themselves.",
+        "their character.",
+        "actions that do not violate anyone\u2019s rights."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Anscombe, \u201cmoral obligation\u201d currently signifies:<|start_2d|>\"the norms of a society.\" <|split_2d|>\"the feelings of an individual.\" <|split_2d|>\"the commands of God.\" <|split_2d|>\"no real concept at all.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "no real concept at all.",
+      "incorrect_answers": [
+        "the norms of a society.",
+        "the feelings of an individual.",
+        "the commands of God."
+      ]
+    }
+  },
+  {
+    "prompt": "Hume says that beauty is _____.<|start_2d|>\"a quality in things themselves\" <|split_2d|>\"a matter of a priori knowledge\" <|split_2d|>\"judged by logical standards\" <|split_2d|>\"no quality in things themselves\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "no quality in things themselves",
+      "incorrect_answers": [
+        "a quality in things themselves",
+        "a matter of a priori knowledge",
+        "judged by logical standards"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Plato, we can attain knowledge only by seeing beyond this world of particular, changing objects to the true essences or Forms in terms of which things in this world are intelligible.  For example, we know what triangularity is not from comparing sensible triangles but by thinking of the ideal of triangularity in terms of which these sensible figures are recognized as triangles.  From this Plato concludes that all knowledge (as opposed to opinion) is innate, because:<|start_2d|>\"from the moment we are born we know what things are in the world in terms of ideas that we get through our senses.\" <|split_2d|>\"since we are born with senses (that is, our senses are innate), we can know things about the sensible world with certainty as long as we rely on the senses alone.\" <|split_2d|>\"our knowledge of the world is not really of the sensible world itself but of the world grasped mathematically and ideally.\" <|split_2d|>\"since our absolutely certain knowledge of things cannot be based on the changing things in sensible experience, it must merely be triggered by sensible experience.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "our knowledge of the world is not really of the sensible world itself but of the world grasped mathematically and ideally.",
+      "incorrect_answers": [
+        "from the moment we are born we know what things are in the world in terms of ideas that we get through our senses.",
+        "since we are born with senses (that is, our senses are innate), we can know things about the sensible world with certainty as long as we rely on the senses alone.",
+        "since our absolutely certain knowledge of things cannot be based on the changing things in sensible experience, it must merely be triggered by sensible experience."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Stevenson, empirical methods:<|start_2d|>\"are never useful in resolving ethical disagreement.\" <|split_2d|>\"are sometimes useful in resolving ethical disagreement, but are not always sufficient.\" <|split_2d|>\"are in principle always sufficient for resolving ethical disagreement.\" <|split_2d|>\"provide the only responsible way to engage in moral philosophy.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "are sometimes useful in resolving ethical disagreement, but are not always sufficient.",
+      "incorrect_answers": [
+        "are never useful in resolving ethical disagreement.",
+        "are in principle always sufficient for resolving ethical disagreement.",
+        "provide the only responsible way to engage in moral philosophy."
+      ]
+    }
+  },
+  {
+    "prompt": "Before his conversion, what was Tolstoy surrounded by?<|start_2d|>\"what is considered complete happiness\" <|split_2d|>\"things that no one would want\" <|split_2d|>\"what is considered heavenly bliss\" <|split_2d|>\"what is considered deep insight\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "what is considered complete happiness",
+      "incorrect_answers": [
+        "things that no one would want",
+        "what is considered heavenly bliss",
+        "what is considered deep insight"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Sartre, what existentialists have in common is that they think that _____.<|start_2d|>\"essence precedes existence\" <|split_2d|>\"objectivity must be a starting point\" <|split_2d|>\"existence is a myth\" <|split_2d|>\"existence precedes essence\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "existence precedes essence",
+      "incorrect_answers": [
+        "essence precedes existence",
+        "objectivity must be a starting point",
+        "existence is a myth"
+      ]
+    }
+  },
+  {
+    "prompt": "Feinberg takes his remarks about the two different senses of pleasure to refute:<|start_2d|>\"psychological egoism.\" <|split_2d|>\"psychological egoistic hedonism.\" <|split_2d|>\"ethical egoism.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "all of the above.",
+      "incorrect_answers": [
+        "psychological egoism.",
+        "psychological egoistic hedonism.",
+        "ethical egoism."
+      ]
+    }
+  },
+  {
+    "prompt": "Rawls claims that a conception of justice should be justified by:<|start_2d|>\"deducing it from self-evident premises.\" <|split_2d|>\"direct acquaintance via moral intuition.\" <|split_2d|>\"the mutual support of many considerations, which it fits into one coherent view.\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the mutual support of many considerations, which it fits into one coherent view.",
+      "incorrect_answers": [
+        "deducing it from self-evident premises.",
+        "direct acquaintance via moral intuition.",
+        "none of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Epictetus claims that the only thing one can call one\u2019s own is:<|start_2d|>\"the way one deals with one\u2019s impressions.\" <|split_2d|>\"one\u2019s family.\" <|split_2d|>\"one\u2019s friends.\" <|split_2d|>\"one\u2019s body.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the way one deals with one\u2019s impressions.",
+      "incorrect_answers": [
+        "one\u2019s family.",
+        "one\u2019s friends.",
+        "one\u2019s body."
+      ]
+    }
+  },
+  {
+    "prompt": "In Hobbes\u2019s view, to say something is good is to say that:<|start_2d|>\"it is conducive to human happiness.\" <|split_2d|>\"you desire it.\" <|split_2d|>\"most people desire it.\" <|split_2d|>\"most people ought to desire it.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "you desire it.",
+      "incorrect_answers": [
+        "it is conducive to human happiness.",
+        "most people desire it.",
+        "most people ought to desire it."
+      ]
+    }
+  },
+  {
+    "prompt": "Moore claims that there is no meaning in saying that pleasure is good, unless:<|start_2d|>\"goodness and pleasure are the same thing.\" <|split_2d|>\"good is something different than pleasure.\" <|split_2d|>\"all good things are pleasant.\" <|split_2d|>\"all pleasant things are good.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "good is something different than pleasure.",
+      "incorrect_answers": [
+        "goodness and pleasure are the same thing.",
+        "all good things are pleasant.",
+        "all pleasant things are good."
+      ]
+    }
+  },
+  {
+    "prompt": "Baier asserts that when we ask for moral advice, we are asking for others to:<|start_2d|>\"issue commands.\" <|split_2d|>\"inform us of their preferences.\" <|split_2d|>\"deliberate with us.\" <|split_2d|>\"empathize with us.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "deliberate with us.",
+      "incorrect_answers": [
+        "issue commands.",
+        "inform us of their preferences.",
+        "empathize with us."
+      ]
+    }
+  },
+  {
+    "prompt": "Moral theories that say that the rightness of actions depends solely on their consequences are _____.<|start_2d|>\"deontological\" <|split_2d|>\"virtue oriented\" <|split_2d|>\"consequentialist\" <|split_2d|>\"egoistic\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "consequentialist",
+      "incorrect_answers": [
+        "deontological",
+        "virtue oriented",
+        "egoistic"
+      ]
+    }
+  },
+  {
+    "prompt": "Socrates tells Crito that he should attempt to break out of prison if and only if doing so would be:<|start_2d|>\"to his advantage.\" <|split_2d|>\"harmful to his enemies and advantageous to his friends.\" <|split_2d|>\"pleasing to the gods.\" <|split_2d|>\"just.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "just.",
+      "incorrect_answers": [
+        "to his advantage.",
+        "harmful to his enemies and advantageous to his friends.",
+        "pleasing to the gods."
+      ]
+    }
+  },
+  {
+    "prompt": "According to the Ideal Moral Code theory, one is obligated to do what the ideal moral rules would require:<|start_2d|>\"in one\u2019s actual institutional setting.\" <|split_2d|>\"in an ideal institutional setting.\" <|split_2d|>\"in a setting devoid of institutions.\" <|split_2d|>\"in a world in which everyone complied with those rules perfectly.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "in one\u2019s actual institutional setting.",
+      "incorrect_answers": [
+        "in an ideal institutional setting.",
+        "in a setting devoid of institutions.",
+        "in a world in which everyone complied with those rules perfectly."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Cicero, the most practical branch of philosophy deals with:<|start_2d|>\"logic.\" <|split_2d|>\"natural science.\" <|split_2d|>\"moral duties.\" <|split_2d|>\"expedience.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "moral duties.",
+      "incorrect_answers": [
+        "logic.",
+        "natural science.",
+        "expedience."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Socrates, the value or quality of one's life depends on understanding the principles of, or basic rationale for human existence.  Without such knowledge (he suggests) life lacks virtue, because:<|start_2d|>\"acting virtuously means acting in way that is informed about what one is doing and why.\" <|split_2d|>\"someone who does not understand existence philosophically could never do anything right.\" <|split_2d|>\"to have the power or ability to do anything at all requires that we know what we are doing.\" <|split_2d|>\"not only is virtue knowledge but also the unexamined life is not worth living.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "acting virtuously means acting in way that is informed about what one is doing and why.",
+      "incorrect_answers": [
+        "someone who does not understand existence philosophically could never do anything right.",
+        "to have the power or ability to do anything at all requires that we know what we are doing.",
+        "not only is virtue knowledge but also the unexamined life is not worth living."
+      ]
+    }
+  },
+  {
+    "prompt": "Rawls claims that students with fewer native assets (such as intelligence) should be given:<|start_2d|>\"more attention and resources than those with more native assets.\" <|split_2d|>\"the same level of attention and resources as those with more native assets.\" <|split_2d|>\"less attention and fewer resources than those with more native assets.\" <|split_2d|>\"virtually no educational resources.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "more attention and resources than those with more native assets.",
+      "incorrect_answers": [
+        "the same level of attention and resources as those with more native assets.",
+        "less attention and fewer resources than those with more native assets.",
+        "virtually no educational resources."
+      ]
+    }
+  },
+  {
+    "prompt": "Nussbaum claims that the specification of particular virtues:<|start_2d|>\"will always consist of a single answer.\" <|split_2d|>\"might sometimes turn out to be a disjunction.\" <|split_2d|>\"is necessarily relative to a culture.\" <|split_2d|>\"can be settled in such a way as to be no longer revisable.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "might sometimes turn out to be a disjunction.",
+      "incorrect_answers": [
+        "will always consist of a single answer.",
+        "is necessarily relative to a culture.",
+        "can be settled in such a way as to be no longer revisable."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Rawls, we can enter the original position:<|start_2d|>\"only by leaving society and remaking social institutions from scratch.\" <|split_2d|>\"at any time, by simply following a certain procedure.\" <|split_2d|>\"only if we somehow forget who we are, which is very rare.\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "at any time, by simply following a certain procedure.",
+      "incorrect_answers": [
+        "only by leaving society and remaking social institutions from scratch.",
+        "only if we somehow forget who we are, which is very rare.",
+        "none of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Mill argues that virtue:<|start_2d|>\"is not desirable.\" <|split_2d|>\"is desirable only as a means to one\u2019s own happiness.\" <|split_2d|>\"is desirable only as a means to the happiness of others.\" <|split_2d|>\"is desirable as part of one\u2019s happiness.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "is desirable as part of one\u2019s happiness.",
+      "incorrect_answers": [
+        "is not desirable.",
+        "is desirable only as a means to one\u2019s own happiness.",
+        "is desirable only as a means to the happiness of others."
+      ]
+    }
+  },
+  {
+    "prompt": "Bentham claims that utilitarian calculations:<|start_2d|>\"should be performed prior to each action.\" <|split_2d|>\"need not be performed before each action, but should always be kept in mind.\" <|split_2d|>\"are merely a formal device, and do not have practical application.\" <|split_2d|>\"are fundamentally flawed.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "need not be performed before each action, but should always be kept in mind.",
+      "incorrect_answers": [
+        "should be performed prior to each action.",
+        "are merely a formal device, and do not have practical application.",
+        "are fundamentally flawed."
+      ]
+    }
+  },
+  {
+    "prompt": "Nussbaum claims that for Aristotle the reference of each virtue term is fixed by:<|start_2d|>\"conventional use.\" <|split_2d|>\"grounding experiences.\" <|split_2d|>\"a thick description of the virtue.\" <|split_2d|>\"tradition.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "grounding experiences.",
+      "incorrect_answers": [
+        "conventional use.",
+        "a thick description of the virtue.",
+        "tradition."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Gauthier, deliberative justification:<|start_2d|>\"is refuted by moral requirements.\" <|split_2d|>\"is replaced once we acknowledge moral requirements.\" <|split_2d|>\"refutes morality.\" <|split_2d|>\"ignores morality and seemingly replaces it.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "ignores morality and seemingly replaces it.",
+      "incorrect_answers": [
+        "is refuted by moral requirements.",
+        "is replaced once we acknowledge moral requirements.",
+        "refutes morality."
+      ]
+    }
+  },
+  {
+    "prompt": "Nussbaum claims that recent anthropological work has shown that fear is:<|start_2d|>\"partially learned and culturally variant.\" <|split_2d|>\"universally experienced in roughly the same way.\" <|split_2d|>\"not present in certain societies.\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "partially learned and culturally variant.",
+      "incorrect_answers": [
+        "universally experienced in roughly the same way.",
+        "not present in certain societies.",
+        "none of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Of the ways of escaping moral arguments that he discusses, Hare claims:<|start_2d|>\"none of them are successful.\" <|split_2d|>\"some, but not all of them are successful.\" <|split_2d|>\"all are entirely successful.\" <|split_2d|>\"all might be successful, but at a price.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "all might be successful, but at a price.",
+      "incorrect_answers": [
+        "none of them are successful.",
+        "some, but not all of them are successful.",
+        "all are entirely successful."
+      ]
+    }
+  },
+  {
+    "prompt": "Most of those who take the externalist approach to meaning view the matter from a _____ standpoint.<|start_2d|>\"secular\" <|split_2d|>\"nonreligious\" <|split_2d|>\"religious\" <|split_2d|>\"pragmatic\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "religious",
+      "incorrect_answers": [
+        "secular",
+        "nonreligious",
+        "pragmatic"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Hume, reason:<|start_2d|>\"should serve our passions.\" <|split_2d|>\"should operate completely independently of our passions.\" <|split_2d|>\"should be used to direct our passions.\" <|split_2d|>\"should be used to extinguish our passions.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "should serve our passions.",
+      "incorrect_answers": [
+        "should operate completely independently of our passions.",
+        "should be used to direct our passions.",
+        "should be used to extinguish our passions."
+      ]
+    }
+  },
+  {
+    "prompt": "In response to the argument that famine relief is counterproductive because it leads to overpopulation, Singer claims that:<|start_2d|>\"this has empirically been shown to be false.\" <|split_2d|>\"this is true, but should not be of moral concern to us.\" <|split_2d|>\"this is a reason to give money to population control efforts.\" <|split_2d|>\"there is no such thing as \u201coverpopulation.\u201d\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "this is a reason to give money to population control efforts.",
+      "incorrect_answers": [
+        "this has empirically been shown to be false.",
+        "this is true, but should not be of moral concern to us.",
+        "there is no such thing as \u201coverpopulation.\u201d"
+      ]
+    }
+  },
+  {
+    "prompt": "Of the two versions of the principle that Singer considers:<|start_2d|>\"he considers the stronger version to be correct.\" <|split_2d|>\"he considers the weaker version to be correct.\" <|split_2d|>\"he ends up rejecting them both.\" <|split_2d|>\"he claims that they are equivalent.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "he considers the stronger version to be correct.",
+      "incorrect_answers": [
+        "he considers the weaker version to be correct.",
+        "he ends up rejecting them both.",
+        "he claims that they are equivalent."
+      ]
+    }
+  },
+  {
+    "prompt": "According to the scripture that Butler discusses in Sermon One, human beings are:<|start_2d|>\"independent and autonomous individuals.\" <|split_2d|>\"all a part of one body.\" <|split_2d|>\"all a part of God.\" <|split_2d|>\"part of the animal kingdom.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "all a part of one body.",
+      "incorrect_answers": [
+        "independent and autonomous individuals.",
+        "all a part of God.",
+        "part of the animal kingdom."
+      ]
+    }
+  },
+  {
+    "prompt": "At first Descartes supposes that everything he sees is _____.<|start_2d|>\"TRUE\" <|split_2d|>\"FALSE\" <|split_2d|>\"part of him\" <|split_2d|>\"undeniable\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "FALSE",
+      "incorrect_answers": [
+        "TRUE",
+        "part of him",
+        "undeniable"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Socrates, just as there is a difference between what an ironic statement says and its true meaning, so also appearances differ from reality.  Even though societies or individuals appear to differ about what is required for the good life, that in no way contradicts the fact that:<|start_2d|>\"what is right or wrong, true or false varies from one culture to another.\" <|split_2d|>\"appearances are the only real way we have for knowing reality.\" <|split_2d|>\"the distinction of appearance and reality is the basis for the dialectical discovery of truth.\" <|split_2d|>\"there are objective principles for thought and action that are required for the good life.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "there are objective principles for thought and action that are required for the good life.",
+      "incorrect_answers": [
+        "what is right or wrong, true or false varies from one culture to another.",
+        "appearances are the only real way we have for knowing reality.",
+        "the distinction of appearance and reality is the basis for the dialectical discovery of truth."
+      ]
+    }
+  },
+  {
+    "prompt": "An example of a morally impossible rule would be:<|start_2d|>\"lie whenever doing so is necessary to prevent a catastrophe.\" <|split_2d|>\"always do whatever brings about the greatest happiness.\" <|split_2d|>\"always assert what you don\u2019t think to be the case.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "always assert what you don\u2019t think to be the case.",
+      "incorrect_answers": [
+        "lie whenever doing so is necessary to prevent a catastrophe.",
+        "always do whatever brings about the greatest happiness.",
+        "all of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Locke, every man, by consenting with others to make one body politic under one government, puts himself under an obligation to everyone of that society to submit to the determination of_____.<|start_2d|>\"the majority\" <|split_2d|>\"the king\" <|split_2d|>\"the judges\" <|split_2d|>\"his own will\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the majority",
+      "incorrect_answers": [
+        "the king",
+        "the judges",
+        "his own will"
+      ]
+    }
+  },
+  {
+    "prompt": "Bentham claims that nature has placed mankind under two sovereign masters:<|start_2d|>\"pain and pleasure.\" <|split_2d|>\"good and evil.\" <|split_2d|>\"God and the devil.\" <|split_2d|>\"duty and self-interest.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "pain and pleasure.",
+      "incorrect_answers": [
+        "good and evil.",
+        "God and the devil.",
+        "duty and self-interest."
+      ]
+    }
+  },
+  {
+    "prompt": "The biblical account of the soul is at odds with _____.<|start_2d|>\"a unitary concept of the soul\" <|split_2d|>\"the identity theory\" <|split_2d|>\"soul-body dualism\" <|split_2d|>\"the idea of a monistic soul\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "soul-body dualism",
+      "incorrect_answers": [
+        "a unitary concept of the soul",
+        "the identity theory",
+        "the idea of a monistic soul"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Aristotle, happiness is:<|start_2d|>\"a state of mind.\" <|split_2d|>\"a feeling or sensation.\" <|split_2d|>\"a craft.\" <|split_2d|>\"activity of the soul in accordance with virtue.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "activity of the soul in accordance with virtue.",
+      "incorrect_answers": [
+        "a state of mind.",
+        "a feeling or sensation.",
+        "a craft."
+      ]
+    }
+  },
+  {
+    "prompt": "Mill says that the ultimate end of utilitarianism is an existence as free of pain as possible and as rich as possible in _____.<|start_2d|>\"lower pleasures\" <|split_2d|>\"spiritual attainment\" <|split_2d|>\"social achievement\" <|split_2d|>\"enjoyments\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "enjoyments",
+      "incorrect_answers": [
+        "lower pleasures",
+        "spiritual attainment",
+        "social achievement"
+      ]
+    }
+  },
+  {
+    "prompt": "What was Schopenhauer's attitude toward life?<|start_2d|>\"He thought life was uncertain but worthwhile.\" <|split_2d|>\"He thought life was hard but ultimately hopeful.\" <|split_2d|>\"He thought life was bereft of meaning.\" <|split_2d|>\"He believed in an afterlife in which all misery vanishes.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "He thought life was bereft of meaning.",
+      "incorrect_answers": [
+        "He thought life was uncertain but worthwhile.",
+        "He thought life was hard but ultimately hopeful.",
+        "He believed in an afterlife in which all misery vanishes."
+      ]
+    }
+  },
+  {
+    "prompt": "When it comes to defining good, Moore claims that many past philosophers are guilty of:<|start_2d|>\"begging the question.\" <|split_2d|>\"circular reasoning.\" <|split_2d|>\"the naturalistic fallacy.\" <|split_2d|>\"the ad hominem fallacy.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the naturalistic fallacy.",
+      "incorrect_answers": [
+        "begging the question.",
+        "circular reasoning.",
+        "the ad hominem fallacy."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Aristotle, we should begin ethical inquiry by specifying:<|start_2d|>\"which things are intrinsically valuable.\" <|split_2d|>\"the aim of human life.\" <|split_2d|>\"what our fundamental duties are.\" <|split_2d|>\"what constraints on behavior it would be reasonable to agree to.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the aim of human life.",
+      "incorrect_answers": [
+        "which things are intrinsically valuable.",
+        "what our fundamental duties are.",
+        "what constraints on behavior it would be reasonable to agree to."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Epicurus, the wealth required for a good life is:<|start_2d|>\"easily procured.\" <|split_2d|>\"attainable for everyone, but only through great effort.\" <|split_2d|>\"available only to the rich.\" <|split_2d|>\"available only to the gods.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "easily procured.",
+      "incorrect_answers": [
+        "attainable for everyone, but only through great effort.",
+        "available only to the rich.",
+        "available only to the gods."
+      ]
+    }
+  },
+  {
+    "prompt": "Feinberg claims that the story about Abraham Lincoln:<|start_2d|>\"provides some evidence for psychological egoism.\" <|split_2d|>\"provides some evidence against psychological egoism.\" <|split_2d|>\"provides no evidence for or against psychological egoism.\" <|split_2d|>\"actually involves a confusion between ethical egoism and psychological egoism.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "provides some evidence against psychological egoism.",
+      "incorrect_answers": [
+        "provides some evidence for psychological egoism.",
+        "provides no evidence for or against psychological egoism.",
+        "actually involves a confusion between ethical egoism and psychological egoism."
+      ]
+    }
+  },
+  {
+    "prompt": "According to d'Holbach, all the mental and moral attributes that people think are evidence for an immaterial soul are in fact _____.<|start_2d|>\"purely intellectual\" <|split_2d|>\"purely physical and natural\" <|split_2d|>\"ethereal\" <|split_2d|>\"undetermined\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "purely physical and natural",
+      "incorrect_answers": [
+        "purely intellectual",
+        "ethereal",
+        "undetermined"
+      ]
+    }
+  },
+  {
+    "prompt": "Hare claims that a person who refuses to make any positive moral judgments:<|start_2d|>\"is irrational.\" <|split_2d|>\"is immoral.\" <|split_2d|>\"cannot coherently invoke morality to protect one\u2019s own interests.\" <|split_2d|>\"couldn\u2019t possibly exist.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "cannot coherently invoke morality to protect one\u2019s own interests.",
+      "incorrect_answers": [
+        "is irrational.",
+        "is immoral.",
+        "couldn\u2019t possibly exist."
+      ]
+    }
+  },
+  {
+    "prompt": "Hobbes claims that all of the laws of nature can be summarized in the precept:<|start_2d|>\"maximize happiness.\" <|split_2d|>\"never treat another person as a means to your ends.\" <|split_2d|>\"do not do to another what you would not have done to yourself.\" <|split_2d|>\"practice virtue in all that you do.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "do not do to another what you would not have done to yourself.",
+      "incorrect_answers": [
+        "maximize happiness.",
+        "never treat another person as a means to your ends.",
+        "practice virtue in all that you do."
+      ]
+    }
+  },
+  {
+    "prompt": "In Aristotle\u2019s view, the virtues are:<|start_2d|>\"acquired through habit.\" <|split_2d|>\"acquired through philosophical reflection.\" <|split_2d|>\"a gift from the gods.\" <|split_2d|>\"innate.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "acquired through habit.",
+      "incorrect_answers": [
+        "acquired through philosophical reflection.",
+        "a gift from the gods.",
+        "innate."
+      ]
+    }
+  },
+  {
+    "prompt": "Mill claims that the distinction between justice and other moral obligations corresponds perfectly to the distinction between:<|start_2d|>\"perfect and imperfect obligations.\" <|split_2d|>\"positive and negative duties.\" <|split_2d|>\"strong and weak duties.\" <|split_2d|>\"absolute and relative obligations.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "perfect and imperfect obligations.",
+      "incorrect_answers": [
+        "positive and negative duties.",
+        "strong and weak duties.",
+        "absolute and relative obligations."
+      ]
+    }
+  },
+  {
+    "prompt": "Descartes declares that an evil demon _____.<|start_2d|>\"undoubtedly exists\" <|split_2d|>\"could not possibly exist\" <|split_2d|>\"could possibly be deceiving him\" <|split_2d|>\"must exist if God exists\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "could possibly be deceiving him",
+      "incorrect_answers": [
+        "undoubtedly exists",
+        "could not possibly exist",
+        "must exist if God exists"
+      ]
+    }
+  },
+  {
+    "prompt": "During his trial, Socrates argues that he would never intentionally corrupt others because:<|start_2d|>\"it is his duty not to do so.\" <|split_2d|>\"this would make them vicious, and they would then harm him.\" <|split_2d|>\"he would be likely to get caught if he did so.\" <|split_2d|>\"he would not know how.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "this would make them vicious, and they would then harm him.",
+      "incorrect_answers": [
+        "it is his duty not to do so.",
+        "he would be likely to get caught if he did so.",
+        "he would not know how."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Kant, laws of nature are laws according to which __________, and laws of freedom are laws according to which __________.<|start_2d|>\"everything will happen; everything will happen\" <|split_2d|>\"everything will happen; everything ought to happen\" <|split_2d|>\"everything ought to happen; everything will happen\" <|split_2d|>\"everything ought to happen; everything ought to happen\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "everything will happen; everything ought to happen",
+      "incorrect_answers": [
+        "everything will happen; everything will happen",
+        "everything ought to happen; everything will happen",
+        "everything ought to happen; everything ought to happen"
+      ]
+    }
+  },
+  {
+    "prompt": "Augustine claims that to be happy, one must know:<|start_2d|>\"the causes of natural occurrences.\" <|split_2d|>\"the causes of good and evil.\" <|split_2d|>\"both a and b.\" <|split_2d|>\"neither a nor b.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the causes of good and evil.",
+      "incorrect_answers": [
+        "the causes of natural occurrences.",
+        "both a and b.",
+        "neither a nor b."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Wolf, a moral saint:<|start_2d|>\"cannot read Victorian novels.\" <|split_2d|>\"cannot have a sarcastic wit.\" <|split_2d|>\"cannot have an interest in gourmet cooking.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "cannot have a sarcastic wit.",
+      "incorrect_answers": [
+        "cannot read Victorian novels.",
+        "cannot have an interest in gourmet cooking.",
+        "all of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Socrates, justice is when a soul is ruled by its:<|start_2d|>\"respect for the law.\" <|split_2d|>\"rational part.\" <|split_2d|>\"desire for honor.\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "rational part.",
+      "incorrect_answers": [
+        "respect for the law.",
+        "desire for honor.",
+        "none of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Singer claims that his conclusions are similar to those of:<|start_2d|>\"Plato.\" <|split_2d|>\"Aristotle.\" <|split_2d|>\"Thomas Aquinas.\" <|split_2d|>\"Immanuel Kant.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Thomas Aquinas.",
+      "incorrect_answers": [
+        "Plato.",
+        "Aristotle.",
+        "Immanuel Kant."
+      ]
+    }
+  },
+  {
+    "prompt": "In Cicero\u2019s view, each person is invested by Nature with two characters:<|start_2d|>\"universal and individual.\" <|split_2d|>\"virtuous and vicious.\" <|split_2d|>\"good and evil.\" <|split_2d|>\"divine and beastly.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "universal and individual.",
+      "incorrect_answers": [
+        "virtuous and vicious.",
+        "good and evil.",
+        "divine and beastly."
+      ]
+    }
+  },
+  {
+    "prompt": "Aristotle saw his theory of the virtues as:<|start_2d|>\"final and complete.\" <|split_2d|>\"open-ended and revisable.\" <|split_2d|>\"relative to his culture.\" <|split_2d|>\"applicable only to himself.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "open-ended and revisable.",
+      "incorrect_answers": [
+        "final and complete.",
+        "relative to his culture.",
+        "applicable only to himself."
+      ]
+    }
+  },
+  {
+    "prompt": "Nussbaum claims that in cross-cultural communication, inhabitants of different conceptual schemes tend to view their interaction:<|start_2d|>\"in a relativist way.\" <|split_2d|>\"in an absolutist way.\" <|split_2d|>\"in a Kantian way.\" <|split_2d|>\"in an Aristotelian way.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "in an Aristotelian way.",
+      "incorrect_answers": [
+        "in a relativist way.",
+        "in an absolutist way.",
+        "in a Kantian way."
+      ]
+    }
+  },
+  {
+    "prompt": "Cicero claims that there could be \u201cno more pernicious doctrine\u201d than the idea that:<|start_2d|>\"the gods do not care what we do.\" <|split_2d|>\"a thing may be expedient without being morally right.\" <|split_2d|>\"moral rightness is relative to one\u2019s culture.\" <|split_2d|>\"it is sometimes permissible to lie.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a thing may be expedient without being morally right.",
+      "incorrect_answers": [
+        "the gods do not care what we do.",
+        "moral rightness is relative to one\u2019s culture.",
+        "it is sometimes permissible to lie."
+      ]
+    }
+  },
+  {
+    "prompt": "An important moral criterion of adequacy is known as _____.<|start_2d|>\"simplicity\" <|split_2d|>\"consistency with our considered moral judgments\" <|split_2d|>\"fruitfulness\" <|split_2d|>\"fallibility\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "consistency with our considered moral judgments",
+      "incorrect_answers": [
+        "simplicity",
+        "fruitfulness",
+        "fallibility"
+      ]
+    }
+  },
+  {
+    "prompt": "Gauthier claims that moral agreements that are equally favorable to all parties are desirable because they:<|start_2d|>\"satisfy our desire for fairness.\" <|split_2d|>\"satisfy the conceptual constraint against exploitation.\" <|split_2d|>\"maximize the productivity of society.\" <|split_2d|>\"invite the stable compliance of everyone.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "satisfy our desire for fairness.",
+      "incorrect_answers": [
+        "satisfy the conceptual constraint against exploitation.",
+        "maximize the productivity of society.",
+        "invite the stable compliance of everyone."
+      ]
+    }
+  },
+  {
+    "prompt": "Baier argues that moral rules:<|start_2d|>\"always must be applied to everyone alike.\" <|split_2d|>\"must applied to everyone alike in the absence of morally relevant differences.\" <|split_2d|>\"only apply to some members of a group.\" <|split_2d|>\"are the same in every society.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "must applied to everyone alike in the absence of morally relevant differences.",
+      "incorrect_answers": [
+        "always must be applied to everyone alike.",
+        "only apply to some members of a group.",
+        "are the same in every society."
+      ]
+    }
+  },
+  {
+    "prompt": "Anscombe claims that an adequate moral psychology would include:<|start_2d|>\"an answer to the mind-body problem.\" <|split_2d|>\"analyses of concepts such as \u201caction\u201d and \u201cintention.\u201d\" <|split_2d|>\"an explanation of how free will is possible.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "analyses of concepts such as \u201caction\u201d and \u201cintention.\u201d",
+      "incorrect_answers": [
+        "an answer to the mind-body problem.",
+        "an explanation of how free will is possible.",
+        "all of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Parfit, the obligation to give priority to the welfare of one\u2019s children is:<|start_2d|>\"agent-relative.\" <|split_2d|>\"agent-neutral.\" <|split_2d|>\"absolute.\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "agent-relative.",
+      "incorrect_answers": [
+        "agent-neutral.",
+        "absolute.",
+        "none of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Epictetus recommends that we act:<|start_2d|>\"according to our passions.\" <|split_2d|>\"so as to do whatever comes naturally, without much thought.\" <|split_2d|>\"only after careful reflection on the consequences of our actions.\" <|split_2d|>\"so as to benefit the greatest number.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "only after careful reflection on the consequences of our actions.",
+      "incorrect_answers": [
+        "according to our passions.",
+        "so as to do whatever comes naturally, without much thought.",
+        "so as to benefit the greatest number."
+      ]
+    }
+  },
+  {
+    "prompt": "Descartes says that, for all he knows, he may be _____.<|start_2d|>\"dreaming\" <|split_2d|>\"a god\" <|split_2d|>\"infallible\" <|split_2d|>\"perfect\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "dreaming",
+      "incorrect_answers": [
+        "a god",
+        "infallible",
+        "perfect"
+      ]
+    }
+  },
+  {
+    "prompt": "When Euthyphro attempts to define the holy as prosecuting wrongdoers, Socrates objects that:<|start_2d|>\"there are many other things that are also holy.\" <|split_2d|>\"prosecuting wrongdoers is not always holy.\" <|split_2d|>\"there is disagreement about what counts as \u201cwrongdoing.\u201d\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "there are many other things that are also holy.",
+      "incorrect_answers": [
+        "prosecuting wrongdoers is not always holy.",
+        "there is disagreement about what counts as \u201cwrongdoing.\u201d",
+        "all of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Wolf claims that morality:<|start_2d|>\"is merely a cultural artifact.\" <|split_2d|>\"is not really relevant to our lives.\" <|split_2d|>\"provides a comprehensive guide to conduct.\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "none of the above.",
+      "incorrect_answers": [
+        "is merely a cultural artifact.",
+        "is not really relevant to our lives.",
+        "provides a comprehensive guide to conduct."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Bentham, considerations of pain and pleasure determine:<|start_2d|>\"what we ought to do.\" <|split_2d|>\"what we will do.\" <|split_2d|>\"both a and b.\" <|split_2d|>\"neither a nor b.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "both a and b.",
+      "incorrect_answers": [
+        "what we ought to do.",
+        "what we will do.",
+        "neither a nor b."
+      ]
+    }
+  },
+  {
+    "prompt": "Augustine claims that all created things are:<|start_2d|>\"eternally and unchangeably good.\" <|split_2d|>\"good when taken together, but not good separately.\" <|split_2d|>\"good, even taken separately.\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "good, even taken separately.",
+      "incorrect_answers": [
+        "eternally and unchangeably good.",
+        "good when taken together, but not good separately.",
+        "none of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "In Augustine\u2019s view, lying is:<|start_2d|>\"often permissible if done for the right reasons.\" <|split_2d|>\"not evil in itself, although it can have bad consequences.\" <|split_2d|>\"permissible only in very rare circumstances.\" <|split_2d|>\"never permissible.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "never permissible.",
+      "incorrect_answers": [
+        "often permissible if done for the right reasons.",
+        "not evil in itself, although it can have bad consequences.",
+        "permissible only in very rare circumstances."
+      ]
+    }
+  },
+  {
+    "prompt": "Whereas the social sciences (e.g., psychology, sociology, economics) ask questions about how people think and act, philosophy is the study of:<|start_2d|>\"how people with different beliefs or backgrounds disagree with one another.\" <|split_2d|>\"what beliefs mean and whether people with different beliefs are justified in having them.\" <|split_2d|>\"the reasons why philosophic questions never have better or worse answers.\" <|split_2d|>\"questions that can be answered better by appealing to scientific experiments.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "what beliefs mean and whether people with different beliefs are justified in having them.",
+      "incorrect_answers": [
+        "how people with different beliefs or backgrounds disagree with one another.",
+        "the reasons why philosophic questions never have better or worse answers.",
+        "questions that can be answered better by appealing to scientific experiments."
+      ]
+    }
+  },
+  {
+    "prompt": " Plato indicates that the knowledge of pure reason is preferable to conceptual understanding, because knowing that something is a certain kind of thing is not as good as knowing:<|start_2d|>\"how we come to learn what to call a thing in virtue of our own experiences.\" <|split_2d|>\"the logos or rationale of the thing, that is, why it is the way it is.\" <|split_2d|>\"why we differ among ourselves about what we claim to know.\" <|split_2d|>\"the difference between knowledge and opinion as outlined in Plato's divided line image.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the logos or rationale of the thing, that is, why it is the way it is.",
+      "incorrect_answers": [
+        "how we come to learn what to call a thing in virtue of our own experiences.",
+        "why we differ among ourselves about what we claim to know.",
+        "the difference between knowledge and opinion as outlined in Plato's divided line image."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Socrates, a clear sign that a person has _____ is her exclusive pursuit of social status, wealth, power, and pleasure.<|start_2d|>\"philosophical ambition\" <|split_2d|>\"worldly wisdom\" <|split_2d|>\"exceptional desires\" <|split_2d|>\"an unhealthy soul\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "an unhealthy soul",
+      "incorrect_answers": [
+        "philosophical ambition",
+        "worldly wisdom",
+        "exceptional desires"
+      ]
+    }
+  },
+  {
+    "prompt": "Philo says the analogy that Cleanthes uses to make his case is _____.<|start_2d|>\"too complicated\" <|split_2d|>\"weak\" <|split_2d|>\"strong\" <|split_2d|>\"not based on a legitimate method of reasoning\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "weak",
+      "incorrect_answers": [
+        "too complicated",
+        "strong",
+        "not based on a legitimate method of reasoning"
+      ]
+    }
+  },
+  {
+    "prompt": "How did Tolstoy's life change after his crisis of meaning?<|start_2d|>\"His income increased dramatically.\" <|split_2d|>\"He distrusted everyone.\" <|split_2d|>\"He became religious.\" <|split_2d|>\"He became an agnostic.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "He became religious.",
+      "incorrect_answers": [
+        "His income increased dramatically.",
+        "He distrusted everyone.",
+        "He became an agnostic."
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is not one of Ross\u2019s prima facie duties?<|start_2d|>\"Fidelity\" <|split_2d|>\"Beneficence\" <|split_2d|>\"Non-maleficence\" <|split_2d|>\"Legality\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Legality",
+      "incorrect_answers": [
+        "Fidelity",
+        "Beneficence",
+        "Non-maleficence"
+      ]
+    }
+  },
+  {
+    "prompt": "Cicero claims that it is sometimes permissible to:<|start_2d|>\"commit acts of injustice.\" <|split_2d|>\"break one\u2019s promises.\" <|split_2d|>\"steal.\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "break one\u2019s promises.",
+      "incorrect_answers": [
+        "commit acts of injustice.",
+        "steal.",
+        "none of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Hobbes, without a common power to keep them in awe humans would exist in a state of:<|start_2d|>\"peace and harmony.\" <|split_2d|>\"mutual indifference.\" <|split_2d|>\"cautious mistrust.\" <|split_2d|>\"war of every man against every man.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "war of every man against every man.",
+      "incorrect_answers": [
+        "peace and harmony.",
+        "mutual indifference.",
+        "cautious mistrust."
+      ]
+    }
+  },
+  {
+    "prompt": "Traditionally art has been defined as _____.<|start_2d|>\"wealth\" <|split_2d|>\"utility\" <|split_2d|>\"representation\" <|split_2d|>\"well being\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "representation",
+      "incorrect_answers": [
+        "wealth",
+        "utility",
+        "well being"
+      ]
+    }
+  },
+  {
+    "prompt": "One objection to Singer\u2019s theory that he considers is that it:<|start_2d|>\"does not do enough to address suffering in other countries besides our own.\" <|split_2d|>\"inappropriately makes proximity morally important.\" <|split_2d|>\"does not account for the fact that we have stricter obligations to our loved ones than to strangers.\" <|split_2d|>\"requires too drastic a revision to our moral scheme.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "requires too drastic a revision to our moral scheme.",
+      "incorrect_answers": [
+        "does not do enough to address suffering in other countries besides our own.",
+        "inappropriately makes proximity morally important.",
+        "does not account for the fact that we have stricter obligations to our loved ones than to strangers."
+      ]
+    }
+  },
+  {
+    "prompt": "Anselm assumes that a being that exists in reality is greater than a being that _____.<|start_2d|>\"is worshipped\" <|split_2d|>\"is embodied\" <|split_2d|>\"exists only in the understanding\" <|split_2d|>\"exists without flaws\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "exists only in the understanding",
+      "incorrect_answers": [
+        "is worshipped",
+        "is embodied",
+        "exists without flaws"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Baier, a rule can be said to be for the good of human beings only if:<|start_2d|>\"it is not harmful.\" <|split_2d|>\"it does not impose unnecessary restrictions.\" <|split_2d|>\"it promotes the good of some people.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "all of the above.",
+      "incorrect_answers": [
+        "it is not harmful.",
+        "it does not impose unnecessary restrictions.",
+        "it promotes the good of some people."
+      ]
+    }
+  },
+  {
+    "prompt": "A prominent view is that an object has aesthetic value if it _____.<|start_2d|>\"cannot be defined\" <|split_2d|>\"has no utility\" <|split_2d|>\"serves some important function\" <|split_2d|>\"has no meaning\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "serves some important function",
+      "incorrect_answers": [
+        "cannot be defined",
+        "has no utility",
+        "has no meaning"
+      ]
+    }
+  },
+  {
+    "prompt": "Hobbes describes felicity as:<|start_2d|>\"a state of tranquility.\" <|split_2d|>\"a continual progress of desire from one object to another.\" <|split_2d|>\"a state of contemplation.\" <|split_2d|>\"the absence of desire.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a continual progress of desire from one object to another.",
+      "incorrect_answers": [
+        "a state of tranquility.",
+        "a state of contemplation.",
+        "the absence of desire."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Sartre, there is at least one being in whom existence precedes essence, and this being is _____.<|start_2d|>\"God\" <|split_2d|>\"man\" <|split_2d|>\"primitive man\" <|split_2d|>\"future man\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "man",
+      "incorrect_answers": [
+        "God",
+        "primitive man",
+        "future man"
+      ]
+    }
+  },
+  {
+    "prompt": "In Butler\u2019s view, acting virtuously consists of acting in accordance with:<|start_2d|>\"our strongest inward principle.\" <|split_2d|>\"our highest inward principle.\" <|split_2d|>\"all of our inward principles.\" <|split_2d|>\"the commands of God.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "our highest inward principle.",
+      "incorrect_answers": [
+        "our strongest inward principle.",
+        "all of our inward principles.",
+        "the commands of God."
+      ]
+    }
+  },
+  {
+    "prompt": "Anscombe criticizes Sidgwick on the grounds that:<|start_2d|>\"he does not distinguish between the foreseen and intended consequences of one\u2019s action.\" <|split_2d|>\"he endorses the divine law conception of ethics.\" <|split_2d|>\"he claims that there is a \u201cnatural balance\u201d to the universe.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "he does not distinguish between the foreseen and intended consequences of one\u2019s action.",
+      "incorrect_answers": [
+        "he endorses the divine law conception of ethics.",
+        "he claims that there is a \u201cnatural balance\u201d to the universe.",
+        "all of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Why is it \"easier said than done\" to ensure that the principle of informed consent is adhered to?<|start_2d|>\"It is not practicable to present every participant with all the information about the study.\" <|split_2d|>\"Sometimes it is desirable to withhold certain pieces of information, such as the length of time an interview will take.\" <|split_2d|>\"If the participants knew exactly what the researcher was intending to study, they might change their behavior.\" <|split_2d|>\"All of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "All of the above.",
+      "incorrect_answers": [
+        "It is not practicable to present every participant with all the information about the study.",
+        "Sometimes it is desirable to withhold certain pieces of information, such as the length of time an interview will take.",
+        "If the participants knew exactly what the researcher was intending to study, they might change their behavior."
+      ]
+    }
+  },
+  {
+    "prompt": "In Hobbes\u2019s view, a law of nature is:<|start_2d|>\"a command of God.\" <|split_2d|>\"a principle of duty, known by intuition.\" <|split_2d|>\"a principle, known by reason, which forbids one from doing something destructive of one\u2019s life.\" <|split_2d|>\"None of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a principle, known by reason, which forbids one from doing something destructive of one\u2019s life.",
+      "incorrect_answers": [
+        "a command of God.",
+        "a principle of duty, known by intuition.",
+        "None of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "A Loving Saint is someone:<|start_2d|>\"whose happiness lies in the happiness of others.\" <|split_2d|>\"who pays little or no attention to his own happiness, in light of the overriding importance of morality.\" <|split_2d|>\"loves all human beings equally.\" <|split_2d|>\"is morally perfect only in relation to those he loves.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "whose happiness lies in the happiness of others.",
+      "incorrect_answers": [
+        "who pays little or no attention to his own happiness, in light of the overriding importance of morality.",
+        "loves all human beings equally.",
+        "is morally perfect only in relation to those he loves."
+      ]
+    }
+  },
+  {
+    "prompt": "Moore defines good as:<|start_2d|>\"pleasure.\" <|split_2d|>\"that which we desire.\" <|split_2d|>\"that which we desire to desire.\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "none of the above.",
+      "incorrect_answers": [
+        "pleasure.",
+        "that which we desire.",
+        "that which we desire to desire."
+      ]
+    }
+  },
+  {
+    "prompt": "Feinberg claims that when people are hungry, they typically desire:<|start_2d|>\"to eat food.\" <|split_2d|>\"pleasant gustatory sensations.\" <|split_2d|>\"both a and b.\" <|split_2d|>\"neither a nor b.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "to eat food.",
+      "incorrect_answers": [
+        "pleasant gustatory sensations.",
+        "both a and b.",
+        "neither a nor b."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Hobbes, the right of nature is:<|start_2d|>\"an entitlement to the fruits of one\u2019s labors.\" <|split_2d|>\"a claim not to be harmed by others.\" <|split_2d|>\"the right of the king to rule his subjects.\" <|split_2d|>\"the liberty to use one\u2019s powers to preserve one\u2019s life.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the liberty to use one\u2019s powers to preserve one\u2019s life.",
+      "incorrect_answers": [
+        "an entitlement to the fruits of one\u2019s labors.",
+        "a claim not to be harmed by others.",
+        "the right of the king to rule his subjects."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Socrates, it is important that we discover what makes a particular action (e.g., a merciful or just act) the kind of action that it is, because without such knowledge:<|start_2d|>\"no one in society will ever do any action that really is merciful or just, only those actions that they think are merciful or just.\" <|split_2d|>\"the primary purpose of human existence--which is to think and to know--is replaced by a focus on morality (acting and doing).\" <|split_2d|>\"we can refer only to how people characterize actions without knowing why such actions should be characterized that way.\" <|split_2d|>\"there would be no way to distinguish one kind of action (e.g., a merciful action) from another kind of action (e.g., a just action).\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "we can refer only to how people characterize actions without knowing why such actions should be characterized that way.",
+      "incorrect_answers": [
+        "no one in society will ever do any action that really is merciful or just, only those actions that they think are merciful or just.",
+        "the primary purpose of human existence--which is to think and to know--is replaced by a focus on morality (acting and doing).",
+        "there would be no way to distinguish one kind of action (e.g., a merciful action) from another kind of action (e.g., a just action)."
+      ]
+    }
+  },
+  {
+    "prompt": "Feinberg claims that the best way to pursue happiness is to:<|start_2d|>\"pursue pleasure.\" <|split_2d|>\"pursue happiness.\" <|split_2d|>\"forget about happiness.\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "forget about happiness.",
+      "incorrect_answers": [
+        "pursue pleasure.",
+        "pursue happiness.",
+        "none of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Hobbes defines injustice as:<|start_2d|>\"taking more than one\u2019s share of a good.\" <|split_2d|>\"failure to perform one\u2019s covenant.\" <|split_2d|>\"treating another person as a mere means.\" <|split_2d|>\"violating a law of nature.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "failure to perform one\u2019s covenant.",
+      "incorrect_answers": [
+        "taking more than one\u2019s share of a good.",
+        "treating another person as a mere means.",
+        "violating a law of nature."
+      ]
+    }
+  },
+  {
+    "prompt": "In Butler\u2019s view, injustice is caused by:<|start_2d|>\"desires for external goods.\" <|split_2d|>\"love of injustice.\" <|split_2d|>\"ill-will toward others.\" <|split_2d|>\"self-hatred.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "desires for external goods.",
+      "incorrect_answers": [
+        "love of injustice.",
+        "ill-will toward others.",
+        "self-hatred."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Rawls, the two parts of his theory:<|start_2d|>\"are interdependent: You cannot accept one part without accepting the other.\" <|split_2d|>\"are independent: You can accept either part without accepting the other.\" <|split_2d|>\"are provable from self-evident premises.\" <|split_2d|>\"cannot be justified via rational means.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "are independent: You can accept either part without accepting the other.",
+      "incorrect_answers": [
+        "are interdependent: You cannot accept one part without accepting the other.",
+        "are provable from self-evident premises.",
+        "cannot be justified via rational means."
+      ]
+    }
+  },
+  {
+    "prompt": "Aristotle divides the virtues into:<|start_2d|>\"natural virtues and artificial virtues.\" <|split_2d|>\"moral virtues and intellectual virtues.\" <|split_2d|>\"positive virtues and negative virtues.\" <|split_2d|>\"human virtues and divine virtues.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "moral virtues and intellectual virtues.",
+      "incorrect_answers": [
+        "natural virtues and artificial virtues.",
+        "positive virtues and negative virtues.",
+        "human virtues and divine virtues."
+      ]
+    }
+  },
+  {
+    "prompt": "The idea that mental states are dispositions to behave in particular ways in certain circumstances is known as _____.<|start_2d|>\"logical nominalism\" <|split_2d|>\"logical behaviorism\" <|split_2d|>\"methodological behaviorism\" <|split_2d|>\"eliminative materialism\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "logical behaviorism",
+      "incorrect_answers": [
+        "logical nominalism",
+        "methodological behaviorism",
+        "eliminative materialism"
+      ]
+    }
+  },
+  {
+    "prompt": "The view that art is defined by its form is known as _____.<|start_2d|>\"informalism\" <|split_2d|>\"expressionism\" <|split_2d|>\"formalism\" <|split_2d|>\"structuralism\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "formalism",
+      "incorrect_answers": [
+        "informalism",
+        "expressionism",
+        "structuralism"
+      ]
+    }
+  },
+  {
+    "prompt": "If the world that we individually perceive is limited to an internal perspective, then there is no way that we could determine whether our own perspective is useful, true, or valuable because:<|start_2d|>\"we know whether our internal perspective is correct only by comparing it with an objective, external perspective (the 'real' world).\" <|split_2d|>\"whatever we appeal to in order to prove that our perspective is right itself would be part of the standard we use in evaluating that perspective.\" <|split_2d|>\"scientific research that reveals facts about the world would cause us to challenge our perceptions in a dreamworld of our own making.\" <|split_2d|>\"without limiting our perspective to an internal dreamworld, we cannot achieve any objective, external knowledge of the real world.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "whatever we appeal to in order to prove that our perspective is right itself would be part of the standard we use in evaluating that perspective.",
+      "incorrect_answers": [
+        "we know whether our internal perspective is correct only by comparing it with an objective, external perspective (the \"real\" world).",
+        "scientific research that reveals facts about the world would cause us to challenge our perceptions in a dreamworld of our own making.",
+        "without limiting our perspective to an internal dreamworld, we cannot achieve any objective, external knowledge of the real world."
+      ]
+    }
+  },
+  {
+    "prompt": "Anscombe claims that on Sidgwick\u2019s view, the badness of an action must be estimated in light of:<|start_2d|>\"its actual consequences.\" <|split_2d|>\"its expected consequences.\" <|split_2d|>\"whether it violates any duties.\" <|split_2d|>\"whether it violates divine law.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "its expected consequences.",
+      "incorrect_answers": [
+        "its actual consequences.",
+        "whether it violates any duties.",
+        "whether it violates divine law."
+      ]
+    }
+  },
+  {
+    "prompt": "Which method is most commonly associated with a lack of informed consent?<|start_2d|>\"Qualitative content analysis\" <|split_2d|>\"In-depth interviewing\" <|split_2d|>\"Covert observation\" <|split_2d|>\"Structured interviewing\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "Covert observation",
+      "incorrect_answers": [
+        "Qualitative content analysis",
+        "In-depth interviewing",
+        "Structured interviewing"
+      ]
+    }
+  },
+  {
+    "prompt": "Epictetus claims that when someone strikes you, what really angers you is:<|start_2d|>\"the force of the blow.\" <|split_2d|>\"their malicious intentions.\" <|split_2d|>\"your own judgment.\" <|split_2d|>\"the insult involved.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "your own judgment.",
+      "incorrect_answers": [
+        "the force of the blow.",
+        "their malicious intentions.",
+        "the insult involved."
+      ]
+    }
+  },
+  {
+    "prompt": "Craig argues that the series of events in time cannot be actually infinite, so we know that _____.<|start_2d|>\"the universe is finite in the past and began to exist\" <|split_2d|>\"the universe is infinite in the past\" <|split_2d|>\"the universe never is uncaused\" <|split_2d|>\"the universe exists only in the mind\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the universe is finite in the past and began to exist",
+      "incorrect_answers": [
+        "the universe is infinite in the past",
+        "the universe never is uncaused",
+        "the universe exists only in the mind"
+      ]
+    }
+  },
+  {
+    "prompt": "Aquinas claims that:<|start_2d|>\"pleasure exists for its own sake.\" <|split_2d|>\"pleasure exists for the sake of operation.\" <|split_2d|>\"operation exists for the sake of pleasure.\" <|split_2d|>\"both b and c.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "pleasure exists for the sake of operation.",
+      "incorrect_answers": [
+        "pleasure exists for its own sake.",
+        "operation exists for the sake of pleasure.",
+        "both b and c."
+      ]
+    }
+  },
+  {
+    "prompt": "Anscombe claims that the notion of moral obligation is derived from the concept of:<|start_2d|>\"preference.\" <|split_2d|>\"maximizing utility.\" <|split_2d|>\"positive law.\" <|split_2d|>\"divine law.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "divine law.",
+      "incorrect_answers": [
+        "preference.",
+        "maximizing utility.",
+        "positive law."
+      ]
+    }
+  },
+  {
+    "prompt": "In Brandt\u2019s terminology, a moral code has currency in a society only if:<|start_2d|>\"a high proportion of the adults in the society subscribe to its principles.\" <|split_2d|>\"it is recognized as the moral code of the society.\" <|split_2d|>\"both a and b.\" <|split_2d|>\"neither a nor b.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "both a and b.",
+      "incorrect_answers": [
+        "a high proportion of the adults in the society subscribe to its principles.",
+        "it is recognized as the moral code of the society.",
+        "neither a nor b."
+      ]
+    }
+  },
+  {
+    "prompt": "The morality that Gauthier describes as facing a foundational crisis essentially involves:<|start_2d|>\"enlightened egoism.\" <|split_2d|>\"pure altruism.\" <|split_2d|>\"justified constraint.\" <|split_2d|>\"prima facie duties.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "justified constraint.",
+      "incorrect_answers": [
+        "enlightened egoism.",
+        "pure altruism.",
+        "prima facie duties."
+      ]
+    }
+  },
+  {
+    "prompt": "In spite of the fact that Socrates claims to be ignorant of the essence or nature of certain things like justice, he is wise insofar as he recognizes that without such knowledge actions are rationally unjustified.  That is, his wisdom consists in his recognition not only that he is ignorant of such essences but also that:<|start_2d|>\"justice, like knowledge, requires that we admit that we know nothing and never will.\" <|split_2d|>\"he knows what he is supposed to be looking for--knowledge of the essences of things.\" <|split_2d|>\"knowledge of the essences of things is impossible, because that would require that we know what we are looking for before we know what it is we are looking for.\" <|split_2d|>\"his method of asking questions about essences is itself unjustified because he does not know why he engages in such a practice.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "he knows what he is supposed to be looking for--knowledge of the essences of things.",
+      "incorrect_answers": [
+        "justice, like knowledge, requires that we admit that we know nothing and never will.",
+        "knowledge of the essences of things is impossible, because that would require that we know what we are looking for before we know what it is we are looking for.",
+        "his method of asking questions about essences is itself unjustified because he does not know why he engages in such a practice."
+      ]
+    }
+  },
+  {
+    "prompt": "Hare refers to people who endorse ideals without regard for whether people\u2019s interests are pursued by them as:<|start_2d|>\"fanatics.\" <|split_2d|>\"amoralists.\" <|split_2d|>\"immoralists.\" <|split_2d|>\"maniacs.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "fanatics.",
+      "incorrect_answers": [
+        "amoralists.",
+        "immoralists.",
+        "maniacs."
+      ]
+    }
+  },
+  {
+    "prompt": "In Aquinas\u2019s view, acts of prudence are solely about matters of:<|start_2d|>\"pleasure.\" <|split_2d|>\"desire.\" <|split_2d|>\"moral virtue.\" <|split_2d|>\"piety.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "moral virtue.",
+      "incorrect_answers": [
+        "pleasure.",
+        "desire.",
+        "piety."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Locke, a man in the state of nature will relinquish his absolute freedom to the state because _____.<|start_2d|>\"he will also enjoy absolute freedom when subject to the state\" <|split_2d|>\"in the state of nature the enjoyment of his freedom is very uncertain and vulnerable\" <|split_2d|>\"he wants to have absolute power over others\" <|split_2d|>\"he rejects the laws of the state of nature\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "in the state of nature the enjoyment of his freedom is very uncertain and vulnerable",
+      "incorrect_answers": [
+        "he will also enjoy absolute freedom when subject to the state",
+        "he wants to have absolute power over others",
+        "he rejects the laws of the state of nature"
+      ]
+    }
+  },
+  {
+    "prompt": "Augustine claims that there can be no evil where there is no:<|start_2d|>\"hatred.\" <|split_2d|>\"greed.\" <|split_2d|>\"love.\" <|split_2d|>\"good.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "good.",
+      "incorrect_answers": [
+        "hatred.",
+        "greed.",
+        "love."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Ross, justice is:<|start_2d|>\"when all laws are followed.\" <|split_2d|>\"when contracts and promises are adhered to.\" <|split_2d|>\"when the distribution of happiness is in accordance with merit.\" <|split_2d|>\"when the guilty are punished for their crimes.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "when the distribution of happiness is in accordance with merit.",
+      "incorrect_answers": [
+        "when all laws are followed.",
+        "when contracts and promises are adhered to.",
+        "when the guilty are punished for their crimes."
+      ]
+    }
+  },
+  {
+    "prompt": "Logical behaviorism is at odds with our commonsense intuition that mental states _____.<|start_2d|>\"cause behavior\" <|split_2d|>\"never cause behavior\" <|split_2d|>\"exist\" <|split_2d|>\"do not exist\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "cause behavior",
+      "incorrect_answers": [
+        "never cause behavior",
+        "exist",
+        "do not exist"
+      ]
+    }
+  },
+  {
+    "prompt": "Ross claims that we learn of our prima facie duties:<|start_2d|>\"by seeing the prima facie rightness of particular acts, and then apprehending general principles.\" <|split_2d|>\"by apprehending general principles, and then inferring the prima facie rightness of particular acts.\" <|split_2d|>\"by proving them philosophically.\" <|split_2d|>\"from the explicit moral instruction we receive as children.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "by seeing the prima facie rightness of particular acts, and then apprehending general principles.",
+      "incorrect_answers": [
+        "by apprehending general principles, and then inferring the prima facie rightness of particular acts.",
+        "by proving them philosophically.",
+        "from the explicit moral instruction we receive as children."
+      ]
+    }
+  },
+  {
+    "prompt": "Anscombe criticizes as absurd Kant\u2019s idea of:<|start_2d|>\"the thing in itself.\" <|split_2d|>\"the categorical imperative.\" <|split_2d|>\"the phenomenal self.\" <|split_2d|>\"legislating for oneself.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "legislating for oneself.",
+      "incorrect_answers": [
+        "the thing in itself.",
+        "the categorical imperative.",
+        "the phenomenal self."
+      ]
+    }
+  },
+  {
+    "prompt": "In the Inquiry, Hume claims that our final verdicts on moral matters are derived from:<|start_2d|>\"reason.\" <|split_2d|>\"a moral sense that is unique to each person.\" <|split_2d|>\"a moral sense that is universal in our species.\" <|split_2d|>\"emotion.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a moral sense that is universal in our species.",
+      "incorrect_answers": [
+        "reason.",
+        "a moral sense that is unique to each person.",
+        "emotion."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Nagel, the problem of moral luck arises because:<|start_2d|>\"philosophers try to apply arbitrarily stringent standards to moral responsibility.\" <|split_2d|>\"the self is threatened with dissolution by the absorption of its acts into the class of events.\" <|split_2d|>\"our moral theories are hopelessly off track.\" <|split_2d|>\"our theories of human action are hopelessly off track.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the self is threatened with dissolution by the absorption of its acts into the class of events.",
+      "incorrect_answers": [
+        "philosophers try to apply arbitrarily stringent standards to moral responsibility.",
+        "our moral theories are hopelessly off track.",
+        "our theories of human action are hopelessly off track."
+      ]
+    }
+  },
+  {
+    "prompt": "A moral theory explains _____.<|start_2d|>\"why an action is right or wrong\" <|split_2d|>\"why one moral event caused another\" <|split_2d|>\"where a moral agent got her values\" <|split_2d|>\"why people do what they do\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "why an action is right or wrong",
+      "incorrect_answers": [
+        "why one moral event caused another",
+        "where a moral agent got her values",
+        "why people do what they do"
+      ]
+    }
+  },
+  {
+    "prompt": "Anscombe criticizes Butler on the grounds that:<|start_2d|>\"our consciences are fallible.\" <|split_2d|>\"the notion of \u201clegislating for oneself\u201d is absurd.\" <|split_2d|>\"we really can derive an \u201cought\u201d from an \u201cis.\u201d\" <|split_2d|>\"the concept of \u201cpleasure\u201d is unclear.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "our consciences are fallible.",
+      "incorrect_answers": [
+        "the notion of \u201clegislating for oneself\u201d is absurd.",
+        "we really can derive an \u201cought\u201d from an \u201cis.\u201d",
+        "the concept of \u201cpleasure\u201d is unclear."
+      ]
+    }
+  },
+  {
+    "prompt": "Mill claims that a happy life is one of:<|start_2d|>\"tranquility.\" <|split_2d|>\"excitement.\" <|split_2d|>\"both a and b.\" <|split_2d|>\"neither a nor b.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "both a and b.",
+      "incorrect_answers": [
+        "tranquility.",
+        "excitement.",
+        "neither a nor b."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Moore, \u201cpleasure is good\u201d means the same thing as:<|start_2d|>\"\u201cpleasure is desired.\u201d\" <|split_2d|>\"\u201cpleasure is pleasant.\u201d\" <|split_2d|>\"\u201cwe desire to desire pleasure.\u201d\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "none of the above.",
+      "incorrect_answers": [
+        "\u201cpleasure is desired.\u201d",
+        "\u201cpleasure is pleasant.\u201d",
+        "\u201cwe desire to desire pleasure.\u201d"
+      ]
+    }
+  },
+  {
+    "prompt": "To argue that he is obliged to obey the laws of Athens, Socrates compares the city to:<|start_2d|>\"an employer.\" <|split_2d|>\"a parent.\" <|split_2d|>\"a friend.\" <|split_2d|>\"a spouse.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a parent.",
+      "incorrect_answers": [
+        "an employer.",
+        "a friend.",
+        "a spouse."
+      ]
+    }
+  },
+  {
+    "prompt": "Soft determinism entails that _____.<|start_2d|>\"we are free to choose our desires\" <|split_2d|>\"there are no restraints on human behavior\" <|split_2d|>\"the thesis of determinism is false\" <|split_2d|>\"the thesis of determinism is true\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the thesis of determinism is true",
+      "incorrect_answers": [
+        "we are free to choose our desires",
+        "there are no restraints on human behavior",
+        "the thesis of determinism is false"
+      ]
+    }
+  },
+  {
+    "prompt": "In the moral life, feelings are _____.<|start_2d|>\"essential and inevitable\" <|split_2d|>\"essential to impartiality\" <|split_2d|>\"an unerring guide\" <|split_2d|>\"reason based\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "essential and inevitable",
+      "incorrect_answers": [
+        "essential to impartiality",
+        "an unerring guide",
+        "reason based"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Cicero, it is expedient to be:<|start_2d|>\"just.\" <|split_2d|>\"generous.\" <|split_2d|>\"kind.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "all of the above.",
+      "incorrect_answers": [
+        "just.",
+        "generous.",
+        "kind."
+      ]
+    }
+  },
+  {
+    "prompt": "Brandt claims that whether a moral code is ideal depends in part on:<|start_2d|>\"the complexity of the rules.\" <|split_2d|>\"how many people would likely violate it.\" <|split_2d|>\"the costs of its restrictions, in terms of the guilt it induces.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "all of the above.",
+      "incorrect_answers": [
+        "the complexity of the rules.",
+        "how many people would likely violate it.",
+        "the costs of its restrictions, in terms of the guilt it induces."
+      ]
+    }
+  },
+  {
+    "prompt": "The view that we consist of two distinct substances (body and mind) and that these two interact is known as _____.<|start_2d|>\"functionalism\" <|split_2d|>\"identity theory\" <|split_2d|>\"substance dualism\" <|split_2d|>\"materialism\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "substance dualism",
+      "incorrect_answers": [
+        "functionalism",
+        "identity theory",
+        "materialism"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Stevenson, the word \u201cgood\u201d has a pleasing emotive meaning that fits it for:<|start_2d|>\"descriptive use.\" <|split_2d|>\"constructive use.\" <|split_2d|>\"dynamic use.\" <|split_2d|>\"propositional use.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "dynamic use.",
+      "incorrect_answers": [
+        "descriptive use.",
+        "constructive use.",
+        "propositional use."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Locke, the chief end of men's uniting into a commonwealth is _____.<|start_2d|>\"domination over other commonwealths\" <|split_2d|>\"the preservation of the state of nature\" <|split_2d|>\"the preservation of their property\" <|split_2d|>\"the preservation of their absolute power\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the preservation of their property",
+      "incorrect_answers": [
+        "domination over other commonwealths",
+        "the preservation of the state of nature",
+        "the preservation of their absolute power"
+      ]
+    }
+  },
+  {
+    "prompt": "Hare claims that once two people agree on the meaning of the term \u201cought\u201d:<|start_2d|>\"they will share all the same moral opinions.\" <|split_2d|>\"they will disagree morally only if they disagree about the facts of the case.\" <|split_2d|>\"they will disagree morally only if they have different inclinations.\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "none of the above.",
+      "incorrect_answers": [
+        "they will share all the same moral opinions.",
+        "they will disagree morally only if they disagree about the facts of the case.",
+        "they will disagree morally only if they have different inclinations."
+      ]
+    }
+  },
+  {
+    "prompt": "To explain the notion of a prima facie duty, Ross draws an analogy with:<|start_2d|>\"natural laws.\" <|split_2d|>\"the laws of a nation.\" <|split_2d|>\"the commands of a dictator.\" <|split_2d|>\"our emotions.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "natural laws.",
+      "incorrect_answers": [
+        "the laws of a nation.",
+        "the commands of a dictator.",
+        "our emotions."
+      ]
+    }
+  },
+  {
+    "prompt": "In the Republic, Thrasymachus claims that justice is:<|start_2d|>\"telling the truth and paying one\u2019s debts.\" <|split_2d|>\"doing what pleases the gods.\" <|split_2d|>\"the advantage of the stronger.\" <|split_2d|>\"a harmony of the soul.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the advantage of the stronger.",
+      "incorrect_answers": [
+        "telling the truth and paying one\u2019s debts.",
+        "doing what pleases the gods.",
+        "a harmony of the soul."
+      ]
+    }
+  },
+  {
+    "prompt": "Epictetus claims that the desire for one\u2019s loved ones to live forever is:<|start_2d|>\"a natural instinct.\" <|split_2d|>\"a sign of genuine love.\" <|split_2d|>\"blasphemous.\" <|split_2d|>\"silly.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "silly.",
+      "incorrect_answers": [
+        "a natural instinct.",
+        "a sign of genuine love.",
+        "blasphemous."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Sartre, the first principle of existentialism is that _____.<|start_2d|>\"God is dead\" <|split_2d|>\"man is all-powerful\" <|split_2d|>\"man is nothing else but what he makes of himself\" <|split_2d|>\"man is nothing\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "man is nothing else but what he makes of himself",
+      "incorrect_answers": [
+        "God is dead",
+        "man is all-powerful",
+        "man is nothing"
+      ]
+    }
+  },
+  {
+    "prompt": "Aristotle claims that:<|start_2d|>\"virtue is in our power, and so is vice.\" <|split_2d|>\"virtue is in our power, but vice is not.\" <|split_2d|>\"vice is in our power, but virtue is not.\" <|split_2d|>\"neither virtue nor vice is in our power.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "virtue is in our power, and so is vice.",
+      "incorrect_answers": [
+        "virtue is in our power, but vice is not.",
+        "vice is in our power, but virtue is not.",
+        "neither virtue nor vice is in our power."
+      ]
+    }
+  },
+  {
+    "prompt": "Hume describes reason as:<|start_2d|>\"cool and disengaged.\" <|split_2d|>\"the source of all moral actions.\" <|split_2d|>\"the first spring or impulse to desire.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "cool and disengaged.",
+      "incorrect_answers": [
+        "the source of all moral actions.",
+        "the first spring or impulse to desire.",
+        "all of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Brandt, John Stuart Mill\u2019s view most closely resembles:<|start_2d|>\"act-utilitarianism.\" <|split_2d|>\"a rule-utilitarianism based on the actual rules of society.\" <|split_2d|>\"a rule-utilitarianism based on ideal moral rules.\" <|split_2d|>\"Kant\u2019s ethics.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a rule-utilitarianism based on ideal moral rules.",
+      "incorrect_answers": [
+        "act-utilitarianism.",
+        "a rule-utilitarianism based on the actual rules of society.",
+        "Kant\u2019s ethics."
+      ]
+    }
+  },
+  {
+    "prompt": "The version of utilitarianism that Brandt defends makes rightness a function of:<|start_2d|>\"the consequences of particular acts.\" <|split_2d|>\"the actual and recognized rules of society.\" <|split_2d|>\"ideal rules.\" <|split_2d|>\"whether or not one\u2019s maxim can be universalized.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "ideal rules.",
+      "incorrect_answers": [
+        "the consequences of particular acts.",
+        "the actual and recognized rules of society.",
+        "whether or not one\u2019s maxim can be universalized."
+      ]
+    }
+  },
+  {
+    "prompt": "\"When a person starts on the discovery of the absolute by the light of reason only, and without any assistance of sense, and perseveres until by pure intelligence he arrives at the perception of the absolute good, he at last finds himself at the end of the intellectual world. . . . Dialectic, and dialectic alone, goes directly to the first principle and is the only science which does away with hypotheses in order to make her ground secure.\"  Here Plato indicates how hypothetical knowledge cannot provide the foundation of dialectical knowledge, insofar as hypotheses simply:<|start_2d|>\"explain sense experiences in terms of general concepts which themselves are not explained.\" <|split_2d|>\"show how particular objects of experience cause us to recall innate ideas.\" <|split_2d|>\"describe sense experience without providing an explanation for dialectical methods.\" <|split_2d|>\"reject the use of reason, preferring instead dialectic, to achieve knowledge.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "explain sense experiences in terms of general concepts which themselves are not explained.",
+      "incorrect_answers": [
+        "show how particular objects of experience cause us to recall innate ideas.",
+        "describe sense experience without providing an explanation for dialectical methods.",
+        "reject the use of reason, preferring instead dialectic, to achieve knowledge."
+      ]
+    }
+  },
+  {
+    "prompt": "What are some of the frequent frustrations in writing or reading about research ethics?<|start_2d|>\"Writers differ over what is ethically acceptable.\" <|split_2d|>\"The same debates are rehearsed over decades.\" <|split_2d|>\"Cases of ethical violation tend to be linked with certain research methods.\" <|split_2d|>\"All of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "All of the above.",
+      "incorrect_answers": [
+        "Writers differ over what is ethically acceptable.",
+        "The same debates are rehearsed over decades.",
+        "Cases of ethical violation tend to be linked with certain research methods."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Cicero, immorality is __________, and expediency is __________.<|start_2d|>\"repugnant to Nature; repugnant to Nature.\" <|split_2d|>\"repugnant to Nature; in accord with Nature.\" <|split_2d|>\"in accord with Nature; repugnant to Nature.\" <|split_2d|>\"in accord with Nature; in accord with Nature.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "repugnant to Nature; in accord with Nature.",
+      "incorrect_answers": [
+        "repugnant to Nature; repugnant to Nature.",
+        "in accord with Nature; repugnant to Nature.",
+        "in accord with Nature; in accord with Nature."
+      ]
+    }
+  },
+  {
+    "prompt": "Epicurus conceives of death as:<|start_2d|>\"the beginning of the afterlife.\" <|split_2d|>\"one component of the continuous cycle of rebirth.\" <|split_2d|>\"the deprivation of all sensation.\" <|split_2d|>\"the greatest harm that one can suffer.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the deprivation of all sensation.",
+      "incorrect_answers": [
+        "the beginning of the afterlife.",
+        "one component of the continuous cycle of rebirth.",
+        "the greatest harm that one can suffer."
+      ]
+    }
+  },
+  {
+    "prompt": "Nussbaum claims that at the first stage of ethical inquiry, terms for the virtues should be:<|start_2d|>\"as descriptive as possible.\" <|split_2d|>\"those that are conventionally used.\" <|split_2d|>\"neutral between competing specifications of the virtue.\" <|split_2d|>\"none of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "neutral between competing specifications of the virtue.",
+      "incorrect_answers": [
+        "as descriptive as possible.",
+        "those that are conventionally used.",
+        "none of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "The four main divisions of philosophy are metaphysics, epistemology, axiology, and _____.<|start_2d|>\"bioethics\" <|split_2d|>\"logic\" <|split_2d|>\"aesthetics\" <|split_2d|>\"categorical logic\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "logic",
+      "incorrect_answers": [
+        "bioethics",
+        "aesthetics",
+        "categorical logic"
+      ]
+    }
+  },
+  {
+    "prompt": "Da Vinci's Mona Lisa is_____.<|start_2d|>\"representational\" <|split_2d|>\"abstract\" <|split_2d|>\"obscure\" <|split_2d|>\"nonrepresentational\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "representational",
+      "incorrect_answers": [
+        "abstract",
+        "obscure",
+        "nonrepresentational"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Butler, the degree to which one acts compassionately depends on:<|start_2d|>\"the strength of his affection of compassion.\" <|split_2d|>\"the strength of his other affections besides compassion.\" <|split_2d|>\"both a and b.\" <|split_2d|>\"neither a nor b.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "both a and b.",
+      "incorrect_answers": [
+        "the strength of his affection of compassion.",
+        "the strength of his other affections besides compassion.",
+        "neither a nor b."
+      ]
+    }
+  },
+  {
+    "prompt": "One example of bad constitutive moral luck would be:<|start_2d|>\"a person who is by nature envious and ungenerous.\" <|split_2d|>\"a person who lived in Nazi Germany in 1940.\" <|split_2d|>\"a person who drives drunk and hits a child.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a person who is by nature envious and ungenerous.",
+      "incorrect_answers": [
+        "a person who lived in Nazi Germany in 1940.",
+        "a person who drives drunk and hits a child.",
+        "all of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Moore defines the naturalistic fallacy as the view that:<|start_2d|>\"everything that is natural is good.\" <|split_2d|>\"everything that is good is natural.\" <|split_2d|>\"good is identical to a natural property.\" <|split_2d|>\"all of the above.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "good is identical to a natural property.",
+      "incorrect_answers": [
+        "everything that is natural is good.",
+        "everything that is good is natural.",
+        "all of the above."
+      ]
+    }
+  },
+  {
+    "prompt": "Mill claims that the principle of utility:<|start_2d|>\"can be proven from self-evident principles.\" <|split_2d|>\"can be proven from principles that are known empirically.\" <|split_2d|>\"cannot be proven, and this is a unique problem for the theory.\" <|split_2d|>\"cannot be proven, but this is common to all first principles.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "cannot be proven, but this is common to all first principles.",
+      "incorrect_answers": [
+        "can be proven from self-evident principles.",
+        "can be proven from principles that are known empirically.",
+        "cannot be proven, and this is a unique problem for the theory."
+      ]
+    }
+  },
+  {
+    "prompt": "The theory that says mental states are nothing but brain states is known as _____.<|start_2d|>\"brain theory\" <|split_2d|>\"epiphenominalism\" <|split_2d|>\"identity theory\" <|split_2d|>\"logical behaviorism\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "identity theory",
+      "incorrect_answers": [
+        "brain theory",
+        "epiphenominalism",
+        "logical behaviorism"
+      ]
+    }
+  },
+  {
+    "prompt": "Butler claims that in the strictest and most proper sense, tofollow nature is to:<|start_2d|>\"act as one pleases.\" <|split_2d|>\"act on any of one\u2019s passions.\" <|split_2d|>\"act on one\u2019s strongest passion.\" <|split_2d|>\"act on one\u2019s conscience.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "act on one\u2019s conscience.",
+      "incorrect_answers": [
+        "act as one pleases.",
+        "act on any of one\u2019s passions.",
+        "act on one\u2019s strongest passion."
+      ]
+    }
+  },
+  {
+    "prompt": "According to Craig, the kalam cosmological argument establishes that _____.<|start_2d|>\"the God of Christianity exists\" <|split_2d|>\"the universe has a cause\" <|split_2d|>\"the Big Bang model is false\" <|split_2d|>\"the universe is uncaused\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the universe has a cause",
+      "incorrect_answers": [
+        "the God of Christianity exists",
+        "the Big Bang model is false",
+        "the universe is uncaused"
+      ]
+    }
+  },
+  {
+    "prompt": "Singer claims that famine relief organizations direct our aid to distant refugees:<|start_2d|>\"more effectively than we could get it to our close neighbors.\" <|split_2d|>\"almost as effectively as we could get it to our close neighbors.\" <|split_2d|>\"quite inefficiently, but they are still worth donating to.\" <|split_2d|>\"very inefficiently, and are therefore not worth donating to.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "almost as effectively as we could get it to our close neighbors.",
+      "incorrect_answers": [
+        "more effectively than we could get it to our close neighbors.",
+        "quite inefficiently, but they are still worth donating to.",
+        "very inefficiently, and are therefore not worth donating to."
+      ]
+    }
+  },
+  {
+    "prompt": "Kant says that when trying to decide whether an action is morally permissible, we must ask if we can consistently will that the maxim of our action should become _____.<|start_2d|>\"a rule for maximizing happiness\" <|split_2d|>\"a contingent law\" <|split_2d|>\"a universal law\" <|split_2d|>\"a rule of thumb\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "a universal law",
+      "incorrect_answers": [
+        "a rule for maximizing happiness",
+        "a contingent law",
+        "a rule of thumb"
+      ]
+    }
+  },
+  {
+    "prompt": "Aesthetic values have to do with _______<|start_2d|>\"the moral value of works of art and other objects that could be judged beautiful\" <|split_2d|>\"good and bad works of art and other objects that could be judged beautiful\" <|split_2d|>\"the moral values of artists and critics\" <|split_2d|>\"pragmatic decisions regarding the display of art\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "good and bad works of art and other objects that could be judged beautiful",
+      "incorrect_answers": [
+        "the moral value of works of art and other objects that could be judged beautiful",
+        "the moral values of artists and critics",
+        "pragmatic decisions regarding the display of art"
+      ]
+    }
+  },
+  {
+    "prompt": "According to Feinberg, a good moral education:<|start_2d|>\"will make no use of pleasure or pain as sanctions.\" <|split_2d|>\"will be based entirely on the use of pleasure and pain as sanctions.\" <|split_2d|>\"will produce someone who does the right thing out of deference to authority.\" <|split_2d|>\"will produce someone who does the right thing simply because it is right.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "will produce someone who does the right thing simply because it is right.",
+      "incorrect_answers": [
+        "will make no use of pleasure or pain as sanctions.",
+        "will be based entirely on the use of pleasure and pain as sanctions.",
+        "will produce someone who does the right thing out of deference to authority."
+      ]
+    }
+  },
+  {
+    "prompt": " For Socrates, the belief that \"virtue is knowledge\" is related to his claim that \"the unexamined life is not worth living,\" because he believes that:<|start_2d|>\"the unexamined life is one in which we live day to day without asking questions about who we are and why we are here in the first place.\" <|split_2d|>\"the Delphic oracle identified Socrates as the wisest person on earth because he claimed to know nothing.\" <|split_2d|>\"by questioning traditional beliefs, we learn to recognize how some answers seem to be more satisfactory than others.\" <|split_2d|>\"the only way to be a good or worthwhile person is to know how human beings should behave based on universal norms or values.\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the only way to be a good or worthwhile person is to know how human beings should behave based on universal norms or values.",
+      "incorrect_answers": [
+        "the unexamined life is one in which we live day to day without asking questions about who we are and why we are here in the first place.",
+        "the Delphic oracle identified Socrates as the wisest person on earth because he claimed to know nothing.",
+        "by questioning traditional beliefs, we learn to recognize how some answers seem to be more satisfactory than others."
+      ]
+    }
+  },
+  {
+    "prompt": "Craig says an actually infinite number of things _____.<|start_2d|>\"is possible\" <|split_2d|>\"is meaningless\" <|split_2d|>\"exists somewhere\" <|split_2d|>\"cannot exist\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "cannot exist",
+      "incorrect_answers": [
+        "is possible",
+        "is meaningless",
+        "exists somewhere"
+      ]
+    }
+  },
+  {
+    "prompt": "Descartes believed that interaction between body and mind took place in _____.<|start_2d|>\"ectoplasm\" <|split_2d|>\"the brain stem\" <|split_2d|>\"the pineal gland\" <|split_2d|>\"the nervous system\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "the pineal gland",
+      "incorrect_answers": [
+        "ectoplasm",
+        "the brain stem",
+        "the nervous system"
+      ]
+    }
+  },
+  {
+    "prompt": "Which of the following is a form of harm that might be suffered by research participants?<|start_2d|>\"Physical injury\" <|split_2d|>\"Stress and anxiety\" <|split_2d|>\"Impaired development\" <|split_2d|>\"All of the above\" <|end_2d|>Answer: ",
+    "prompt_metadata": {
+      "label": "All of the above",
+      "incorrect_answers": [
+        "Physical injury",
+        "Stress and anxiety",
+        "Impaired development"
+      ]
+    }
+  }
+]
