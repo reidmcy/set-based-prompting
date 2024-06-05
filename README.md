@@ -4,7 +4,7 @@ This repo contains the code used to generate the results in the paper, the paper
 
 
 <p align="center">
-  <a href="images/svg/mmlu_all_err_plot.svg"><img src="images/png/mmlu_all_err_plot.png" /></a>
+  <a href="images/png/mmlu_all_err_plot.png"><img src="images/svg/mmlu_all_err_plot.svg" /></a>
 </p>
 
 # Setup
