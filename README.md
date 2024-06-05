@@ -2,6 +2,11 @@
 
 This repo contains the code used to generate the results in the paper, the paper is under review and will be linked here once it is published.
 
+
+<p align="center">
+  <a href="images/svg/mmlu_all_err_plot.svg"><img src="images/png/mmlu_all_err_plot.png" /></a>
+</p>
+
 # Setup
 
 ## Install Package
