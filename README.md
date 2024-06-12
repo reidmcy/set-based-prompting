@@ -1,6 +1,8 @@
-# Code Release for "Set-Based Prompting: Provably Solving the Language Model Order Dependency Problem"
+# Set-Based Prompting: Provably Solving the Language Model Order Dependency Problem
 
-This repo contains the code used to generate the results in the paper, the paper is under review and will be linked here once it is published.
+## [paper](https://arxiv.org/abs/2406.06581) / [code](https://github.com/reidmcy/set-based-prompting)
+
+This repo contains the code used to generate the results in the paper, the paper is under review, this is the code for the preprint version of the paper and will be updated with the final version of the paper once it is published.
 
 
 <p align="center">
