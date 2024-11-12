@@ -9,7 +9,7 @@ import numpy as np
 import os.path
 import shutil
 import typing
-import order_independent_llm
+import set_based_prompting
 
 class AttentionVariation(enum.Enum):
     normal = 'normal'
