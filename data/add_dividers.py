@@ -1,5 +1,5 @@
 import argparse
-import order_independent_llm
+import set_based_prompting
 import json
 import tqdm
 def main() ->None:
@@ -21,7 +21,7 @@ def main() ->None:
         json.dump(new_dat, f, indent=2)
 
 def add_dividers(prompt: str, separator_type: str) -> str:
-    split_org =order_independent_llm.SplitPrompt(text=prompt, metadata=None)
+    split_org =set_based_prompting.SplitPrompt(text=prompt, metadata=None)
 
     prefix, parallel_substrings, suffix = split_org.gen_split_text()
     new_parallel_substrings = []
@@ -37,7 +37,7 @@ def add_dividers(prompt: str, separator_type: str) -> str:
                 raise ValueError(f"Bracket found in substring: {substring}")
         else:
             raise ValueError(f"Unknown separator type: {separator_type}")
-    split_new = order_independent_llm.SplitPrompt.from_split_text(
+    split_new = set_based_prompting.SplitPrompt.from_split_text(
         prefix, new_parallel_substrings, suffix.lstrip()
     )
     return split_new.text

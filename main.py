@@ -186,7 +186,7 @@ def main() -> None:
         conditions.append(AttentionVariation.only_parallel_position_reversed)
     parallel_orderings:typing.List[typing.Union[None,typing.List[int]]] = [None]*len(conditions)
     if num_normal_ordering_permutations  is not None:
-        order_independent_llm.print_with_timestamp(
+        set_based_prompting.print_with_timestamp(
             f"Warning: num_normal_ordering_permutations is set, will generate normal output for {num_normal_ordering_permutations}! orderings of the parallel substrings"
         )
         # We want to generate output for num_normal_ordering_permutations! normal orderings
@@ -229,11 +229,11 @@ def run_experiment(
     top_k:int,
     include_probs:bool
 ) -> None:
-    order_independent_llm.print_with_timestamp(
+    set_based_prompting.print_with_timestamp(
         f"Running on {input_file_name} with model {model_name} and torch device {torch_device} with max_new_tokens {max_new_tokens}"
     )
 
-    order_independent_llm.print_with_timestamp(
+    set_based_prompting.print_with_timestamp(
         f"Running with conditions: {', '.join([c.value for c in conditions])}"
     )
 
@@ -241,33 +241,33 @@ def run_experiment(
 
     if temp_file:
         if os.path.exists(output_file_name):
-            order_independent_llm.print_with_timestamp(
+            set_based_prompting.print_with_timestamp(
                 f"Output file {output_file_name} already exists, skipping..."
             )
             return
         else:
             output_file_name = output_file_name + "_tmp"
 
-    order_independent_llm.print_with_timestamp("Loading model and tokenizer...")
+    set_based_prompting.print_with_timestamp("Loading model and tokenizer...")
 
-    model, tokenizer = order_independent_llm.load_model(model_name, torch_device, cuda_device_id)
+    model, tokenizer = set_based_prompting.load_model(model_name, torch_device, cuda_device_id)
 
-    prompts = order_independent_llm.SplitPrompt.from_json_file(input_file_name)
+    prompts = set_based_prompting.SplitPrompt.from_json_file(input_file_name)
 
     open_mode = 'wt'
     if temp_file and append_temp_file:
-        prompts = order_independent_llm.filter_prompts(output_file_name, prompts)
+        prompts = set_based_prompting.filter_prompts(output_file_name, prompts)
         open_mode = 'at'
 
-    order_independent_llm.print_with_timestamp(
+    set_based_prompting.print_with_timestamp(
         f"Found {len(prompts)} input prompts, running..."
     )
 
-    order_independent_llm.print_with_timestamp(f"Writing results to {original_output_file_name}...")
+    set_based_prompting.print_with_timestamp(f"Writing results to {original_output_file_name}...")
 
     with open(output_file_name, open_mode) as fout:
         for prompt in tqdm.tqdm(
-            prompts, desc=f"[{order_independent_llm.get_timestamp_str()}] Running {model_name} {os.path.basename(input_file_name).split('.')[0]}", total=len(prompts), leave=True
+            prompts, desc=f"[{set_based_prompting.get_timestamp_str()}] Running {model_name} {os.path.basename(input_file_name).split('.')[0]}", total=len(prompts), leave=True
         ):
             prefix, parallel_substrings, suffix = prompt.gen_split_text()
 
@@ -313,14 +313,14 @@ def run_experiment(
         shutil.move(output_file_name, original_output_file_name)
 
     if record_accuracy:
-        order_independent_llm.print_with_timestamp(
+        set_based_prompting.print_with_timestamp(
             f"Recording accuracy of model outputs, accuracy records saved to {accuracy_file}"
         )
-        order_independent_llm.record_accuracy(
+        set_based_prompting.record_accuracy(
             output_file_name, accuracy_file, "pct_raw_output_contains_correct_answer_only"
         )
 
-    order_independent_llm.print_with_timestamp(
+    set_based_prompting.print_with_timestamp(
         f"Finished running {len(prompts)} prompts, results saved to {original_output_file_name}"
     )
 
@@ -334,7 +334,7 @@ def generate_response(
     max_new_tokens: int,
     parallel_ordering: typing.Union[None, typing.List[int]],
     metadata: typing.Union[None, dict] = None,
-)->order_independent_llm.OrderIndependentResult:
+)->set_based_prompting.OrderIndependentResult:
 
     if condition in [
         AttentionVariation.normal,
@@ -381,7 +381,7 @@ def generate_response(
         edit_attention = True
 
 
-    return order_independent_llm.order_independent_query(
+    return set_based_prompting.order_independent_query(
             prefix=prefix,
             parallel_substrings=substrings,
             suffix=suffix,
