@@ -1,9 +1,8 @@
-# Set-Based Prompting: Provably Solving the Language Model Order Dependency Problem
+# Order-Independence Without Fine Tuning
 
 ## [paper](https://arxiv.org/abs/2406.06581) / [code](https://github.com/reidmcy/set-based-prompting)
 
-This repo contains the code used to generate the results in the paper, the paper is under review, this is the code for the preprint version of the paper and will be updated with the final version of the paper once it is published.
-
+This repo contains the code used to generate the results in the paper _Order-Independence Without Fine Tuning_, published in NuerIPS 2024.
 
 <p align="center">
   <a href="images/png/mmlu_all_err_plot.png"><img src="images/svg/mmlu_all_err_plot.svg" /></a>
